@@ -8,9 +8,6 @@ math      = true
 +++
 
 
-Suponga se tiene el siguiente problema:[^1]
-
-
 ```{r}
 p.x = function(x){1000-x}
 p.x(300)
