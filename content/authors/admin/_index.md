@@ -18,11 +18,7 @@ organizations:
   url: "http://www.uptc.edu.co"
 
 # Short bio (displayed in user profile at end of posts)
-bio: ccc
-
-Programas:
-- Matemáticas
-- Maestría en Matemáticas
+bio: 
 
 #education:
 #  courses:
