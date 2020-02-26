@@ -19,11 +19,6 @@
   weight = 30
 
 [[main]]
-  name = "Grupos"
-  url = "#grupos"
-  weight = 40
-
-[[main]]
   name = "Publicaciones"
   url = "#publicaciones"
   weight = 50
@@ -32,6 +27,11 @@
   name = "Contacto"
   url = "#contact"
   weight = 60
+
+[[main]]
+  name = "Grupos de Investigación"
+  url = "#grupos"
+  weight = 90
 
 [[main]]
   name = "Nuestro Encuentro"
