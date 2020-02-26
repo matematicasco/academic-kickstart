@@ -66,6 +66,3 @@ subtitle = ""
  css_class = ""
 +++
 
-{{% alert note %}}
-[Todas las publicaciones]({{< ref "/publication/_index.md" >}}).
-{{% /alert %}}
