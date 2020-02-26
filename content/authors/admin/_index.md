@@ -20,10 +20,9 @@ organizations:
 # Short bio (displayed in user profile at end of posts)
 bio: ccc
 
-interests:
-- Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
+Programas:
+- Matemáticas
+- Maestría en Matemáticas
 
 #education:
 #  courses:
