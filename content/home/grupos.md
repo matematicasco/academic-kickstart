@@ -74,6 +74,3 @@ subtitle = ""
  # CSS class.
  css_class = ""
 +++
-
-
-en construcción
