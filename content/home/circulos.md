@@ -25,8 +25,8 @@ subtitle = ""
 
   # Filter posts by a taxonomy term.
   [content.filters]
-    tag = "Circulos"
-    category = ""
+    tag = ""
+    category = "Circulos"
     publication_type = ""
     exclude_featured = false
   
@@ -67,4 +67,4 @@ subtitle = ""
 +++
 
 
-texto principal 
+[SCM](http://scm.org.co/circulos-matematicos/)
