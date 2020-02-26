@@ -24,7 +24,7 @@
   weight = 60
 
 [[main]]
-  name = "Grupos de Investigación"
+  name = "Investigación"
   url = "#grupos"
   weight = 90
 
