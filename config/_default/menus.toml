@@ -30,7 +30,7 @@
 
 [[main]]
   name = "Publicaciones"
-  url = "#pub"
+  url = "#Publicaciones"
   weight = 50
 
 [[main]]
