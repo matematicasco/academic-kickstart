@@ -6,7 +6,7 @@
 [[main]]
   name = "Inicio"
   url = "#about"
-  weight = 10
+  weight = 100
 
 [[main]]
   name = "Posts"
@@ -23,11 +23,15 @@
   url = "#circulos"
   weight = 30
 
+[[main]]
+  name = "Nuestro Encuentro"
+  url = "#encuentro"
+  weight = 40
 
 [[main]]
   name = "Publicaciones"
   url = "#pub"
-  weight = 40
+  weight = 50
 
 [[main]]
   name = "Contacto"
