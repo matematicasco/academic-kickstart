@@ -19,18 +19,18 @@
   weight = 50
 
 [[main]]
-  name = "Contacto"
-  url = "#contact"
-  weight = 60
-
-[[main]]
   name = "Investigación"
   url = "#grupos"
-  weight = 90
+  weight = 70
 
 [[main]]
   name = "Nuestro Encuentro"
   url = "#encuentro"
+  weight = 80
+
+[[main]]
+  name = "Contacto"
+  url = "#contact"
   weight = 100
 
 
