@@ -31,7 +31,7 @@ url_video = ""
 url_poster = ""
 url_source = ""
 
-doi="dddd"
+doi="10.19053/22160159.v8.n18.2017.7250"
 
 # Does the content use math formatting?
 math = false
