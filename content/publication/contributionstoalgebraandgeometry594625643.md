@@ -6,7 +6,7 @@ publication_types = ["2"]
 publication = "Beiträge zur Algebra und Geometrie / Contributions to Algebra and Geometry, 59(4), 625-643."
 publication_short = ""
 
-abstract = "The objective of this paper is to investigate the ascending chain condition on principal left (resp. right) ideals of noncommutative rings known as skew PBW extensions. We consider these extensions over domains and over \Sigma-rigid rings. We unify and extend several results in the literature for Ore extensions and another families of rings which can not be expressed as iterated Ore extensions."
+abstract = "The objective of this paper is to investigate the ascending chain condition on principal left (resp. right) ideals of noncommutative rings known as skew PBW extensions. We consider these extensions over domains and over Sigma-rigid rings. We unify and extend several results in the literature for Ore extensions and another families of rings which can not be expressed as iterated Ore extensions."
 abstract_short = ""
 
 # Featured image thumbnail (optional)
