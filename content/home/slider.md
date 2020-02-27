@@ -56,7 +56,7 @@ height = ""
   content = ""
   align = "center"
 
-  overlay_color = "#333"  # An HTML color value.
+  overlay_color = ""  # An HTML color value.
   overlay_img = "headers/sl2.jpg"  # Image path relative to your `static/img/` folder.
   overlay_filter = 0.5  # Darken the image. Value in range 0-1.
   
