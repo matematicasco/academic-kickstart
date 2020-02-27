@@ -65,4 +65,3 @@ user_groups:
 - Visitors
 ---
 
-jjj
