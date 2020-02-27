@@ -64,7 +64,7 @@ height = ""
   #   Activate the button by specifying a URL and button label below.
   #   Deactivate by commenting out parameters, prefixing lines with `#`.
   cta_label = "Charlas"
-  cta_url = "https://matematicas.netlify.com/tags/encuentro/"
+  cta_url = "https://matematicas.netlify.com/tags/nuestro-encuentro/"
   cta_icon_pack = "fas"
   cta_icon = "chalkboard-teacher"
 
