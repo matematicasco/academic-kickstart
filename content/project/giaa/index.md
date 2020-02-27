@@ -30,3 +30,7 @@ links:
 slides: example
 ---
 
+El grupo de Álgebra y Análisis surge de la necesidad de integrar saberes en el campo de la matemática y  como consecuencia de la formación continua de los investigadores que lo conforman.
+
+El grupo busca incorporar jóvenes y semilleros de investigación, pertenecientes a los programas de pregrado y postgrado de la UPTC; esto contribuye a fomentar la cultura investigativa en la Institución y en particular en la Escuela de Matemáticas y Estadística para participar activamente en los procesos de investigación a nivel nacional e internacional.
+
