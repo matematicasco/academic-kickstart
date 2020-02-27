@@ -1,7 +1,7 @@
 +++
 title = "Estudio epistemólogico del objeto grupo: una mirada a la luz del EOS"
 date = "2017-06-12"
-authors = ["**Sepulveda Delgado, O.**","**González Gutiérrez, N. R.**","Aldana Bermúdez, E."]
+authors = ["**Sepulveda-Delgado, O.**","**González-Gutiérrez, N. R.**","Aldana-Bermúdez, E."]
 publication_types = ["2"]
 publication = "Praxis y Saber, Volumen 8(18), 233-252"
 publication_short = ""
@@ -30,6 +30,7 @@ url_slides = ""
 url_video = ""
 url_poster = ""
 url_source = ""
+url_doi="dddd"
 
 # Does the content use math formatting?
 math = false
