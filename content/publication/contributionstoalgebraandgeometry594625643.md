@@ -1,7 +1,7 @@
 +++
 title = "On the ACCP in skew Poincaré–Birkhoff–Witt extensions"
 date = "2018-02-13"
-authors = ["Reyes, A", "Suárez, Y"]
+authors = ["Reyes, A", "**Suárez, Y**"]
 publication_types = ["2"]
 publication = "Beiträge zur Algebra und Geometrie / Contributions to Algebra and Geometry, 59(4), 625-643."
 publication_short = ""
