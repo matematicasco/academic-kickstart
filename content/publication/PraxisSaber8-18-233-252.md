@@ -30,7 +30,8 @@ url_slides = ""
 url_video = ""
 url_poster = ""
 url_source = ""
-url_doi="dddd"
+
+doi="dddd"
 
 # Does the content use math formatting?
 math = false
