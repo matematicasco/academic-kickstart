@@ -3,7 +3,7 @@ title = "Estudio epistemólogico del objeto grupo: una mirada a la luz del EOS"
 date = "2017-06-12"
 authors = ["**Sepulveda Delgado, O.**","**González Gutiérrez, N. R.**","Aldana Bermúdez, E."]
 publication_types = ["2"]
-publication = "Praxis \& Saber, Volumen 8(18), 233-252"
+publication = "Praxis y Saber, Volumen 8(18), 233-252"
 publication_short = ""
 
 abstract = "En el artículo se presenta un análisis epistemológico
