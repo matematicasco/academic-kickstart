@@ -18,7 +18,7 @@ selected = false
 # Projects (optional).
 #   Associate this publication with one or more of your projects.
 #   Simply enter the filename (excluding '.md') of your project file in `content/project/`.
-#projects = ["MegaMorph"]
+projects = ["giaa"]
 
 # Links (optional).
 url_pdf = "http://www.scielo.org.co/pdf/prasa/v8n18/2216-0159-prasa-8-18-00233.pdf"
