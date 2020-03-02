@@ -1,7 +1,7 @@
 +++
 title = "A notion of compatibility for Armendariz and Baer properties over skew PBW extensions"
 date = "2018-02-26"
-authors = ["Reyes, A.", "Suárez, H."]
+authors = ["Reyes, A.", "Suarez, H."]
 publication_types = ["2"]
 publication = "Revista Unión Matemática Argentina, Volumen 59(1), 157-178"
 publication_short = ""
