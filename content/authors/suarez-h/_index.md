@@ -4,7 +4,7 @@ name: Héctor Suárez
 
 # Username (this should match the folder name)
 authors:
-- H-Suárez
+- suarez-h
 
 # Is this the primary user of the site?
 superuser: false
@@ -20,17 +20,17 @@ organizations:
 # Short bio (displayed in user profile at end of posts)
 bio: 
 
-#education:
-#  courses:
-#  - course: PhD in Mathematics
-#    institution: Stanford University
-#    year: 2012
-#  - course: MEng in Artificial Intelligence
-#    institution: Massachusetts Institute of Technology
-#    year: 2009
-#  - course: BSc in Artificial Intelligence
-#    institution: Massachusetts Institute of Technology
-#    year: 2008
+education:
+  courses:
+  - course: PhD in Mathematics
+    institution: Universidad Nacional de Colombia
+    year: 20
+  - course: MSc in Mathematics
+    institution: Universidad Nacional de Colombia
+    year: 2000
+  - course: Licenciatura en Matemáticas
+    institution: Universidad pedagógica y Tecnológica de Tunja
+    year: 1999
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
