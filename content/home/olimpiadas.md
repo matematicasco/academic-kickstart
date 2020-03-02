@@ -65,3 +65,5 @@ subtitle = ""
  # CSS class.
  css_class = ""
 +++
+
+La Escuela de Matemáticas y Estadística de la Universidad Pedagógica y Tecnológica de Colombia sede Tunja, por medio del proyecto de extensión Olimpiadas Matemáticas, espera generar un espacio en el cual se puedan estimular el estudio de las matemáticas y promover la formación de un pensamiento crítico y un espíritu científico en los jóvenes, así como al desarrollo de habilidades y destrezas que les permitirán un mejor desempeño en los ámbitos social, académico y familiar además, afianzar una relación entre la UPTC y la comunidad estudiantil de los colegios de Boyacá.
