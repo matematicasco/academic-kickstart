@@ -43,9 +43,9 @@ social:
 #- icon: twitter
 #  icon_pack: fab
 #  link: https://twitter.com/GeorgeCushen
-#- icon: google-scholar
-#  icon_pack: ai
-#  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+ - icon: orcid
+   icon_pack: ai
+   link: https://orcid.org/0000-0002-8725-5385
 #- icon: github
 #  icon_pack: fab
 #  link: https://github.com/gcushen
