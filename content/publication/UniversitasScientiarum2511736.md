@@ -1,7 +1,7 @@
 +++
 title = "Assessment of two sludge stabilization methods in a wastewater treatment plant in Sotaquirá, Colombia"
 date = "2020-02-25"
-authors = ["Castellanos-Rozo J.","Galvis-López J. A.", "Merchán Castellanos N.","Manjarres-Hernándes, E.","Rojas A."]
+authors = ["Castellanos-Rozo J.","Galvis-López J. A.", "Merchán Castellanos N.","Manjarres-Hernándes, E.","rojas-a"]
 publication_types = ["2"]
 publication = "*Universitas Scientiarum*, Volumen 25(1), 17-36"
 publication_short = ""
@@ -21,7 +21,7 @@ selected = false
 projects = ["tenga"]
 
 # Links (optional).
-url_pdf = "https://revistas.javeriana.edu.co/index.php/scientarium/article/view/24306"
+url_pdf = "https://revistas.javeriana.edu.co/index.php/scientarium/article/view/24306/23983"
 url_preprint = ""
 url_code = ""
 url_dataset = ""
@@ -30,6 +30,7 @@ url_slides = ""
 url_video = ""
 url_poster = ""
 url_source = ""
+doi = "10.11144/Javeriana.SC25-1.aots"
 
 # Does the content use math formatting?
 math = false
