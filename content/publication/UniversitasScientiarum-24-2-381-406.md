@@ -21,7 +21,7 @@ selected = false
 projects = ["tenga"]
 
 # Links (optional).
-url_pdf = "https://revistas.javeriana.edu.co/index.php/scientarium/article/view/23321"
+url_pdf = "https://revistas.javeriana.edu.co/index.php/scientarium/article/view/23321/22750"
 url_preprint = ""
 url_code = ""
 url_dataset = ""
