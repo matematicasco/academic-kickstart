@@ -11,23 +11,28 @@
 [[main]]
   name = "Círculos"
   url = "#circulos"
-  weight = 30
-
-[[main]]
-  name = "Publicaciones"
-  url = "#publicaciones"
-  weight = 50
-
-[[main]]
-  name = "Investigación"
-  url = "#grupos"
-  weight = 60
-  
+  weight = 40
 
 [[main]]
   name = "Nuestro Encuentro"
   url = "#encuentro"
+  weight = 50
+
+[[main]]
+  name = "Publicaciones"
+  url = "#publicaciones"
+  weight = 60
+
+[[main]]
+  name = "Investigación"
+  url = "#grupos"
+  weight = 70
+
+[[main]]
+  name = "Docentes"
+  url = "#people"
   weight = 80
+
 
 [[main]]
   name = "Contacto"
