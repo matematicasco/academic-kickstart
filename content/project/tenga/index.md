@@ -1,5 +1,5 @@
 ---
-title: TENGA
+title: GTNyGA
 summary: Grupo de teoría de números y geometría algebraica
 tags:
 - Grupos
