@@ -1,6 +1,6 @@
 ---
 # Display name
-name: Nelcy R. González Guitíerrez
+name: Nelsy R. González Guitíerrez
 
 # Username (this should match the folder name)
 authors:
