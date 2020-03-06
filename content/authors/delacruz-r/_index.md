@@ -45,7 +45,7 @@ social:
 #  link: https://twitter.com/GeorgeCushen
  - icon: orcid
    icon_pack: ai
-   link: https://orcid.org/0000-0002-8725-5385
+   link: https://orcid.org/0000-0003-1342-7946
 #- icon: github
 #  icon_pack: fab
 #  link: https://github.com/gcushen
