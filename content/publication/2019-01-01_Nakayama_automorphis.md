@@ -1,11 +1,10 @@
 +++
-title = "Nakayama automorphism of some skew
-{PBW} extensions"
+title = "Nakayama automorphism of some skew PBW extensions"
 date = "2019-01-01"
-authors = ["H. Suarez", "A. Reyes"]
+authors = ["suarez-h", "A. Reyes"]
 publication_types = ["2"]
-publication = "Ing. Cienc., (15), 29, _pp. 157-177_"
-publication_short = "Ing. Cienc., (15), 29, _pp. 157-177_"
+publication = "Ing. Cienc., (15), 29, pp. 157-177"
+publication_short = "Ing. Cienc., (15), 29, pp. 157-177"
 abstract = ""
 abstract_short = ""
 image_preview = ""
