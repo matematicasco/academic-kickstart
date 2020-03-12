@@ -66,5 +66,6 @@ subtitle = ""
  css_class = ""
 +++
 
+![](https://matematicas.netlify.com/img/cancelacionCirculos.jpg | width=100)
 
-[SCM](http://scm.org.co/circulos-matematicos/)
+
