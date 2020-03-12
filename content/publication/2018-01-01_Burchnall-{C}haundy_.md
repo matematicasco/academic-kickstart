@@ -1,10 +1,10 @@
 +++
-title = "Burchnall-{C}haundy theory for skew {P}oincar\'e-{B}irkhoff-{W}itt extensions"
+title = "Burchnall-Chaundy theory for skew Poincaré-Birkhoff-Witt extensions"
 date = "2018-01-01"
-authors = ["A. Reyes", "H. Suarez"]
+authors = ["A. Reyes", "suarez-h"]
 publication_types = ["2"]
-publication = "Far East J.  Math. Sci. (FJMS), (106), 1, _pp. 237-252_"
-publication_short = "Far East J.  Math. Sci. (FJMS), (106), 1, _pp. 237-252_"
+publication = "Far East J.  Math. Sci. (FJMS), (106), 1, pp. 237-252"
+publication_short = "Far East J.  Math. Sci. (FJMS), (106), 1, pp. 237-252"
 abstract = ""
 abstract_short = ""
 image_preview = ""
