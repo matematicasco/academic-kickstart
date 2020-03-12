@@ -1,10 +1,10 @@
 +++
-title = "Calabi-{Y}au property  for  graded skew {PBW} extensions"
+title = "Calabi-Yau property  for  graded skew {PBW} extensions"
 date = "2017-01-01"
-authors = ["H. Suarez", "O. Lezama", "A. Reyes"]
+authors = ["suarez-h", "O. Lezama", "A. Reyes"]
 publication_types = ["2"]
-publication = "Rev. Colombiana Mat., (51), 2, _pp. 221-238_"
-publication_short = "Rev. Colombiana Mat., (51), 2, _pp. 221-238_"
+publication = "Rev. Colombiana Mat., (51), 2, pp. 221-238"
+publication_short = "Rev. Colombiana Mat., (51), 2, pp. 221-238"
 abstract = ""
 abstract_short = ""
 image_preview = ""
