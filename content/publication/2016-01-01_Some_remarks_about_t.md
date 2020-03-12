@@ -1,10 +1,10 @@
 +++
-title = "Some remarks about the cyclic homology of skew {PBW} extensions"
+title = "Some remarks about the cyclic homology of skew PBW extensions"
 date = "2016-01-01"
-authors = ["A. Reyes", "H. Suarez"]
+authors = ["A. Reyes", "suarez-h"]
 publication_types = ["2"]
-publication = "Ciencia en Desarrollo, (7), 2, _pp. 99-107_"
-publication_short = "Ciencia en Desarrollo, (7), 2, _pp. 99-107_"
+publication = "Ciencia en Desarrollo, (7), 2, pp. 99-107"
+publication_short = "Ciencia en Desarrollo, (7), 2, pp. 99-107"
 abstract = ""
 abstract_short = ""
 image_preview = ""
