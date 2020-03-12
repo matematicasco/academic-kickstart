@@ -1,10 +1,10 @@
 +++
-title = "Koszulity for graded skew {PBW} extensions"
+title = "Koszulity for graded skew PBW extensions"
 date = "2017-01-01"
-authors = ["H. Suarez"]
+authors = ["suarez-h"]
 publication_types = ["2"]
-publication = "Comm.  Algebra, (45), 10, _pp. 4569-4580_"
-publication_short = "Comm.  Algebra, (45), 10, _pp. 4569-4580_"
+publication = "Comm.  Algebra, (45), 10, pp. 4569-4580"
+publication_short = "Comm.  Algebra, (45), 10, pp. 4569-4580"
 abstract = ""
 abstract_short = ""
 image_preview = ""
