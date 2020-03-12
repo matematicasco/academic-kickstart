@@ -1,10 +1,10 @@
 +++
-title = "Enveloping algebra and {C}alabi-{Y}au algebras over skew {P}oincar\'e-{B}irkhoff-{W}itt extensions"
+title = "Enveloping algebra and Calabi-Yau algebras over skew Poincaré-Birkhoff-Witt extensions"
 date = "2017-01-01"
-authors = ["A. Reyes", "H. Suarez"]
+authors = ["A. Reyes", "suarez-h"]
 publication_types = ["2"]
-publication = "Far East J.  Math. Sci. (FJMS), (102), 2, _pp. 373-397_"
-publication_short = "Far East J.  Math. Sci. (FJMS), (102), 2, _pp. 373-397_"
+publication = "Far East J.  Math. Sci. (FJMS), (102), 2, pp. 373-397"
+publication_short = "Far East J.  Math. Sci. (FJMS), (102), 2, pp. 373-397"
 abstract = ""
 abstract_short = ""
 image_preview = ""
