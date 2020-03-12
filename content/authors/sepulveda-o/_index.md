@@ -28,14 +28,12 @@ education:
   - course: MSc in Mathematics
     institution: Universidad Nacional de Colombia
     year: 2002
-- course: Esp en Computación para la Docencia
+  - course: Esp en Computación para la Docencia
     institution: Universidad Antonio Nariño
     year: 1998
-
-- course: Ingenieria de Sistemas
+  - course: Ingenieria de Sistemas
     institution: Universidad Antonio Nariño
     year: 1998
-
   - course: Licenciatura en Matemáticas
     institution: Universidad Industrial de Santander
     year: 1990
