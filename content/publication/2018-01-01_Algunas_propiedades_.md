@@ -1,10 +1,10 @@
 +++
-title = "Algunas propiedades homol\'ogicas del plano de {J}ordan"
+title = "Algunas propiedades homológicas del plano de Jordan"
 date = "2018-01-01"
-authors = ["J. Gomez", "H. Suarez"]
+authors = ["J. Gomez", "suarez-h"]
 publication_types = ["2"]
-publication = "Ciencia en Desarrollo, (9), 2, _pp. 67-80_"
-publication_short = "Ciencia en Desarrollo, (9), 2, _pp. 67-80_"
+publication = "Ciencia en Desarrollo, (9), 2, pp. 67-80"
+publication_short = "Ciencia en Desarrollo, (9), 2, pp. 67-80"
 abstract = ""
 abstract_short = ""
 image_preview = ""
