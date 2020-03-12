@@ -10,7 +10,7 @@ authors:
 superuser: false
 
 # Role/position
-role: Docente
+role: Docente Titular
 
 # Organizations/Affiliations
 organizations:
@@ -22,15 +22,23 @@ bio:
 
 education:
   courses:
-  - course: PhD in Education
+  - course: PhD in Educational Sciences
     institution: Universidad Pedagógica y Tecnológica de Tunja
-    year: 2017
+    year: 2016
   - course: MSc in Mathematics
     institution: Universidad Nacional de Colombia
-    year: 1999
+    year: 2002
+- course: Esp en Computación para la Docencia
+    institution: Universidad Antonio Nariño
+    year: 1998
+
+- course: Ingenieria de Sistemas
+    institution: Universidad Antonio Nariño
+    year: 1998
+
   - course: Licenciatura en Matemáticas
     institution: Universidad Industrial de Santander
-    year: 1996
+    year: 1990
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
