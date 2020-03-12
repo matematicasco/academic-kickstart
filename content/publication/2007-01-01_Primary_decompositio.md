@@ -1,10 +1,10 @@
 +++
-title = "Primary decomposition of modules over {D}edekind domains using Gr\"obner bases"
+title = "Primary decomposition of modules over Dedekind domains using Gröbner bases"
 date = "2007-01-01"
 authors = ["O. Lezama", "H. Suarez"]
 publication_types = ["2"]
-publication = "Acta Math. Acad. Paedagog. Nyhazi., (23), 2, _pp. 105-114_"
-publication_short = "Acta Math. Acad. Paedagog. Nyhazi., (23), 2, _pp. 105-114_"
+publication = "Acta Math. Acad. Paedagog. Nyhazi., (23), 2, pp. 105-114_"
+publication_short = "Acta Math. Acad. Paedagog. Nyhazi., (23), 2, pp. 105-114_"
 abstract = ""
 abstract_short = ""
 image_preview = ""
