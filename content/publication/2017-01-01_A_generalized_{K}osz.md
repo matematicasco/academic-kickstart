@@ -1,10 +1,10 @@
 +++
-title = "A generalized {K}oszul property for skew {PBW} extensions"
+title = "A generalized Koszul property for skew PBW extensions"
 date = "2017-01-01"
-authors = ["H. Suarez", "A. Reyes"]
+authors = ["suarez-h", "A. Reyes"]
 publication_types = ["2"]
-publication = "Far East J.  Math. Sci. (FJMS), (101), 2, _pp. 301-320_"
-publication_short = "Far East J.  Math. Sci. (FJMS), (101), 2, _pp. 301-320_"
+publication = "Far East J.  Math. Sci. (FJMS), (101), 2, pp. 301-320"
+publication_short = "Far East J.  Math. Sci. (FJMS), (101), 2, pp. 301-320"
 abstract = ""
 abstract_short = ""
 image_preview = ""
