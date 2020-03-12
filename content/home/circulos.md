@@ -66,4 +66,4 @@ subtitle = ""
  css_class = ""
 +++
 
-<img src="https://matematicas.netlify.com/img/cancelacionCirculos.jpg" alt="Anuncio" width="100"/>
+<img src="https://matematicas.netlify.com/img/cancelacionCirculos.jpg" alt="Anuncio" width="250"/>
