@@ -1,10 +1,10 @@
 +++
-title = "Armendariz property for skew {PBW} extensions and their classical ring of quotients"
+title = "Armendariz property for skew PBW extensions and their classical ring of quotients"
 date = "2016-01-01"
-authors = ["A. Reyes", "H. Suarez"]
+authors = ["A. Reyes", "suarez-h"]
 publication_types = ["2"]
-publication = "Rev. Integraci\'on, (34), 2, _pp. 147-168_"
-publication_short = "Rev. Integraci\'on, (34), 2, _pp. 147-168_"
+publication = "Rev. Integración, (34), 2, pp. 147-168"
+publication_short = "Rev. Integración, (34), 2, pp. 147-168"
 abstract = ""
 abstract_short = ""
 image_preview = ""
