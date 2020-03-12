@@ -1,10 +1,10 @@
 +++
-title = "Some relations between {N}-{K}oszul, {A}rtin-{S}chelter regular and {C}alabi-{Y}au algebras with skew {PBW} extensions"
+title = "Some relations between N-Koszul, Artin-Schelter regular and Calabi-Yau algebras with skew PBW extensions"
 date = "2015-01-01"
-authors = ["H. Suarez", "O. Lezama", "A. Reyes"]
+authors = ["suarez-h", "O. Lezama", "A. Reyes"]
 publication_types = ["2"]
-publication = "Ciencia en Desarrollo, (6), 2, _pp. 205-213_"
-publication_short = "Ciencia en Desarrollo, (6), 2, _pp. 205-213_"
+publication = "Ciencia en Desarrollo, (6), 2, pp. 205-213"
+publication_short = "Ciencia en Desarrollo, (6), 2, pp. 205-213"
 abstract = ""
 abstract_short = ""
 image_preview = ""
