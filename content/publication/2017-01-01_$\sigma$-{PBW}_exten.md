@@ -1,5 +1,5 @@
 +++
-title = "$\sigma$-PBW extensions of skew Armendariz rings"
+title = "Sigma-PBW extensions of skew Armendariz rings"
 date = "2017-01-01"
 authors = ["A. Reyes", "suarez-h"]
 publication_types = ["2"]
