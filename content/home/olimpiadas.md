@@ -77,3 +77,5 @@ subtitle = ""
 
 [Folleto](https://matematicas.netlify.com/files/FolletoOlimpiadas2020.pdf)
 
+[Formato Inscripción](https://matematicas.netlify.com/files/FormatoInscripcion.pdf)
+
