@@ -1,10 +1,10 @@
 +++
-title = "Bases for quantum algebras and skew {P}oincar\'e-{B}irkhoff-{W}itt extensions"
+title = "Bases for quantum algebras and skew Poincaré-Beirkhoff-Witt extensions"
 date = "2017-01-01"
-authors = ["A. Reyes", "H. Suarez"]
+authors = ["A. Reyes", "suarez-h"]
 publication_types = ["2"]
-publication = "Momento, Rev. Fis., (54), 2, _pp. 54-75_"
-publication_short = "Momento, Rev. Fis., (54), 2, _pp. 54-75_"
+publication = "Momento, Rev. Fis., (54), 2, pp. 54-75"
+publication_short = "Momento, Rev. Fis., (54), 2, pp. 54-75"
 abstract = ""
 abstract_short = ""
 image_preview = ""
