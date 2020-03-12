@@ -1,11 +1,10 @@
 +++
-title = "Skew {P}oincar\'e-{B}irkhoff-{W}itt extensions over weak
-zip rings"
+title = "Skew Poincaré-Birkhoff-Witt extensions over weak zip rings"
 date = "2019-01-01"
-authors = ["A. Reyes", "H. Suarez"]
+authors = ["A. Reyes", "suarez-h"]
 publication_types = ["2"]
-publication = "Beitr. Algebra Geom., (60), 2, _pp. 197-216_"
-publication_short = "Beitr. Algebra Geom., (60), 2, _pp. 197-216_"
+publication = "Beitr. Algebra Geom., (60), 2, pp. 197-216"
+publication_short = "Beitr. Algebra Geom., (60), 2, pp. 197-216"
 abstract = ""
 abstract_short = ""
 image_preview = ""
