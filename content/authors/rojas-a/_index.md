@@ -10,7 +10,7 @@ authors:
 superuser: false
 
 # Role/position
-role: Docente
+role: Docente Asociado
 
 # Organizations/Affiliations
 organizations:
@@ -46,6 +46,10 @@ social:
  - icon: orcid
    icon_pack: ai
    link: https://orcid.org/0000-0002-9460-8695
+ - icon: google-scholar
+   icon_pack: ai
+   link: https://scholar.google.com/citations?hl=es&user=KGrxbsoAAAAJ
+  
 #- icon: github
 #  icon_pack: fab
 #  link: https://github.com/gcushen
