@@ -2,7 +2,7 @@
 date      = 2020-03-02
 lastmod   = 2020-03-02
 draft     = false
-tags      = ["Olimpiadas"]
+tags      = ["Circulos"]
 title     = "Aplazamiento Círculos Matemáticos 2020-I"
 math      = true
 +++
