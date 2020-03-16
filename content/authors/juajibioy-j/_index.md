@@ -24,13 +24,13 @@ education:
   courses:
   - course: PhD in Mathematics
     institution: Universidad Nacional de Colombia
-    year: 20
+    year: 2015
   - course: MSc in Mathematics
     institution: Universidad Nacional de Colombia
-    year: 20
+    year: 2011
   - course: BS in Mathematics
     institution: Universidad Nacional de Colombia
-    year: 2000
+    year: 2007
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
@@ -51,9 +51,9 @@ social:
 #  link: https://github.com/gcushen
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
-# - icon: cv
-#   icon_pack: ai
-#   link: files/cv.pdf
+ - icon: cv
+   icon_pack: ai
+   link: https://scienti.minciencias.gov.co/cvlac/visualizador/generarCurriculoCv.do?cod_rh=0001352252
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: ""
