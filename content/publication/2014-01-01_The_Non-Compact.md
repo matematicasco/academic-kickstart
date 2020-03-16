@@ -1,7 +1,7 @@
 +++
 title = "The non-compactness embeddings of the radial Sovolev spaces H"
 date = "2014-01-01"
-authors = ["delacruz-r", "juajibioy-j", "L. Rendon"]
+authors = ["delacruz-r", "juajibioy-j", "Rendón L."]
 publication_types = ["2"]
 publication = "International Journal of Applied Mathematics, (27), 2"
 publication_short = "International Journal of Applied Mathematics, (27), 2"
