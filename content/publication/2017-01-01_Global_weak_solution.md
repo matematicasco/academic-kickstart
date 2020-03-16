@@ -1,15 +1,15 @@
 +++
-title = "Global weak solutions for a 2 {\texttimes} 2 balance non-symmetric system of Keyfitz-Kranzer type"
+title = "Global weak solutions for a 2X2 balance non-symmetric system of Keyfitz-Kranzer type"
 date = "2017-01-01"
-authors = ["Juan Carlos Juajibioy Otero"]
+authors = ["juajibioy-j", "delacruz-r"]
 publication_types = ["2"]
-publication = "{CIENCIA} {EN} {DESARROLLO}, (8), 1"
-publication_short = "{CIENCIA} {EN} {DESARROLLO}, (8), 1"
+publication = "Ciencia en Dearrollo, Vol 8(1) _pp 28-33_"
+publication_short = "Ciencia en Dearrollo, Vol 8(1) _pp 28-33_"
 abstract = ""
 abstract_short = ""
 image_preview = ""
 selected = false
-projects = []
+projects = ["gedmys"]
 tags = []
 url_pdf = ""
 url_preprint = ""
@@ -20,6 +20,7 @@ url_slides = ""
 url_video = ""
 url_poster = ""
 url_source = ""
+doi = "https://doi.org/10.19053/01217488.v8.n1.2017.4753"
 math = true
 highlight = true
 [header]
