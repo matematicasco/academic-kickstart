@@ -1,7 +1,7 @@
 +++
-title = "{THE} {NON}-{COMPACTNESS} {EMBEDDINGS} {OF} {THE} {RADIAL} {SOBOLEV} {SPACES} {\textdollar}{\textbackslash}mathrm$\lbrace$H$\rbrace${\_}r{\^{}}1({\textbackslash}mathbb$\lbrace$R$\rbrace${\^{}}n){\textdollar}"
+title = "The non-compactness embeddings of the radial Sovolev spaces H"
 date = "2014-01-01"
-authors = ["R.A. De {la Cruz Guerrero}", "J.C. Juajibioy", "L. Rendon"]
+authors = ["delacruz-r", "juajibioy-j", "L. Rendon"]
 publication_types = ["2"]
 publication = "International Journal of Applied Mathematics, (27), 2"
 publication_short = "International Journal of Applied Mathematics, (27), 2"
@@ -9,7 +9,7 @@ abstract = ""
 abstract_short = ""
 image_preview = ""
 selected = false
-projects = []
+projects = ["gedmys"]
 tags = []
 url_pdf = ""
 url_preprint = ""
@@ -20,6 +20,7 @@ url_slides = ""
 url_video = ""
 url_poster = ""
 url_source = ""
+doi ="https://doi.org/10.12732/ijam.v27i2.7"
 math = true
 highlight = true
 [header]
