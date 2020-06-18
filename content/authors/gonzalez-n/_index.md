@@ -49,15 +49,9 @@ social:
 - icon: google-scholar
   icon_pack: ai
   link: https://scholar.google.com/citations?user=-o286msAAAAJ&hl=es
-
-#- icon: github
-#  icon_pack: fab
-#  link: https://github.com/gcushen
-# Link to a PDF of your resume/CV from the About widget.
-# To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
- - icon: cv
-   icon_pack: ai
-   link: https://scienti.minciencias.gov.co/cvlac/visualizador/generarCurriculoCv.do?cod_rh=0000394556
+- icon: cv
+  icon_pack: ai
+  link: https://scienti.minciencias.gov.co/cvlac/visualizador/generarCurriculoCv.do?cod_rh=0000394556
 
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
