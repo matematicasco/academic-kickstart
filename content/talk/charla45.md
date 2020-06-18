@@ -5,10 +5,9 @@ draft     = false
 tags      = ["Nuestro Encuentro"]
 title     = "Un modelo geométrico para las categorías zócalo-proyectivas de posets (tipo $A$)"
 math      = true
+image     = "headers/NuestroEncuentro.png"
 +++
 
-
-![NuestroEncuentro](https://matematicas.netlify.app/img/NuestroEncuentro.png)
 
 **Conferencista:** [Julian Serna](https://matematicas.netlify.app/authors/serna-r/)
 
