@@ -71,17 +71,11 @@ La **Escuela de Matemáticas y Estadística** en atención a las medidas adoptad
  
 Estamos prestos a cualquier inquietud e información en el correo electrónico **matematicasyestadistica1@gmail.com** o al WhatsApp **3218383384**
 
-
+<!--
 ### Fechas Importantes
-
 1. **Inscripción**: marzo 16 a abril 17 de 2020
 2. **Fase Clasificatoria**: miércoles 29 de abril de 2020 en la respectiva institución educativa
 3. **Fase Selectiva**: miércoles 26 de agosto de 2020 en la respectiva institución educativa
 4. **Fase Final**: miércoles 14 de octubre de 2020 en la sede central de la UPTC, previa información
-
-[Afiche](https://matematicas.netlify.com/files/AficheOlimpiadas2020.pdf)
-
-[Folleto](https://matematicas.netlify.com/files/FolletoOlimpiadas2020.pdf)
-
-[Formato Inscripción](https://matematicas.netlify.com/files/FormatoInscripcion.pdf)
+-->
 
