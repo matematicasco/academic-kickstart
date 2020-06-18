@@ -63,29 +63,31 @@ email: "matematicasyestadistica@uptc.edu.co"
 user_groups: []
 ---
 
+**Director Escuela:**
 
-[https://matematicas.netlify.app/authors/casas-o/](OSCAR FRANCISCO CASAS SÁNCHEZ)
-**Director Escuela**
+[OSCAR FRANCISCO CASAS SÁNCHEZ] (https://matematicas.netlify.app/authors/casas-o/)
 
+## COMITÉ CURRICULAR:  
 
-##COMITÉ CURRICULAR:  
+### Representantes Profesorales
 
-* JUAN CARLOS JUAJIBIOY OTERO 
-Representante Profesoral
-Área de Profundización
+* [JUAN CARLOS JUAJIBIOY OTERO](https://matematicas.netlify.app/authors/juajibioy-j/)
 
-* JULIO ANDRÉS MONTERO ROSERO 
-Representante Profesoral
-Área Disciplinar 
+**Área de Profundización**
 
-* JERMINSON ANDRÉS BELTRAN MONROY 
-Representante Estudiantil
+* [JULIO ANDRÉS MONTERO ROSERO](https://matematicas.netlify.app/authors/montero-j/)
+
+**Área Disciplinar**
+
+### Representantes estudiantiles
+* JERMINSON ANDRÉS BELTRAN MONROY
 
 * PABLO EDIXON RODRIGUEZ AMADO 
-Representante Estudiantil
 
-*MARTHA ISABEL MEDINA GARCÍA
-Secretaria 
+### Secretaria 
+
+* MARTHA ISABEL MEDINA GARCÍA
+
 
 
 
