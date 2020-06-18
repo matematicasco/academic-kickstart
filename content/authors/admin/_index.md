@@ -73,7 +73,7 @@ user_groups: []
 
 * Área de Profundización: [Juan Carlos Juajibioy Otero](https://matematicas.netlify.app/authors/juajibioy-j/)
 
-* Área Disciplinar: [Julio Andrés Montero Rosero](https://matematicas.netlify.app/authors/montero-o/)
+* Área Disciplinar: [Julio Andrés Montero Rosero](https://matematicas.netlify.app/authors/montero-j/)
 
 #### Representantes estudiantiles
 
