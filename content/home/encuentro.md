@@ -9,6 +9,7 @@ weight = 60  # Order that this section will appear.
 
 title = "Nuestro Encuentro"
 subtitle = ""
+math = True
 
 [content]
   # Page type to display. E.g. post, talk, or publication.
