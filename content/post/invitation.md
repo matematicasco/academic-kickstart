@@ -30,3 +30,9 @@ Este certamen se desarrollará en tres niveles
 
 Cada una de las fases será valorado por un comité evaluador seleccionado por la escuela de Matemáticas y Estadística de la UPTC Tunja y los resultados serán enviados vía email a cada una de las instituciones participantes. Contra los resultados emitidos por el comité evaluador no procede reclamo o recurso alguno.
 
+
+[Afiche](https://matematicas.netlify.com/files/AficheOlimpiadas2020.pdf)
+
+[Folleto](https://matematicas.netlify.com/files/FolletoOlimpiadas2020.pdf)
+
+[Formato Inscripción](https://matematicas.netlify.com/files/FormatoInscripcion.pdf)
