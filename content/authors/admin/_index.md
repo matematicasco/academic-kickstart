@@ -65,7 +65,7 @@ user_groups: []
 
 **Director Escuela:**
 
-[OSCAR FRANCISCO CASAS SÁNCHEZ] (https://matematicas.netlify.app/authors/casas-o/)
+[OSCAR FRANCISCO CASAS SÁNCHEZ](https://matematicas.netlify.app/authors/casas-o/)
 
 ## COMITÉ CURRICULAR:  
 
