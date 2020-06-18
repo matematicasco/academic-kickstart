@@ -9,6 +9,6 @@ view: 3
 
 # Optional header image (relative to `static/img/` folder).
 header:
-  caption: "NN"
+  caption: "Nuestro Encuentro"
   image: "NuestroEncuentro.png"
 ---
