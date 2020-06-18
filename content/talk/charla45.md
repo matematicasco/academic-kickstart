@@ -8,13 +8,11 @@ math      = true
 image     = "headers/NuestroEncuentro.png"
 +++
 
-
 **Conferencista:** [Julian Serna](https://matematicas.netlify.app/authors/serna-r/)
 
 **Fecha:** Martes 30 de junio de 2020, 4:00 p.m.
 
 **Lugar:** [videollamada por Google Meet]()
-
 
 **Resumen**:
 
