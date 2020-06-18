@@ -28,7 +28,7 @@ education:
   - course: MSc in Mathematics
     institution: Universidad Nacional de Colombia
     year: 2010
-  - course: BS in Mathematical Education
+  - course: Licenciatura en Matemáticas
     institution: Universidad Pedagógica Y Tecnológica De Colombia
     year: 2006
 
