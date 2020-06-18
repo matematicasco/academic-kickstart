@@ -5,7 +5,7 @@ draft     = false
 tags      = ["Nuestro Encuentro"]
 title     = "Un modelo geométrico para las categorías zócalo-proyectivas de posets (tipo $A$)"
 math      = true
-image     = "headers/NuestroEncuentro.png"
+image     = "NuestroEncuentro.png"
 +++
 
 
