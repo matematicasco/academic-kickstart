@@ -8,7 +8,7 @@ math      = true
 +++
 
 
-![NuestroEncuentro](https://matematicas.netlify.app/NuestroEncuentro.png)
+![NuestroEncuentro](https://matematicas.netlify.app/img/NuestroEncuentro.png)
 
 **Conferencista:** [Julian Serna](https://matematicas.netlify.app/authors/serna-j/)
 
