@@ -10,7 +10,7 @@ math      = true
 
 ![NuestroEncuentro](https://matematicas.netlify.app/img/NuestroEncuentro.png)
 
-**Conferencista:** [Julian Serna](https://matematicas.netlify.app/authors/serna-j/)
+**Conferencista:** [Julian Serna](https://matematicas.netlify.app/authors/serna-r/)
 
 **Fecha:** Martes 30 de junio de 2020, 4:00 p.m.
 
