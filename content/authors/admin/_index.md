@@ -67,13 +67,13 @@ user_groups: []
 
 #### Director Escuela:
 
-[OSCAR FRANCISCO CASAS SÁNCHEZ](https://matematicas.netlify.app/authors/casas-o/)
+[Oscar Francisco Casas Sánchez](https://matematicas.netlify.app/authors/casas-o/)
 
 #### Representantes Profesorales
 
-* Área de Profundización: [JUAN CARLOS JUAJIBIOY OTERO](https://matematicas.netlify.app/authors/juajibioy-j/)
+* Área de Profundización: [Juan Carlos Juajibioy Otero](https://matematicas.netlify.app/authors/juajibioy-j/)
 
-* Área Disciplinar: [JULIO ANDRÉS MONTERO ROSERO](https://matematicas.netlify.app/authors/montero-j/)
+* Área Disciplinar: [Julio Andrés Montero Rosero](https://matematicas.netlify.app/authors/montero-o/)
 
 #### Representantes estudiantiles
 
