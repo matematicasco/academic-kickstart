@@ -63,9 +63,29 @@ email: "matematicasyestadistica@uptc.edu.co"
 user_groups: []
 ---
 
-PBX: (57) 8 7405626
-Ext.: 2441 - 2442    
 
+[https://matematicas.netlify.app/authors/casas-o/](OSCAR FRANCISCO CASAS SÁNCHEZ)
+**Director Escuela**
+
+
+##COMITÉ CURRICULAR:  
+
+* JUAN CARLOS JUAJIBIOY OTERO 
+Representante Profesoral
+Área de Profundización
+
+* JULIO ANDRÉS MONTERO ROSERO 
+Representante Profesoral
+Área Disciplinar 
+
+* JERMINSON ANDRÉS BELTRAN MONROY 
+Representante Estudiantil
+
+* PABLO EDIXON RODRIGUEZ AMADO 
+Representante Estudiantil
+
+*MARTHA ISABEL MEDINA GARCÍA
+Secretaria 
 
 
 
