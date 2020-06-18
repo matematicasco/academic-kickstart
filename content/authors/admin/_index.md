@@ -77,11 +77,11 @@ user_groups: []
 
 #### Representantes estudiantiles
 
-* JERMINSON ANDRÉS BELTRAN MONROY
+* Jerminson Andrés Beltran Monroy
 
-* PABLO EDIXON RODRIGUEZ AMADO 
+* Pablo Edixon Rodriguez Amado 
 
 #### Secretaria 
 
-* MARTHA ISABEL MEDINA GARCÍA
+* Martha Isabel Medina García
 
