@@ -1,5 +1,5 @@
 +++
-date      = "2020-06-19"
+date      = "2020-06-10"
 draft     = false
 tags      = ["Nuestro Encuentro"]
 title     = "Un modelo geométrico para las categorías zócalo-proyectivas de posets (tipo A)"
@@ -10,7 +10,7 @@ math      = true
 
 **Fecha:** Martes 30 de junio de 2020, 4:00 p.m.
 
-**Lugar:** [Videollamada](https://meet.google.com/izy-pzig-pbf)
+**Lugar:** [Videollamada](https://meet.google.com/izy-pzig-pbf) ([Presione el enlace para ingresar](https://meet.google.com/izy-pzig-pbf))
 
 **Resumen**:
 
