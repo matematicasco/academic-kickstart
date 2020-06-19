@@ -10,6 +10,7 @@ projects = ["giaa"]
 tags = []
 math = true
 highlight = true
+url_pdf = "https://uptc.metalibros.org/index.php/editorial-uptc/catalog/book/33"
 [header]
 image = ""
 caption = ""
