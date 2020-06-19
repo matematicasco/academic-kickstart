@@ -1,6 +1,6 @@
 ---
 # Display name
-name: Adriana López Becerra
+name: Adriana López
 
 # Username (this should match the folder name)
 authors:
