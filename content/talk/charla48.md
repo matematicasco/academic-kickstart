@@ -1,20 +1,17 @@
 +++
-date      = 2020-01-27
-lastmod   = 2020-02-01
-draft     = true
+date      = "2020-06-13"
+draft     = false
 tags      = ["Nuestro Encuentro"]
 title     = "Charla 48"
 math      = true
 +++
 
-### TBA
+**Conferencista:** [Elio Espejo](https://www.nottingham.edu.cn/en/Science-Engineering/People/Profile.aspx?id=24de951a-0579-4836-be52-f2ad6147139e&language=en-GB)
 
-### TBA
+**Fecha:** Martes 11 de agosto de 2020, 5:00 p.m.
 
-### Lugar: C119 
+**Lugar:** [Videollamada](https://meet.google.com/izy-pzig-pbf)  ([Presione el enlace para ingresar](https://meet.google.com/izy-pzig-pbf))
 
-
-
-> Resumen: álgebra y más álgebra
+**Resumen**:
 
 
