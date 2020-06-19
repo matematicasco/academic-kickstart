@@ -6,17 +6,17 @@
 [[main]]
   name = "Olimpiadas"
   url = "#olimpiadas"
-  weight = 30
+  weight = 40
 
 [[main]]
   name = "Círculos"
   url = "#circulos"
-  weight = 40
+  weight = 30
 
 [[main]]
   name = "Nuestro Encuentro"
   url = "#encuentro"
-  weight = 50
+  weight = 20
 
 [[main]]
   name = "Publicaciones"
