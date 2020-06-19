@@ -31,6 +31,9 @@ education:
 
 # Social/Academic Networking
 social:
+- icon: orcid
+  icon_pack: ai
+  link: https://orcid.org/0000-0002-3561-1886
 - icon: google-scholar
   icon_pack: ai
   link: https://scholar.google.com/citations?user=2khjkqEAAAAJ&hl=es
