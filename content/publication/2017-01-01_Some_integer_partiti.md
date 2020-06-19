@@ -1,7 +1,7 @@
 +++
 title = "Some integer partitions induced by orbits of Dynkin type"
 date = "2017-01-01"
-authors = ["Agustin Moreno Canadas", "Hernan Giraldo", "Robinson-Julian Serna"]
+authors = ["Moreno Cañadas, A.", "Giraldo, H.", "serna-r"]
 publication_types = ["2"]
 publication = "Far East Journal of Mathematical Sciences (FJSM), (101), _pp. 2745--2766_"
 publication_short = "Far East Journal of Mathematical Sciences (FJSM), (101), _pp. 2745--2766_"
