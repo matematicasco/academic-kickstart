@@ -2,7 +2,7 @@
 date      = "2020-06-10"
 draft     = false
 tags      = ["Nuestro Encuentro"]
-title     = "Un modelo geométrico para las categorías zócalo-proyectivas de posets (tipo A)"
+title     = "Charla 45: Un modelo geométrico para las categorías zócalo-proyectivas de posets (tipo A)"
 math      = true
 +++
 
