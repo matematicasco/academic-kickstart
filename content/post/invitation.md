@@ -3,7 +3,7 @@ date      = 2020-03-02
 lastmod   = 2020-03-02
 draft     = false
 tags      = ["Olimpiadas"]
-title     = "Detalles Olimpiadas Matemáticas UPTC 2020"
+title     = "Aplazamiento Olimpiadas Matemáticas UPTC 2020"
 math      = true
 +++
 
