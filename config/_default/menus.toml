@@ -6,32 +6,32 @@
 [[main]]
   name = "Olimpiadas"
   url = "#olimpiadas"
-  weight = 40
+  weight = 60
 
 [[main]]
   name = "Círculos"
   url = "#circulos"
-  weight = 30
+  weight = 50
 
 [[main]]
   name = "Nuestro Encuentro"
   url = "#encuentro"
-  weight = 20
+  weight = 10
 
 [[main]]
   name = "Publicaciones"
   url = "#publicaciones"
-  weight = 60
+  weight = 40
 
 [[main]]
   name = "Investigación"
   url = "#grupos"
-  weight = 70
+  weight = 30
 
 [[main]]
   name = "Docentes"
   url = "#people"
-  weight = 80
+  weight = 20
 
 
 [[main]]
