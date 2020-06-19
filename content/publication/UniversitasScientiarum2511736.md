@@ -22,14 +22,6 @@ projects = ["tenga"]
 
 # Links (optional).
 url_pdf = "https://revistas.javeriana.edu.co/index.php/scientarium/article/view/24306/23983"
-url_preprint = ""
-url_code = ""
-url_dataset = ""
-url_project = ""
-url_slides = ""
-url_video = ""
-url_poster = ""
-url_source = ""
 doi = "10.11144/Javeriana.SC25-1.aots"
 
 # Does the content use math formatting?
