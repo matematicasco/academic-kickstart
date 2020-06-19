@@ -1,18 +1,9 @@
 ---
-# Display name
 name: Nelsy R. González Guitíerrez
-
-# Username (this should match the folder name)
 authors:
 - gonzalez-n
-
-# Is this the primary user of the site?
 superuser: false
-
-# Role/position
-role: Docente
-
-# Organizations/Affiliations
+role: Docente Asociada
 organizations:
 - name: Universidad Pedagógica y Tecnológica de Colombia
   url: "http://www.uptc.edu.co"
@@ -33,16 +24,7 @@ education:
     year: 1996
 
 # Social/Academic Networking
-# For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
-#   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
-#   form "mailto:your-email@example.com" or "#contact" for contact widget.
 social:
-#- icon: envelope
-#  icon_pack: fas
-#  link: '#contact'  # For a direct email link, use "mailto:matematicasyestadistica@uptc.edu.co".
-#- icon: twitter
-#  icon_pack: fab
-#  link: https://twitter.com/GeorgeCushen
 - icon: orcid
   icon_pack: ai
   link: https://orcid.org/0000-0002-5710-6063
