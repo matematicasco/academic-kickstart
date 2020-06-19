@@ -26,8 +26,8 @@ education:
     institution: University of Pittsburgh
     year: 2008
   - course: MA in Statistics
-   institution: University of Pittsburgh
-   year: 2004
+    institution: University of Pittsburgh
+    year: 2004
   - course: MSc in Mathematics
     institution: University of Puerto Rico, Mayaguez Campus
     year: 2003
