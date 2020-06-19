@@ -1,8 +1,8 @@
 +++
-date      = "2020-06-19"
+date      = "2020-06-20"
 draft     = false
 tags      = ["Nuestro Encuentro"]
-title     = "Título a ser anunciado"
+title     = "Charla 46"
 math      = true
 +++
 
