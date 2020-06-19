@@ -20,9 +20,9 @@ organizations:
 # Short bio (displayed in user profile at end of posts)
 bio: 
 interests:
- - combinatorics
- - representation theory
- - visual cryptography
+ - Combinatorics
+ - Representation theory
+ - Visual cryptography
 
 education:
   courses:
