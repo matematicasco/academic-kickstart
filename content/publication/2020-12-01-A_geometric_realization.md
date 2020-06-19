@@ -33,7 +33,7 @@ url_source = ""
 doi = "10.1016/j.jpaa.2020.106436"
 
 # Does the content use math formatting?
-math = false
+math = true
 
 # Does the content use source code highlighting?
 highlight = true
