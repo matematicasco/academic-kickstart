@@ -1,6 +1,5 @@
 +++
-date      = "2020-06-30"
-lastmod   = ""
+date      = "2020-06-19"
 draft     = false
 tags      = ["Nuestro Encuentro"]
 title     = "Un modelo geométrico para las categorías zócalo-proyectivas de posets (tipo A)"
