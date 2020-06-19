@@ -9,6 +9,9 @@ organizations:
   url: "http://www.uptc.edu.co"
 
 bio: 
+interests:
+- Native forest conservation 
+- Apiculture
 
 education:
   courses:
