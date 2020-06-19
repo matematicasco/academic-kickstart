@@ -46,9 +46,9 @@ social:
 # - icon: orcid
 #   icon_pack: ai
 #   link: https://orcid.org/0000-0003-4478-5201
-# - icon: google-scholar
-#   icon_pack: ai
-#   link: https://scholar.google.com/citations?user=WSvwX3IAAAAJ&hl=en
+ - icon: google-scholar
+   icon_pack: ai
+   link: https://scholar.google.com/citations?user=82OUyC8AAAAJ&hl=es
 
 #- icon: github
 #  icon_pack: fab
