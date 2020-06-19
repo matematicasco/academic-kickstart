@@ -10,7 +10,6 @@ organizations:
 
 # Short bio (displayed in user profile at end of posts)
 bio: 
-
 education:
   courses:
   - course: PhD in Mathematical Sciences
@@ -33,7 +32,10 @@ social:
  - icon: google-scholar
    icon_pack: ai
    link: https://scholar.google.com/citations?user=gal35dAAAAAJ&hl=en
-   
+ - icon: cv
+   icon_pack: ai
+   link: https://scienti.minciencias.gov.co/cvlac/visualizador/generarCurriculoCv.do?cod_rh=0000749737
+
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: ""
 
