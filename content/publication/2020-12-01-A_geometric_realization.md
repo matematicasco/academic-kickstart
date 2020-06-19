@@ -1,7 +1,7 @@
 +++
 title = "A geometric realization of socle-projective categories for posets of type A"
 date = "2020-02-24"
-authors = ["Schiffler, R", "serna-r"]
+authors = ["Schiffler, R","serna-r"]
 publication_types = ["2"]
 publication = "Journal of Pure and Applied Algebra, Volumen 224(12), 106436"
 publication_short = ""
