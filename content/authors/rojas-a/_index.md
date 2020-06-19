@@ -1,5 +1,5 @@
 ---
-name: Alex Rojas
+name: Alex L. Rojas
 authors:
 - rojas-a
 superuser: false
@@ -15,8 +15,14 @@ education:
   - course: PhD in Statistics
     institution: Carnegie Mellon University
     year: 2006
+  - course: MSc in Knowledge Discovery and Data Mining
+    institution: Carnegie Mellon University
+    year: 2005
   - course: MSc in Statistics
     institution: Carnegie Mellon University
+    year: 2002
+  - course: MSc in Mathematics
+    institution: University of Puerto Rico, Mayaguez Campus.
     year: 2002
   - course: BS in Statistics
     institution: Universidad Nacional de Colombia
