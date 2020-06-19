@@ -21,15 +21,6 @@ selected = false
 projects = ["giaa"]
 
 # Links (optional).
-url_pdf = ""
-url_preprint = ""
-url_code = ""
-url_dataset = ""
-url_project = ""
-url_slides = ""
-url_video = ""
-url_poster = ""
-url_source = ""
 doi = "10.1016/j.jpaa.2020.106436"
 
 # Does the content use math formatting?
