@@ -1,19 +1,19 @@
 +++
-date      = 2020-05-18
-lastmod   = 2020-05-18
-draft     = true
+date      = "2020-06-19"
+draft     = false
 tags      = ["Nuestro Encuentro"]
-title     = "Charla 46"
+title     = "Título a ser anunciado"
 math      = true
 +++
 
-### A
+**Conferencista:** [Rafael Álvarez](https://matematicas.netlify.app/authors/alvarez-r/)
 
-### B
+**Fecha:** Martes 14 de julio de 2020, 4:00 p.m.
 
-### Lugar:
+**Lugar:** [Videollamada](https://meet.google.com/izy-pzig-pbf)
+
+**Resumen**: 
 
 
 
-**Resumen:** sistemas dinámicos
 
