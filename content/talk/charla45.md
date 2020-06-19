@@ -11,7 +11,7 @@ math      = true
 
 **Fecha:** Martes 30 de junio de 2020, 4:00 p.m.
 
-**Lugar:** [videollamada por Google Meet]()
+**Lugar:** [Videollamada](https://meet.google.com/izy-pzig-pbf)
 
 **Resumen**:
 
