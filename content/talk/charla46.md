@@ -1,6 +1,6 @@
 +++
-date      = 2020-06-18
-lastmod   = 2020-06-18
+date      = 2020-05-18
+lastmod   = 2020-05-18
 draft     = false
 tags      = ["Nuestro Encuentro"]
 title     = "Charla 46"
