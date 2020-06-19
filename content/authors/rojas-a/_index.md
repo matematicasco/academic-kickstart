@@ -8,7 +8,8 @@ organizations:
 - name: Universidad Pedagógica y Tecnológica de Colombia
   url: "http://www.uptc.edu.co"
 
-bio: 
+bio:
+
 interests:
 - Native forest conservation 
 - Apiculture
@@ -35,7 +36,7 @@ social:
  - icon: orcid
    icon_pack: ai
    link: https://orcid.org/0000-0002-9460-8695
-- icon: google-scholar
+ - icon: google-scholar
    icon_pack: ai
    link: https://scholar.google.com/citations?hl=es&user=KGrxbsoAAAAJ
  - icon: cv
