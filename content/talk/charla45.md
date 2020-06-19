@@ -1,5 +1,5 @@
 +++
-date      = ""
+date      = "2020-06-30"
 lastmod   = ""
 draft     = false
 tags      = ["Nuestro Encuentro"]
