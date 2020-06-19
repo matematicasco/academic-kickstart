@@ -9,7 +9,7 @@ publication_short = "Springer"
 selected = false
 projects = ["giaa"]
 tags = []
-url_project = "https://www.springer.com/gp/book/9783030533779"
+url_pdf = "https://www.springer.com/gp/book/9783030533779"
 math = true
 highlight = true
 [header]
