@@ -10,6 +10,7 @@ organizations:
 
 # Short bio (displayed in user profile at end of posts)
 bio: 
+
 education:
   courses:
   - course: PhD in Mathematical Sciences
