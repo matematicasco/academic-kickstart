@@ -10,7 +10,7 @@ math      = true
 
 **Fecha:** Martes 28 de julio de 2020, 4:00 p.m.
 
-**Lugar:** [Videollamada](https://meet.google.com/izy-pzig-pbf)
+**Lugar:** [Videollamada](https://meet.google.com/izy-pzig-pbf)  ([Presione el enlace para ingresar](https://meet.google.com/izy-pzig-pbf))
 
 **Resumen**:
 
