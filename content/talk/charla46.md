@@ -1,17 +1,17 @@
 +++
-date      = 2020-02-25
-lastmod   = 2020-02-25
+date      = 2020-06-18
+lastmod   = 2020-06-18
 draft     = false
 tags      = ["Nuestro Encuentro"]
-title     = "Charla 46..."
+title     = "Charla 46"
 math      = true
 +++
 
-### TBA
+### A
 
-### TBA
+### B
 
-### Lugar: C119 
+### Lugar:
 
 
 
