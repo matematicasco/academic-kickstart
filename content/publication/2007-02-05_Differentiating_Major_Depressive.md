@@ -1,7 +1,7 @@
 +++
 title = "Differentiating Major Depressive Disorder in Youths with Attention Deficit Hyperactivity Disorder"
 date = "2007-09-05"
-authors = [""]
+authors = ["Diler, R.S.","Burleson Daviss, W.","lopez-a"."Axelson, D.","Iyengar, S.","Birmaher, B."]
 publication_types = ["2"]
 publication = "Journal of Affective Disorders, Volumen 102(1-3), 125-130"
 publication_short = ""
