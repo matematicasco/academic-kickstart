@@ -5,7 +5,7 @@ authors = ["gallego-c","Solotar, A."]
 publication_types = ["2"]
 publication = "Journal of Algebra 526, 266--282"
 publication_short = ""
-abstract = "We investigate the behavior of finitely generated projective modules over a down-up algebra. Specifically, we show that every noetherian down-up algebra $A(\alpha,\beta,\gamma)$has a non-free, stably free right ideal. Further, we compute the stable rank of these algebras using Stafford's Stable Range Theorem and Kmax dimension."
+abstract = "We investigate the behavior of finitely generated projective modules over a down-up algebra. Specifically, we show that every noetherian down-up algebra A(alpha,beta,gamma) has a non-free, stably free right ideal. Further, we compute the stable rank of these algebras using Stafford's Stable Range Theorem and Kmax dimension."
 abstract_short = ""
 
 # Featured image thumbnail (optional)
