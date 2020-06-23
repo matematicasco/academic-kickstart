@@ -10,7 +10,8 @@ organizations:
 
 # Short bio (displayed in user profile at end of posts)
 bio: 
-
+interests:
+- Applied statistics
 education:
   courses:
   - course: PhD in Statistics
