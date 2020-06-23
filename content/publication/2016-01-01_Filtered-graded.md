@@ -1,6 +1,6 @@
 +++
 title = "Filtered-graded transfer of noncommutative Gröbner bases"
-date = "2016-01-01"
+date = "2016-02-28"
 authors = ["gallego-c"]
 publication_types = ["2"]
 publication = "Revista colombiana de Matemáticas 50(1), 41--54"
