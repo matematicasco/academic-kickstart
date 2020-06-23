@@ -15,10 +15,10 @@ bio:
 education:
   courses:
   - course: MSc in Mathematical Sciences
-    institution: Universidad pedagógica y Tecnológica de Tunja
+    institution: Universidad Pedagógica y Tecnológica de Colombia
     year: 2018
   - course: BSc in Mathematics
-    institution: Universidad pedagógica y Tecnológica de Tunja
+    institution: Universidad Pedagógica y Tecnológica de Colombia
     year: 2013
 
 social:
