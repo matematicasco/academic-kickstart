@@ -21,7 +21,7 @@ selected = false
 
 # Links (optional).
 # url_pdf = "https://www.tandfonline.com/doi/full/10.1080/00927870903431209?scroll=top&needAccess=true"
-doi = "https://doi.org/10.1080/00927870903431209"
+doi = "10.1080/00927870903431209"
 
 
 # Does the content use math formatting?
