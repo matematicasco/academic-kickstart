@@ -9,8 +9,8 @@ organizations:
   url: "http://www.uptc.edu.co"
 bio: 
 interests:
-- Matemática aplicada
-- Estadística no paramétrica
+- Applied mathematics
+- Nonparametric statistics
 education:
   courses:
   - course: PhD in Educational Sciences
