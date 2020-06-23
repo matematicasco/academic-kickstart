@@ -23,7 +23,7 @@ education:
     institution: Universidad Antonio Nariño
     year: 2000    
   - course: Licenciatura en Matemáticas y Física
-    institution: Universidad pedagógica y Tecnológica de Tunja
+    institution: Universidad Pedagógica y Tecnológica de Colombia
     year: 1998
 
 social:
