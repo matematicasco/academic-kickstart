@@ -1,5 +1,5 @@
 +++
-title = "Gröbner bases for ideals of $\sigma$-PBW extensions"
+title = "Gröbner bases for ideals of sigma-PBW extensions"
 date = "2011-01-20"
 authors = ["gallego-c", "Lezama, O."]
 publication_types = ["2"]
