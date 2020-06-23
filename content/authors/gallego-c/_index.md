@@ -29,6 +29,9 @@ education:
     year: 2007
 
 social:
+ - icon: researchgate
+   icon_pack: ai
+   link: https://www.researchgate.net/profile/Claudia_Gallego 
  - icon: cv
    icon_pack: ai
    link: http://scienti.colciencias.gov.co:8081/cvlac/visualizador/generarCurriculoCv.do?cod_rh=0001269020
