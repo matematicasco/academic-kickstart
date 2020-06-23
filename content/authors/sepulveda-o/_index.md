@@ -11,7 +11,7 @@ bio:
 education:
   courses:
   - course: PhD in Educational Sciences
-    institution: Universidad Pedagógica y Tecnológica de Tunja
+    institution: Universidad Pedagógica y Tecnológica de Colombia
     year: 2016
   - course: MSc in Mathematics
     institution: Universidad Nacional de Colombia
