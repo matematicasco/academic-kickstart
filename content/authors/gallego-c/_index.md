@@ -12,7 +12,9 @@ organizations:
 bio: 
 
 interests:
-- Álgebra
+- homological algebra
+- computational algebra
+- representation theory
 
 education:
   courses:
