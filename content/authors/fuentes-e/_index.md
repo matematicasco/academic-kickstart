@@ -25,7 +25,7 @@ education:
     institution: Universidad Nacional de Colombia
     year: 2015
   - course: BSc in Mathematics
-    institution: Universidad pedagógica y Tecnológica de Tunja
+    institution: Universidad Pedagógica y Tecnológica de Colombia
     year: 2009
 
 social:
