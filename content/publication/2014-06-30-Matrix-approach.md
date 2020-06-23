@@ -21,7 +21,7 @@ selected = false
 
 # Links (optional).
 url_pdf = "http://adm.luguniv.edu.ua/downloads/issues/2014/N3/adm-n3(2014)-10.pdf"
-#doi = "https://doi.org/10.1080/00927870903431209"
+#doi = "10.1080/00927870903431209"
 
 
 # Does the content use math formatting?
