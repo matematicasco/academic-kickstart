@@ -3,7 +3,7 @@ name: Victor Miguel Angel Burbano Pantoja
 authors:
 - burbano-v
 superuser: false
-role: Docente Asociado
+role: Docente Titular
 organizations:
 - name: Universidad Pedagógica y Tecnológica de Colombia
   url: "http://www.uptc.edu.co"
