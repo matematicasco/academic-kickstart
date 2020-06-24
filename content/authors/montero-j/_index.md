@@ -10,7 +10,7 @@ authors:
 superuser: false
 
 # Role/position
-role: Docente
+role: Docente Asistente
 
 # Organizations/Affiliations
 organizations:
