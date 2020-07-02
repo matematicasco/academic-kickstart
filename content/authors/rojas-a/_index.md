@@ -11,7 +11,7 @@ organizations:
 bio:
 
 interests:
-- Native forest conservation 
+- Andean forest
 - Apiculture
 
 education:
