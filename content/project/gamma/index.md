@@ -13,21 +13,15 @@ image:
   focal_point: Smart
 
 links:
-#- icon: twitter
-#  icon_pack: fab
-#  name: Follow
-#  url: https://twitter.com/georgecushen
+- icon: mail
+  icon_pack: fab
+  name: 
+  url: gamma@upt.edu.co
 #url_code: ""
 #url_pdf: ""
 #url_slides: ""
 #url_video: ""
 
-# Slides (optional).
-#   Associate this project with Markdown slides.
-#   Simply enter your slide deck's filename without extension.
-#   E.g. `slides = "example-slides"` references `content/slides/example-slides.md`.
-#   Otherwise, set `slides = ""`.
-slides: example
 ---
 
 El grupo de investigación está integrado por profesionales con alta formación y trayectoria académica e investigativa, comprometidos con fortalecer el pensamiento y la cultura estadística a través de proyectos de investigación en la línea de producción de conocimiento estadístico o aplicación de ellos, que conlleven a la solución de problemas específicos en el ámbito regional o nacional. Cuenta con experiencia certificada en dirección y en asesoría de trabajos de grado a nivel de pregrado, maestría y doctorado de diversos programas, así como en realización de consultorías estadísticas a entidades públicas y privadas y en la ejecución de proyectos institucionales cofinanciados. 
