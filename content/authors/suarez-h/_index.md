@@ -27,6 +27,9 @@ education:
     year: 1998
 
 social:
+ - icon: researchgate
+   icon_pack: ai
+   link: https://www.researchgate.net/profile/Hector_Suarez9
  - icon: orcid
    icon_pack: ai
    link: https://orcid.org/0000-0003-4618-0599
