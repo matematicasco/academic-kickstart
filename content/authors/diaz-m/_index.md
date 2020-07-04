@@ -10,6 +10,5 @@ organizations:
 
 user_groups:
 - "Docentes Planta"
-- "giaa"
 ---
 
