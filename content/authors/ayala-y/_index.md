@@ -9,7 +9,7 @@ organizations:
   url: "http://www.uptc.edu.co"
 
 user_groups:
-- "Docentes Ocasional"
+- "Docentes Ocasionales"
 - "gama"
 ---
 
