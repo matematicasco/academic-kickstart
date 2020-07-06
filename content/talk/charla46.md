@@ -1,5 +1,5 @@
 +++
-date      = "2020-07-02"
+date      = "2020-07-06"
 draft     = false
 tags      = ["Nuestro Encuentro"]
 title     = "Charla 46: Equilibrium states for random non-uniformly expanding maps: uniqueness and stability"
