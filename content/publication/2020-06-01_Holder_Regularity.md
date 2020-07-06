@@ -21,7 +21,7 @@ selected = false
 projects = ["gedmys"]
 
 # Links (optional).
-doi = "10.1016/j.jpaa.2020.106436"
+url_pdf = "https://arxiv.org/pdf/1911.06457.pdf"
 
 # Does the content use math formatting?
 math = true
