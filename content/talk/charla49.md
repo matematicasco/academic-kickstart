@@ -1,5 +1,5 @@
 +++
-date      = "2020-06-06"
+date      = "2020-07-03"
 draft     = false
 tags      = ["Nuestro Encuentro"]
 title     = "Charla 49"
