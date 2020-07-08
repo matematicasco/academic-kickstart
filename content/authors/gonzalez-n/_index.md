@@ -13,7 +13,7 @@ bio:
 interests:
 - Commutative algebra
 - Epistemiology and history of mathematics
-- 
+
 education:
   courses:
   - course: PhD in Education
