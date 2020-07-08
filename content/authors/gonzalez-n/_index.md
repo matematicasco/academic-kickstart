@@ -10,18 +10,21 @@ organizations:
 
 # Short bio (displayed in user profile at end of posts)
 bio: 
-
+interests:
+- Commutative algebra
+- Epistemiology and history of mathematics
+- 
 education:
   courses:
   - course: PhD in Education
-    institution: Universidad Pedagógica y Tecnológica de Tunja
+    institution: Universidad Pedagógica y Tecnológica de Colombia
     year: 2017
   - course: MSc in Mathematics
     institution: Universidad Nacional de Colombia
-    year: 1999
-  - course: Licenciatura en Matemáticas
-    institution: Universidad Industrial de Santander
-    year: 1996
+    year: 2002
+  - course: Licenciatura en Matemáticas y Física
+    institution: Universidad Pedagógica y Tecnológica de Colombia
+    year: 1997
 
 # Social/Academic Networking
 social:
