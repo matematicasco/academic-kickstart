@@ -1,5 +1,5 @@
 +++
-title = "Investigadoras matem{\'a}ticas en Colombia: desaf{\'i}os, retos y oportunidades"
+title = "Investigadoras matemáticas en Colombia: desafíos, retos y oportunidades"
 date = "2017-01-01"
 authors = ["NELSY ROCIO GONZALEZ GUTIERREZ"]
 publication_types = ["2"]
