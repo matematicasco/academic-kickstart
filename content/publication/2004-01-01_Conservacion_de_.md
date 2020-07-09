@@ -1,10 +1,10 @@
 +++
-title = "Conservaci{\'o}n de propiedades del anillo de polinomios y del anillo de series en la clase de los anillos de conductor finito"
+title = "Conservación de propiedades del anillo de polinomios y del anillo de series en la clase de los anillos de conductor finito"
 date = "2004-01-01"
-authors = ["NELSY ROCIO GONZALEZ GUTIERREZ"]
+authors = ["gonzalez-n"]
 publication_types = ["2"]
-publication = "Bolet{\'i}n de la Asociaci{\'o}n de Matem{\'a}tica venezolana"
-publication_short = "Bolet{\'i}n de la Asociaci{\'o}n de Matem{\'a}tica venezolana"
+publication = "Boletín de la Asociación de Matemática Venezolana"
+publication_short = "Boletín de la Asociación de Matemática Venezolana"
 abstract = ""
 abstract_short = ""
 image_preview = ""
