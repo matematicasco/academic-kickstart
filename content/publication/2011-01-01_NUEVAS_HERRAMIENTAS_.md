@@ -1,5 +1,5 @@
 +++
-title = "NUEVAS HERRAMIENTAS PARA SOLUCIONAR PROBLEMAS DE OPTIMIZACI\'{O}N"
+title = "Nuevas herramientas para solucionar problemas de optimización"
 date = "2011-01-01"
 authors = ["gonzalez-n"]
 publication_types = ["1"]
