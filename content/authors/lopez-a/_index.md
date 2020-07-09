@@ -29,6 +29,9 @@ education:
 
 # Social/Academic Networking
 social:
+ - icon: orcid
+   icon_pack: ai
+   link: https://orcid.org/0000-0002-4988-691X
  - icon: cv
    icon_pack: ai
    link: http://scienti.colciencias.gov.co:8081/cvlac/visualizador/generarCurriculoCv.do?cod_rh=0000122289
