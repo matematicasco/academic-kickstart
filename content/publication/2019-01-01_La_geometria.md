@@ -1,10 +1,10 @@
 +++
-title = "La geometr{\'i}a, eje integrador del pensamiento matem{\'a}tico en educaci{\'o}n b{\'a}sica"
+title = "La geometría, eje integrador del pensamiento matemático en educación básica"
 date = "2019-01-01"
-authors = ["NELSY ROCIO GONZALEZ GUTIERREZ"]
+authors = ["gonzalez-n"]
 publication_types = ["2"]
-publication = "Educaci{\'o}n y Ciencia"
-publication_short = "Educaci{\'o}n y Ciencia"
+publication = "Educación y Ciencia"
+publication_short = "Educación y Ciencia"
 abstract = ""
 abstract_short = ""
 image_preview = ""
