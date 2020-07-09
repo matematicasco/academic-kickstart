@@ -1,7 +1,7 @@
 +++
 title = "Ideales en el Anillo de Polinomios Torcidos R [x; \sigma, \delta]"
 date = "2014-01-01"
-authors = ["NELSY ROCIO GONZALEZ GUTIERREZ"]
+authors = ["gonzalez-n"]
 publication_types = ["2"]
 publication = "Ciencia en Desarrollo, (5), 1, _pp. 31--37_"
 publication_short = "Ciencia en Desarrollo, (5), 1, _pp. 31--37_"
