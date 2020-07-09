@@ -1,5 +1,5 @@
 +++
-title = "Ideales en el Anillo de Polinomios Torcidos R [x; \sigma, \delta]"
+title = "Ideales en el Anillo de Polinomios Torcidos R [x; sigma, delta]"
 date = "2014-01-01"
 authors = ["gonzalez-n"]
 publication_types = ["2"]
