@@ -1,7 +1,7 @@
 +++
 title = "NUEVAS HERRAMIENTAS PARA SOLUCIONAR PROBLEMAS DE OPTIMIZACI\'{O}N"
 date = "2011-01-01"
-authors = ["NELSY ROCIO GONZALEZ GUTIERREZ"]
+authors = ["gonzalez-n"]
 publication_types = ["1"]
 publication = "NA"
 publication_short = "NA"
@@ -9,7 +9,7 @@ abstract = ""
 abstract_short = ""
 image_preview = ""
 selected = false
-projects = []
+projects = [giaa]
 tags = []
 url_pdf = ""
 url_preprint = ""
