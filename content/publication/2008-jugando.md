@@ -6,7 +6,6 @@ publication_types = ["5"]
 publication = "Jotamar"
 publication_short = "Jotamar"
 selected = false
-projects = ["giaa"]
 tags = []
 math = true
 highlight = true
