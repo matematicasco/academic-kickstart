@@ -1,6 +1,6 @@
 +++
 title = "Algunas observaciones acerca del rango estable de anillos no conmutativos"
-date = "2020-07-23"
+date = "2020-07-13"
 authors = ["gallego-c"]
 publication_types = ["3"]
 publication = "Preprint"
