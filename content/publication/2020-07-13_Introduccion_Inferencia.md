@@ -8,7 +8,8 @@ publication_short = "Editorial UPTC"
 selected = false
 projects = ["tenga"]
 tags = []
-url = "https://alexrojas.netlify.app/publication/ie/"
+url_code = "https://alexrojas.netlify.app/publication/ie/"
+url_dataset = "https://alexrojas.netlify.app/publication/ie/"
 math = true
 highlight = true
 [header]
