@@ -30,3 +30,4 @@ links:
 slides: example
 ---
 
+Grupo Interdisciplinario en Ciencias
