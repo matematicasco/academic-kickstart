@@ -1,5 +1,5 @@
 +++
-date      = "2020-07-15"
+date      = "2020-07-14"
 draft     = false
 tags      = ["Nuestro Encuentro"]
 title     = "Charla 47: Rango estable de álgebras down-up"
