@@ -1,5 +1,5 @@
 +++
-date      = "2020-07-23"
+date      = "2020-07-22"
 draft     = false
 tags      = ["Nuestro Encuentro"]
 title     = "Charla 48: Can the aggregation of macrophages occurs when having a low density of tumor cells and vice versa?"
