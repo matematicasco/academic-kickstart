@@ -23,7 +23,7 @@ education:
   - course: MSc in Mathematics
     institution: University of Puerto Rico, Mayaguez Campus
     year: 2003
-  - course: BSc in Mathematics
+  - course: BSc in Statistics
     institution: Universidad Nacional de Colombia
     year: 2000
 
