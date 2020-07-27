@@ -23,7 +23,7 @@ education:
     year: 2019
   - course: MSc in Mathematical Sciences
     institution: Universidad Nacional de Colombia
-    year: 2015
+    year: 2014
   - course: Licenciatura en Matemáticas
     institution: Universidad Pedagógica y Tecnológica de Colombia
     year: 2009
