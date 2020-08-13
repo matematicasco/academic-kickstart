@@ -7,4 +7,4 @@ title     = "XV Encuentro Facultad de Ciencias"
 math      = true
 +++
 
-<img src="https://matematicas.netlify.com/img/EncuentroFacultad2020.jpg"  width="500"/>
+<img src="https://matematicas.netlify.com/img/EncuentroFacultad2020.jpg"  width="600"/>
