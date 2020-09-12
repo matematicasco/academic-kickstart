@@ -12,7 +12,6 @@ bio:
 
 interests:
 - Andean forest
-- Apiculture
 
 education:
   courses:
@@ -31,7 +30,7 @@ education:
   - course: BS in Statistics
     institution: Universidad Nacional de Colombia
     year: 1999
-
+    
 social:
  - icon: orcid
    icon_pack: ai
