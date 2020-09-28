@@ -11,7 +11,7 @@ interval = 4000
 
 # Slide height (optional).
 # E.g. `500px` for 500 pixels or `calc(100vh - 70px)` for full screen.
-height = "400"
+height = "500px"
 
 # Slides.
 # Duplicate an `[[item]]` block to add more slides.
@@ -23,7 +23,7 @@ height = "400"
 
   overlay_color = ""  # An HTML color value.
   overlay_img = "headers/NuestroEncuentro.jpg"  # Image path relative to your `static/img/` folder.
-  overlay_filter = 0.1  # Darken the image. Value in range 0-1.
+  overlay_filter = 0.3  # Darken the image. Value in range 0-1.
   
   # Call to action button (optional).
   #   Activate the button by specifying a URL and button label below.
@@ -42,7 +42,7 @@ height = "400"
   #   Deactivate an option by commenting out the line, prefixing it with `#`.
   overlay_color = "#3D1911"  # An HTML color value.
   overlay_img = "headers/sl2.jpg"  # Image path relative to your `static/img/` folder.
-  overlay_filter = 0.1  # Darken the image. Value in range 0-1.
+  overlay_filter = 0.3  # Darken the image. Value in range 0-1.
 
   # Call to action button (optional).
   #   Activate the button by specifying a URL and button label below.
@@ -59,7 +59,7 @@ height = "400"
 
   overlay_color = "#3D1911"  # An HTML color value.
   overlay_img = "headers/sl2.jpg"  # Image path relative to your `static/img/` folder.
-  overlay_filter = 0.1  # Darken the image. Value in range 0-1.
+  overlay_filter = 0.3  # Darken the image. Value in range 0-1.
 
   # Call to action button (optional).
   #   Activate the button by specifying a URL and button label below.
