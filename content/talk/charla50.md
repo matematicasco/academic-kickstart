@@ -1,5 +1,5 @@
 +++
-date      = "2020-09-12"
+date      = "2020-09-15"
 draft     = false
 tags      = ["Nuestro Encuentro"]
 title     = "Charla 50: Búsqueda de un patrón en la solución de problemas de la Olimpiada Mexicana de Matemáticas"
