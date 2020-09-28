@@ -2,7 +2,7 @@
 date      = "2020-09-28"
 draft     = false
 tags      = ["Nuestro Encuentro"]
-title     = "Charla 51: Extensiones abelianas de álgebras de Hpf"
+title     = "Charla 51: Extensiones abelianas de álgebras de Hopf"
 math      = true
 +++
 
