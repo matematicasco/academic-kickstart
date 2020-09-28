@@ -11,7 +11,7 @@ interval = 4000
 
 # Slide height (optional).
 # E.g. `500px` for 500 pixels or `calc(100vh - 70px)` for full screen.
-height = "500px"
+height = "350px"
 
 # Slides.
 # Duplicate an `[[item]]` block to add more slides.
@@ -19,7 +19,7 @@ height = "500px"
 [[item]]
   title = "Nuestro Encuentro"
   content = ""
-  align = "left"
+  align = "center"
 
   overlay_color = ""  # An HTML color value.
   overlay_img = "headers/NuestroEncuentro.jpg"  # Image path relative to your `static/img/` folder.
@@ -36,7 +36,7 @@ height = "500px"
 [[item]]
   title = "Olimpiadas"
   content = ""
-  align = "left"  # Choose `center`, `left`, or `right`.
+  align = "center"  # Choose `center`, `left`, or `right`.
 
   # Overlay a color or image (optional).
   #   Deactivate an option by commenting out the line, prefixing it with `#`.
@@ -55,7 +55,7 @@ height = "500px"
 [[item]]
   title = "Círculos Matemáticos"
   content = ""
-  align = "left"
+  align = "center"
 
   overlay_color = "#3D1911"  # An HTML color value.
   overlay_img = "headers/sl2.jpg"  # Image path relative to your `static/img/` folder.
