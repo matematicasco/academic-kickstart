@@ -6,7 +6,7 @@ title     = "Charla 51: Extensiones abelianas de álgebras de Hpf"
 math      = true
 +++
 
-**Conferencista:** [Yiby Morales]
+**Conferencista:** [Yiby Morales](https://www.researchgate.net/profile/Yiby_Morales)
 
 **Fecha:** Martes 29 de septiembre de 2020, 4:00 p.m.
 
