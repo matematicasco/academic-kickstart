@@ -2,7 +2,7 @@
 title = "p-Adic elliptic quadratic forms, parabolic-type pseudodifferential equations with variable coefficients and Markov processes
 "
 date = "2014-02-15"
-authors = ["casas-o","Zúñiga-Galindo, W. A."]
+authors = ["casas-o","Zuniga-Galindo, W. A."]
 publication_types = ["2"]
 publication = "*P-Adic Numbers, Ultrametric Analysis, and Applications* 6,  1–20"
 publication_short = ""
