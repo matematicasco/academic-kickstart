@@ -18,8 +18,8 @@ selected = false
 projects = ["tenga"]
 
 # Links (optional).
-url_pdf = "https://link.springer.com/article/10.1134/S2070046613030011"
-doi = "10.1134/S2070046613030011"
+url_pdf = "https://revistas.unal.edu.co/index.php/bolma/article/download/54973/54357"
+doi = ""
 # Does the content use math formatting?
 math = false
 
