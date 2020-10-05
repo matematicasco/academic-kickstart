@@ -1,7 +1,7 @@
 +++
 title = "Riesz Kernels and Pseudodifferential Operators Attached to Quadratic Forms over p-Adic Fields"
 date = "2013-08-08"
-authors = ["casas-o","Zúñiga-Galindo, W. A."]
+authors = ["casas-o","Zuniga-Galindo, W. A."]
 publication_types = ["2"]
 publication = "*P-Adic Numbers, Ultrametric Analysis, and Applications* 5,  177–193"
 publication_short = ""
