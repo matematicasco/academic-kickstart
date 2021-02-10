@@ -68,4 +68,6 @@ subtitle = ""
 
 <img src="https://matematicas.netlify.com/img/circulosSCM.jpg" alt="Logo" width="300"/>
 
-<a href="https://matematicas.netlify.app/post/vuelvencirculos2021/">¡Vuelven los Círculos Matemáticos Colombia!</a>
++ <a href="https://matematicas.netlify.app/post/vuelvencirculos2021/">¡Vuelven los Círculos Matemáticos Colombia!</a>
++ Primera seción virtual: <img src="https://matematicas.netlify.com/img/calendarioCirculos2021.jpg" alt="Calendario 2021-I" width="300"/>
+
