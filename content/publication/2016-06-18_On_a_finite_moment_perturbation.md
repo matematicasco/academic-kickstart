@@ -1,7 +1,7 @@
 +++
 title = "On a finite moment perturbation of linear functionals and the inverse Szego transformation"
 date = "2016-06-18"
-authors = ["fuentes-e", "Luis E. Garza"]
+authors = ["fuentes-e", "Garza, L. E."]
 publication_types = ["2"]
 publication = "Revista Integración, Volumen 34(1), 39-58"
 publication_short = ""
