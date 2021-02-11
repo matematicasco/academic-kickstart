@@ -40,7 +40,7 @@ height = "350px"
 
   # Overlay a color or image (optional).
   #   Deactivate an option by commenting out the line, prefixing it with `#`.
-  overlay_color = "#3D1911"  # An HTML color value.
+  overlay_color = ""  # An HTML color value.
   overlay_img = "Olimpiadas.png"  # Image path relative to your `static/img/` folder.
   overlay_filter = 0.4  # Darken the image. Value in range 0-1.
 
@@ -50,7 +50,7 @@ height = "350px"
   cta_label = "Más información"
   cta_url = "https://matematicas.netlify.com/tags/olimpiadas/"
   cta_icon_pack = "fas"
-  cta_icon = "graduation-cap"
+  cta_icon = "award"
 
 [[item]]
   title = "Círculos Matemáticos"
@@ -67,7 +67,5 @@ height = "350px"
   cta_label = "Más información"
   cta_url = "https://matematicas.netlify.com/tags/circulos/"
   cta_icon_pack = "fas"
-  cta_icon = "graduation-cap"
-
-
+  cta_icon = "circle"
 +++
