@@ -9,6 +9,6 @@ organizations:
   url: "http://www.uptc.edu.co"
 
 user_groups:
-- "Docentes Planta"
+- "Escuela"
 ---
 
