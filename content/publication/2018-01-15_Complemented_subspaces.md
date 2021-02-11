@@ -6,7 +6,7 @@ publication_types = ["2"]
 publication = "Revista Matematica Complutense 31, 153-161"
 publication_short = ""
 
-abstract = "."
+abstract = ""
 abstract_short = ""
 
 # Featured image thumbnail (optional)
