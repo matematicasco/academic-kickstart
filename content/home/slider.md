@@ -18,7 +18,7 @@ height = "350px"
 
 [[item]]
   title = "Nuestro Encuentro"
-  content = ""
+  content = "Encuentro"
   align = "left"
 
   overlay_color = ""  # An HTML color value.
@@ -54,7 +54,7 @@ height = "350px"
 
 [[item]]
   title = "Círculos Matemáticos"
-  content = ""
+  content = "Matemáticos"
   align = "left"
 
   overlay_color = "#3D1911"  # An HTML color value.
