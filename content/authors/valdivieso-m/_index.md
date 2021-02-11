@@ -34,7 +34,7 @@ social:
   link: https://scienti.minciencias.gov.co/cvlac/visualizador/generarCurriculoCv.do?cod_rh=0001383768
 email: ""
 user_groups:
-- "Docentes Planta"
+- "Escuela"
 - "gici"
 ---
 
