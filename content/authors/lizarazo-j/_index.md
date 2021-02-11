@@ -52,7 +52,9 @@ social:
  - icon: cv
    icon_pack: ai
    link: https://scienti.minciencias.gov.co/cvlac/visualizador/generarCurriculoCv.do?cod_rh=0000521728
-
+- icon: linkedin
+  icon_pack: fab
+  link: https://co.linkedin.com/in/julio-del-carmen-lizarazo-osorio-398ba81a3
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: ""
 
