@@ -45,7 +45,8 @@ social:
 email: ""
 
 user_groups:
-- "Docentes Planta"
+- "Escuela"
+- "tenga"
 ---
 
 
