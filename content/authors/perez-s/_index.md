@@ -13,6 +13,7 @@ bio:
 interests:
 - Banach operators
 - Topology 
+- Approximation property
 
 education:
   courses:
