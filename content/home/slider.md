@@ -19,7 +19,7 @@ height = "350px"
 [[item]]
   title = "Nuestro Encuentro"
   content = ""
-  align = "center"
+  align = "left"
 
   overlay_color = ""  # An HTML color value.
   overlay_img = "headers/NuestroEncuentro.jpg"  # Image path relative to your `static/img/` folder.
@@ -36,7 +36,7 @@ height = "350px"
 [[item]]
   title = "Olimpiadas"
   content = ""
-  align = "center"  # Choose `center`, `left`, or `right`.
+  align = "left"  # Choose `center`, `left`, or `right`.
 
   # Overlay a color or image (optional).
   #   Deactivate an option by commenting out the line, prefixing it with `#`.
@@ -55,7 +55,7 @@ height = "350px"
 [[item]]
   title = "Círculos Matemáticos"
   content = ""
-  align = "center"
+  align = "left"
 
   overlay_color = "#3D1911"  # An HTML color value.
   overlay_img = "headers/circulos.png"  # Image path relative to your `static/img/` folder.
