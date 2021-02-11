@@ -66,5 +66,5 @@ subtitle = ""
  css_class = ""
 +++
 
-<img src="https://matematicas.netlify.com/img/Olimpiadas.png" alt="Olimpiadas" width="400"/>
+<center><img src="https://matematicas.netlify.com/img/Olimpiadas.png" alt="Olimpiadas" width="400"/></center>
 
