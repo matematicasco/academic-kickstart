@@ -11,7 +11,7 @@ organizations:
 bio: 
 
 interests:
-- Banach operators
+- Banach operators and operator theory
 - Topology 
 - Approximation property
 
