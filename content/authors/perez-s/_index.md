@@ -10,6 +10,10 @@ organizations:
 
 bio: 
 
+interests:
+- Banach operators
+- Topology 
+
 education:
   courses:
   - course: PhD in Mathematics
