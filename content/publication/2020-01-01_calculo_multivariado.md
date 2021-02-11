@@ -1,6 +1,6 @@
 +++
 title = "Cálculo multivariado con el uso de WXMAXIMA"
-date = "2020-07-13"
+date = "2020-06-12"
 authors = ["Suárez, O. J.","lizarazo-j","Fajardo-Patiño, J.M."]
 publication_types = ["5"]
 publication = "Fundación Universidad Autonoma De Colombia"
@@ -13,5 +13,3 @@ highlight = true
 image = ""
 caption = ""
 +++
-
-aooo
