@@ -58,7 +58,7 @@ height = "350px"
   align = "left"
 
   overlay_color = "#3D1911"  # An HTML color value.
-  overlay_img = "headers/circulos.png"  # Image path relative to your `static/img/` folder.
+  overlay_img = "headers/circulos2.png"  # Image path relative to your `static/img/` folder.
   overlay_filter = 0.4  # Darken the image. Value in range 0-1.
 
   # Call to action button (optional).
