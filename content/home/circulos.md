@@ -66,7 +66,7 @@ subtitle = ""
  css_class = ""
 +++
 
-<img src="https://matematicas.netlify.com/img/circulosSCM.jpg" alt="Logo" width="300"/>
+<center><img src="https://matematicas.netlify.com/img/circulosSCM.jpg" alt="Logo" width="300"/></center>
 
 + <a href="https://matematicas.netlify.app/post/vuelvencirculos2021/">¡Vuelven los Círculos Matemáticos Colombia!</a>
 + Primera sesión virtual 2021: <img src="https://matematicas.netlify.com/img/vuelvecirculo2021.jpg" alt="Primera sesión 2021-I" width="500"/>
