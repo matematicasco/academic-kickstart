@@ -26,7 +26,7 @@ education:
 
 # Social/Academic Networking
 social:
-- icon: research-gate
+- icon: researchgate
   icon_pack: ai
   link: https://www.researchgate.net/profile/Nubia_Gomez_Velasco
 - icon: google-scholar
