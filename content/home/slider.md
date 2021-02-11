@@ -18,7 +18,7 @@ height = "350px"
 
 [[item]]
   title = "Nuestro Encuentro"
-  content = "Encuentro"
+  content = ""
   align = "left"
 
   overlay_color = ""  # An HTML color value.
@@ -34,7 +34,7 @@ height = "350px"
   cta_icon = "chalkboard-teacher"
 
 [[item]]
-  title = "Olimpiadas"
+  title = ""
   content = ""
   align = "left"  # Choose `center`, `left`, or `right`.
 
@@ -53,8 +53,8 @@ height = "350px"
   cta_icon = "award"
 
 [[item]]
-  title = "Círculos Matemáticos"
-  content = "Matemáticos"
+  title = ""
+  content = ""
   align = "left"
 
   overlay_color = "#3D1911"  # An HTML color value.
