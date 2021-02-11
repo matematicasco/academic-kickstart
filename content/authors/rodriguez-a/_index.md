@@ -36,6 +36,6 @@ social:
 email: ""
 
 user_groups:
-- "Docentes Ocasionales"
+- "Escuela"
 ---
 
