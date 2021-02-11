@@ -66,16 +66,6 @@ subtitle = ""
  css_class = ""
 +++
 
+<img src="Olimpiadas.jpg" alt="Olimpiadas">
 
-La **Escuela de Matemáticas y Estadística** en atención a las medidas adoptadas por el Ministerio de Salud frente a la pandemia de COVID-19 y con el objetivo de proteger la comunidad estudiantil que participaría en las "Olimpiadas Matemáticas  2020" se permite informar que dicho evento será pospuesto para el año 2021.
- 
-Estamos prestos a cualquier inquietud e información en el correo electrónico **matematicasyestadistica1@gmail.com** o al WhatsApp **3218383384**
-
-<!--
-### Fechas Importantes
-1. **Inscripción**: marzo 16 a abril 17 de 2020
-2. **Fase Clasificatoria**: miércoles 29 de abril de 2020 en la respectiva institución educativa
-3. **Fase Selectiva**: miércoles 26 de agosto de 2020 en la respectiva institución educativa
-4. **Fase Final**: miércoles 14 de octubre de 2020 en la sede central de la UPTC, previa información
--->
 
