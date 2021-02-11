@@ -36,7 +36,7 @@ social:
   link: http://scienti.colciencias.gov.co:8081/cvlac/visualizador/generarCurriculoCv.do?cod_rh=0000320056
 email: ""
 user_groups:
-- "Docentes Planta"
+- "Escuela"
 - "giaa"
 ---
 
