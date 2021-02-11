@@ -1,7 +1,7 @@
 +++
 title = "On the Szegő transformation for some spectral perturbations of matrix measures"
 date = "2021-01-01"
-authors = ["fuentes-e"]
+authors = ["fuentes-e","Garza, L. E", "Dueñas, H."]
 publication_types = ["2"]
 publication = "Journal of Mathematical Analysis and Applications, Volumen 499(1), 1-22"
 publication_short = ""
@@ -10,6 +10,7 @@ abstract_short = ""
 selected = false
 projects = ["giaa"]
 url_pdf = "https://www.sciencedirect.com/science/article/abs/pii/S0022247X21001153"
+doi = "10.1016/j.jmaa.2021.125036"
 math = true
 highlight = true
 +++
