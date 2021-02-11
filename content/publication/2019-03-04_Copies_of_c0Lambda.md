@@ -20,6 +20,6 @@ image = ""
 caption = ""
 +++
 
-Título correcto: Copies of $$c_0(\Gamma )$$ in the space of bounded linear operators
+Título correcto: Copies of $c_0(\Gamma )$ in the space of bounded linear operators
 
 
