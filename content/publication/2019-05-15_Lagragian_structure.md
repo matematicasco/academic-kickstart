@@ -1,7 +1,7 @@
 +++
 title = "Lagrangian structure for two dimensional non-barotropic compressible fluids"
 date = "2019-05-15"
-authors = ["maluendas=p","Santos, M. M."]
+authors = ["maluendas-p","Santos, M. M."]
 publication_types = ["2"]
 publication = "Journal of Mathematical Analysis and Applications, Volumen 473(2), 934-951"
 publication_short = ""
