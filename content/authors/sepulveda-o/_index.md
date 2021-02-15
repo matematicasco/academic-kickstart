@@ -34,6 +34,9 @@ social:
 - icon: cv
   icon_pack: ai
   link: http://scienti.colciencias.gov.co:8081/cvlac/visualizador/generarCurriculoCv.do?cod_rh=0000320056
+- icon: researchgate
+  icon_pack: ai
+  link: https://www.researchgate.net/profile/Omaida_Sepulveda
 email: ""
 user_groups:
 - "Escuela"
