@@ -40,7 +40,6 @@ social:
 - icon: cv
   icon_pack: ai
   link: http://scienti.colciencias.gov.co:8081/cvlac/visualizador/generarCurriculoCv.do?cod_rh=0001241265
-email: ""
 user_groups:
 - "Escuela"
 - "gici"
