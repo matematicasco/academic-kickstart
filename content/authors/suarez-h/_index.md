@@ -10,7 +10,8 @@ organizations:
 
 # Short bio (displayed in user profile at end of posts)
 bio: 
-
+interests:
+- Algebra
 education:
   courses:
   - course: PhD in Mathematical Sciences
