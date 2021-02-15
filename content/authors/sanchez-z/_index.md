@@ -31,7 +31,10 @@ social:
 - icon: cv
   icon_pack: ai
   link: http://scienti.colciencias.gov.co:8081/cvlac/visualizador/generarCurriculoCv.do?cod_rh=0000321419
-email: ""
+- icon: researchgate
+  icon_pack: ai
+  link: https://www.researchgate.net/profile/Zagalo_Enrique_Aguilar
+
 user_groups:
 - "Escuela"
 - "giaa"
