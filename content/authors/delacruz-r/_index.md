@@ -33,6 +33,10 @@ social:
  - icon: cv
    icon_pack: ai
    link: https://scienti.minciencias.gov.co/cvlac/visualizador/generarCurriculoCv.do?cod_rh=0000506486
+ - icon: researchgate
+   icon_pack: ai
+   link: https://www.researchgate.net/profile/Richard_De_la_cruz_Guerrero
+
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: ""
