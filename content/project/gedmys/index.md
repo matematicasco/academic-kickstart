@@ -29,3 +29,9 @@ links:
 #   Otherwise, set `slides = ""`.
 slides: example
 ---
+
+### Miembros
+
+[<img src ="https://matematicas.netlify.app/authors/juajibioy-j/avatar_hu5df1c8819173624070355066ceef533e_191430_270x270_fill_q90_lanczos_center.jpg">](https://matematicas.netlify.app/authors/juajibioy-j/)| [<img src ="https://matematicas.netlify.app/authors/delacruz-r/avatar_hu93c9eee126b5843f4238a2375efb541b_4536_270x270_fill_q90_lanczos_center.jpg">](https://matematicas.netlify.app/authors/delacruz-r/)|[<img src ="https://matematicas.netlify.app/authors/alvarez-r/avatar_hu358bd53a4da504809f653deb012f7fb8_79960_270x270_fill_q90_lanczos_center.jpg">](https://matematicas.netlify.app/authors/alvarez-r/)
+ ---| ---|---
+[<img src ="https://matematicas.netlify.app/authors/montero-j/avatar_hu758988984a5a2101b5c12616abe23a45_57647_270x270_fill_q90_lanczos_center.jpg">](https://matematicas.netlify.app/authors/montero-j/)| [<img src ="https://matematicas.netlify.app/authors/perez-s/avatar_huca772564cf973dc7601bf7aedff0edf3_170224_270x270_fill_q90_lanczos_center.jpg">](https://matematicas.netlify.app/authors/perez-s/)|
