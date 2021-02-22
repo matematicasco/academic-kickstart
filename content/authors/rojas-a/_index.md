@@ -50,7 +50,7 @@ user_groups:
 ---
 
 Cursos a cargo 2020-II:
-+ Esadística Inferencial
-+ Electiva I
-
++ Estadística Inferencial, Matemáticas
++ Electiva I, Matemáticas
++ Seminario I, [Maestría en Química](http://www.uptc.edu.co/facultades/f_ciencias/maestria/quimica/inf_general/index.html)
 
