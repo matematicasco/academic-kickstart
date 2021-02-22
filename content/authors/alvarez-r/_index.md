@@ -32,17 +32,7 @@ education:
     institution: Universidad del Atlántico
     year: 2007
 
-# Social/Academic Networking
-# For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
-#   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
-#   form "mailto:your-email@example.com" or "#contact" for contact widget.
 social:
-#- icon: envelope
-#  icon_pack: fas
-#  link: '#contact'  # For a direct email link, use "mailto:matematicasyestadistica@uptc.edu.co".
-#- icon: twitter
-#  icon_pack: fab
-#  link: https://twitter.com/GeorgeCushen
 # - icon: orcid
 #   icon_pack: ai
 #   link: https://orcid.org/0000-0003-4478-5201
@@ -59,7 +49,6 @@ social:
    icon_pack: ai
    link: http://scienti.colciencias.gov.co:8081/cvlac/visualizador/generarCurriculoCv.do?cod_rh=0001171054
 
-# Enter email to display Gravatar (if Gravatar enabled in Config)
 email: ""
 
 # Organizational groups that you belong to (for People widget)
@@ -67,5 +56,5 @@ email: ""
 user_groups:
 - "Escuela"
 ---
-
+check
 
