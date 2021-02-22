@@ -32,7 +32,11 @@ slides: example
 
 Grupo Interdisciplinario en Ciencias
 
-Miembros:
+### Miembros
+
+[<img src ="https://matematicas.netlify.app/authors/burbano-v/avatar_hu3be119652bc22f4c2c1c8d2fecb2b3e1_977995_270x270_fill_q90_lanczos_center.jpg">](https://matematicas.netlifya.app/authors/burbano-v/) | [<img src ="https://matematicas.netlify.app/authors/valdivieso-m/avatar_hu2005ae2c514a2e7bf40277fa3f4e8237_156231_270x270_fill_q90_lanczos_center.jpg">](https://matematicas.netlify.app/authors/valdivieso-m/) |
+ ---| ---|---
+||
 
 
 
