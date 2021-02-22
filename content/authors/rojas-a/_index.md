@@ -49,4 +49,8 @@ user_groups:
 - "tenga"
 ---
 
+Cursos a cargo 2020-II:
++ Esadística Inferencial
++ Electiva I
+
 
