@@ -1,7 +1,7 @@
 +++
 date      = "2020-06-30"
 draft     = false
-tags      = ["Nuestro Encuentro", "serna-r"]
+tags      = ["Nuestro Encuentro"]
 title     = "Charla 45: Un modelo geométrico para las categorías zócalo-proyectivas de posets (tipo A)"
 math      = true
 +++
