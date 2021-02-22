@@ -3,6 +3,7 @@ title: GTNyGA
 summary: Grupo de teoría de los números y geometría algebraica
 tags:
 - Grupos
+- tenga
 date: "2016-04-27T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).
@@ -11,7 +12,7 @@ date: "2016-04-27T00:00:00Z"
 image:
   caption: GTNyGA
   focal_point: Smart
-
+  
 #links:
 #- icon: twitter
 #  icon_pack: fab
@@ -25,3 +26,4 @@ image:
 ---
 
 Grupo de teoría de los números y geometría algebraica.
+  
