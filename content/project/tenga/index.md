@@ -3,8 +3,7 @@ title: GTNyGA
 summary: Grupo de teoría de los números y geometría algebraica
 tags:
 - Grupos
-- tenga
-date: "2016-04-27T00:00:00Z"
+date: "2016-04-27"
 
 # Optional external URL for project (replaces project detail page).
 #external_link: ""
