@@ -128,7 +128,7 @@ twitter = ""
 
 # Date and time format (refer to https://sourcethemes.com/academic/docs/customization/#date-format )
 #   Examples: "Mon, Jan 2, 2006" or "2006-01-02"
-date_format = "2006"
+date_format = "2006-01-02"
 #   Examples: "3:04 pm" or "15:04"
 time_format = ""
 
@@ -193,9 +193,9 @@ plugins_js  = []
   #   2: Compact
   #   3: Card
   #   4: Citation (publications only)
-  post_view = 2
-  publication_view = 2
-  talk_view = 2
+  post_view = 3
+  publication_view = 4
+  talk_view = 3
 
 ############################
 ## Comments
