@@ -4,6 +4,7 @@ draft     = false
 tags      = ["Nuestro Encuentro"]
 title     = "Charla 45: Un modelo geométrico para las categorías zócalo-proyectivas de posets (tipo A)"
 math      = true
+abstract  = ddd
 +++
 
 [Grabación](https://drive.google.com/open?id=1EGK3L-Trc9Bn3G3As1EiFLoV3usMToBd)
