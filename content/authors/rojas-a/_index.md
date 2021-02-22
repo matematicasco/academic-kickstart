@@ -16,7 +16,7 @@ interests:
 education:
   courses:
   - course: PhD in Statistics
-    institution: [Carnegie Mellon University](http://www.stat.cmu.edu)
+    institution: Carnegie Mellon University
     year: 2006
   - course: MSc in Knowledge Discovery and Data Mining
     institution: Carnegie Mellon University
