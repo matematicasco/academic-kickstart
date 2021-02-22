@@ -57,5 +57,3 @@ user_groups:
 - "Escuela"
 ---
 
-check does not work
-
