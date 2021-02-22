@@ -31,3 +31,10 @@ slides: example
 ---
 
 Grupo Interdisciplinario en Ciencias
+
+Miembros:
+
+
+
+
+
