@@ -10,7 +10,6 @@ math      = true
 summary="" border="2">
 <tbody>
 <tr>
-
 <td bgcolor="#99FF99">
 <p align="center">
 <strong>Charla No</strong>
