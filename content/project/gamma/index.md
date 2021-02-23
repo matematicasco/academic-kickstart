@@ -36,9 +36,8 @@ image:
 
 ### Líneas de investigación
 
++ Análisis cienciométrico
 + Modelos paramétricos y no paramétricos
-+ Estadística matemática y aplicaciones 
-+ Muestreo
 + Educación estadística
 
 El grupo de investigación está integrado por profesionales con alta formación y trayectoria académica e investigativa, comprometidos con fortalecer el pensamiento y la cultura estadística a través de proyectos de investigación en la línea de producción de conocimiento estadístico o aplicación de ellos, que conlleven a la solución de problemas específicos en el ámbito regional o nacional. Cuenta con experiencia certificada en dirección y en asesoría de trabajos de grado a nivel de pregrado, maestría y doctorado de diversos programas, así como en realización de consultorías estadísticas a entidades públicas y privadas y en la ejecución de proyectos institucionales cofinanciados. 
