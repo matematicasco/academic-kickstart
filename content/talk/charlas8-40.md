@@ -35,7 +35,7 @@ math      = true
 <td><p align="center"><font size="2">38</td>
 <td><p align="left"><font size="2">19/11/2019</td>
 <td>Multiplication is easier when it’s complex</td>
-  <td>Pedro J. Albarracín Vargas</td>
+<td>Pedro J. Albarracín Vargas</td>
 </tr>
 
 
@@ -43,23 +43,21 @@ math      = true
 <td><p align="center"><font size="2">37</td>
 <td><p align="left"><font size="2">12/11/2019</td>
 <td>How often should you beat your kids?</td>
-  <td>Mónica L. Pineda Becerra</td>
+ <td>Mónica L. Pineda Becerra</td>
 </tr>
 
 <tr>
 <td><p align="center"><font size="2">36</td>
 <td><p align="left"><font size="2">1/10/2019</td>
 <td>La cara algebraica de la compactificación por un punto de Alexandroff</td>
-  <td><a href="https://www.researchgate.net/profile/Jorge-Vielma">Jorge E Vielma Barrios</a> </td>
+ <td><a href="https://www.researchgate.net/profile/Jorge-Vielma">Jorge E Vielma Barrios</a></td>
 </tr>
 
 
 <tr>
 <td><p align="center"><font size="2">35</td>
 <td><p align="left"><font size="2">9/08/2019</td>
-<td><a
-href="http://www.uptc.edu.co/export/sites/default/facultades/f_ciencias/pregrado/matematicas/inf_adicional/eventos/NuestroEncuentro/Charla_35_9_VIII_2019.pdf"
- >El teorema del valor intermedio y soluciones radiales a problemas elípticos.</a></td>
+<td><a href="http://www.uptc.edu.co/export/sites/default/facultades/f_ciencias/pregrado/matematicas/inf_adicional/eventos/NuestroEncuentro/Charla_35_9_VIII_2019.pdf"> El teorema del valor intermedio y soluciones radiales a problemas elípticos.</a></td>
 <td><a href="http://www.uptc.edu.co/export/sites/default/facultades/f_ciencias/pregrado/matematicas/inf_adicional/eventos/NuestroEncuentro/Alfonso_Castro_Curriculum_Vitae.pdf" >Alfonso Castro</a></td></tr>
 <tr>
 
@@ -91,23 +89,12 @@ Infinita - Una base de Schauder para C[0,1].
 <td>Richard E. Sánchez Méndez</td>
 </tr>
 
-
 <tr>
-<td>
-<p align="center">
-<font size="2">31
-</td>
-<td>
-<p align="left">
-<font size="2">23/07/2019
-</td>
-<td>
-
-<a
-href="http://www.uptc.edu.co/export/sites/default/facultades/f_ciencias/pregrado/matematicas/inf_adicional/eventos/NuestroEncuentro/charla_31_23_VII_2019.pdf"
- >Paradoxes, Contradictions, and the Limits of
-Science.</a></td>
-<td>Claudia A. Fajardo Beltrán</td></tr>
+<td><p align="center"><font size="2">31</td>
+<td><p align="left"><font size="2">23/07/2019</td>
+<td><a href="http://www.uptc.edu.co/export/sites/default/facultades/f_ciencias/pregrado/matematicas/inf_adicional/eventos/NuestroEncuentro/charla_31_23_VII_2019.pdf">Paradoxes, Contradictions, and the Limits of Science.</a></td>
+<td>Claudia A. Fajardo Beltrán</td>
+</tr>
 
 <tr>
 <td>
