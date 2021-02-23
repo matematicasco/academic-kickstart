@@ -67,7 +67,7 @@ href="http://www.uptc.edu.co/export/sites/default/facultades/f_ciencias/pregrado
 <tr>
 <td><p align="center"><font size="2">1</td>
 <td>1/03/2018</td>
-<td><em>Algunas pruebas de la infinitud primos.</a></em></td>
+<td>Algunas pruebas de la infinitud primos</td>
 <td>Álvaro Calvache. Docente Uptc </td>
 </tr>
 </table>
