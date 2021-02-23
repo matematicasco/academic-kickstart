@@ -27,7 +27,7 @@ href="http://www.uptc.edu.co/export/sites/default/facultades/f_ciencias/pregrado
 <td><p align="left"><font size="2">2/08/2019</td>
 <td><a href="http://www.uptc.edu.co/export/sites/default/facultades/f_ciencias/pregrado/matematicas/inf_adicional/eventos/NuestroEncuentro/Charla_34_2_VIII_2019.pdf"
  >Reproducción del Rombicuboctaedro de Pacioli</a></td>
-<td>Pablo Edixon Rodríguez Amado</td>
+<td>Pablo E. Rodríguez Amado</td>
 </tr>
 
 <tr>
