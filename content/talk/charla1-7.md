@@ -1,5 +1,5 @@
 +++
-date      = "2019-09-01"
+date      = "2018-05-03"
 draft     = false
 tags      = ["Nuestro Encuentro"]
 title     = "Listado charlas previas"
@@ -21,7 +21,7 @@ math      = true
 <td><a
 href="http://www.uptc.edu.co/export/sites/default/facultades/f_ciencias/pregrado/matematicas/inf_adicional/eventos/NuestroEncuentro/Charla_07.pdf"
  target="_blank">Discontinuidad de las Soluciones en Problemas de leyes de conservación</a></td>
-<td>Zagalo Enrique Suárez. Docente UPTC.</td>
+<td><a href="https://matematicas.netlify.app/authors/sanchez-z/"> Zagalo E. Suárez</a></td>
 </tr>
 
 <tr>
@@ -30,7 +30,7 @@ href="http://www.uptc.edu.co/export/sites/default/facultades/f_ciencias/pregrado
 <td><a
 href="http://www.uptc.edu.co/export/sites/default/facultades/f_ciencias/pregrado/matematicas/inf_adicional/eventos/NuestroEncuentro/Charla_06.pdf"
  target="_blank">Operadores de Toeplitz y medidas de tipo Fock‐Carleson</a></td>
-<td>Kevin Esmeral García. Docente UPTC.</td>
+  <td> <a href="https://www.researchgate.net/profile/Kevin-Esmeral-Garcia"> Kevin Esmeral García</a>. Universidad de Caldas</td>
 </tr>
 
 <tr>
@@ -63,7 +63,7 @@ href="http://www.uptc.edu.co/export/sites/default/facultades/f_ciencias/pregrado
 <td>8/03/2018</td>
 <td><a
 href="http://www.uptc.edu.co/export/sites/default/facultades/f_ciencias/pregrado/matematicas/inf_adicional/eventos/NuestroEncuentro/conferencia2.pdf"
- target="_blank">La matemática textual.</a></td><td>Jairo Hernando Guasgüita Ruiz. Docente Uptc</td></tr>
+ target="_blank">La matemática textual.</a></td><td>Jairo H Guasgüita. Docente Uptc</td></tr>
 <tr>
 <td><p align="center"><font size="2">1</td>
 <td>1/03/2018</td>
