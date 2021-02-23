@@ -29,6 +29,7 @@ links:
 #   Otherwise, set `slides = ""`.
 slides: example
 ---
+
 <style>
   #circleM
   {
@@ -37,6 +38,19 @@ slides: example
   height:100px;
   }
 </style>
+
+<center>
+  [GrupLac](https://scienti.minciencias.gov.co/gruplac/jsp/visualiza/visualizagr.jsp?nro=00000000017763)
+</center>  
+
+### Líneas de investigación
+
++  Análisis Armónico
++  Dinámica de Fluidos
++  Ecuaciones Diferenciales Parciales no Lineales
++  Sistemas Dinámicos, Hiperbolicidad y Ergodicidad
++  Teoría de Operadores de TOEPLITZ
+
 
 &nbsp;| Lider | &nbsp;
 :---: | :---:| :---:
