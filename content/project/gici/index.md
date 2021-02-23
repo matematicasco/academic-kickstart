@@ -38,7 +38,18 @@ slides: example
   }
 </style>
 
-Grupo Interdisciplinario en Ciencias
+## Grupo Interdisciplinario en Ciencias
+
+[GrupLac](https://scienti.minciencias.gov.co/gruplac/jsp/visualiza/visualizagr.jsp?nro=00000000014259)
+
+### Líneas de investigación
+
++ Epistemología de las Matemáticas y de la Ciencias
++ Estadística Aplicada a las Ciencias, Educación Estadística y Didáctica de la Matemática
++ Historia de las Ciencias
++ Métodos de Optimización y Nuevas Tecnologías
++ Métodos y Pensamiento Matemático Aplicados a las Ciencias
+
 
 
 &nbsp;| Lider | &nbsp;
