@@ -19,14 +19,14 @@ math      = true
 <td><p align="left"><font size="2">9/08/2019</td>
 <td><a
 href="http://www.uptc.edu.co/export/sites/default/facultades/f_ciencias/pregrado/matematicas/inf_adicional/eventos/NuestroEncuentro/Charla_35_9_VIII_2019.pdf"
- target="_blank">El teorema del valor intermedio y soluciones radiales a problemas elípticos.</a></td>
-<td><a href="http://www.uptc.edu.co/export/sites/default/facultades/f_ciencias/pregrado/matematicas/inf_adicional/eventos/NuestroEncuentro/Alfonso_Castro_Curriculum_Vitae.pdf" target="_blank">Alfonso Castro</a></td></tr>
+ >El teorema del valor intermedio y soluciones radiales a problemas elípticos.</a></td>
+<td><a href="http://www.uptc.edu.co/export/sites/default/facultades/f_ciencias/pregrado/matematicas/inf_adicional/eventos/NuestroEncuentro/Alfonso_Castro_Curriculum_Vitae.pdf" >Alfonso Castro</a></td></tr>
 <tr>
 
 <td><p align="center"><font size="2">34</td>
 <td><p align="left"><font size="2">2/08/2019</td>
 <td><a href="http://www.uptc.edu.co/export/sites/default/facultades/f_ciencias/pregrado/matematicas/inf_adicional/eventos/NuestroEncuentro/Charla_34_2_VIII_2019.pdf"
- target="_blank">Reproducción del Rombicuboctaedro de Pacioli</a></td>
+ >Reproducción del Rombicuboctaedro de Pacioli</a></td>
 <td>Pablo Edixon Rodríguez Amado</td>
 </tr>
 
@@ -35,7 +35,7 @@ href="http://www.uptc.edu.co/export/sites/default/facultades/f_ciencias/pregrado
 <td><p align="left"><font size="2">30/07/2019</td>
 <td><a
 href="http://www.uptc.edu.co/export/sites/default/facultades/f_ciencias/pregrado/matematicas/inf_adicional/eventos/NuestroEncuentro/Charla_33_30_VII_2019.pdf"
- target="_blank">Escalera al Cielo: El Método Abstracto y los
+ >Escalera al Cielo: El Método Abstracto y los
 Niveles de Abstracción en Matemáticas</a></td>
 <td>Lizzeth P. Ibáñez Rojas <br> Martha C. Barrera Buitrago</td>
 </tr>
@@ -45,7 +45,7 @@ Niveles de Abstracción en Matemáticas</a></td>
 <td><p align="center"><font size="2">32</td>
 <td><p align="left"><font size="2">23/07/2019</td>
 <td><a href="http://www.uptc.edu.co/export/sites/default/facultades/f_ciencias/pregrado/matematicas/inf_adicional/eventos/NuestroEncuentro/charla_32_23_VII_2019.pdf"
- target="_blank">Bases en Espacios de Banach de Dimensión
+ >Bases en Espacios de Banach de Dimensión
 Infinita - Una base de Schauder para C[0,1].
 </a></td>
 <td>Richard E. Sánchez Méndez</td>
@@ -65,7 +65,7 @@ Infinita - Una base de Schauder para C[0,1].
 
 <a
 href="http://www.uptc.edu.co/export/sites/default/facultades/f_ciencias/pregrado/matematicas/inf_adicional/eventos/NuestroEncuentro/charla_31_23_VII_2019.pdf"
- target="_blank">Paradoxes, Contradictions, and the Limits of
+ >Paradoxes, Contradictions, and the Limits of
 Science.</a></td>
 <td>Claudia A. Fajardo Beltrán</td></tr>
 
@@ -82,7 +82,7 @@ Science.</a></td>
 
 <a
 href="http://www.uptc.edu.co/export/sites/default/facultades/f_ciencias/pregrado/matematicas/inf_adicional/eventos/NuestroEncuentro/Charla_30_16_VII_2019.pdf"
- target="_blank">C*-Álgebras</a>
+ >C*-Álgebras</a>
 
 </td>
 <td>Pablo E. Rodríguez Amado
@@ -103,7 +103,7 @@ href="http://www.uptc.edu.co/export/sites/default/facultades/f_ciencias/pregrado
 
 <a
 href="http://www.uptc.edu.co/export/sites/default/facultades/f_ciencias/pregrado/matematicas/inf_adicional/eventos/NuestroEncuentro/Charla_29_16_VII_2019.pdf"
- target="_blank">A Unified Theory of Randomness.</a>
+ >A Unified Theory of Randomness.</a>
 
 </td>
 <td>Leidy J. Rocha Peña
@@ -123,7 +123,7 @@ href="http://www.uptc.edu.co/export/sites/default/facultades/f_ciencias/pregrado
 
 <a
 href="http://www.uptc.edu.co/export/sites/default/facultades/f_ciencias/pregrado/matematicas/inf_adicional/eventos/NuestroEncuentro/charla_28_16_VII_2019.pdf"
- target="_blank">Girih for Domes: Analysis of Three Iranian Domes</a>
+ >Girih for Domes: Analysis of Three Iranian Domes</a>
 
 </td>
 <td>Diana M. Cárdenas Estupiñán
@@ -144,7 +144,7 @@ href="http://www.uptc.edu.co/export/sites/default/facultades/f_ciencias/pregrado
 
 <a
 href="http://www.uptc.edu.co/export/sites/default/facultades/f_ciencias/pregrado/matematicas/inf_adicional/eventos/NuestroEncuentro/Charla_27_9_VII_2019.pdf"
- target="_blank">Perturbación de momentos matriciales y la transformación de Szego inversa.</a></td>
+ >Perturbación de momentos matriciales y la transformación de Szego inversa.</a></td>
 <td><a href="https://matematicas.netlify.app/authors/fuentes-e/">Edinson Fuentes</a></td>
 </tr>
 
@@ -162,7 +162,7 @@ href="http://www.uptc.edu.co/export/sites/default/facultades/f_ciencias/pregrado
 
 <a
 href="http://www.uptc.edu.co/export/sites/default/facultades/f_ciencias/pregrado/matematicas/inf_adicional/eventos/NuestroEncuentro/Charla_26_9_VII_2019.pdf"
- target="_blank">Grandes expectativas: el pasado, el presente,
+ >Grandes expectativas: el pasado, el presente,
 y el futuro de predicción.</a>
 
 </td>
@@ -182,7 +182,7 @@ y el futuro de predicción.</a>
 
 <a
 href="http://www.uptc.edu.co/export/sites/default/facultades/f_ciencias/pregrado/matematicas/inf_adicional/eventos/NuestroEncuentro/Charla_25_9_VII_2019.pdf"
- target="_blank">Conceptos umbral y la enseñanza de Matemáticas en pregrado</a>
+ >Conceptos umbral y la enseñanza de Matemáticas en pregrado</a>
 
 </td>
 <td>Fabián A. Buitrago Bello</td>
@@ -202,7 +202,7 @@ href="http://www.uptc.edu.co/export/sites/default/facultades/f_ciencias/pregrado
 
 <a
 href="http://www.uptc.edu.co/export/sites/default/facultades/f_ciencias/pregrado/matematicas/inf_adicional/eventos/NuestroEncuentro/charla_24_2_07_2019.pdf"
- target="_blank">¿Son nuestros cerebros bayesianos?</a>
+ >¿Son nuestros cerebros bayesianos?</a>
 
 </td>
 <td>Andrés F. Pachón</td>
@@ -222,7 +222,7 @@ href="http://www.uptc.edu.co/export/sites/default/facultades/f_ciencias/pregrado
 
 <a
 href="http://www.uptc.edu.co/export/sites/default/facultades/f_ciencias/pregrado/matematicas/inf_adicional/eventos/NuestroEncuentro/charla_23_2_07_2019.pdf"
- target="_blank">Geometría de la ilusión de la inclinación lunar.</a>
+ >Geometría de la ilusión de la inclinación lunar.</a>
 
 </td>
 <td>Luis G. López García</td>
@@ -241,7 +241,7 @@ href="http://www.uptc.edu.co/export/sites/default/facultades/f_ciencias/pregrado
 
 <a
 href="http://www.uptc.edu.co/export/sites/default/facultades/f_ciencias/pregrado/matematicas/inf_adicional/eventos/NuestroEncuentro/Charla_22_28_06_2019.pdf"
- target="_blank">Älgebras de dimensión finita, como álgebras de caminos de un carcaj.</a>
+ >Älgebras de dimensión finita, como álgebras de caminos de un carcaj.</a>
 
 </td>
 <td><a href="https://blog.valdosta.edu/javelezmarulanda/curriculum-vitae/">José Vélez Marulanda</a> </td>
@@ -260,7 +260,7 @@ href="http://www.uptc.edu.co/export/sites/default/facultades/f_ciencias/pregrado
 
 <a
 href="http://www.uptc.edu.co/export/sites/default/facultades/f_ciencias/pregrado/matematicas/inf_adicional/eventos/NuestroEncuentro/charla_21_4_06_2019.pdf"
- target="_blank">Introducción a conceptos básicos de matemática, usando el programa CABRI II Plus.</a>
+ >Introducción a conceptos básicos de matemática, usando el programa CABRI II Plus.</a>
 
 </td>
 <td>Álvaro Calvache Archila</td>
@@ -280,7 +280,7 @@ href="http://www.uptc.edu.co/export/sites/default/facultades/f_ciencias/pregrado
 
 <a
 href="http://www.uptc.edu.co/export/sites/default/facultades/f_ciencias/pregrado/matematicas/inf_adicional/eventos/NuestroEncuentro/charla_20_28_05_2019.pdf"
- target="_blank">Una breve introducción a SAGE.</a>
+ >Una breve introducción a SAGE.</a>
 
 </td>
 <td><a href="https://matematicas.netlify.app/authors/montero-j/"> Julio A. Montero</a></td>
@@ -300,7 +300,7 @@ href="http://www.uptc.edu.co/export/sites/default/facultades/f_ciencias/pregrado
 
 <a
 href="http://www.uptc.edu.co/export/sites/default/facultades/f_ciencias/pregrado/matematicas/inf_adicional/eventos/NuestroEncuentro/charla_19_14_05_2019.pdf"
- target="_blank">Breve historia de los números.</a>
+ >Breve historia de los números.</a>
 
 </td>
 <td><a href="https://matematicas.netlify.app/authors/maluendas-p/"> Pedro N. Maluendas</a></td>
@@ -318,7 +318,7 @@ href="http://www.uptc.edu.co/export/sites/default/facultades/f_ciencias/pregrado
 
 <a
 href="http://www.uptc.edu.co/export/sites/default/facultades/f_ciencias/pregrado/matematicas/inf_adicional/eventos/NuestroEncuentro/Charla_18.pdf"
- target="_blank">Teorema de Hartman-Grobman para difeomorfismos</a>
+ >Teorema de Hartman-Grobman para difeomorfismos</a>
 </td>
 <td>Duván A. Reyes Ávila</td>
 </tr>
@@ -328,7 +328,7 @@ href="http://www.uptc.edu.co/export/sites/default/facultades/f_ciencias/pregrado
 <td>8/03/2019</td>
 <td><a
 href="http://www.uptc.edu.co/export/sites/default/facultades/f_ciencias/pregrado/matematicas/inf_adicional/eventos/NuestroEncuentro/Charla_17.pdf"
- target="_blank">El Sistema de Lorenz.</a></td>
+ >El Sistema de Lorenz.</a></td>
 <td>Jesús G. Gutiérrez Páez</td>
 </tr>
 
@@ -344,7 +344,7 @@ href="http://www.uptc.edu.co/export/sites/default/facultades/f_ciencias/pregrado
 
 <a
 href="http://www.uptc.edu.co/export/sites/default/facultades/f_ciencias/pregrado/matematicas/inf_adicional/eventos/NuestroEncuentro/Charla_16.pdf"
- target="_blank"> El teorema de Poincaré-Bendixson.</a></td>
+ > El teorema de Poincaré-Bendixson.</a></td>
 <td>Luis A. Cifuentes Espitia</td>
 </tr>
 
@@ -361,7 +361,7 @@ href="http://www.uptc.edu.co/export/sites/default/facultades/f_ciencias/pregrado
 
 <a
 href="http://www.uptc.edu.co/export/sites/default/facultades/f_ciencias/pregrado/matematicas/inf_adicional/eventos/NuestroEncuentro/Charla_15.pdf"
- target="_blank">El Teorema de Galois y sus Aplicaciones.</a>
+ >El Teorema de Galois y sus Aplicaciones.</a>
 
 </td>
 <td>Julieth A. Soler Marín
@@ -380,7 +380,7 @@ href="http://www.uptc.edu.co/export/sites/default/facultades/f_ciencias/pregrado
 
 <a
 href="http://www.uptc.edu.co/export/sites/default/facultades/f_ciencias/pregrado/matematicas/inf_adicional/eventos/NuestroEncuentro/Charla_14.pdf"
- target="_blank">Estabilidad en el sentido de Liapunov.</a>
+ >Estabilidad en el sentido de Liapunov.</a>
 
 </td>
 <td>Oscar M. Barragán Piratova 
@@ -399,7 +399,7 @@ href="http://www.uptc.edu.co/export/sites/default/facultades/f_ciencias/pregrado
 
 <a
 href="http://www.uptc.edu.co/export/sites/default/facultades/f_ciencias/pregrado/matematicas/inf_adicional/eventos/NuestroEncuentro/Charla_13.pdf"
- target="_blank">Conceptos geométricos para la teoría de
+ >Conceptos geométricos para la teoría de
 bifurcación.</a>
 
 </td>
@@ -419,7 +419,7 @@ bifurcación.</a>
 
 <a
 href="http://www.uptc.edu.co/export/sites/default/facultades/f_ciencias/pregrado/matematicas/inf_adicional/eventos/NuestroEncuentro/Charla_12.pdf"
- target="_blank">El problema de los Puentes de Königsberg.</a>
+ >El problema de los Puentes de Königsberg.</a>
 
 </td>
 <td>Jonhatan Castillo Barajas
@@ -427,77 +427,36 @@ href="http://www.uptc.edu.co/export/sites/default/facultades/f_ciencias/pregrado
 </tr>
 
 <tr>
-<td>
-<p align="center">
-<font size="2">11
-</td>
-<td>
-12/02/2019
-</td>
-<td>
-
-<a
-href="http://www.uptc.edu.co/export/sites/default/facultades/f_ciencias/pregrado/matematicas/inf_adicional/eventos/NuestroEncuentro/Charla_11.pdf"
- target="_blank"> El carácter analítico de la función &zeta;(s)</a>
-
-</td>
-<td>Luis A. Cifuentes Espitia
-</td>
+<td><p align="center"><font size="2">11</td>
+<td>12/02/2019</td>
+<td><a
+href="http://www.uptc.edu.co/export/sites/default/facultades/f_ciencias/pregrado/matematicas/inf_adicional/eventos/NuestroEncuentro/Charla_11.pdf"> El carácter analítico de la función &zeta;(s)</a></td>
+<td>Luis A. Cifuentes Espitia</td>
 </tr>
 
 
 <tr>
-<td>
-<p align="center">
-<font size="2">10
-</td>
-<td>
-12/02/2019
-</td>
-<td>
-
-<a
-href="http://www.uptc.edu.co/export/sites/default/facultades/f_ciencias/pregrado/matematicas/inf_adicional/eventos/NuestroEncuentro/Charla_10.pdf"
- target="_blank">Aplicaciones del Álgebra Lineal en el
-procesamiento de imágenes.</a>
-
-</td>
-<td>Sandra M. Espitia Sáenz
-</td>
+<td><p align="center"><font size="2">10</td>
+<td>12/02/2019</td>
+<td><a href="http://www.uptc.edu.co/export/sites/default/facultades/f_ciencias/pregrado/matematicas/inf_adicional/eventos/NuestroEncuentro/Charla_10.pdf">Aplicaciones del Álgebra Lineal en el
+procesamiento de imágenes.</a></td>
+<td>Sandra M. Espitia Sáenz</td>
 </tr>
 
 <tr>
-<td>
-<p align="center">
-<font size="2">9
-</td>
-<td>
-5/02/2019
-</td>
-<td>
-
-<a
-href="http://www.uptc.edu.co/export/sites/default/facultades/f_ciencias/pregrado/matematicas/inf_adicional/eventos/NuestroEncuentro/Charla_09.pdf"
- target="_blank">Álgebras de Banach.</a>
-
-</td>
+<td><p align="center"><font size="2">9</td>
+<td>5/02/2019</td>
+<td><a
+href="http://www.uptc.edu.co/export/sites/default/facultades/f_ciencias/pregrado/matematicas/inf_adicional/eventos/NuestroEncuentro/Charla_09.pdf">Álgebras de Banach.</a></td>
 <td>Pablo E. Rodríguez Amado</td>
 </tr>
 
 
 <tr>
-<td>
-<p align="center">
-<font size="2">8
-</td>
-<td>
-29/01/2019
-</td>
-<td>
-
-<a
-href="http://www.uptc.edu.co/export/sites/default/facultades/f_ciencias/pregrado/matematicas/inf_adicional/eventos/NuestroEncuentro/Charala_8_29_01_2019.pdf"
- target="_blank">Algunas técnicas para el cálculo del "delta"
+<td><p align="center"><font size="2">8</td>
+<td>29/01/2019</td>
+<td><a
+href="http://www.uptc.edu.co/export/sites/default/facultades/f_ciencias/pregrado/matematicas/inf_adicional/eventos/NuestroEncuentro/Charala_8_29_01_2019.pdf">Algunas técnicas para el cálculo del "delta"
 adecuado en límite de funciones</a></td>
 <td>Diego A. Rodríguez Díaz <br> Luis G. López García</td>
 </tr>
