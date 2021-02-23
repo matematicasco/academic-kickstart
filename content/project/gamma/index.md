@@ -44,7 +44,3 @@ Algunas de las áreas y campos de acción contenidos en las líneas de investiga
 &nbsp;| [Ana Emilce Jimenez](https://matematicas.netlify.app/authors/jimenez-a/) | &nbsp;
 [<img src ="https://matematicas.netlify.app/authors/gomez-n/avatar_hu1d753bf87762a1539e76fc1208fb6840_3191745_270x270_fill_q90_lanczos_center.jpg"  id="circleM">](https://matematicas.netlify.app/authors/gomez-n/) | &nbsp;| [<img src ="https://matematicas.netlify.app/authors/ayala-y/avatar_hub36f9e3ed2f551ac550cd2459c860d9f_84917_270x270_fill_q90_lanczos_center.jpg"  id="circleM">](https://matematicas.netlify.app/authors/ayala-y/)|
 [Nubia Y. Gómez](https://matematicas.netlify.app/authors/gomez-n/)|&nbsp;| [Yolima Ayala](https://matematicas.netlify.app/authors/ayala-y/)
-
-
-
-
