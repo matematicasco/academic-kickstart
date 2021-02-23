@@ -7,54 +7,21 @@ math      = true
 +++
 
 <table style="HEIGHT: 54px; WIDTH: 501px" height="54" cellspacing="1" cellpadding="1" width="501" summary="" border="2">
-<tbody>
 <tr>
-<td bgcolor="#99FF99">
-<p align="center">
-<strong>Charla No</strong>
-</p>
-
-</td><td bgcolor="#99FF99">
-<p align="center">
-<strong>Fecha</strong>
-</p>
-
-</td>
-<td bgcolor="#99FF99">
-<p align="center">
-<strong>Conferencia</strong>
-</p>
-</td>
-<td bgcolor="#99FF99">
-<p align="center">
-<strong>Conferencista</strong>
-</p>
-</td>
+<td bgcolor="#99FF99"><p align="center"><strong>Charla No</strong></p></td>
+<td bgcolor="#99FF99"><p align="center"><strong>Fecha</strong></p></td>
+<td bgcolor="#99FF99"><p align="center"><strong>Conferencia</strong></p></td>
+<td bgcolor="#99FF99"><p align="center"><strong>Conferencista</strong></p></td>
 </tr>
 
 <tr>
-<td>
-<p align="center">
-<font size="2">35
-</td>
-<td>
-<p align="left">
-<font size="2">9/08/2019
-</td>
-<td>
-<em>
-<a
+<td><p align="center"><font size="2">35</td>
+<td><p align="left"><font size="2">9/08/2019</td><td><em><a
 href="http://www.uptc.edu.co/export/sites/default/facultades/f_ciencias/pregrado/matematicas/inf_adicional/eventos/NuestroEncuentro/Charla_35_9_VIII_2019.pdf"
  target="_blank">El teorema del valor intermedio y soluciones radiales a problemas elípticos.</a>
 </em>
 </td>
-
-<td><a href="http://www.uptc.edu.co/export/sites/default/facultades/f_ciencias/pregrado/matematicas/inf_adicional/eventos/NuestroEncuentro/Alfonso_Castro_Curriculum_Vitae.pdf"
- target="_blank">Alfonso Castro, Ph.D. in Mathematics, University of Cincinnati.
-Professor of Mathematics at Harvey Mudd College. </a>
-</em>
-</td>
-</tr>
+<td><a href="http://www.uptc.edu.co/export/sites/default/facultades/f_ciencias/pregrado/matematicas/inf_adicional/eventos/NuestroEncuentro/Alfonso_Castro_Curriculum_Vitae.pdf" target="_blank">Alfonso Castro, Ph.D. in Mathematics, University of Cincinnati. Professor of Mathematics at Harvey Mudd College. </a></em></td></tr>
 
 <tr>
 <td>
