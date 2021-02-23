@@ -6,7 +6,6 @@ title     = "Listado charlas 2019"
 math      = true
 +++
 
-
 <table  cellspacing="1" cellpadding="1" width="501" summary="" border="2">
 <tr>
 <td bgcolor="#99FF99"><p align="center"><strong>Charla No</strong></p></td>
@@ -14,6 +13,47 @@ math      = true
 <td bgcolor="#99FF99"><p align="center"><strong>Conferencia</strong></p></td>
 <td bgcolor="#99FF99"><p align="center"><strong>Conferencista</strong></p></td>
 </tr>
+
+
+<tr>
+<td><p align="center"><font size="2">40</td>
+<td><p align="left"><font size="2">26/11/2019</td>
+<td>Puppies, Kittens, and the Golden Ratio</td>
+<td>Karol S. Herrera Cano</td>
+</tr>
+
+
+<tr>
+<td><p align="center"><font size="2">39</td>
+<td><p align="left"><font size="2">20/11/2019</td>
+<td>On persistence of superoscillations for Schrödinger equation with time-dependent quadratic Hamiltonians</td>
+  <td><a href="">Jorge E Vielma Barrios</a> </td>
+</tr>
+
+
+<tr>
+<td><p align="center"><font size="2">38</td>
+<td><p align="left"><font size="2">19/11/2019</td>
+<td>Multiplication is easier when it’s complex</td>
+  <td>Pedro J. Albarracín Vargas</td>
+</tr>
+
+
+<tr>
+<td><p align="center"><font size="2">37</td>
+<td><p align="left"><font size="2">12/11/2019</td>
+<td>How often should you beat your kids?</td>
+  <td>Mónica L. Pineda Becerra</td>
+</tr>
+
+<tr>
+<td><p align="center"><font size="2">36</td>
+<td><p align="left"><font size="2">1/10/2019</td>
+<td>La cara algebraica de la compactificación por un punto de Alexandroff</td>
+  <td><a href="https://www.researchgate.net/profile/Jorge-Vielma">Jorge E Vielma Barrios</a> </td>
+</tr>
+
+
 <tr>
 <td><p align="center"><font size="2">35</td>
 <td><p align="left"><font size="2">9/08/2019</td>
