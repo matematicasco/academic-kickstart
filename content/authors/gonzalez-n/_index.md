@@ -1,5 +1,5 @@
 ---
-name: Nelsy R. González Guitíerrez
+name: Nelsy R. González Gutíerrez
 authors:
 - gonzalez-n
 superuser: false
