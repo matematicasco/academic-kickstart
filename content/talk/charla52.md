@@ -1,5 +1,5 @@
 +++
-date      = "2021-02-22"
+date      = "2021-02-23"
 draft     = false
 tags      = ["Nuestro Encuentro"]
 title     = "Charla 52: Sobre espacios polinomiales sobre triangulaciones: conjeturas y recientes resultados"
