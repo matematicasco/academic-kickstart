@@ -3,7 +3,7 @@ name: Richard De La Cruz
 authors:
 - delacruz-r
 superuser: false
-role: Docente
+role: Docente Asociado
 organizations:
 - name: Universidad Pedagógica y Tecnológica de Colombia
   url: "http://www.uptc.edu.co"
