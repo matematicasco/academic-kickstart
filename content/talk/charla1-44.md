@@ -15,13 +15,11 @@ math      = true
 </tr>
 <tr>
 <td><p align="center"><font size="2">35</td>
-<td><p align="left"><font size="2">9/08/2019</td><td><em><a
+<td><p align="left"><font size="2">9/08/2019</td>
+<td><a
 href="http://www.uptc.edu.co/export/sites/default/facultades/f_ciencias/pregrado/matematicas/inf_adicional/eventos/NuestroEncuentro/Charla_35_9_VIII_2019.pdf"
- target="_blank">El teorema del valor intermedio y soluciones radiales a problemas elípticos.</a>
-</em>
-</td>
+ target="_blank">El teorema del valor intermedio y soluciones radiales a problemas elípticos.</a></td>
 <td><a href="http://www.uptc.edu.co/export/sites/default/facultades/f_ciencias/pregrado/matematicas/inf_adicional/eventos/NuestroEncuentro/Alfonso_Castro_Curriculum_Vitae.pdf" target="_blank">Alfonso Castro, Ph.D. in Mathematics, University of Cincinnati. Professor of Mathematics at Harvey Mudd College. </a></em></td></tr>
-
 <tr>
 <td>
 <p align="center">
