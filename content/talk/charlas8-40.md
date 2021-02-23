@@ -2,7 +2,7 @@
 date      = "2019-09-01"
 draft     = false
 tags      = ["Nuestro Encuentro"]
-title     = "Listado charlas 2019"
+title     = "Charlas 8 a la 40"
 math      = true
 +++
 
