@@ -9,7 +9,8 @@ organizations:
   url: "http://www.uptc.edu.co"
 
 bio: 
-
+interests:
+- Partial Differential Equations
 education:
   courses:
   - course: PhD in Mathematics
