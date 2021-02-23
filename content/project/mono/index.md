@@ -31,19 +31,19 @@ FRANCISCO JAVIER DÍAZ CHAPETÓN | EL BUEN PLANTEAMIENTO LOCAL DEL PROBLEMA DE C
 ÁNGELA LILIANA RODRÍGUEZ MUÑOZ | INTRODUCCIÓN A LA SOLUCIÓN DE UNA LEY DE CONSERVACIÓN CASI ESCALAR | [Zagalo E. Suárez](https://matematicas.netlify.app/authors/sanchez-z/)
 YESICA PAOLA SUAREZ GÓMEZ | ANILLO DE POLINOMIOS TORCIDOS. ALGUNAS PROPIEDADES | [Nelsy R GONZÁLEZ](https://matematicas.netlify.app/authors/gonzalez-n/)
 CAMILO A. GUERRERO SALGADO| CONJUNTO TEST PARA PROGRAMACIÓN ENTERA| [Omaida Sepúlveda](https://matematicas.netlify.app/authors/sepulveda-o/)
-SANDRA JOHANA CASCANTE CARREÑO | OPTIMIZACIÓN DE FUNCIONES APLICANDO LA METODOLOGÍA DE SUPERFICIES DE RESPUESTA | SARA C. GUERRERO Y [Zagalo E. Suárez](https://matematicas.netlify.app/authors/sanchez-z/)
+SANDRA JOHANA CASCANTE CARREÑO | OPTIMIZACIÓN DE FUNCIONES APLICANDO LA METODOLOGÍA DE SUPERFICIES DE RESPUESTA | Sara C. Guerrero, [Zagalo E. Suárez](https://matematicas.netlify.app/authors/sanchez-z/)
 LEIDY JOHANA SUÁREZ GÓMEZ | EL ESPACIO DE ROKHOROV | [Richard A. De la Cruz](https://matematicas.netlify.app/authors/delacruz-r/)
 ÁNGELA ROCÍO FÚQUEN |SOBRE EL TEOREMA DE CAUCHY PARA INTEGRALES DE VARIABLE COMPLEJA | [Richard A. De la Cruz](https://matematicas.netlify.app/authors/delacruz-r/)
 LUZ ANDREA SORA ARCOS| CARACTERIZANDO EL TORO DESDE LA GEOMETRÍA DIFERENCIAL | Luis C. Canaria
 JOSÉ NICOLÁS NAJAR SALINAS| UN ANÁLISIS A LOS TEOREMAS INCOMPLETITUD DE KURT GOEL | [Nelsy R GONZÁLEZ](https://matematicas.netlify.app/authors/gonzalez-n/)
 ASTRID YESENIA MESA JUYA | INTRODUCCIÓN AL ESTUDIO DE PROPIEDADES TOPOLÓGICAS DEL ESPECTRO PRIMO DE UN ANILLO | Misael O. González
-JAMES YAIR GÓMEZ LOZANO | SOBRE ALGUNAS PROPIEDADES DE LA DIMENSIÓN DE UN MÓDULO Y SUS SUBMÓDULOS | [Héctor J. Suárez](https://matematicas.netlify.app/authors/suarez-h/)
+[James Y. Gómez](https://matematicas.netlify.app/authors/gomez-j/) | SOBRE ALGUNAS PROPIEDADES DE LA DIMENSIÓN DE UN MÓDULO Y SUS SUBMÓDULOS | [Héctor J. Suárez](https://matematicas.netlify.app/authors/suarez-h/)
 JAIRO ENRIQUE ALBA TALERO | REVISIÓN DE ALGUNOS CONCEPTOS UTILIZADOS EN PROCESOS ESTOCÁSTICOS| [Margoth Valdivieso](https://matematicas.netlify.app/authors/valdivieso-m/)
 ANA MARÍA PRIETO ALGUNOS | CONCEPTOS TOPOLOGICOS APLICADOS A LAS PREFERENCIAS DEL CONSUMIDOR | [Julían Serna](https://matematicas.netlify.app/authors/serna-j/)
 DIANA MILENA OTÁLORA MUÑOZ| UNAS PROPIEDADES DE LOS SUBMODULOS MULTIPLICACIÓN REDUCCIÓN Y LA TOPOLOGÍA SOBRE SU ESPACIO PRIMO | [Héctor J. Suárez](https://matematicas.netlify.app/authors/suarez-h/)
 ADRIANA LEGUIZAMÓN MORA | DINÁMICA Y POSIBLE COMPORTAMIENTO DE LA CLIMATOLOGÍA DE TUNJA | Miguel Patarroyo
 JULIETH PAOLA SAAVEDRA RAMÍREZ| EL MÉTODO DE LAX-FRIEDRICHS|  [Richard A. De la Cruz](https://matematicas.netlify.app/authors/delacruz-r/)
-JOSÉ DAVID ARÉVALO BUITRAGO | UNA INTRODUCCIÓN A LA TEORÍA DE DISTRIBUCIONES| [Richard A. De la Cruz](https://matematicas.netlify.app/authors/delacruz-r/)
+[J. David Arévalo](https://matematicas.netlify.app/authors/arevalo-d/) | UNA INTRODUCCIÓN A LA TEORÍA DE DISTRIBUCIONES| [Richard A. De la Cruz](https://matematicas.netlify.app/authors/delacruz-r/)
 MAYERLIN CASTRO ÁVILA | INTRODUCCIÓN A LA REGRESIÓN GEOGRÁFICAMENTE PONDERADA (GWR) Y UNA APLICACIÓN AL CRUCE DE PRUEBAS SABER 11 (2005-2006) Y SABER PRO (2009-2010) EN EL DEPARTAMENTO DE ANTIOQUIA | Jorge V. Ruíz
 CRISTIHAN CAMILO CASTIBLANCO GÓMEZ| BREVE INTRODUCCIÓN A LA TEORÍA DE CATEGORÍAS| [Julían Serna](https://matematicas.netlify.app/authors/serna-j/)
 ERIKA ALEJANDRA SUAREZ | USO DE INDICADORES CIENCIMOETRICOS EN EL ESTUDIO DE LA PRODUCCIÓN CIENTÍFICA COLOMBIANA EN EL ÁREA DE MATEMÁTICAS| [Ana E Jiménez](https://matematicas.netlify.app/authors/jimenez-a/)
@@ -61,7 +61,7 @@ JOSÉ CRISTÓBAL MOLINA SUAREZ | ACERCA DE ALGUNAS CONDICIONES PARA LA FACTORIZA
 CLAUDIA VIVIANA ORDÚZ SIABATO | UNA INTRODUCCIÓN AL ESPACIO DE FUNCIONES TEST | [Richard A. De la Cruz](https://matematicas.netlify.app/authors/delacruz-r/)
 MARTHA AURORA PARRA PULIDO | FÓRMULA DE ABEL Y EL WRONSKIANO PARA ECUACIONES DIFERENCIALES FRACCIONALES CONFORMABLES| [Pedro N Maluendas](https://matematicas.netlify.app/authors/maluendas-p/)
 LISANDRO PAIPA PAIPA | UNA INTRODUCCIÓN AL MUESTREO BALANCEADO: EL MÉTODO DEL CUBO | [Luis A. Salcedo](https://matematicas.netlify.app/authors/salcedo-l/)
-FREDY ALEXIS GONZÁLEZ FONSECA |UNA INTRODUCCIÓN A LA TEORÍA ANALÍTICA DE LOS POLINOMIOS ORTOGONALES EN UNA VARIABLE REAL|EDINSON FUENTES
+FREDY ALEXIS GONZÁLEZ FONSECA |UNA INTRODUCCIÓN A LA TEORÍA ANALÍTICA DE LOS POLINOMIOS ORTOGONALES EN UNA VARIABLE REAL|[Edinson Fuentes](https://matematicas.netlify.app/authors/fuentes-e/)
 DEISY MILDRET FORERO BENAVIDES |ESTUDIO INTRODUCTORIO DE SISTEMAS DINÁMICOS Y MODELOS DE APLICACIÓN| [Zagalo E. Suárez](https://matematicas.netlify.app/authors/sanchez-z/)
 JONATAN ANDRÉS GÓMEZ |PARADA EL AUTOMORFISMO DE NAKAYAMA Y ALGUNAS PROPIEDADES DEL PLANO DE JORDÁN| [Héctor J. Suárez](https://matematicas.netlify.app/authors/suarez-h/)
 SERGIO MAURICIO VARGAS CARVAJAL| TOPOLOGÍA GENERALIZADA Y ESTRUCTURAS DÉBIL, DÉBIL GENERALIZADA Y MINIMAL| [Héctor J. Suárez](https://matematicas.netlify.app/authors/suarez-h/)
