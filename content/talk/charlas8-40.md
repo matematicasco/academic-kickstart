@@ -27,7 +27,7 @@ math      = true
 <td><p align="center"><font size="2">39</td>
 <td><p align="left"><font size="2">20/11/2019</td>
 <td>On persistence of superoscillations for Schrödinger equation with time-dependent quadratic Hamiltonians</td>
-  <td><a href="">Jorge E Vielma Barrios</a> </td>
+  <td><a href="https://faculty.utrgv.edu/erwin.suazo/">Erwin Suazo</a> </td>
 </tr>
 
 
