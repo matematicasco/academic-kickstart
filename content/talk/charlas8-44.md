@@ -37,7 +37,7 @@ href="http://www.uptc.edu.co/export/sites/default/facultades/f_ciencias/pregrado
 href="http://www.uptc.edu.co/export/sites/default/facultades/f_ciencias/pregrado/matematicas/inf_adicional/eventos/NuestroEncuentro/Charla_33_30_VII_2019.pdf"
  target="_blank">Escalera al Cielo: El Método Abstracto y los
 Niveles de Abstracción en Matemáticas</a></td>
-<td>Lizzeth Paola Ibáñez Rojas <br> Martha Cecilia Barrera Buitrago</td>
+<td>Lizzeth P. Ibáñez Rojas <br> Martha C. Barrera Buitrago</td>
 </tr>
 
 
@@ -48,7 +48,7 @@ Niveles de Abstracción en Matemáticas</a></td>
  target="_blank">Bases en Espacios de Banach de Dimensión
 Infinita - Una base de Schauder para C[0,1].
 </a></td>
-<td>Richard Eduardo Sánchez Méndez</td>
+<td>Richard E. Sánchez Méndez</td>
 </tr>
 
 
@@ -67,7 +67,7 @@ Infinita - Una base de Schauder para C[0,1].
 href="http://www.uptc.edu.co/export/sites/default/facultades/f_ciencias/pregrado/matematicas/inf_adicional/eventos/NuestroEncuentro/charla_31_23_VII_2019.pdf"
  target="_blank">Paradoxes, Contradictions, and the Limits of
 Science.</a></td>
-<td>Claudia Alejandra Fajardo Beltrán</td></tr>
+<td>Claudia A. Fajardo Beltrán</td></tr>
 
 <tr>
 <td>
@@ -85,7 +85,7 @@ href="http://www.uptc.edu.co/export/sites/default/facultades/f_ciencias/pregrado
  target="_blank">C*-Álgebras</a>
 
 </td>
-<td>Pablo Edixon Rodríguez Amado
+<td>Pablo E. Rodríguez Amado
 </td>
 </tr>
 
@@ -106,7 +106,7 @@ href="http://www.uptc.edu.co/export/sites/default/facultades/f_ciencias/pregrado
  target="_blank">A Unified Theory of Randomness.</a>
 
 </td>
-<td>Leidy Johana Rocha Peña
+<td>Leidy J. Rocha Peña
 </td>
 </tr>
 
@@ -126,7 +126,7 @@ href="http://www.uptc.edu.co/export/sites/default/facultades/f_ciencias/pregrado
  target="_blank">Girih for Domes: Analysis of Three Iranian Domes</a>
 
 </td>
-<td>Diana Marcela Cárdenas Estupiñán
+<td>Diana M. Cárdenas Estupiñán
 </td>
 </tr>
 
@@ -144,10 +144,7 @@ href="http://www.uptc.edu.co/export/sites/default/facultades/f_ciencias/pregrado
 
 <a
 href="http://www.uptc.edu.co/export/sites/default/facultades/f_ciencias/pregrado/matematicas/inf_adicional/eventos/NuestroEncuentro/Charla_27_9_VII_2019.pdf"
- target="_blank">Perturbación de momentos matriciales y la
-transformaci´on de Szego inversa.</a>
-
-</td>
+ target="_blank">Perturbación de momentos matriciales y la transformación de Szego inversa.</a></td>
 <td><a href="https://matematicas.netlify.app/authors/fuentes-e/">Edinson Fuentes</a></td>
 </tr>
 
@@ -169,7 +166,7 @@ href="http://www.uptc.edu.co/export/sites/default/facultades/f_ciencias/pregrado
 y el futuro de predicción.</a>
 
 </td>
-<td>Jermison Andrés Beltrán Monroy</td>
+<td>Jermison A. Beltrán Monroy</td>
 </tr>
 
 <tr>
@@ -188,7 +185,7 @@ href="http://www.uptc.edu.co/export/sites/default/facultades/f_ciencias/pregrado
  target="_blank">Conceptos umbral y la enseñanza de Matemáticas en pregrado</a>
 
 </td>
-<td>Fabián Arley Buitrago Bello</td>
+<td>Fabián A. Buitrago Bello</td>
 </tr>
 
 
@@ -208,7 +205,7 @@ href="http://www.uptc.edu.co/export/sites/default/facultades/f_ciencias/pregrado
  target="_blank">¿Son nuestros cerebros bayesianos?</a>
 
 </td>
-<td>Andrés Felipe Pachón</td>
+<td>Andrés F. Pachón</td>
 </tr>
 
 
@@ -228,7 +225,7 @@ href="http://www.uptc.edu.co/export/sites/default/facultades/f_ciencias/pregrado
  target="_blank">Geometría de la ilusión de la inclinación lunar.</a>
 
 </td>
-<td>Luis Germán López García</td>
+<td>Luis G. López García</td>
 </tr>
 
 <tr>
@@ -323,7 +320,7 @@ href="http://www.uptc.edu.co/export/sites/default/facultades/f_ciencias/pregrado
 href="http://www.uptc.edu.co/export/sites/default/facultades/f_ciencias/pregrado/matematicas/inf_adicional/eventos/NuestroEncuentro/Charla_18.pdf"
  target="_blank">Teorema de Hartman-Grobman para difeomorfismos</a>
 </td>
-<td>Duván Andrés Reyes Ávila</td>
+<td>Duván A. Reyes Ávila</td>
 </tr>
 
 <tr>
@@ -332,7 +329,7 @@ href="http://www.uptc.edu.co/export/sites/default/facultades/f_ciencias/pregrado
 <td><a
 href="http://www.uptc.edu.co/export/sites/default/facultades/f_ciencias/pregrado/matematicas/inf_adicional/eventos/NuestroEncuentro/Charla_17.pdf"
  target="_blank">El Sistema de Lorenz.</a></td>
-<td>Jesús Gabriel Gutiérrez Páez</td>
+<td>Jesús G. Gutiérrez Páez</td>
 </tr>
 
 <tr>
@@ -348,7 +345,7 @@ href="http://www.uptc.edu.co/export/sites/default/facultades/f_ciencias/pregrado
 <a
 href="http://www.uptc.edu.co/export/sites/default/facultades/f_ciencias/pregrado/matematicas/inf_adicional/eventos/NuestroEncuentro/Charla_16.pdf"
  target="_blank"> El teorema de Poincaré-Bendixson.</a></td>
-<td>Luis Alejandro Cifuentes Espitia</td>
+<td>Luis A. Cifuentes Espitia</td>
 </tr>
 
 
@@ -367,7 +364,7 @@ href="http://www.uptc.edu.co/export/sites/default/facultades/f_ciencias/pregrado
  target="_blank">El Teorema de Galois y sus Aplicaciones.</a>
 
 </td>
-<td>Julieth Andrea Soler Marín
+<td>Julieth A. Soler Marín
 </td>
 </tr>
 
@@ -386,7 +383,7 @@ href="http://www.uptc.edu.co/export/sites/default/facultades/f_ciencias/pregrado
  target="_blank">Estabilidad en el sentido de Liapunov.</a>
 
 </td>
-<td>Oscar Mauricio Barragán Piratova 
+<td>Oscar M. Barragán Piratova 
 </td>
 </tr>
 
@@ -406,7 +403,7 @@ href="http://www.uptc.edu.co/export/sites/default/facultades/f_ciencias/pregrado
 bifurcación.</a>
 
 </td>
-<td>Zuly Lisley González Niño
+<td>Zuly L. González Niño
 </td>
 </tr>
 
@@ -444,7 +441,7 @@ href="http://www.uptc.edu.co/export/sites/default/facultades/f_ciencias/pregrado
  target="_blank"> El carácter analítico de la función &zeta;(s)</a>
 
 </td>
-<td>Luis Alejandro Cifuentes Espitia
+<td>Luis A. Cifuentes Espitia
 </td>
 </tr>
 
@@ -465,7 +462,7 @@ href="http://www.uptc.edu.co/export/sites/default/facultades/f_ciencias/pregrado
 procesamiento de imágenes.</a>
 
 </td>
-<td>Sandra Milena Espitia Sáenz
+<td>Sandra M. Espitia Sáenz
 </td>
 </tr>
 
@@ -484,7 +481,7 @@ href="http://www.uptc.edu.co/export/sites/default/facultades/f_ciencias/pregrado
  target="_blank">Álgebras de Banach.</a>
 
 </td>
-<td>Pablo Edixon Rodríguez Amado</td>
+<td>Pablo E. Rodríguez Amado</td>
 </tr>
 
 
@@ -502,7 +499,7 @@ href="http://www.uptc.edu.co/export/sites/default/facultades/f_ciencias/pregrado
 href="http://www.uptc.edu.co/export/sites/default/facultades/f_ciencias/pregrado/matematicas/inf_adicional/eventos/NuestroEncuentro/Charala_8_29_01_2019.pdf"
  target="_blank">Algunas técnicas para el cálculo del "delta"
 adecuado en límite de funciones</a></td>
-<td>Diego Armando Rodríguez Díaz <br> Luis Germán López García</td>
+<td>Diego A. Rodríguez Díaz <br> Luis G. López García</td>
 </tr>
 
 </table>
