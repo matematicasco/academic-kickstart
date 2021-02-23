@@ -29,6 +29,14 @@ links:
 #   Otherwise, set `slides = ""`.
 slides: example
 ---
+<style>
+  #circleM
+  {
+  border-radius:50% 50% 50% 50%;
+  width:100px;
+  height:100px;
+  }
+</style>
 
 Grupo Interdisciplinario en Ciencias
 
