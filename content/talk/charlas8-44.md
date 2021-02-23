@@ -20,7 +20,7 @@ math      = true
 <td><a
 href="http://www.uptc.edu.co/export/sites/default/facultades/f_ciencias/pregrado/matematicas/inf_adicional/eventos/NuestroEncuentro/Charla_35_9_VIII_2019.pdf"
  target="_blank">El teorema del valor intermedio y soluciones radiales a problemas elípticos.</a></td>
-<td><a href="http://www.uptc.edu.co/export/sites/default/facultades/f_ciencias/pregrado/matematicas/inf_adicional/eventos/NuestroEncuentro/Alfonso_Castro_Curriculum_Vitae.pdf" target="_blank">Alfonso Castro, Ph.D. in Mathematics, University of Cincinnati. Professor of Mathematics at Harvey Mudd College. </a></td></tr>
+<td><a href="http://www.uptc.edu.co/export/sites/default/facultades/f_ciencias/pregrado/matematicas/inf_adicional/eventos/NuestroEncuentro/Alfonso_Castro_Curriculum_Vitae.pdf" target="_blank">Alfonso Castro</a></td></tr>
 <tr>
 
 <td><p align="center"><font size="2">34</td>
@@ -37,7 +37,7 @@ href="http://www.uptc.edu.co/export/sites/default/facultades/f_ciencias/pregrado
 href="http://www.uptc.edu.co/export/sites/default/facultades/f_ciencias/pregrado/matematicas/inf_adicional/eventos/NuestroEncuentro/Charla_33_30_VII_2019.pdf"
  target="_blank">Escalera al Cielo: El Método Abstracto y los
 Niveles de Abstracción en Matemáticas</a></td>
-<td>Lizzeth Paola Ibáñez Rojas y Martha Cecilia Barrera Buitrago</td>
+<td>Lizzeth Paola Ibáñez Rojas <br> Martha Cecilia Barrera Buitrago</td>
 </tr>
 
 
@@ -502,7 +502,7 @@ href="http://www.uptc.edu.co/export/sites/default/facultades/f_ciencias/pregrado
 href="http://www.uptc.edu.co/export/sites/default/facultades/f_ciencias/pregrado/matematicas/inf_adicional/eventos/NuestroEncuentro/Charala_8_29_01_2019.pdf"
  target="_blank">Algunas técnicas para el cálculo del "delta"
 adecuado en límite de funciones</a></td>
-<td>Diego Armando Rodríguez Díaz y Luis Germán López García</td>
+<td>Diego Armando Rodríguez Díaz <br> Luis Germán López García</td>
 </tr>
 
 </table>
