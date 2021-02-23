@@ -26,7 +26,6 @@ image:
 
 Estudiante | Título | Director 
 :----------| :---------- | :----------
-
 LILIAN PAOLA ROMERO |SEMIGRUPOS DE OPERADORES LINEALES Y APLICACIONES | [Juan Carlos Juajibioy](https://matematicas.netlify.app/authors/juajibioy-j/)
 MANUEL FERNANDO REYES PALMA | SOBRE EL TEOREMA ERGÓDICO DE BIRKHOFF Y APLIACIONES | [Rafael Álvarez](https://matematicas.netlify.app/authors/alvarez-r/)
 SERGIO MAURICIO VARGAS CARVAJAL| TOPOLOGÍA GENERALIZADA Y ESTRUCTURAS DÉBIL, DÉBIL GENERALIZADA Y MINIMAL| [Héctor J. Suárez](https://matematicas.netlify.app/authors/suarez-h/)
