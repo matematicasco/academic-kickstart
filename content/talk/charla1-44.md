@@ -6,6 +6,7 @@ title     = "Listado charlas previas"
 math      = true
 +++
 
+
 <table style="HEIGHT: 54px; WIDTH: 501px" height="54" cellspacing="1" cellpadding="1" width="501" summary="" border="2">
 <tr>
 <td bgcolor="#99FF99"><p align="center"><strong>Charla No</strong></p></td>
@@ -39,8 +40,6 @@ href="http://www.uptc.edu.co/export/sites/default/facultades/f_ciencias/pregrado
 <td>Pablo Edixon Rodríguez Amado, estudiante Escuela de Matemáticas y Estadística, UPTC.
 </td>
 </tr>
-
-
 <tr>
 <td>
 <p align="center">
@@ -646,55 +645,26 @@ href="http://www.uptc.edu.co/export/sites/default/facultades/f_ciencias/pregrado
 </td>
 <td>Juan Carlos Juajibioy. Docente UPTC.</td>
 </tr>
+
 <tr>
-
-<td>
-<p align="center">
-<font size="2">3
-</td>
-
-<td>
-22/03/2018</td>
-<td>
-<em>
-<a
+<td><p align="center"><font size="2">3</td>
+<td>22/03/2018</td>
+<td><a
 href="http://www.uptc.edu.co/export/sites/default/facultades/f_ciencias/pregrado/matematicas/inf_adicional/eventos/NuestroEncuentro/NCcharla3.pdf"
  target="_blank">Comparación empírica entre los métodos mean‐shift y medoid‐shift en conglomeración modal.</a>
-</em>
-</td>
-<td>Alex Leonardo Rojas Peña. Docente UPTC.</td>
+</td><td>Alex Leonardo Rojas Peña. Docente UPTC.</td>
 </tr>
-<tr>
 
-<td>
-<p align="center">
-<font size="2">2
-</td>
-<td>
-8/03/2018</td>
-<td>
-<em>
-<a
+<tr>
+<td><p align="center"><font size="2">2</td>
+<td>8/03/2018</td>
+<td><a
 href="http://www.uptc.edu.co/export/sites/default/facultades/f_ciencias/pregrado/matematicas/inf_adicional/eventos/NuestroEncuentro/conferencia2.pdf"
- target="_blank">La matemática textual.</a>
-</em>
-</td>
-<td>Jairo Hernando Guasgüita Ruiz. Docente Uptc</td>
-</tr>
+ target="_blank">La matemática textual.</a></td><td>Jairo Hernando Guasgüita Ruiz. Docente Uptc</td></tr>
 <tr>
-
-<td>
-<p align="center">
-<font size="2">1
-</td>
-<td>
-
-1/03/2018</td>
-<td>
-<em>
-Algunas pruebas de la infinitud primos.</a>
-</em>
-</td>
+<td><p align="center"><font size="2">1</td>
+<td>1/03/2018</td>
+<td><em>Algunas pruebas de la infinitud primos.</a></em></td>
 <td>Álvaro Calvache. Docente Uptc </td>
-</tbody>
-</tr></table>
+</tr>
+</table>
