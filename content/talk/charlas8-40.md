@@ -105,11 +105,7 @@ Infinita - Una base de Schauder para C[0,1].
 <p align="left">
 <font size="2">16/07/2019
 </td>
-<td>
-
-<a
-href="http://www.uptc.edu.co/export/sites/default/facultades/f_ciencias/pregrado/matematicas/inf_adicional/eventos/NuestroEncuentro/Charla_30_16_VII_2019.pdf"
- >C*-Álgebras</a>
+<td><a href="http://www.uptc.edu.co/export/sites/default/facultades/f_ciencias/pregrado/matematicas/inf_adicional/eventos/NuestroEncuentro/Charla_30_16_VII_2019.pdf">C*-Álgebras</a>
 
 </td>
 <td>Pablo E. Rodríguez Amado
@@ -126,11 +122,7 @@ href="http://www.uptc.edu.co/export/sites/default/facultades/f_ciencias/pregrado
 <p align="left">
 <font size="2">16/07/2019
 </td>
-<td>
-
-<a
-href="http://www.uptc.edu.co/export/sites/default/facultades/f_ciencias/pregrado/matematicas/inf_adicional/eventos/NuestroEncuentro/Charla_29_16_VII_2019.pdf"
- >A Unified Theory of Randomness.</a>
+<td><a href="http://www.uptc.edu.co/export/sites/default/facultades/f_ciencias/pregrado/matematicas/inf_adicional/eventos/NuestroEncuentro/Charla_29_16_VII_2019.pdf">A Unified Theory of Randomness.</a>
 
 </td>
 <td>Leidy J. Rocha Peña
@@ -146,11 +138,7 @@ href="http://www.uptc.edu.co/export/sites/default/facultades/f_ciencias/pregrado
 <p align="left">
 <font size="2">16/07/2019
 </td>
-<td>
-
-<a
-href="http://www.uptc.edu.co/export/sites/default/facultades/f_ciencias/pregrado/matematicas/inf_adicional/eventos/NuestroEncuentro/charla_28_16_VII_2019.pdf"
- >Girih for Domes: Analysis of Three Iranian Domes</a>
+<td><a href="http://www.uptc.edu.co/export/sites/default/facultades/f_ciencias/pregrado/matematicas/inf_adicional/eventos/NuestroEncuentro/charla_28_16_VII_2019.pdf">Girih for Domes: Analysis of Three Iranian Domes</a>
 
 </td>
 <td>Diana M. Cárdenas Estupiñán
@@ -167,11 +155,7 @@ href="http://www.uptc.edu.co/export/sites/default/facultades/f_ciencias/pregrado
 <p align="left">
 <font size="2">9/07/2019
 </td>
-<td>
-
-<a
-href="http://www.uptc.edu.co/export/sites/default/facultades/f_ciencias/pregrado/matematicas/inf_adicional/eventos/NuestroEncuentro/Charla_27_9_VII_2019.pdf"
- >Perturbación de momentos matriciales y la transformación de Szego inversa.</a></td>
+<td><a href="http://www.uptc.edu.co/export/sites/default/facultades/f_ciencias/pregrado/matematicas/inf_adicional/eventos/NuestroEncuentro/Charla_27_9_VII_2019.pdf">Perturbación de momentos matriciales y la transformación de Szego inversa.</a></td>
 <td><a href="https://matematicas.netlify.app/authors/fuentes-e/">Edinson Fuentes</a></td>
 </tr>
 
@@ -185,11 +169,7 @@ href="http://www.uptc.edu.co/export/sites/default/facultades/f_ciencias/pregrado
 <p align="left">
 <font size="2">9/07/2019
 </td>
-<td>
-
-<a
-href="http://www.uptc.edu.co/export/sites/default/facultades/f_ciencias/pregrado/matematicas/inf_adicional/eventos/NuestroEncuentro/Charla_26_9_VII_2019.pdf"
- >Grandes expectativas: el pasado, el presente,
+<td><a href="http://www.uptc.edu.co/export/sites/default/facultades/f_ciencias/pregrado/matematicas/inf_adicional/eventos/NuestroEncuentro/Charla_26_9_VII_2019.pdf">Grandes expectativas: el pasado, el presente,
 y el futuro de predicción.</a>
 
 </td>
@@ -205,11 +185,7 @@ y el futuro de predicción.</a>
 <p align="left">
 <font size="2">9/07/2019
 </td>
-<td>
-
-<a
-href="http://www.uptc.edu.co/export/sites/default/facultades/f_ciencias/pregrado/matematicas/inf_adicional/eventos/NuestroEncuentro/Charla_25_9_VII_2019.pdf"
- >Conceptos umbral y la enseñanza de Matemáticas en pregrado</a>
+<td><a href="http://www.uptc.edu.co/export/sites/default/facultades/f_ciencias/pregrado/matematicas/inf_adicional/eventos/NuestroEncuentro/Charla_25_9_VII_2019.pdf">Conceptos umbral y la enseñanza de Matemáticas en pregrado</a>
 
 </td>
 <td>Fabián A. Buitrago Bello</td>
@@ -226,10 +202,7 @@ href="http://www.uptc.edu.co/export/sites/default/facultades/f_ciencias/pregrado
 <font size="2">2/07/2019
 </td>
 <td>
-
-<a
-href="http://www.uptc.edu.co/export/sites/default/facultades/f_ciencias/pregrado/matematicas/inf_adicional/eventos/NuestroEncuentro/charla_24_2_07_2019.pdf"
- >¿Son nuestros cerebros bayesianos?</a>
+<a href="http://www.uptc.edu.co/export/sites/default/facultades/f_ciencias/pregrado/matematicas/inf_adicional/eventos/NuestroEncuentro/charla_24_2_07_2019.pdf">¿Son nuestros cerebros bayesianos?</a>
 
 </td>
 <td>Andrés F. Pachón</td>
@@ -245,11 +218,7 @@ href="http://www.uptc.edu.co/export/sites/default/facultades/f_ciencias/pregrado
 <p align="left">
 <font size="2">2/07/2019
 </td>
-<td>
-
-<a
-href="http://www.uptc.edu.co/export/sites/default/facultades/f_ciencias/pregrado/matematicas/inf_adicional/eventos/NuestroEncuentro/charla_23_2_07_2019.pdf"
- >Geometría de la ilusión de la inclinación lunar.</a>
+<td><a href="http://www.uptc.edu.co/export/sites/default/facultades/f_ciencias/pregrado/matematicas/inf_adicional/eventos/NuestroEncuentro/charla_23_2_07_2019.pdf">Geometría de la ilusión de la inclinación lunar.</a>
 
 </td>
 <td>Luis G. López García</td>
@@ -264,11 +233,7 @@ href="http://www.uptc.edu.co/export/sites/default/facultades/f_ciencias/pregrado
 <p align="left">
 <font size="2">28/06/2019
 </td>
-<td>
-
-<a
-href="http://www.uptc.edu.co/export/sites/default/facultades/f_ciencias/pregrado/matematicas/inf_adicional/eventos/NuestroEncuentro/Charla_22_28_06_2019.pdf"
- >Älgebras de dimensión finita, como álgebras de caminos de un carcaj.</a>
+<td><a href="http://www.uptc.edu.co/export/sites/default/facultades/f_ciencias/pregrado/matematicas/inf_adicional/eventos/NuestroEncuentro/Charla_22_28_06_2019.pdf">Älgebras de dimensión finita, como álgebras de caminos de un carcaj.</a>
 
 </td>
 <td><a href="https://blog.valdosta.edu/javelezmarulanda/curriculum-vitae/">José Vélez Marulanda</a> </td>
@@ -283,11 +248,7 @@ href="http://www.uptc.edu.co/export/sites/default/facultades/f_ciencias/pregrado
 <p align="left">
 <font size="2">04/06/2019
 </td>
-<td>
-
-<a
-href="http://www.uptc.edu.co/export/sites/default/facultades/f_ciencias/pregrado/matematicas/inf_adicional/eventos/NuestroEncuentro/charla_21_4_06_2019.pdf"
- >Introducción a conceptos básicos de matemática, usando el programa CABRI II Plus.</a>
+<td><a href="http://www.uptc.edu.co/export/sites/default/facultades/f_ciencias/pregrado/matematicas/inf_adicional/eventos/NuestroEncuentro/charla_21_4_06_2019.pdf">Introducción a conceptos básicos de matemática, usando el programa CABRI II Plus.</a>
 
 </td>
 <td>Álvaro Calvache Archila</td>
@@ -303,11 +264,7 @@ href="http://www.uptc.edu.co/export/sites/default/facultades/f_ciencias/pregrado
 <p align="left">
 <font size="2">21/05/2019
 </td>
-<td>
-
-<a
-href="http://www.uptc.edu.co/export/sites/default/facultades/f_ciencias/pregrado/matematicas/inf_adicional/eventos/NuestroEncuentro/charla_20_28_05_2019.pdf"
- >Una breve introducción a SAGE.</a>
+<td><a href="http://www.uptc.edu.co/export/sites/default/facultades/f_ciencias/pregrado/matematicas/inf_adicional/eventos/NuestroEncuentro/charla_20_28_05_2019.pdf">Una breve introducción a SAGE.</a>
 
 </td>
 <td><a href="https://matematicas.netlify.app/authors/montero-j/"> Julio A. Montero</a></td>
@@ -323,11 +280,7 @@ href="http://www.uptc.edu.co/export/sites/default/facultades/f_ciencias/pregrado
 <p align="left">
 <font size="2">14/05/2019
 </td>
-<td>
-
-<a
-href="http://www.uptc.edu.co/export/sites/default/facultades/f_ciencias/pregrado/matematicas/inf_adicional/eventos/NuestroEncuentro/charla_19_14_05_2019.pdf"
- >Breve historia de los números.</a>
+<td><a href="http://www.uptc.edu.co/export/sites/default/facultades/f_ciencias/pregrado/matematicas/inf_adicional/eventos/NuestroEncuentro/charla_19_14_05_2019.pdf">Breve historia de los números.</a>
 
 </td>
 <td><a href="https://matematicas.netlify.app/authors/maluendas-p/"> Pedro N. Maluendas</a></td>
@@ -341,11 +294,7 @@ href="http://www.uptc.edu.co/export/sites/default/facultades/f_ciencias/pregrado
 <td>
 28/03/2019
 </td>
-<td>
-
-<a
-href="http://www.uptc.edu.co/export/sites/default/facultades/f_ciencias/pregrado/matematicas/inf_adicional/eventos/NuestroEncuentro/Charla_18.pdf"
- >Teorema de Hartman-Grobman para difeomorfismos</a>
+<td><a href="http://www.uptc.edu.co/export/sites/default/facultades/f_ciencias/pregrado/matematicas/inf_adicional/eventos/NuestroEncuentro/Charla_18.pdf">Teorema de Hartman-Grobman para difeomorfismos</a>
 </td>
 <td>Duván A. Reyes Ávila</td>
 </tr>
