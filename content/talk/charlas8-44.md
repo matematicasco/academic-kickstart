@@ -2,7 +2,7 @@
 date      = "2019-09-01"
 draft     = false
 tags      = ["Nuestro Encuentro"]
-title     = "Listado charlas previas, 2019"
+title     = "Listado charlas 2019"
 math      = true
 +++
 
@@ -20,64 +20,35 @@ math      = true
 <td><a
 href="http://www.uptc.edu.co/export/sites/default/facultades/f_ciencias/pregrado/matematicas/inf_adicional/eventos/NuestroEncuentro/Charla_35_9_VIII_2019.pdf"
  target="_blank">El teorema del valor intermedio y soluciones radiales a problemas elípticos.</a></td>
-<td><a href="http://www.uptc.edu.co/export/sites/default/facultades/f_ciencias/pregrado/matematicas/inf_adicional/eventos/NuestroEncuentro/Alfonso_Castro_Curriculum_Vitae.pdf" target="_blank">Alfonso Castro, Ph.D. in Mathematics, University of Cincinnati. Professor of Mathematics at Harvey Mudd College. </a></em></td></tr>
+<td><a href="http://www.uptc.edu.co/export/sites/default/facultades/f_ciencias/pregrado/matematicas/inf_adicional/eventos/NuestroEncuentro/Alfonso_Castro_Curriculum_Vitae.pdf" target="_blank">Alfonso Castro, Ph.D. in Mathematics, University of Cincinnati. Professor of Mathematics at Harvey Mudd College. </a></td></tr>
 <tr>
-<td>
-<p align="center">
-<font size="2">34
-</td>
-<td>
-<p align="left">
-<font size="2">2/08/2019
-</td>
-<td><a
-href="http://www.uptc.edu.co/export/sites/default/facultades/f_ciencias/pregrado/matematicas/inf_adicional/eventos/NuestroEncuentro/Charla_34_2_VIII_2019.pdf"
+
+<td><p align="center"><font size="2">34</td>
+<td><p align="left"><font size="2">2/08/2019</td>
+<td><a href="http://www.uptc.edu.co/export/sites/default/facultades/f_ciencias/pregrado/matematicas/inf_adicional/eventos/NuestroEncuentro/Charla_34_2_VIII_2019.pdf"
  target="_blank">Reproducción del Rombicuboctaedro de Pacioli</a></td>
-<td>Pablo Edixon Rodríguez Amado, estudiante Escuela de Matemáticas y Estadística, UPTC.</td>
+<td>Pablo Edixon Rodríguez Amado</td>
 </tr>
+
 <tr>
-<td>
-<p align="center">
-<font size="2">33
-</td>
-<td>
-<p align="left">
-<font size="2">30/07/2019
-</td>
-<td>
-<em>
-<a
+<td><p align="center"><font size="2">33</td>
+<td><p align="left"><font size="2">30/07/2019</td>
+<td><a
 href="http://www.uptc.edu.co/export/sites/default/facultades/f_ciencias/pregrado/matematicas/inf_adicional/eventos/NuestroEncuentro/Charla_33_30_VII_2019.pdf"
  target="_blank">Escalera al Cielo: El Método Abstracto y los
-Niveles de Abstracción en Matemáticas</a>
-</em>
-</td>
-<td>Lizzeth Paola Ibáñez Rojas y Martha Cecilia Barrera Buitrago,
-Estudiantes Escuela de Matemáticas y Estadística, UPTC. 
-</td>
+Niveles de Abstracción en Matemáticas</a></td>
+<td>Lizzeth Paola Ibáñez Rojas y Martha Cecilia Barrera Buitrago</td>
 </tr>
 
 
 <tr>
-<td>
-<p align="center">
-<font size="2">32
-</td>
-<td>
-<p align="left">
-<font size="2">23/07/2019
-</td>
-<td>
-<em>
-<a
-href="http://www.uptc.edu.co/export/sites/default/facultades/f_ciencias/pregrado/matematicas/inf_adicional/eventos/NuestroEncuentro/charla_32_23_VII_2019.pdf"
+<td><p align="center"><font size="2">32</td>
+<td><p align="left"><font size="2">23/07/2019</td>
+<td><a href="http://www.uptc.edu.co/export/sites/default/facultades/f_ciencias/pregrado/matematicas/inf_adicional/eventos/NuestroEncuentro/charla_32_23_VII_2019.pdf"
  target="_blank">Bases en Espacios de Banach de Dimensión
 Infinita - Una base de Schauder para C[0,1].
-</a>
-</em>
-</td>
-<td>Richard Eduardo Sánchez Méndez. Estudiante tesista de Matemáticas, UPTC.
-</td>
+</a></td>
+<td>Richard Eduardo Sánchez Méndez</td>
 </tr>
 
 
@@ -91,17 +62,12 @@ Infinita - Una base de Schauder para C[0,1].
 <font size="2">23/07/2019
 </td>
 <td>
-<em>
+
 <a
 href="http://www.uptc.edu.co/export/sites/default/facultades/f_ciencias/pregrado/matematicas/inf_adicional/eventos/NuestroEncuentro/charla_31_23_VII_2019.pdf"
  target="_blank">Paradoxes, Contradictions, and the Limits of
-Science.</a>
-</em>
-</td>
-<td>Claudia Alejandra Fajardo Beltrán. Estudiante de Matemáticas
-UPTC.
-</td>
-</tr>
+Science.</a></td>
+<td>Claudia Alejandra Fajardo Beltrán</td></tr>
 
 <tr>
 <td>
@@ -113,13 +79,13 @@ UPTC.
 <font size="2">16/07/2019
 </td>
 <td>
-<em>
+
 <a
 href="http://www.uptc.edu.co/export/sites/default/facultades/f_ciencias/pregrado/matematicas/inf_adicional/eventos/NuestroEncuentro/Charla_30_16_VII_2019.pdf"
  target="_blank">C*-Álgebras</a>
-</em>
+
 </td>
-<td>Pablo Edixon Rodríguez Amado. Estudiante de Matemáticas UPTC.
+<td>Pablo Edixon Rodríguez Amado
 </td>
 </tr>
 
@@ -134,13 +100,13 @@ href="http://www.uptc.edu.co/export/sites/default/facultades/f_ciencias/pregrado
 <font size="2">16/07/2019
 </td>
 <td>
-<em>
+
 <a
 href="http://www.uptc.edu.co/export/sites/default/facultades/f_ciencias/pregrado/matematicas/inf_adicional/eventos/NuestroEncuentro/Charla_29_16_VII_2019.pdf"
  target="_blank">A Unified Theory of Randomness.</a>
-</em>
+
 </td>
-<td>Leidy Johana Rocha Peña. Estudiante de Matemáticas UPTC.
+<td>Leidy Johana Rocha Peña
 </td>
 </tr>
 
@@ -154,14 +120,13 @@ href="http://www.uptc.edu.co/export/sites/default/facultades/f_ciencias/pregrado
 <font size="2">16/07/2019
 </td>
 <td>
-<em>
+
 <a
 href="http://www.uptc.edu.co/export/sites/default/facultades/f_ciencias/pregrado/matematicas/inf_adicional/eventos/NuestroEncuentro/charla_28_16_VII_2019.pdf"
  target="_blank">Girih for Domes: Analysis of Three Iranian Domes</a>
-</em>
+
 </td>
-<td>Diana Marcela Cárdenas Estupiñán. Estudiante de Matemáticas
-UPTC.
+<td>Diana Marcela Cárdenas Estupiñán
 </td>
 </tr>
 
@@ -176,15 +141,14 @@ UPTC.
 <font size="2">9/07/2019
 </td>
 <td>
-<em>
+
 <a
 href="http://www.uptc.edu.co/export/sites/default/facultades/f_ciencias/pregrado/matematicas/inf_adicional/eventos/NuestroEncuentro/Charla_27_9_VII_2019.pdf"
  target="_blank">Perturbación de momentos matriciales y la
 transformaci´on de Szego inversa.</a>
-</em>
+
 </td>
-<td>Edinson Fuentes, Docente UPTC. Magister en Matemáticas y
-candidato a Doctor en Matemáticas, Universidad Nacional de Colombia</td>
+<td><a href="https://matematicas.netlify.app/authors/fuentes-e/">Edinson Fuentes</a></td>
 </tr>
 
 
@@ -198,15 +162,14 @@ candidato a Doctor en Matemáticas, Universidad Nacional de Colombia</td>
 <font size="2">9/07/2019
 </td>
 <td>
-<em>
+
 <a
 href="http://www.uptc.edu.co/export/sites/default/facultades/f_ciencias/pregrado/matematicas/inf_adicional/eventos/NuestroEncuentro/Charla_26_9_VII_2019.pdf"
  target="_blank">Grandes expectativas: el pasado, el presente,
 y el futuro de predicción.</a>
-</em>
+
 </td>
-<td>Jermison Andrés Beltrán Monroy, Estudiante de Matemáticas,
-UPTC.</td>
+<td>Jermison Andrés Beltrán Monroy</td>
 </tr>
 
 <tr>
@@ -219,13 +182,13 @@ UPTC.</td>
 <font size="2">9/07/2019
 </td>
 <td>
-<em>
+
 <a
 href="http://www.uptc.edu.co/export/sites/default/facultades/f_ciencias/pregrado/matematicas/inf_adicional/eventos/NuestroEncuentro/Charla_25_9_VII_2019.pdf"
  target="_blank">Conceptos umbral y la enseñanza de Matemáticas en pregrado</a>
-</em>
+
 </td>
-<td>Fabián Arley Buitrago Bello, Estudiante de Matemáticas, UPTC.</td>
+<td>Fabián Arley Buitrago Bello</td>
 </tr>
 
 
@@ -239,13 +202,13 @@ href="http://www.uptc.edu.co/export/sites/default/facultades/f_ciencias/pregrado
 <font size="2">2/07/2019
 </td>
 <td>
-<em>
+
 <a
 href="http://www.uptc.edu.co/export/sites/default/facultades/f_ciencias/pregrado/matematicas/inf_adicional/eventos/NuestroEncuentro/charla_24_2_07_2019.pdf"
  target="_blank">¿Son nuestros cerebros bayesianos?</a>
-</em>
+
 </td>
-<td>Andrés Felipe Pachón, estudiante de Matemáticas, UPTC.</td>
+<td>Andrés Felipe Pachón</td>
 </tr>
 
 
@@ -259,13 +222,13 @@ href="http://www.uptc.edu.co/export/sites/default/facultades/f_ciencias/pregrado
 <font size="2">2/07/2019
 </td>
 <td>
-<em>
+
 <a
 href="http://www.uptc.edu.co/export/sites/default/facultades/f_ciencias/pregrado/matematicas/inf_adicional/eventos/NuestroEncuentro/charla_23_2_07_2019.pdf"
  target="_blank">Geometría de la ilusión de la inclinación lunar.</a>
-</em>
+
 </td>
-<td>Luis Germán López García, estudiante de Matemáticas, UPTC.</td>
+<td>Luis Germán López García</td>
 </tr>
 
 <tr>
@@ -278,13 +241,13 @@ href="http://www.uptc.edu.co/export/sites/default/facultades/f_ciencias/pregrado
 <font size="2">28/06/2019
 </td>
 <td>
-<em>
+
 <a
 href="http://www.uptc.edu.co/export/sites/default/facultades/f_ciencias/pregrado/matematicas/inf_adicional/eventos/NuestroEncuentro/Charla_22_28_06_2019.pdf"
  target="_blank">Älgebras de dimensión finita, como álgebras de caminos de un carcaj.</a>
-</em>
+
 </td>
-<td>José Vélez Marulanda, Assistant Professor of Mathematics, Department of Mathematics & Computer Science, Valdosta State University. Ph. D. in Mathematics, University of Iowa. </td>
+<td><a href="https://blog.valdosta.edu/javelezmarulanda/curriculum-vitae/">José Vélez Marulanda</a> </td>
 </tr>
 
 <tr>
@@ -297,14 +260,13 @@ href="http://www.uptc.edu.co/export/sites/default/facultades/f_ciencias/pregrado
 <font size="2">04/06/2019
 </td>
 <td>
-<em>
+
 <a
 href="http://www.uptc.edu.co/export/sites/default/facultades/f_ciencias/pregrado/matematicas/inf_adicional/eventos/NuestroEncuentro/charla_21_4_06_2019.pdf"
- target="_blank">Introducción a conceptos básicos de
-matemática, usando el programa CABRI II Plus.</a>
-</em>
+ target="_blank">Introducción a conceptos básicos de matemática, usando el programa CABRI II Plus.</a>
+
 </td>
-<td>Álvaro Calvache Archila. Docente UPTC.</td>
+<td>Álvaro Calvache Archila</td>
 </tr>
 
 
@@ -318,13 +280,13 @@ matemática, usando el programa CABRI II Plus.</a>
 <font size="2">21/05/2019
 </td>
 <td>
-<em>
+
 <a
 href="http://www.uptc.edu.co/export/sites/default/facultades/f_ciencias/pregrado/matematicas/inf_adicional/eventos/NuestroEncuentro/charla_20_28_05_2019.pdf"
  target="_blank">Una breve introducción a SAGE.</a>
-</em>
+
 </td>
-<td>Julio Andrés Montero Rosero. Docente UPTC.</td>
+<td><a href="https://matematicas.netlify.app/authors/montero-j/"> Julio A. Montero</a></td>
 </tr>
 
 
@@ -338,13 +300,13 @@ href="http://www.uptc.edu.co/export/sites/default/facultades/f_ciencias/pregrado
 <font size="2">14/05/2019
 </td>
 <td>
-<em>
+
 <a
 href="http://www.uptc.edu.co/export/sites/default/facultades/f_ciencias/pregrado/matematicas/inf_adicional/eventos/NuestroEncuentro/charla_19_14_05_2019.pdf"
- target="_blank">Breve historia de los núumeros.</a>
-</em>
+ target="_blank">Breve historia de los números.</a>
+
 </td>
-<td>Pedro Nel Maluendas Pardo. Docente UPTC.</td>
+<td><a href="https://matematicas.netlify.app/authors/maluendas-p/"> Pedro N. Maluendas</a></td>
 </tr>
 
 <tr>
@@ -356,34 +318,21 @@ href="http://www.uptc.edu.co/export/sites/default/facultades/f_ciencias/pregrado
 28/03/2019
 </td>
 <td>
-<em>
+
 <a
 href="http://www.uptc.edu.co/export/sites/default/facultades/f_ciencias/pregrado/matematicas/inf_adicional/eventos/NuestroEncuentro/Charla_18.pdf"
  target="_blank">Teorema de Hartman-Grobman para difeomorfismos</a>
-</em>
 </td>
-<td>Duván Andrés Reyes Ávila. Estudiante
-de la carrera de Matemáticas, UPTC.</td>
+<td>Duván Andrés Reyes Ávila</td>
 </tr>
 
 <tr>
-<td>
-<p align="center">
-<font size="2">17
-</td>
-<td>
-8/03/2019
-</td>
-<td>
-<em>
-<a
+<td><p align="center"><font size="2">17</td>
+<td>8/03/2019</td>
+<td><a
 href="http://www.uptc.edu.co/export/sites/default/facultades/f_ciencias/pregrado/matematicas/inf_adicional/eventos/NuestroEncuentro/Charla_17.pdf"
- target="_blank">El Sistema de Lorenz.</a>
-</em>
-</td>
-<td>Jesús Gabriel Gutiérrez Páez, estudiante de la carrera de Matemáticas,
-UPTC.  
-</td>
+ target="_blank">El Sistema de Lorenz.</a></td>
+<td>Jesús Gabriel Gutiérrez Páez</td>
 </tr>
 
 <tr>
@@ -395,15 +344,11 @@ UPTC.
 6/03/2019
 </td>
 <td>
-<em>
+
 <a
 href="http://www.uptc.edu.co/export/sites/default/facultades/f_ciencias/pregrado/matematicas/inf_adicional/eventos/NuestroEncuentro/Charla_16.pdf"
- target="_blank"> El teorema de Poincaré-Bendixson.</a>
-</em>
-</td>
-<td>Luis Alejandro Cifuentes Espitia, estudiante de la carrera de Matemáticas,
-UPTC. 
-</td>
+ target="_blank"> El teorema de Poincaré-Bendixson.</a></td>
+<td>Luis Alejandro Cifuentes Espitia</td>
 </tr>
 
 
@@ -416,14 +361,13 @@ UPTC.
 5/03/2019
 </td>
 <td>
-<em>
+
 <a
 href="http://www.uptc.edu.co/export/sites/default/facultades/f_ciencias/pregrado/matematicas/inf_adicional/eventos/NuestroEncuentro/Charla_15.pdf"
  target="_blank">El Teorema de Galois y sus Aplicaciones.</a>
-</em>
+
 </td>
-<td>Julieth Andrea Soler Marín, estudiante de la carrera de Matemáticas,
-UPTC. 
+<td>Julieth Andrea Soler Marín
 </td>
 </tr>
 
@@ -436,14 +380,13 @@ UPTC.
 1/03/2019
 </td>
 <td>
-<em>
+
 <a
 href="http://www.uptc.edu.co/export/sites/default/facultades/f_ciencias/pregrado/matematicas/inf_adicional/eventos/NuestroEncuentro/Charla_14.pdf"
  target="_blank">Estabilidad en el sentido de Liapunov.</a>
-</em>
+
 </td>
-<td>Oscar Mauricio Barragán Piratova, estudiante de la carrera de
-Matemáticas, UPTC. 
+<td>Oscar Mauricio Barragán Piratova 
 </td>
 </tr>
 
@@ -456,14 +399,14 @@ Matemáticas, UPTC.
 27/02/2019
 </td>
 <td>
-<em>
+
 <a
 href="http://www.uptc.edu.co/export/sites/default/facultades/f_ciencias/pregrado/matematicas/inf_adicional/eventos/NuestroEncuentro/Charla_13.pdf"
  target="_blank">Conceptos geométricos para la teoría de
 bifurcación.</a>
-</em>
+
 </td>
-<td>Zuly Lisley González Niño, estudiante de la carrera de Matemáticas, UPTC.
+<td>Zuly Lisley González Niño
 </td>
 </tr>
 
@@ -476,13 +419,13 @@ bifurcación.</a>
 26/02/2019
 </td>
 <td>
-<em>
+
 <a
 href="http://www.uptc.edu.co/export/sites/default/facultades/f_ciencias/pregrado/matematicas/inf_adicional/eventos/NuestroEncuentro/Charla_12.pdf"
  target="_blank">El problema de los Puentes de Königsberg.</a>
-</em>
+
 </td>
-<td>Jonhatan Castillo Barajas, estudiante de la carrera de Matemáticas, UPTC.
+<td>Jonhatan Castillo Barajas
 </td>
 </tr>
 
@@ -495,14 +438,13 @@ href="http://www.uptc.edu.co/export/sites/default/facultades/f_ciencias/pregrado
 12/02/2019
 </td>
 <td>
-<em>
+
 <a
 href="http://www.uptc.edu.co/export/sites/default/facultades/f_ciencias/pregrado/matematicas/inf_adicional/eventos/NuestroEncuentro/Charla_11.pdf"
  target="_blank"> El carácter analítico de la función &zeta;(s)</a>
-</em>
+
 </td>
-<td>Luis Alejandro Cifuentes Espitia, estudiante de la carrera de Matemáticas,
-UPTC. 
+<td>Luis Alejandro Cifuentes Espitia
 </td>
 </tr>
 
@@ -516,15 +458,14 @@ UPTC.
 12/02/2019
 </td>
 <td>
-<em>
+
 <a
 href="http://www.uptc.edu.co/export/sites/default/facultades/f_ciencias/pregrado/matematicas/inf_adicional/eventos/NuestroEncuentro/Charla_10.pdf"
  target="_blank">Aplicaciones del Álgebra Lineal en el
 procesamiento de imágenes.</a>
-</em>
+
 </td>
-<td>Sandra Milena Espitia Sáenz, estudiante de la carrera de Matemáticas,
-UPTC. 
+<td>Sandra Milena Espitia Sáenz
 </td>
 </tr>
 
@@ -537,14 +478,13 @@ UPTC.
 5/02/2019
 </td>
 <td>
-<em>
+
 <a
 href="http://www.uptc.edu.co/export/sites/default/facultades/f_ciencias/pregrado/matematicas/inf_adicional/eventos/NuestroEncuentro/Charla_09.pdf"
  target="_blank">Álgebras de Banach.</a>
-</em>
+
 </td>
-<td>Pablo Edixon Rodríguez Amado, estudiante de la carrera de Matemáticas,
-UPTC.</td>
+<td>Pablo Edixon Rodríguez Amado</td>
 </tr>
 
 
@@ -557,15 +497,12 @@ UPTC.</td>
 29/01/2019
 </td>
 <td>
-<em>
+
 <a
 href="http://www.uptc.edu.co/export/sites/default/facultades/f_ciencias/pregrado/matematicas/inf_adicional/eventos/NuestroEncuentro/Charala_8_29_01_2019.pdf"
  target="_blank">Algunas técnicas para el cálculo del "delta"
-adecuado en límite de funciones</a>
-</em>
-</td>
-<td>Diego Armando Rodríguez Díaz y Luis Germán López García, estudiantes
-de la carrera de Matemáticas, UPTC.</td>
+adecuado en límite de funciones</a></td>
+<td>Diego Armando Rodríguez Díaz y Luis Germán López García</td>
 </tr>
 
 </table>
