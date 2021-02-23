@@ -30,7 +30,7 @@ href="http://www.uptc.edu.co/export/sites/default/facultades/f_ciencias/pregrado
 <td><a
 href="http://www.uptc.edu.co/export/sites/default/facultades/f_ciencias/pregrado/matematicas/inf_adicional/eventos/NuestroEncuentro/Charla_06.pdf"
  target="_blank">Operadores de Toeplitz y medidas de tipo Fock‐Carleson</a></td>
-  <td> <a href="https://www.researchgate.net/profile/Kevin-Esmeral-Garcia"> Kevin Esmeral García</a>. Universidad de Caldas</td>
+  <td> <a href="https://www.researchgate.net/profile/Kevin-Esmeral-Garcia"> Kevin Esmeral García</a></td>
 </tr>
 
 <tr>
