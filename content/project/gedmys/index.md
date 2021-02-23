@@ -39,9 +39,8 @@ slides: example
   }
 </style>
 
-<center>
-  [GrupLac](https://scienti.minciencias.gov.co/gruplac/jsp/visualiza/visualizagr.jsp?nro=00000000017763)
-</center>  
+[GrupLac](https://scienti.minciencias.gov.co/gruplac/jsp/visualiza/visualizagr.jsp?nro=00000000017763)
+
 
 ### Líneas de investigación
 
