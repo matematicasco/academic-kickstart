@@ -30,15 +30,10 @@ href="http://www.uptc.edu.co/export/sites/default/facultades/f_ciencias/pregrado
 <p align="left">
 <font size="2">2/08/2019
 </td>
-<td>
-<em>
-<a
+<td><a
 href="http://www.uptc.edu.co/export/sites/default/facultades/f_ciencias/pregrado/matematicas/inf_adicional/eventos/NuestroEncuentro/Charla_34_2_VIII_2019.pdf"
- target="_blank">Reproducción del Rombicuboctaedro de Pacioli</a>
-</em>
-</td>
-<td>Pablo Edixon Rodríguez Amado, estudiante Escuela de Matemáticas y Estadística, UPTC.
-</td>
+ target="_blank">Reproducción del Rombicuboctaedro de Pacioli</a></td>
+<td>Pablo Edixon Rodríguez Amado, estudiante Escuela de Matemáticas y Estadística, UPTC.</td>
 </tr>
 <tr>
 <td>
