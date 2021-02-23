@@ -7,7 +7,7 @@ math      = true
 +++
 
 
-<table style="HEIGHT: 54px; WIDTH: 501px" height="54" cellspacing="1" cellpadding="1" width="501" summary="" border="2">
+<table  cellspacing="1" cellpadding="1" width="501" summary="" border="2">
 <tr>
 <td bgcolor="#99FF99"><p align="center"><strong>Charla No</strong></p></td>
 <td bgcolor="#99FF99"><p align="center"><strong>Fecha</strong></p></td>
