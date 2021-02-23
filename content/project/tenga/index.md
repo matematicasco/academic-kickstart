@@ -32,9 +32,18 @@ image:
   }
 </style>
 
-Grupo de teoría de los números y geometría algebraica.
+## Grupo de teoría de los números y geometría algebraica.
   
-### Miembros
+[GrupLac](https://scienti.minciencias.gov.co/gruplac/jsp/visualiza/visualizagr.jsp?nro=00000000007861)
+
+### Líneas de investigación
+
++ Análisis p-ádico
++ Funciones zeta locales, motívicas, topológicas
++ Modelos ultramétricos en física
++ Teoría aritmética de polinomios
+
+
 
 &nbsp;| Lider | &nbsp;
 :---: | :---:| :---:
