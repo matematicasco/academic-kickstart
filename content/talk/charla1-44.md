@@ -13,7 +13,6 @@ math      = true
 <td bgcolor="#99FF99"><p align="center"><strong>Conferencia</strong></p></td>
 <td bgcolor="#99FF99"><p align="center"><strong>Conferencista</strong></p></td>
 </tr>
-
 <tr>
 <td><p align="center"><font size="2">35</td>
 <td><p align="left"><font size="2">9/08/2019</td><td><em><a
