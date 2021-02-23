@@ -6,8 +6,7 @@ title     = "Listado charlas previas"
 math      = true
 +++
 
-<table style="HEIGHT: 54px; WIDTH: 501px" height="54" cellspacing="1" cellpadding="1" width="501"
-summary="" border="2">
+<table style="HEIGHT: 54px; WIDTH: 501px" height="54" cellspacing="1" cellpadding="1" width="501" summary="" border="2">
 <tbody>
 <tr>
 <td bgcolor="#99FF99">
@@ -19,6 +18,7 @@ summary="" border="2">
 <p align="center">
 <strong>Fecha</strong>
 </p>
+
 </td>
 <td bgcolor="#99FF99">
 <p align="center">
@@ -733,4 +733,4 @@ Algunas pruebas de la infinitud primos.</a>
 </td>
 <td>Álvaro Calvache. Docente Uptc </td>
 </tbody>
-</tr></table></td></tr></table>
+</tr></table>
