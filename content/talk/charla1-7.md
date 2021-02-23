@@ -63,12 +63,12 @@ href="http://www.uptc.edu.co/export/sites/default/facultades/f_ciencias/pregrado
 <td>8/03/2018</td>
 <td><a
 href="http://www.uptc.edu.co/export/sites/default/facultades/f_ciencias/pregrado/matematicas/inf_adicional/eventos/NuestroEncuentro/conferencia2.pdf"
- target="_blank">La matemática textual.</a></td><td>Jairo H Guasgüita. Docente Uptc</td></tr>
+ target="_blank">La matemática textual.</a></td><td>Jairo H Guasgüita</td></tr>
 <tr>
 <td><p align="center"><font size="2">1</td>
 <td>1/03/2018</td>
 <td>Algunas pruebas de la infinitud primos</td>
-<td>Álvaro Calvache. Docente Uptc </td>
+<td>Álvaro Calvache </td>
 </tr>
 </table>
 
