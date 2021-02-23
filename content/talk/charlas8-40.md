@@ -201,8 +201,7 @@ y el futuro de predicción.</a>
 <p align="left">
 <font size="2">2/07/2019
 </td>
-<td>
-<a href="http://www.uptc.edu.co/export/sites/default/facultades/f_ciencias/pregrado/matematicas/inf_adicional/eventos/NuestroEncuentro/charla_24_2_07_2019.pdf">¿Son nuestros cerebros bayesianos?</a>
+<td><a href="http://www.uptc.edu.co/export/sites/default/facultades/f_ciencias/pregrado/matematicas/inf_adicional/eventos/NuestroEncuentro/charla_24_2_07_2019.pdf">¿Son nuestros cerebros bayesianos?</a>
 
 </td>
 <td>Andrés F. Pachón</td>
@@ -316,11 +315,8 @@ href="http://www.uptc.edu.co/export/sites/default/facultades/f_ciencias/pregrado
 <td>
 6/03/2019
 </td>
-<td>
-
-<a
-href="http://www.uptc.edu.co/export/sites/default/facultades/f_ciencias/pregrado/matematicas/inf_adicional/eventos/NuestroEncuentro/Charla_16.pdf"
- > El teorema de Poincaré-Bendixson.</a></td>
+<td><a
+href="http://www.uptc.edu.co/export/sites/default/facultades/f_ciencias/pregrado/matematicas/inf_adicional/eventos/NuestroEncuentro/Charla_16.pdf"> El teorema de Poincaré-Bendixson.</a></td>
 <td>Luis A. Cifuentes Espitia</td>
 </tr>
 
@@ -333,11 +329,8 @@ href="http://www.uptc.edu.co/export/sites/default/facultades/f_ciencias/pregrado
 <td>
 5/03/2019
 </td>
-<td>
-
-<a
-href="http://www.uptc.edu.co/export/sites/default/facultades/f_ciencias/pregrado/matematicas/inf_adicional/eventos/NuestroEncuentro/Charla_15.pdf"
- >El Teorema de Galois y sus Aplicaciones.</a>
+<td><a
+href="http://www.uptc.edu.co/export/sites/default/facultades/f_ciencias/pregrado/matematicas/inf_adicional/eventos/NuestroEncuentro/Charla_15.pdf">El Teorema de Galois y sus Aplicaciones.</a>
 
 </td>
 <td>Julieth A. Soler Marín
@@ -352,11 +345,8 @@ href="http://www.uptc.edu.co/export/sites/default/facultades/f_ciencias/pregrado
 <td>
 1/03/2019
 </td>
-<td>
-
-<a
-href="http://www.uptc.edu.co/export/sites/default/facultades/f_ciencias/pregrado/matematicas/inf_adicional/eventos/NuestroEncuentro/Charla_14.pdf"
- >Estabilidad en el sentido de Liapunov.</a>
+<td><a
+href="http://www.uptc.edu.co/export/sites/default/facultades/f_ciencias/pregrado/matematicas/inf_adicional/eventos/NuestroEncuentro/Charla_14.pdf">Estabilidad en el sentido de Liapunov.</a>
 
 </td>
 <td>Oscar M. Barragán Piratova 
@@ -374,8 +364,7 @@ href="http://www.uptc.edu.co/export/sites/default/facultades/f_ciencias/pregrado
 <td>
 
 <a
-href="http://www.uptc.edu.co/export/sites/default/facultades/f_ciencias/pregrado/matematicas/inf_adicional/eventos/NuestroEncuentro/Charla_13.pdf"
- >Conceptos geométricos para la teoría de
+href="http://www.uptc.edu.co/export/sites/default/facultades/f_ciencias/pregrado/matematicas/inf_adicional/eventos/NuestroEncuentro/Charla_13.pdf">Conceptos geométricos para la teoría de
 bifurcación.</a>
 
 </td>
@@ -391,11 +380,8 @@ bifurcación.</a>
 <td>
 26/02/2019
 </td>
-<td>
-
-<a
-href="http://www.uptc.edu.co/export/sites/default/facultades/f_ciencias/pregrado/matematicas/inf_adicional/eventos/NuestroEncuentro/Charla_12.pdf"
- >El problema de los Puentes de Königsberg.</a>
+<td><a
+href="http://www.uptc.edu.co/export/sites/default/facultades/f_ciencias/pregrado/matematicas/inf_adicional/eventos/NuestroEncuentro/Charla_12.pdf">El problema de los Puentes de Königsberg.</a>
 
 </td>
 <td>Jonhatan Castillo Barajas
@@ -406,7 +392,7 @@ href="http://www.uptc.edu.co/export/sites/default/facultades/f_ciencias/pregrado
 <td><p align="center"><font size="2">11</td>
 <td>12/02/2019</td>
 <td><a
-href="http://www.uptc.edu.co/export/sites/default/facultades/f_ciencias/pregrado/matematicas/inf_adicional/eventos/NuestroEncuentro/Charla_11.pdf"> El carácter analítico de la función &zeta;(s)</a></td>
+href="http://www.uptc.edu.co/export/sites/default/facultades/f_ciencias/pregrado/matematicas/inf_adicional/eventos/NuestroEncuentro/Charla_11.pdf"> El carácter analítico de la función zeta(s)</a></td>
 <td>Luis A. Cifuentes Espitia</td>
 </tr>
 
