@@ -1,5 +1,5 @@
 +++
-date      = "2021-02-14"
+date      = "2021-02-28"
 draft     = false
 tags      = ["Nuestro Encuentro"]
 title     = "Charla 53: Control óptimo estocástico en tiempo discreto"
