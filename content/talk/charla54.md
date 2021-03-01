@@ -8,7 +8,7 @@ math      = true
 
 **Conferencista:** Jonhatan Castillo Barajas
 
-**Fecha:** Martes 16 de marzo de 2021, 5:00 p.m.
+**Fecha:** Martes 9 de marzo de 2021, 5:00 p.m.
 
 **Lugar:** [Videollamada](https://meet.google.com/izy-pzig-pbf)  ([Presione el enlace para ingresar](https://meet.google.com/izy-pzig-pbf))
 
