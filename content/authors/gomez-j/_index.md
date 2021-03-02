@@ -35,4 +35,7 @@ user_groups:
 - "Docentes Catedráticos"
 ---
 
+Currently teaching:
++ Cálculo II
++ Análisis Real
 
