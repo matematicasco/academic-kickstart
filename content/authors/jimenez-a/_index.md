@@ -3,7 +3,7 @@ name: Ana Emilce Jiménez
 authors:
 - jimenez-a
 superuser: false
-role: Docente 
+role: Docente Asistente
 organizations:
 - name: Universidad Pedagógica y Tecnológica de Colombia
   url: "http://www.uptc.edu.co"
@@ -13,3 +13,7 @@ user_groups:
 - "gama"
 ---
 
+Currently teaching:
++ Estadística Descriptiva
++ Probabilidad y Estadística
++ Inferencia Estadística
