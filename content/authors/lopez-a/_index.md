@@ -45,5 +45,11 @@ user_groups:
 - "Escuela"
 ---
 
+Currently teaching:
++ Electiva Interdisciplinar, Licenciatura matemáticass
++ Estadística General, Matemáticas
++ Seminario de Investigación, Matemáticas
++ Probabilidad y Estadística, Ingeniería de Sistemas
+
 
 
