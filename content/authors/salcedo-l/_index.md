@@ -12,3 +12,8 @@ user_groups:
 - "Escuela"
 ---
 
+Currently Teaching:
++ Geometría Elemental
++ Electiva II
++ Cálculo III
++ Cálculo Multivariable
