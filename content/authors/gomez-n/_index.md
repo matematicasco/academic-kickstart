@@ -38,6 +38,11 @@ user_groups:
 - "gama"
 ---
 
+Currently Teaching:
++ Seminarioo de Tesis I
++ Trabajo de Grado I
++ Bioestadística
+
 
 
 
