@@ -6,7 +6,7 @@ title     = "Charla 56: Equilibrium States for Non-Uniformly Expanding Maps"
 math      = true
 +++
 
-**Conferencista:** [Eduardo Santana](TBA)
+**Conferencista:** [Eduardo Santana](https://www.researchgate.net/profile/Eduardo-Santana-12)
 
 **Fecha:** Martes 6 de abril de 2021, 4:00 p.m.
 
