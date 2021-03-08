@@ -5,7 +5,10 @@ draft     = false
 tags      = ["Circulos"]
 title     = "¿1 + 1 = 0? Código Binario"
 math      = true
+author    ="lopez-a"
 +++
+
+Quiero extender una invitación a la segunda sesión de los Círculos Matemáticos Colombia que se llevará a cabo este miércoles 10 de marzo de 2021 a las 5 p.m. La expositora es Laura Gómez Bermeo de la Universidad Sergio Arboleda. En esta ocasión hablaremos de los números binarios presentes en nuestros celulares y aprenderemos a realizar cambios de base de manera rápida y divertida. ¡No te lo pierdas! 
 
 Quienes quieran participar mediante YouTube se pueden conectar al canal de la Sociedad Colombiana de Matemáticas:   
 https://www.youtube.com/channel/UCKf8053DsTqHRP76oybiBZw. 
