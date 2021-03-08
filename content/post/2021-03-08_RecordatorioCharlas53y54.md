@@ -1,3 +1,13 @@
++++
+date      = 2021-03-08
+lastmod   = 2021-03-08
+draft     = false
+tags      = ["Circulos"]
+title     = "Recordatorio Charlas 53 y 54"
+math      = true
+authors   = ["lopez-a"]
++++
+
 
 Feliz día internacional de la mujer trabajadora a todas mis colegas. Que con nuestro trabajo sigamos transformando nuestra sociedad para que sea igualitaria, incluyente y justa.
 
@@ -13,4 +23,4 @@ https://meet.google.com/izy-pzig-pbf
 
 Dicho enlace también está activo en los afiches adjuntos y en la página de la Escuela de Matemáticas y Estadística:
 
-https://matematicas.netlify.app/ 
+https://matematicas.netlify.app/talk/charla53/
