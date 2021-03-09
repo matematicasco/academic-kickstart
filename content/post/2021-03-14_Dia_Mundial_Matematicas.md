@@ -1,6 +1,6 @@
 +++
-date      = 2021-03-09
-lastmod   = 2021-03-09
+date      = 2021-03-08
+lastmod   = 2021-03-08
 draft     = false
 tags      = ["SCM"]
 title     = "Día Internacional de las Matemáticas"
@@ -13,4 +13,4 @@ https://www.facebook.com/SocColMat/
 
 https://www.youtube.com/channel/UCKf8053DsTqHRP76oybiBZw
 
-![]()
+<img src="https://matematicas.netlify.com/img/IDM2021.jpg"  width="500"/>
