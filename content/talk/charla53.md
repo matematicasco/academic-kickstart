@@ -1,5 +1,5 @@
 +++
-date      = "2021-03-08"
+date      = "2021-03-09"
 draft     = false
 tags      = ["Nuestro Encuentro"]
 title     = "Charla 53: Condiciones para la existencia de políticas óptimas en modelos de control de Markov descontado a tiempo discreto y tasas aleatorizadas"
