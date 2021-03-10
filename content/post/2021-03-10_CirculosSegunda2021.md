@@ -1,6 +1,6 @@
 +++
-date      = 2021-03-08
-lastmod   = 2021-03-08
+date      = 2021-03-09
+lastmod   = 2021-03-09
 draft     = false
 tags      = ["Circulos"]
 title     = "¿1 + 1 = 0? Código Binario"
