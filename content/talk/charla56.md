@@ -1,5 +1,5 @@
 +++
-date      = "2021-03-06"
+date      = "2021-03-10"
 draft     = false
 tags      = ["Nuestro Encuentro"]
 title     = "Charla 56: Equilibrium States for Non-Uniformly Expanding Maps"
@@ -8,7 +8,7 @@ math      = true
 
 **Conferencista:** [Eduardo Santana](https://www.researchgate.net/profile/Eduardo-Santana-12)
 
-**Fecha:** Martes 6 de abril de 2021, 4:00 p.m.
+**Fecha:** Martes 23 de marzo de 2021, 4:00 p.m.
 
 **Lugar:** [Videollamada](https://meet.google.com/izy-pzig-pbf)  ([Presione el enlace para ingresar](https://meet.google.com/izy-pzig-pbf))
 
