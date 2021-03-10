@@ -1,5 +1,5 @@
 +++
-date      = "2021-03-07"
+date      = "2021-03-10"
 draft     = false
 tags      = ["Nuestro Encuentro"]
 title     = "Charla 55: Números p-ádicos"
