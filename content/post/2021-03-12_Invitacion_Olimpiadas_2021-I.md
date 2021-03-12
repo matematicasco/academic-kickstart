@@ -18,6 +18,8 @@ participar de este proyecto académico
 
 Mayores informes:
 
-https://matematicas.netlify.app/#olimpiadas
-[olimpiadas.matematicas@gmail.com](mailto:olimpiadas.matematicas@gmail.com)
+Página web: https://matematicas.netlify.app/#olimpiadas
+
+[Correo electrócnico](mailto:olimpiadas.matematicas@gmail.com)
+
 WhatsApp **3164162933**
