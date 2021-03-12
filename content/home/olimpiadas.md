@@ -86,7 +86,7 @@ Se premiará a los 3 mejores puntajes de cada nivel que participaron en la fase 
 ### Inscripción
 
 La inscripción la llevará acabo cada institución educativa que desee participar llenando el formulario de inscripción que se encuentra en el siguiente enlace:
-[https://matematicas.netlify.com/files/FormatoInscripcion.xlsm](https://matematicas.netlify.com/files/FormatoInscripcion2021.xlsm).
+[https://matematicas.netlify.com/files/FormatoInscripcion2021.xlsm](https://matematicas.netlify.com/files/FormatoInscripcion2021.xlsm).
 
 Los estudiantes menores de edad que quieran participar en el evento deben diligenciar autorización disponible en el siguiente enlace: [https://matematicas.netlify.com/files/AutorizacionMenores.docx](https://matematicas.netlify.com/files/AutorizacionMenores.docx)  
 
