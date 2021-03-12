@@ -26,7 +26,7 @@ subtitle = ""
   # Filter posts by a taxonomy term.
   [content.filters]
     tag = "Olimpiadas"
-    category = ""
+    category = "Olimpiadas"
     publication_type = ""
     exclude_featured = false
   
