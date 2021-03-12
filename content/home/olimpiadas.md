@@ -111,7 +111,7 @@ Nivel | Fase clasificatoria: |  Fase selectiva: | Fase selectiva:
 
 ## Información
 **Escuela de Matemáticas y Estadística UPTC Tunja** <br>
-[Email:](mailto:olimpiadas.matematicas@uptc.edu.co) <br>
+Correo electrónico: [olimpiadas.matematicas@uptc.edu.co](mailto:olimpiadas.matematicas@uptc.edu.co) <br>
 **Teléfono:** (8) 7405626 Ext.: 2441 – 2442, **WhatsApp:** 3164162933 <br>
 https://matematicas.netlify.app/tags/olimpiadas/ 
 
