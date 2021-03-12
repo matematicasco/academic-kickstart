@@ -55,7 +55,7 @@ La Escuela de Matemáticas y Estadística de la Universidad Pedagógica y Tecnol
 [Afiche](https://matematicas.netlify.com/files/AficheOlimpiadas2021.pdf)
 
 
-## Metodología
+### Metodología
 
 Este certamen se desarrollará en tres niveles
 
@@ -64,7 +64,7 @@ Este certamen se desarrollará en tres niveles
 3. **Tercer Nivel:** grados décimo y once
 
 
-## Fases del certamen
+### Fases del certamen
 
 1. **Clasificatoria:** en esta fase participarán los estudiantes inscritos, quienes presentarán la prueba por medio de la plataforma Moodle de la UPTC, según el correspondiente nivel se le asignara una fecha y hora. La prueba constará de diez (10) problemas de selección múltiple con única respuesta. La prueba tendrá una duración de una hora y treinta minutos.
 
@@ -79,18 +79,21 @@ Cada una de las fases será valorada por un comité evaluador seleccionado por l
 Contra los resultados emitidos por el comité evaluador no procede reclamo o recurso alguno.
 
 
-## Premiación
+### Premiación
 Se premiará a los 3 mejores puntajes de cada nivel que participaron en la fase final. Los ganadores recibirán un diploma, una medalla y un regalo sorpresa. La información se publicará en la página oficial de las olimpiadas y se enviará a los correos de cada una de las instituciones educativas participantes.
 
-## Inscripción
+
+### Inscripción
 
 La inscripción la llevará acabo cada institución educativa que desee participar llenando el formulario de inscripción que se encuentra en el siguiente enlace:
 [https://matematicas.netlify.com/files/FormatoInscripcion.xlsm](https://matematicas.netlify.com/files/FormatoInscripcion2021.xlsm).
 
 Los estudiantes menores de edad que quieran participar en el evento deben diligenciar autorización disponible en el siguiente enlace: [https://matematicas.netlify.com/files/AutorizacionMenores.docx](https://matematicas.netlify.com/files/AutorizacionMenores.docx)  
 
+Los documentos deben ser envíados al correo electrónico: [olimpiadas.matematicas@uptc.edu.co](mailto:olimpiadas.matematicas@uptc.edu.co)
 
-## Fechas importantes
+
+### Fechas importantes
 
 1. **Inscripción:** abril 1 a abril 31 de 2021.
 2. **Fase Clasificatoria:** mayo 18 al 20 de 2021, por medio de la plataforma Moodle.
@@ -109,7 +112,7 @@ Nivel | Fase clasificatoria: |  Fase selectiva: | Fase selectiva:
 
 
 
-## Información
+### Información
 **Escuela de Matemáticas y Estadística UPTC Tunja** <br>
 Correo electrónico: [olimpiadas.matematicas@uptc.edu.co](mailto:olimpiadas.matematicas@uptc.edu.co) <br>
 **Teléfono:** (8) 7405626 Ext.: 2441 – 2442, **WhatsApp:** 3164162933 <br>
