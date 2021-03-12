@@ -68,7 +68,5 @@ subtitle = ""
 
 <center><img src="https://matematicas.netlify.com/img/circulosSCM.jpg" alt="Logo" width="300"/></center>
 
-+ <a href="https://matematicas.netlify.app/post/2021-03-10_circulossegunda2021/">Segunda sesión Círculos Matemáticos 2021</a>
-+ <a href="https://matematicas.netlify.app/post/vuelvencirculos2021/">¡Vuelven los Círculos Matemáticos Colombia!</a>
 
 
