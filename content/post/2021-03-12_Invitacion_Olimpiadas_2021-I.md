@@ -3,7 +3,7 @@ date      = 2021-03-12
 lastmod   = 2021-03-12
 draft     = false
 tags      = ["Olimpiadas"]
-title     = "Inician las primeras olimpiadas matemáticas UPTC"
+title     = "Invitación a las primeras olimpiadas matemáticas UPTC"
 math      = true
 authors   =["fuentes-e"]
 +++
@@ -20,6 +20,6 @@ Mayores informes:
 
 Página web: https://matematicas.netlify.app/#olimpiadas
 
-[Correo electrócnico](mailto:olimpiadas.matematicas@gmail.com)
+Correo electrócnico: [olimpiadas.matematicas@gmail.com](mailto:olimpiadas.matematicas@gmail.com)
 
 WhatsApp **3164162933**
