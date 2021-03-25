@@ -1,5 +1,5 @@
 +++
-date      = "2021-03-20"
+date      = "2021-03-25"
 draft     = false
 tags      = ["Nuestro Encuentro"]
 title     = "Charla 57: Estadística vs data science en la era del big data: las responsabilidades de un data scientist en la industria"
