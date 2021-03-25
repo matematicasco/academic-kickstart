@@ -1,5 +1,5 @@
 +++
-date      = "2021-03-18"
+date      = "2021-03-24"
 draft     = false
 tags      = ["Nuestro Encuentro"]
 title     = "Charla 60: Experimental study of laminar and turbulent boundary layer separation control of skin"
