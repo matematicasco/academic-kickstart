@@ -2,7 +2,7 @@
 date      = "2021-03-31"
 draft     = false
 tags      = ["Nuestro Encuentro"]
-title     = "Charla 60: Experimental study of laminar and turbulent boundary layer separation control of skin"
+title     = "Charla 60: Experimental study of laminar and turbulent boundary layer separation control of shark-skin"
 math      = true
 +++
 
