@@ -23,7 +23,7 @@ height = "350px"
 
   overlay_color = ""  # An HTML color value.
   overlay_img = "headers/sl2.jpg"  # Image path relative to your `static/img/` folder.
-  overlay_filter = 0.2  # Darken the image. Value in range 0-1.
+  overlay_filter = 0.1  # Darken the image. Value in range 0-1.
   
 [[item]]
   title = ""
@@ -62,13 +62,13 @@ height = "350px"
   cta_icon = "award"
 
 [[item]]
-  title = ""
+  title = "Círculos Matemáticos"
   content = ""
   align = "right"
 
   overlay_color = "#3D1911"  # An HTML color value.
   overlay_img = "headers/circulos.png"  # Image path relative to your `static/img/` folder.
-  overlay_filter = 0.2  # Darken the image. Value in range 0-1.
+  overlay_filter = 0  # Darken the image. Value in range 0-1.
 
   # Call to action button (optional).
   #   Activate the button by specifying a URL and button label below.
