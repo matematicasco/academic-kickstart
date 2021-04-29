@@ -1,7 +1,7 @@
 +++
 title = "Comparación de la eficiencia científica entre Colombia y México a través de indicadores relativos de producción y calidad científica"
 date = "2020-06-30"
-authors = ["gomez-n", "jimenez-a", "rodriguez-j", Mauricio Romero-Torres]
+authors = ["gomez-n", "jimenez-a", "rodriguez-j", "Romero-Torres, M."]
 publication_types = ["2"]
 publication = "Revista Española de Documentación Científica 43(2), e262"
 publication_short = ""
