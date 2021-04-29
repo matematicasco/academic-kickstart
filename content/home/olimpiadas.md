@@ -95,7 +95,7 @@ Los documentos deben ser envíados al correo electrónico: [olimpiadas.matematic
 
 ### Fechas importantes
 
-1. **Inscripción:** abril 1 a abril 31 de 2021.
+1. **Inscripción:** abril 1 a abril 30 de 2021.
 2. **Fase Clasificatoria:** mayo 18 al 20 de 2021, por medio de la plataforma Moodle.
 3. **Fase Selectiva:** julio 27 al 29, por medio de la plataforma Moodle.
 4. **Fase Final:** septiembre 21 al 23, por medio de la plataforma Moodle.
