@@ -5,7 +5,7 @@ draft     = false
 tags      = ["Topologia"]
 title     = "Presentación del libro Topología: un curso introductorio, Volumen II"
 math      = true
-authors   = ["suarez-h"]
+authors   = ["suarez-h", "maluendas-p","serna-r"]
 +++
 
 En el marco de la II Feria Virtual del Libro Académico, el próximo jueves 6 de mayo a las 4 pm se hará una presentación corta del libro "Topología: un curso introductorio, Volumen II".
