@@ -1,5 +1,5 @@
 +++
-date      = "2021-05-09"
+date      = "2021-05-11"
 draft     = false
 tags      = ["Nuestro Encuentro"]
 title     = "Charla 62: Making magical shapes"
