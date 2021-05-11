@@ -3,7 +3,7 @@ date      = 2021-05-11
 lastmod   = 2021-05-11
 draft     = false
 tags      = ["Circulos"]
-title     = ""
+title     = "Juegos con Cuadrados y el Teorema de Van Aubel"
 math      = true
 authors   = ["lopez-a"]
 +++
