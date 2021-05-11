@@ -32,6 +32,12 @@ social:
  - icon: orcid
    icon_pack: ai
    link: https://orcid.org/0000-0002-5430-5016
+ - icon: google-scholar
+   icon_pack: ai
+   link: https://scholar.google.com/citations?user=nZK23i0AAAAJ&hl=es
+ - icon: researchgate
+   icon_pack: ai
+   link: https://www.researchgate.net/profile/Edinson-Fuentes
  - icon: cv
    icon_pack: ai
    link: "https://scienti.minciencias.gov.co/cvlac/visualizador/generarCurriculoCv.do?cod_rh=0001358008"
