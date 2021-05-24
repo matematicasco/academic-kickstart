@@ -32,6 +32,10 @@ social:
  - icon: cv
    icon_pack: ai
    link: https://scienti.minciencias.gov.co/cvlac/visualizador/generarCurriculoCv.do?cod_rh=0001355034
+ - icon: researchgate
+   icon_pack: ai
+   link: https://www.researchgate.net/profile/O-Casas-Sanchez
+
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: ""
