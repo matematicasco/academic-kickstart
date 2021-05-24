@@ -2,7 +2,7 @@
 date      = 2021-03-09
 lastmod   = 2021-03-09
 draft     = false
-tags      = ["Circulos"]
+tags      = ["Círculos"]
 title     = "¿1 + 1 = 0? Código Binario"
 math      = true
 authors   = ["lopez-a"]
