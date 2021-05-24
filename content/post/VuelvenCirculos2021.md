@@ -2,7 +2,7 @@
 date      = 2021-02-10
 lastmod   = 2021-02-10
 draft     = false
-tags      = ["Circulos"]
+tags      = ["Círculos"]
 title     = "¡Vuelven los Círculos Matemáticos Colombia! "
 math      = true
 +++
