@@ -21,6 +21,7 @@ selected = false
 projects = ["tenga"]
 tags = ["Contaminación"]
 
+
 # Links (optional).
 url_pdf = "https://revistas.javeriana.edu.co/index.php/scientarium/article/view/24306/23983"
 doi = "10.11144/Javeriana.SC25-1.aots"
