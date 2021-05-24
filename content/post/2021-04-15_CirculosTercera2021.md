@@ -2,7 +2,7 @@
 date      = 2021-04-15
 lastmod   = 2021-04-15
 draft     = false
-tags      = ["Circulos"]
+tags      = ["Círculos"]
 title     = "Geobra en el universo finito"
 math      = true
 authors   = ["lopez-a"]
