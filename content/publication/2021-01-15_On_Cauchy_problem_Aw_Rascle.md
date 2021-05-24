@@ -9,6 +9,7 @@ abstract = "The existence of global BV solutions for the Aw-Rascle system with l
 abstract_short = ""
 selected = false
 projects = ["gedmys"]
+tags =["Ecuaciones Diferenciales Parciales"]
 url_pdf = "https://link.springer.com/article/10.1007/s10473-021-0118-0#citeas"
 doi = "10.1007/s10473-021-0118-0"
 math = true
