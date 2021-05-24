@@ -9,6 +9,7 @@ abstract = ""
 abstract_short = ""
 selected = false
 projects = ["giaa"]
+tags = ["Polinomios ortogonales"]
 url_pdf = "https://www.degruyter.com/document/doi/10.1515/ms-2017-0472/html"
 doi = "10.1515/ms-2017-0472"
 math = true
