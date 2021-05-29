@@ -14,6 +14,3 @@ user_groups:
 ---
 
 Currently teaching:
-+ Estadística Descriptiva
-+ Probabilidad y Estadística
-+ Inferencia Estadística
