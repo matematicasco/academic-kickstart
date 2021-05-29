@@ -3,7 +3,7 @@ name: Nubia Y. Gómez
 authors:
 - gomez-n
 superuser: false
-role: Docente Asistente
+role: Docente Asociada
 organizations:
 - name: Universidad Pedagógica y Tecnológica de Colombia
   url: "http://www.uptc.edu.co"
@@ -11,6 +11,7 @@ organizations:
 bio: 
 interests:
 - Statistical education
+- Bibliometry
 
 education:
   courses:
@@ -39,9 +40,6 @@ user_groups:
 ---
 
 Currently Teaching:
-+ Seminarioo de Tesis I
-+ Trabajo de Grado I
-+ Bioestadística
 
 
 
