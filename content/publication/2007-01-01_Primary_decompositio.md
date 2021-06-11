@@ -7,7 +7,7 @@ publication = "Acta Math. Acad. Paedagog. Nyhazi. 23(2), 105-114"
 publication_short = "Acta Math. Acad. Paedagog. Nyhazi. 23(2), 105-114"
 selected = false
 projects = ["giaa"]
-tags = ["Algebra"]
+tags = ["Algebra","GIAA"]
 math = true
 highlight = true
 [header]
