@@ -3,7 +3,7 @@ name: Alex L. Rojas
 authors:
 - rojas-a
 superuser: false
-role: Docente Asociado
+role: Associate Professor
 organizations:
 - name: Universidad Pedagógica y Tecnológica de Colombia
   url: "http://www.uptc.edu.co"
