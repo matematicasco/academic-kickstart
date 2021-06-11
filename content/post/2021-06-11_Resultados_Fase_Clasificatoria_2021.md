@@ -357,8 +357,13 @@ Para un análisis más detallado, consulte este enlace
 
 <center> <https://matematicas.netlify.app/files/Olimpiadas2021-F1.pdf </center>
 
+  
+### Resultados obtenidos por nivel - Fase clasificatoria
 
-Instituciones Educativas participantes:
+<img alt="Resultados fase clasificatoria" src="https://matematicas.netlify.app/img/OlimpiadasF1Resultados2021.png" width="500">
+
+
+### Instituciones Educativas participantes:
 
 * American School Saint Frances
 * Andino de Tunja
@@ -388,9 +393,6 @@ Instituciones Educativas participantes:
 * San Viator
 * Silvino Rodríguez
 
-## Resultados obtenidos por nivel - Fase clasificatoria
-
-<img alt="Resultados fase clasificatoria" src="https://matematicas.netlify.app/img/OlimpiadasF1Resultados2021.png" width="500">
      
 Mayores informes:
 
