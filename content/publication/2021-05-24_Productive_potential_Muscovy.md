@@ -19,6 +19,7 @@ selected = false
 #   Associate this publication with one or more of your projects.
 #   Simply enter the filename (excluding '.md') of your project file in `content/project/`.
 projects = ["tenga"]
+tags = ["Poultry"]
 
 # Links (optional).
 doi = "10.1080/00439339.2021.1921668"
