@@ -6,7 +6,7 @@ publication_types = ["5"]
 publication = "Jotamar"
 publication_short = "Jotamar"
 selected = false
-tags = ["Educación"]
+tags = ["Education"]
 math = true
 highlight = true
 [header]
