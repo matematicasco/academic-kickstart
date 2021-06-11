@@ -34,6 +34,17 @@ image:
 
 [GrupLac](https://scienti.minciencias.gov.co/gruplac/jsp/visualiza/visualizagr.jsp?nro=00000000010516)
 
+<center>
+  
+&nbsp;| Lider | &nbsp;
+-----| :-----:| -----
+&nbsp;|[<img src ="https://matematicas.netlify.app/authors/jimenez-a/avatar_hu188fa0dc0943cf2c67f51662f6176b50_862062_270x270_fill_q90_lanczos_center.jpg" id="circleM">](https://matematicas.netlify.app/authors/jimenez-a/) | &nbsp;
+&nbsp;| [Ana Emilce Jimenez](https://matematicas.netlify.app/authors/jimenez-a/) | &nbsp;
+[<img src ="https://matematicas.netlify.app/authors/gomez-n/avatar_hu1d753bf87762a1539e76fc1208fb6840_3191745_270x270_fill_q90_lanczos_center.jpg"  id="circleM">](https://matematicas.netlify.app/authors/gomez-n/) | [<img src ="https://matematicas.netlify.app/authors/rodriguez-j/avatar_hub36f9e3ed2f551ac550cd2459c860d9f_84917_270x270_fill_q90_lanczos_center.jpg"  id="circleM">](https://matematicas.netlify.app/authors/rodriguez-j/)| [<img src ="https://matematicas.netlify.app/authors/ayala-y/avatar_hub36f9e3ed2f551ac550cd2459c860d9f_84917_270x270_fill_q90_lanczos_center.jpg"  id="circleM">](https://matematicas.netlify.app/authors/ayala-y/)|
+[Nubia Y. Gómez](https://matematicas.netlify.app/authors/gomez-n/)|[Julieth Rodriguez](https://matematicas.netlify.app/authors/rodriguez-j/)| [Yolima Ayala](https://matematicas.netlify.app/authors/ayala-y/)
+
+</center>
+
 ### Líneas de investigación
 
 + Análisis cienciométrico
@@ -45,11 +56,4 @@ El grupo de investigación está integrado por profesionales con alta formación
 El grupo de Estadística Gamma, es un grupo avalado institucionalmente y se encuentra categorizado en Colciencias, cuenta con varios productos de nuevo conocimiento publicado en revistas indexadas y con productos de apropiación social del mismo, realizados en eventos nacionales e internacionales. A través de sus actividades propende por la conformación de redes de conocimiento en diferentes ámbitos y sectores. 
 
 Algunas de las áreas y campos de acción contenidos en las líneas de investigación del grupo son: Análisis multivariado, diseño de experimentos, muestreo, bioestadística, econometría, bioestadística, estadística no paramétrica, estadística descriptiva e inferencial, manejo de software estadístico, entre otros.
-  
-&nbsp;| Lider | &nbsp;
------| :-----:| -----
-&nbsp;|[<img src ="https://matematicas.netlify.app/authors/jimenez-a/avatar_hu188fa0dc0943cf2c67f51662f6176b50_862062_270x270_fill_q90_lanczos_center.jpg" id="circleM">](https://matematicas.netlify.app/authors/jimenez-a/) | &nbsp;
-&nbsp;| [Ana Emilce Jimenez](https://matematicas.netlify.app/authors/jimenez-a/) | &nbsp;
-[<img src ="https://matematicas.netlify.app/authors/gomez-n/avatar_hu1d753bf87762a1539e76fc1208fb6840_3191745_270x270_fill_q90_lanczos_center.jpg"  id="circleM">](https://matematicas.netlify.app/authors/gomez-n/) | [<img src ="https://matematicas.netlify.app/authors/rodriguez-j/avatar_hub36f9e3ed2f551ac550cd2459c860d9f_84917_270x270_fill_q90_lanczos_center.jpg"  id="circleM">](https://matematicas.netlify.app/authors/rodriguez-j/)| [<img src ="https://matematicas.netlify.app/authors/ayala-y/avatar_hub36f9e3ed2f551ac550cd2459c860d9f_84917_270x270_fill_q90_lanczos_center.jpg"  id="circleM">](https://matematicas.netlify.app/authors/ayala-y/)|
-[Nubia Y. Gómez](https://matematicas.netlify.app/authors/gomez-n/)|[Julieth Rodriguez](https://matematicas.netlify.app/authors/rodriguez-j/)| [Yolima Ayala](https://matematicas.netlify.app/authors/ayala-y/)
 
