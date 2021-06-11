@@ -14,7 +14,7 @@ El Comité Organizador de las Olimpiadas Matemáticas UPTC 2021 agradece la part
 ## Nivel 1. (Estudiantes Grado 6 y 7)
 
 
-| Nivel|Apellido(s)           |Nombre(s)              |Colegio                          |
+| Nivel|Apellido(s)           |Nombre(s)              |Institución Educativa            |
 |-----:|:---------------------|:----------------------|:--------------------------------|
 |     1|Aguirre Wualteros     |Kevin Santiago         |Boyacá                           |
 |     1|Aponte Cardenas       |Luisa Daniela Esmeralda|Salesiano                        |
@@ -94,7 +94,7 @@ El Comité Organizador de las Olimpiadas Matemáticas UPTC 2021 agradece la part
 
 ## Nivel 2. (Estudiantes Grado 8 y 9)
 
-| Nivel|Apellido(s)           |Nombre(s)              |Colegio                          |
+| Nivel|Apellido(s)           |Nombre(s)              |Institución Educativa            |
 |-----:|:---------------------|:----------------------|:--------------------------------|
 |     2|Abril Rojas           |Karen Sofia            |Gimnasio Campestre del Norte     |
 |     2|Acosta Quintero       |Sara Milena            |Normal Superior Leonor Alvarez   |
@@ -230,7 +230,7 @@ El Comité Organizador de las Olimpiadas Matemáticas UPTC 2021 agradece la part
 
 ## Nivel 3. (Estudiantes Grado 10 y 11)
 
-| Nivel|Apellido(s)           |Nombre(s)              |Colegio                          |
+| Nivel|Apellido(s)           |Nombre(s)              |Institución Educativa            |
 |-----:|:---------------------|:----------------------|:--------------------------------|
 |     3|Acero Cajigas         |Andres Felipe          |Salesiano                        |
 |     3|Acuna Perez           |Santiago               |Boyacá                           |
@@ -349,6 +349,38 @@ El Comité Organizador de las Olimpiadas Matemáticas UPTC 2021 agradece la part
 
 
 La Fase Selectiva (segunda Fase) se realizará entre el 27 al 29 de julio de 8:00 a.m. a 9:45 a.m, a través de la misma  plataforma (http://moodle.uptc.edu.co/econtinuada/), se invita a los estudiantes a ingresar con antelación a la plataforma y a la dirección del correo electrónico para estar al tanto de las instrucciones de la próxima prueba.
+
+
+Institución Educativa participantes
+* American School Saint Frances
+* Andino de Tunja
+* Bilingual Oxford
+* Boyacá
+* Emiliani
+* Escuela Normal Superior Santiago
+* Gimnasio Agustiniano
+* Gimnasio Campestre del Norte
+* Gimnasio Gran Colombiano
+* Gonzalo Suárez Rendón
+* INEM
+* Institución Educativa Rural del Sur
+* José Cayetano Vásquez
+* José Gabriel Carvajal García
+* La Presentación
+* Libertador Simón Bolívar
+* Los Ángeles
+* Los Muiscas
+* Moderno la Florida
+* Normal Superior Leonor Álvarez Pinzón
+* Nuestra Señora de Fátima
+* Nuestra Señora del Rosario
+* Nueva Granada
+* Rafael Bernal Jiménez
+* Salesiano Maldonado
+* San Viator
+* Silvino Rodríguez
+
+
 
 Mayores informes:
 
