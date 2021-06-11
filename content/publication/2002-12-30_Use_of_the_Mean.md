@@ -9,6 +9,7 @@ abstract = "A cohort of intensive care unit (ICU) patients in 20 Colombian ICUs 
 abstract_short = ""
 selected = false
 projects = ["tenga"]
+tags = ["GTNyGA", "Statistics", "Medicine"]
 url_pdf = "https://pubmed.ncbi.nlm.nih.gov/12483773/"
 doi = "10.1002/sim.1391"
 math = false
