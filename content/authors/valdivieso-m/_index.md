@@ -3,7 +3,7 @@ name: Margoth Valdivieso Miranda
 authors:
 - valdivieso-m
 superuser: false
-role: Docente Asociado
+role: Associate Professor
 organizations:
 - name: Universidad Pedagógica y Tecnológica de Colombia
   url: "http://www.uptc.edu.co"
