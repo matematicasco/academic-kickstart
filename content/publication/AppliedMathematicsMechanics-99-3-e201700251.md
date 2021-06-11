@@ -19,17 +19,10 @@ selected = false
 #   Associate this publication with one or more of your projects.
 #   Simply enter the filename (excluding '.md') of your project file in `content/project/`.
 projects = ["gedmys"]
+tags =["Partial Differential Equations"]
 
 # Links (optional).
 url_pdf = "https://onlinelibrary.wiley.com/doi/abs/10.1002/zamm.201700251"
-url_preprint = ""
-url_code = ""
-url_dataset = ""
-url_project = ""
-url_slides = ""
-url_video = ""
-url_poster = ""
-url_source = ""
 doi = "https://doi.org/10.1002/zamm.201700251"
 
 # Does the content use math formatting?
