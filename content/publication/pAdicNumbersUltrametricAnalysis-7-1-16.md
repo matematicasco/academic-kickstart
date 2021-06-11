@@ -19,7 +19,7 @@ selected = false
 #   Associate this publication with one or more of your projects.
 #   Simply enter the filename (excluding '.md') of your project file in `content/project/`.
 projects = ["tenga"]
-tags = ["Number theory", "p-adic"]
+tags = ["Number theory", "p-Adic", "GTNyGA"]
 
 # Links (optional).
 url_pdf = "https://link.springer.com/article/10.1134%2FS207004661501001X"
