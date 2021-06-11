@@ -3,7 +3,7 @@ name: Julian Serna
 authors:
 - serna-r
 superuser: false
-role: Docente Asistente
+role: Assistant Professor
 organizations:
 - name: Universidad Pedagógica y Tecnológica de Colombia
   url: "http://www.uptc.edu.co"
