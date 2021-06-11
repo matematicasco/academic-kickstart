@@ -2,7 +2,7 @@
 date      = 2021-05-05
 lastmod   = 2021-05-05
 draft     = false
-tags      = ["Topología"]
+tags      = ["Topology"]
 title     = "Presentación del libro Topología: un curso introductorio, Volumen II"
 math      = true
 authors   = ["suarez-h", "maluendas-p","serna-r"]
