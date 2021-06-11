@@ -33,7 +33,7 @@ social:
   link: https://www.researchgate.net/profile/Ana-Jimenez-22
 - icon: google-scholar
   icon_pack: ai
-  link: https://scholar.google.co.uk/citations?hl=es&user=TMDFEQYAAAAJ
+  link: https://scholar.google.co.uk/citations?user=VEVhWQMAAAAJ&hl=es
 - icon: cv
   icon_pack: ai
   link: http://scienti.colciencias.gov.co:8081/cvlac/visualizador/generarCurriculoCv.do?cod_rh=0000548618
