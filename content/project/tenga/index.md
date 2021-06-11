@@ -36,14 +36,6 @@ image:
   
 [GrupLac](https://scienti.minciencias.gov.co/gruplac/jsp/visualiza/visualizagr.jsp?nro=00000000007861)
 
-### Líneas de investigación
-
-+ Análisis p-ádico
-+ Funciones zeta locales, motívicas, topológicas
-+ Modelos ultramétricos en física
-+ Teoría aritmética de polinomios
-
-
 
 &nbsp;| Lider | &nbsp;
 :---: | :---:| :---:
@@ -51,4 +43,13 @@ image:
 &nbsp;| [Oscar F. Casas](https://matematicas.netlify.app/authors/casas-o/) | &nbsp;
 [<img src ="https://matematicas.netlify.app/authors/lopez-a/avatar_huf7f9d4c0c6ea4bb920438d045f710456_306427_270x270_fill_q90_lanczos_center.jpg"  id="circleM">](https://matematicas.netlify.app/authors/lopez-a/) | &nbsp;| [<img src ="https://matematicas.netlify.app/authors/rojas-a/avatar_hu679506257a7bbdcb8f10a04de94368dd_73473_270x270_fill_q90_lanczos_center.jpg"  id="circleM">](https://matematicas.netlify.app/authors/rojas-a/)|
 [Adriana López](https://matematicas.netlify.app/authors/lopez-a/)|&nbsp;| [Alex L. Rojas](https://matematicas.netlify.app/authors/rojas-a/)
+
+
+### Líneas de investigación
+
++ Análisis p-ádico
++ Funciones zeta locales, motívicas, topológicas
++ Modelos ultramétricos en física
++ Teoría aritmética de polinomios
+
 
