@@ -25,9 +25,9 @@ education:
 
 # Social/Academic Networking
 social:
- - icon: orcid
-   icon_pack: ai
-   link: https://orcid.org/0000-0003-0063-943X
+- icon: orcid
+  icon_pack: ai
+  link: https://orcid.org/0000-0003-0063-943X
 - icon: researchgate
   icon_pack: ai
   link: https://www.researchgate.net/profile/Ana-Jimenez-22
