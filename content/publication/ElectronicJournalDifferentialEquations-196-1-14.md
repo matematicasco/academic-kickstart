@@ -19,7 +19,7 @@ selected = false
 #   Associate this publication with one or more of your projects.
 #   Simply enter the filename (excluding '.md') of your project file in `content/project/`.
 projects = ["gedmys"]
-tags = ["Partial Differential Equations"]
+tags = ["Partial Differential Equations","GEDMYS"]
 
 # Links (optional).
 url_pdf = "https://ejde.math.txstate.edu/Volumes/2018/196/delacruz.pdf"
