@@ -3,7 +3,7 @@ name: Oscar F. Casas
 authors:
 - casas-o
 superuser: false
-role: Docente Asociado
+role: Associate Professor
 organizations:
 - name: Universidad Pedagógica y Tecnológica de Colombia
   url: "http://www.uptc.edu.co"
