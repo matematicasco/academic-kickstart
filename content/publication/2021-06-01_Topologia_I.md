@@ -8,7 +8,7 @@ publication = "Editorial UPTC"
 publication_short = "Editorial UPTC"
 selected = false
 projects = ["giaa"]
-tags = ["Topology", "Education"]
+tags = ["Topology", "Education", "GIAA"]
 math = true
 highlight = true
 [header]
