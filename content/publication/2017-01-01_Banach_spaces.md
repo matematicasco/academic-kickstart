@@ -9,6 +9,7 @@ abstract = ""
 abstract_short = ""
 selected = false
 projects = ["gedmys"]
+tags = ["GEDMYS","Banach space"]
 url_pdf = "https://link.springer.com/article/10.1007/s13398-016-0335-x"
 doi = "10.1007/s13398-016-0335-x"
 math = false
