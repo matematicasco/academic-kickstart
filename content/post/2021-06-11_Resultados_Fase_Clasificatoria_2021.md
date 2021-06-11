@@ -351,7 +351,9 @@ El Comité Organizador de las Olimpiadas Matemáticas UPTC 2021 agradece la part
 La Fase Selectiva (segunda Fase) se realizará entre el 27 al 29 de julio de 8:00 a.m. a 9:45 a.m, a través de la misma  plataforma (http://moodle.uptc.edu.co/econtinuada/), se invita a los estudiantes a ingresar con antelación a la plataforma y a la dirección del correo electrónico para estar al tanto de las instrucciones de la próxima prueba.
 
 
-Institución Educativa participantes:
+## Detalles Fase Clasificatoria
+
+Instituciones Educativas participantes:
 
 * American School Saint Frances
 * Andino de Tunja
