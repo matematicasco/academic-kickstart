@@ -3,7 +3,7 @@ name: J. David Arévalo
 authors:
 - arevalo-d
 superuser: false
-role: Docente
+role: Instructor
 
 organizations:
 - name: Universidad Pedagógica y Tecnológica de Colombia
