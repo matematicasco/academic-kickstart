@@ -42,6 +42,14 @@ slides: example
 
 [GrupLac](https://scienti.minciencias.gov.co/gruplac/jsp/visualiza/visualizagr.jsp?nro=00000000014259)
 
+&nbsp;| Lider | &nbsp;
+ ---| :---:|---
+&nbsp;|[<img src ="https://matematicas.netlify.app/authors/burbano-v/avatar_hu3be119652bc22f4c2c1c8d2fecb2b3e1_977995_270x270_fill_q90_lanczos_center.jpg" id="circleM">](https://matematicas.netlify.app/authors/burbano-v/) | &nbsp;
+&nbsp;| [Victor M. A. Burbano](https://matematicas.netlify.app/authors/burbano-v/) | &nbsp;
+&nbsp;|[<img src ="https://matematicas.netlify.app/authors/valdivieso-m/avatar_hu2005ae2c514a2e7bf40277fa3f4e8237_156231_270x270_fill_q90_lanczos_center.jpg"  id="circleM">](https://matematicas.netlify.app/authors/valdivieso-m/) | &nbsp;
+&nbsp;|[Margoth Valdivieso](https://matematicas.netlify.app/authors/valdivieso-m/)|&nbsp;
+
+
 ### Líneas de investigación
 
 + Epistemología de las Matemáticas y de la Ciencias
@@ -52,12 +60,6 @@ slides: example
 
 
 
-&nbsp;| Lider | &nbsp;
- ---| :---:|---
-&nbsp;|[<img src ="https://matematicas.netlify.app/authors/burbano-v/avatar_hu3be119652bc22f4c2c1c8d2fecb2b3e1_977995_270x270_fill_q90_lanczos_center.jpg" id="circleM">](https://matematicas.netlify.app/authors/burbano-v/) | &nbsp;
-&nbsp;| [Victor M. A. Burbano](https://matematicas.netlify.app/authors/burbano-v/) | &nbsp;
-&nbsp;|[<img src ="https://matematicas.netlify.app/authors/valdivieso-m/avatar_hu2005ae2c514a2e7bf40277fa3f4e8237_156231_270x270_fill_q90_lanczos_center.jpg"  id="circleM">](https://matematicas.netlify.app/authors/valdivieso-m/) | &nbsp;
-&nbsp;|[Margoth Valdivieso](https://matematicas.netlify.app/authors/valdivieso-m/)|&nbsp;
 
 
 
