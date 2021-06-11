@@ -3,7 +3,7 @@ name: Pedro Nel Maluendas
 authors:
 - maluendas-p
 superuser: false
-role: Docente 
+role:  Assistant Professor
 organizations:
 - name: Universidad Pedagógica y Tecnológica de Colombia
   url: "http://www.uptc.edu.co"
