@@ -355,7 +355,7 @@ La Fase Selectiva (segunda Fase) se realizará entre el 27 al 29 de julio de 8:0
 
 Para un análisis más detallado, consulte este enlace 
 
-<center> https://matematicas.netlify.app/files/Olimpiadas2021-F1.pdf </center>
+<center><a href="https://matematicas.netlify.app/files/Olimpiadas2021-F1.pdf"> https://matematicas.netlify.app/files/Olimpiadas2021-F1.pdf </a></center>
 
   
 ### Resultados obtenidos por nivel - Fase clasificatoria
