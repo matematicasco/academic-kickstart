@@ -7,7 +7,7 @@ publication = "Boletín de la Asociación de Matemática Venezolana"
 publication_short = "Boletín de la Asociación de Matemática Venezolana"
 selected = false
 projects = ["giaa"]
-tags = []
+tags = ["GIAA", "Algebra"]
 math = true
 highlight = true
 [header]
