@@ -3,7 +3,7 @@ name: James J. Gómez Lozano
 authors:
 - gomez-j
 superuser: false
-role: Docente
+role: Adjunct Professor
 
 organizations:
 - name: Universidad Pedagógica y Tecnológica de Colombia
