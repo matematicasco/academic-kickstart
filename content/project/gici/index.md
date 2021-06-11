@@ -2,7 +2,7 @@
 title: GICI
 summary: Grupo Interdisciplinario en Ciencias
 tags:
-- Grupos
+- Research Groups
 date: "2016-04-27T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).
