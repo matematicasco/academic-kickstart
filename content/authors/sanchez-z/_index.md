@@ -3,7 +3,7 @@ name: Zagalo Suárez Aguilar
 authors:
 - sanchez-z
 superuser: false
-role: Docente Titular
+role: Professor
 organizations:
 - name: Universidad Pedagógica y Tecnológica de Colombia
   url: "http://www.uptc.edu.co"
