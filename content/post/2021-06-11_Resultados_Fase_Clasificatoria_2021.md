@@ -383,8 +383,8 @@ Institución Educativa participantes:
 
 ## Resultados obtenidos por nivel - Fase clasificatoria
 
-<img alt="Resultados fase clasificatoria" src="https://matematicas.netlify.app/img/OlimpiadasF1Resultados2021.png>
-
+<img alt="Resultados fase clasificatoria" src="https://matematicas.netlify.app/img/OlimpiadasF1Resultados2021.png" width="500">
+     
 Mayores informes:
 
 Página web: https://matematicas.netlify.app/#olimpiadas
