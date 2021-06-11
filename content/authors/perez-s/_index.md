@@ -3,7 +3,7 @@ name: Sergio Andrés Pérez León
 authors:
 - perez-s
 superuser: false
-role: Docente
+role: Instructor
 organizations:
 - name: Universidad Pedagógica y Tecnológica de Colombia
   url: "http://www.uptc.edu.co"
