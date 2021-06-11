@@ -19,6 +19,7 @@ selected = false
 #   Associate this publication with one or more of your projects.
 #   Simply enter the filename (excluding '.md') of your project file in `content/project/`.
 projects = ["gamma"]
+tags = ["GAMMA", "Psychology"]
 
 # Links (optional).
 url_pdf = "http://www.scielo.org.co/scielo.php?script=sci_arttext&pid=S1794-99982016000100009"
