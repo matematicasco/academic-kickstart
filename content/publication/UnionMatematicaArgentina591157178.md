@@ -19,17 +19,9 @@ selected = false
 #   Associate this publication with one or more of your projects.
 #   Simply enter the filename (excluding '.md') of your project file in `content/project/`.
 projects = ["giaa"]
-
+tags = ["Algebra"]
 # Links (optional).
 url_pdf = "http://inmabb.criba.edu.ar/revuma/pdf/v59n1/v59n1a08.pdf"
-url_preprint = ""
-url_code = ""
-url_dataset = ""
-url_project = ""
-url_slides = ""
-url_video = ""
-url_poster = ""
-url_source = ""
 
 # Does the content use math formatting?
 math = false
