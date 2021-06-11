@@ -3,7 +3,7 @@ name: Juan Carlos Juajibioy
 authors:
 - juajibioy-j
 superuser: false
-role: Docente Asociado
+role: Associate Professor
 organizations:
 - name: Universidad Pedagógica y Tecnológica de Colombia
   url: "http://www.uptc.edu.co"
