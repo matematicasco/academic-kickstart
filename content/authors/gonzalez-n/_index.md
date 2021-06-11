@@ -3,7 +3,7 @@ name: Nelsy R. González Gutíerrez
 authors:
 - gonzalez-n
 superuser: false
-role: Docente Asociada
+role: Associate Professor
 organizations:
 - name: Universidad Pedagógica y Tecnológica de Colombia
   url: "http://www.uptc.edu.co"
