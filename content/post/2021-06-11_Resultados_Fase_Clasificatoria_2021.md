@@ -20,14 +20,14 @@ El Comité Organizador de las Olimpiadas Matemáticas UPTC 2021 agradece la part
 |     1|Aponte Cardenas       |Luisa Daniela Esmeralda|Salesiano                        |
 |     1|Baron Roberto         |Juan Manuel            |Boyacá                           |
 |     1|Basto Macias          |Nicole Stephanie       |Normal Superior Leonor Alvarez   |
-|     1|Benitez Suarez        |Maria Alejandra        |Los Muiscas                      |
+|     1|Benitez Suárez        |Maria Alejandra        |Los Muiscas                      |
 |     1|Bohorquez Daza        |Eva Sofia              |Boyacá                           |
 |     1|Bohorquez Palacios    |Samuel Felipe          |Los Ángeles                      |
 |     1|Bolivar Corredor      |Nikolle Tatiana        |Normal Superior Leonor Alvarez   |
 |     1|Bolivar Salamanca     |Valeria Lisbeth        |American School Saint Frances    |
 |     1|Brand Lopez           |Samuel Fernando        |Nueva Granada                    |
 |     1|Briceno Garcia        |Kail                   |Los Ángeles                      |
-|     1|Buitrago Suarez       |Juliana                |Nuestra Señora del Rosario       |
+|     1|Buitrago Suárez       |Juliana                |Nuestra Señora del Rosario       |
 |     1|Bustamante Cardenas   |Sindy Tatiana          |Normal Superior Leonor Alvarez   |
 |     1|Caiza                 |Milagros               |Los Muiscas                      |
 |     1|Cano Nova             |Ana Lucia              |San Viator                       |
@@ -55,7 +55,7 @@ El Comité Organizador de las Olimpiadas Matemáticas UPTC 2021 agradece la part
 |     1|Mendoza Rojas         |Sara Sofia             |Presentación                     |
 |     1|Moreno Cano           |Sara Vanesa            |Boyacá                           |
 |     1|Moreno Rivera         |Jose Miguel            |Libertador Simón Bolívar         |
-|     1|Moyano Suarez         |Camila Andrea          |Boyacá                           |
+|     1|Moyano Suárez         |Camila Andrea          |Boyacá                           |
 |     1|Ochoa Ariza           |Santiago               |Presentación                     |
 |     1|Palacios Rivera       |Helen                  |Boyacá                           |
 |     1|Parada Quiroga        |Adam Steven            |Boyacá                           |
@@ -68,7 +68,7 @@ El Comité Organizador de las Olimpiadas Matemáticas UPTC 2021 agradece la part
 |     1|Prieto Walteros       |Diego Alejandro        |San Viator                       |
 |     1|Puentes Jimenez       |Jose Miguel            |Boyacá                           |
 |     1|Quiroga Rodriguez     |Juana Valentina        |Andino de Tunja                  |
-|     1|Rodriguez Avendano    |Nikol Dayana           |Boyacá                           |
+|     1|Rodriguez Avendaño    |Nikol Dayana           |Boyacá                           |
 |     1|Rojas Fagua           |Samuel Esteban         |Nuestra Señora del Rosario       |
 |     1|Rojas Garcia          |Laura Camila           |Los Ángeles                      |
 |     1|Rojas Jerez           |Samuel Alejandro       |Bilingual Oxford                 |
@@ -89,7 +89,7 @@ El Comité Organizador de las Olimpiadas Matemáticas UPTC 2021 agradece la part
 |     1|Vargas Barreto        |Nelson Sneider         |Gimnasio Agustiniano             |
 |     1|Vargas Sarmiento      |Mariana Alejandra      |Boyacá                           |
 |     1|Varon Ayala           |Daniel Esteban         |Presentación                     |
-|     1|Walteros Nino         |Thomas Felipe          |Nuestra señora de Fatima         |
+|     1|Walteros Niño         |Thomas Felipe          |Nuestra señora de Fatima         |
 
 
 ## Nivel 2. (Estudiantes Grado 8 y 9)
@@ -99,7 +99,7 @@ El Comité Organizador de las Olimpiadas Matemáticas UPTC 2021 agradece la part
 |     2|Abril Rojas           |Karen Sofia            |Gimnasio Campestre del Norte     |
 |     2|Acosta Quintero       |Sara Milena            |Normal Superior Leonor Alvarez   |
 |     2|Aguirre Walteros      |Ronald Stiven          |Boyacá                           |
-|     2|Amaya Suarez          |Sara Stefania          |Gonzalo Suarez Rendón            |
+|     2|Amaya Suárez          |Sara Stefania          |Gonzalo Suárez Rendón            |
 |     2|Aponte Cardenas       |Maria Camila Alejandra |Salesiano                        |
 |     2|Arcos Abella          |Julian Andres          |Los Ángeles                      |
 |     2|Arias Arciniegas      |Carlos Andres          |Salesiano                        |
@@ -111,7 +111,7 @@ El Comité Organizador de las Olimpiadas Matemáticas UPTC 2021 agradece la part
 |     2|Bernal Monroy         |Juliana                |Gimnasio Campestre del Norte     |
 |     2|Betancourt Sosa       |Laura Sofia            |Boyacá                           |
 |     2|Bonilla Rodriguez     |Fredy Alejandro        |Boyacá                           |
-|     2|Bran Soraca           |Krennly Steven         |Bilingual Oxford                 |
+|     2|Bran Soracá           |Krennly Steven         |Bilingual Oxford                 |
 |     2|Buitrago Hernandez    |Maria Camila           |Normal Superior Leonor Alvarez   |
 |     2|Buitrago Rodriguez    |Valentina              |Boyacá                           |
 |     2|Burbano Valdivieso    |Angela Yereth          |Normal Superior Leonor Alvarez   |
