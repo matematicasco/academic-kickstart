@@ -19,6 +19,7 @@ selected = false
 #   Associate this publication with one or more of your projects.
 #   Simply enter the filename (excluding '.md') of your project file in `content/project/`.
 projects = ["giaa"]
+tags= ["GIAA"]
 
 # Links (optional).
 doi = "10.1016/j.jpaa.2020.106436"
