@@ -19,7 +19,7 @@ selected = false
 #   Associate this publication with one or more of your projects.
 #   Simply enter the filename (excluding '.md') of your project file in `content/project/`.
 projects = ["tenga"]
-
+tags = ["GTNyGA","-Adic"]
 # Links (optional).
 url_pdf = "https://link.springer.com/article/10.1007%2Fs11868-020-00334-2"
 doi = ""
