@@ -19,7 +19,7 @@ selected = false
 #   Associate this publication with one or more of your projects.
 #   Simply enter the filename (excluding '.md') of your project file in `content/project/`.
 projects = ["giaa"]
-tags = ["Algebra"]
+tags = ["Algebra", "GIAA"]
 # Links (optional).
 url_pdf = "https://www.deepdyve.com/lp/springer_journal/on-the-accp-in-skew-poincar-birkhoff-witt-extensions-nTr0QkHzb3"
 
