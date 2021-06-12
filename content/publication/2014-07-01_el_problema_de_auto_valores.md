@@ -9,6 +9,7 @@ abstract = "En este trabajo revisamos algunos conceptos básicos relacionados al
 abstract_short = ""
 selected = false
 projects = ["giaa"]
+tags = ["GIAA"]
 url_pdf = "https://rcb.unal.edu.co/index.php/bolma/article/view/48098/49316"
 math = true
 highlight = true
