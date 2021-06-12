@@ -27,7 +27,7 @@ image:
   #circleM
   {
   border-radius:50% 50% 50% 50%;
-  width: 50%;
+  width: 100%;
   }
 </style>
 
