@@ -33,6 +33,9 @@ social:
 - icon: google-scholar
   icon_pack: ai
   link: https://scholar.google.co.uk/citations?hl=es&user=TMDFEQYAAAAJ
+- icon: cv
+  icon_pack: ai
+  link: http://scienti.colciencias.gov.co:8081/cvlac/visualizador/generarCurriculoCv.do?cod_rh=0000479519
 
 user_groups:
 - "Escuela"
