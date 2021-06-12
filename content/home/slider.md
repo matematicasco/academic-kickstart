@@ -23,7 +23,7 @@ height = "350px"
 
   overlay_color = ""  # An HTML color value.
   overlay_img = "headers/sl2.jpg"  # Image path relative to your `static/img/` folder.
-  overlay_filter = 0  # Darken the image. Value in range 0-1.
+  overlay_filter = 0.1  # Darken the image. Value in range 0-1.
   
 [[item]]
   title = ""
