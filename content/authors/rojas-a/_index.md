@@ -58,13 +58,13 @@ user_groups: ["Escuela","tenga"]
   }
 </style>
 
-<table>
+<table  border=0, width=100%>
   <tbody>
-    <tr>
+    <tr border=0>
       <th>Currently teaching:</th>
       <th align="center">Research Group</th>
     </tr>
-    <tr>
+    <tr border=0>
       <td><ul><li>Estadística General, Matemáticas</li><li>Profundización II, Matemáticas</li><li>Seminario I, Maestría en Química</li></ul></td>
       <td align="center"> <img src ="https://matematicas.netlify.app/project/tenga/featured.png" id="circleM"> </td>
     </tr>
