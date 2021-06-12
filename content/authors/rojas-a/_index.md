@@ -58,15 +58,11 @@ user_groups: ["Escuela","tenga"]
   }
 </style>
 
-  
-Currently teaching:
+
+Currently teaching: | Research Group
+:---: | :---:
 + Estadística General, Matemáticas
 + Profundización II, Matemáticas
-+ Seminario I, [Maestría en Química](http://www.uptc.edu.co/facultades/f_ciencias/maestria/quimica/inf_general/index.html)
-
-
-Research Groups | 
-:---: | :---:
-<img src ="https://matematicas.netlify.app/project/tenga/featured.png" id="circleM">](https://matematicas.netlify.app/project/tenga/) | <img src ="https://matematicas.netlify.app/project/tenga/featured.png" id="circleM">](https://matematicas.netlify.app/project/tenga/)
++ Seminario I, [Maestría en Química](http://www.uptc.edu.co/facultades/f_ciencias/maestria/quimica/inf_general/index.html) | <img src ="https://matematicas.netlify.app/project/tenga/featured.png" id="circleM"> 
 
 
