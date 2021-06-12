@@ -9,6 +9,7 @@ abstract = ""
 abstract_short = ""
 selected = false
 projects = ["giaa"]
+tags =["Polynomials on the unit circle","GIAA"]
 url_pdf = "https://link.springer.com/article/10.1007%2Fs40840-020-00947-2"
 doi = "10.1007/s40840-020-00947-2"
 math = true
