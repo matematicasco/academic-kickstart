@@ -9,6 +9,7 @@ abstract = ""
 abstract_short = ""
 selected = false
 projects = ["gedmys"]
+tags = ["GEDMyS"]
 url_pdf = "https://link.springer.com/article/10.1007/s00013-018-01296-0"
 doi = "10.1007/s00013-018-01296-0"
 math = false
