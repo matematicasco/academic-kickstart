@@ -9,6 +9,7 @@ abstract = "Este artículo presenta un modelo de la cognición y la epistemolog�
 abstract_short = ""
 selected = false
 projects = ["giaa"]
+tags = ["GIAA","Education"]
 url_pdf = "https://revistas.uptc.edu.co/index.php/investigacion_duitama/article/view/3259/3486"
 doi = "10.19053/20278306.3259"
 math = true
