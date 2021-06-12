@@ -9,6 +9,3 @@ math      = true
 
 La fecha para la charla 47 de **Nuestro Encuentro** ha sido modificada para el 4 de agosto de 2020. Para más detalles visite 
 el siguiente enlace: [Charla 47](https://matematicas.netlify.app/talk/charla47/).
-
-
-
