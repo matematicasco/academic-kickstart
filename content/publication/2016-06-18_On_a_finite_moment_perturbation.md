@@ -9,6 +9,7 @@ abstract = "Given a sequence of moments {cn}n∈ℤ associated with an Hermitian
 abstract_short = ""
 selected = false
 projects = ["giaa"]
+tags = ["Transformation Matrix Polynomials", "GIAA"]
 url_pdf = "https://revistas.uis.edu.co/index.php/revistaintegracion/article/view/5519/5726"
 doi = "10.18273/revint.v34n1-2016003"
 math = true
