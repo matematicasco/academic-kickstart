@@ -31,7 +31,7 @@ image:
   }
 </style>
 
-## Grupo de teoría de los números y geometría algebraica.
+## Grupo de la teoría de los números y geometría algebraica.
   
 [GrupLac](https://scienti.minciencias.gov.co/gruplac/jsp/visualiza/visualizagr.jsp?nro=00000000007861)
 
