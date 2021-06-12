@@ -1,6 +1,6 @@
 ---
 title: GTNyGA
-summary: Grupo de teoría de los números y geometría algebraica
+summary: Grupo de la teoría de los números y geometría algebraica
 tags:
 - Research Groups
 date: "2016-04-27"
