@@ -9,6 +9,7 @@ abstract = ""
 abstract_short = ""
 selected = false
 projects = ["gedmys"]
+tags = ["GEDMyS"]
 url_pdf = "https://revistas.uis.edu.co/index.php/revistaintegracion/article/view/3751/4133"
 math = false
 highlight = true
