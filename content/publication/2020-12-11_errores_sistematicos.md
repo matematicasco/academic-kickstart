@@ -9,6 +9,7 @@ abstract = "El error en la adquisición del conocimiento en el aula de clase es 
 abstract_short = ""
 selected = false
 projects = ["giaa"]
+tags = ["Education","GIAA"]
 url_pdf = "https://revista.redipe.org/index.php/1/article/view/1157/1050"
 doi = "10.36260/rbr.v9i12.1157"
 math = true
