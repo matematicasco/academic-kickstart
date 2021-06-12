@@ -19,6 +19,7 @@ selected = false
 #   Associate this publication with one or more of your projects.
 #   Simply enter the filename (excluding '.md') of your project file in `content/project/`.
 projects = ["gedmys"]
+tags = ["GEDMyS"]
 
 # Links (optional).
 url_pdf = "https://arxiv.org/pdf/2007.11076.pdf"
