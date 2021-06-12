@@ -9,12 +9,11 @@ abstract = ""
 abstract_short = ""
 selected = false
 projects = ["gedmys"]
+tags = ["GEDMyS"]
 url_pdf = "https://link.springer.com/article/10.1007/s13163-017-0240-7"
 doi = "10.1007/s13163-017-0240-7"
 math = false
 highlight = true
-# Featured image
-# Place your image in the `static/img/` folder and reference its filename below, e.g. `image = "example.jpg"`.
 [header]
 image = ""
 caption = ""
