@@ -9,6 +9,7 @@ abstract = "In this paper, we consider perturbations to a sequence of moments as
 abstract_short = ""
 selected = false
 projects = ["giaa"]
+tags = ["GIAA", "Transformation Matrix Polynomials"]
 url_pdf = "http://www.scielo.org.co/pdf/rein/v33n1/v33n1a06.pdf"
 math = true
 highlight = true
