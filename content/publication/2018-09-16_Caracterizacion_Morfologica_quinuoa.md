@@ -1,6 +1,6 @@
 +++
 title = "Caracterización morfológica de variedades de Chenopodium quinoa cultivadas en el departamento de Boyacá, Colombia"
-date = "2020-06-30"
+date = "2018-09-16"
 authors = ["Infante H.", "Albesiano, S.", "Arrieta, L.", "gomez-n"]
 publication_types = ["2"]
 publication = "Revista U.D.C.A Actualidad & Divulgación Científica, 21(2), 329-339."
