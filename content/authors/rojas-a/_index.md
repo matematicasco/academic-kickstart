@@ -8,7 +8,8 @@ role: Associate Professor
 organizations:
 - name: Universidad Pedagógica y Tecnológica de Colombia
   url: "http://www.uptc.edu.co"
-- name: 
+- name: Personal website
+  url: "https://alexrojas.netlify.app/"
 
 
 bio:
@@ -47,29 +48,4 @@ social:
 email: ""
 
 user_groups: ["Escuela","tenga"]
-
 ---
-
-
-<style>
-  #circleM
-  {
-  border-radius:50% 50% 50% 50%;
-  width:150px;
-  height:150px;
-  }
-</style>
-
-<table  width="80%" cellspacing="0" cellpadding="5" border=0>
-  <tbody>
-    <tr border=0>
-      <th>Currently teaching:</th>
-      <th align="center">Research Group</th>
-    </tr>
-    <tr border=0>
-      <td><ul><li>Estadística General, Matemáticas</li><li>Profundización II, Matemáticas</li><li>Seminario I, Maestría en Química</li></ul></td>
-      <td align="center"> <img src ="https://matematicas.netlify.app/project/tenga/featured.png" id="circleM"> </td>
-    </tr>
-  </tbody>
-</table>
-
