@@ -9,6 +9,7 @@ abstract = "Given a normalized measure mu supported on [-1,1], a measure sigma s
 abstract_short = ""
 selected = false
 projects = ["giaa"]
+tags =["Transformation Matrix Polynomials","GIAA"]
 url_pdf = "https://www.sciencedirect.com/science/article/abs/pii/S0022247X21001153"
 doi = "10.1016/j.jmaa.2021.125036"
 math = true
