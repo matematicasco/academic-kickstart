@@ -1,7 +1,7 @@
 +++
 title = "Percepción de estudiantes universitarios colombianos sobre el efecto del confinamiento por el coronavirus, y su rendimiento académico"
 date = "2020-11-05"
-authors = ["valdivieso-m", "burbano-v", "Burbano, A.S."]
+authors = ["valdivieso-m", "burbano-v", "Burbano-Valdivieso, A.S."]
 publication_types = ["2"]
 publication = "Revista Espacios Vol. 41 (42) 2020, Art. 23"
 publication_short = ""
