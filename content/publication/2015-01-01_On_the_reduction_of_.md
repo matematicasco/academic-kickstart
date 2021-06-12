@@ -7,7 +7,7 @@ publication = "JP Journal of Algebra, Number Theory and Applications, (36), 2, _
 publication_short = "JP Journal of Algebra, Number Theory and Applications, (36), 2, _pp. 157 -- 176_"
 selected = false
 projects = ["giaa"]
-tags = []
+tags = ["GIAA"]
 math = true
 highlight = true
 [header]
