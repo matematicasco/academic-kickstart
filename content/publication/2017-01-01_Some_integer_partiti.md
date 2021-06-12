@@ -7,7 +7,7 @@ publication = "Far East Journal of Mathematical Sciences (FJSM), (101), _pp. 274
 publication_short = "Far East Journal of Mathematical Sciences (FJSM), (101), _pp. 2745--2766_"
 selected = false
 projects = ['giaa']
-tags = []
+tags = ["GIAA"]
 math = true
 highlight = true
 [header]
