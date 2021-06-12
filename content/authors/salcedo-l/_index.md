@@ -8,8 +8,31 @@ organizations:
 - name: Universidad Pedagógica y Tecnológica de Colombia
   url: "http://www.uptc.edu.co"
 
+# Short bio (displayed in user profile at end of posts)
+bio: 
+interests:
+  - Sampling
+  - 
+education:
+  courses:
+  - course: MSc in Mathematics
+    institution: Universidad Pedagógica y Tecnológica de Colombia
+    year: 2019
+  - course: Licenciatura en Matemáticas
+    institution: Universidad Pedagógica y Tecnológica de Colombia
+    year: 2004
+
+social:
+ - icon: google-scholar
+   icon_pack: ai
+   link: https://scholar.google.es/citations?user=lC3dApEAAAAJ&hl=en
+ - icon: cv
+   icon_pack: ai
+   link: https://scienti.minciencias.gov.co/cvlac/visualizador/generarCurriculoCv.do?cod_rh=0000263400
+
 user_groups:
 - "Escuela"
+- "gamma"
 ---
 
 Currently Teaching:
