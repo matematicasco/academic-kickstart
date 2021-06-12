@@ -1,6 +1,5 @@
 +++
-title = "Topología: un curso introductorio"
-subtitle = "Volumen I"
+title = "Topología: un curso introductorio. Volumen I"
 date = "2021-06-11"
 authors = ["suarez-h","maluendas-p","serna-r"]
 publication_types = ["5"]
