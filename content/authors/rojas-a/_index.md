@@ -48,8 +48,25 @@ user_groups: ["Escuela","tenga"]
 
 ---
 
+
+<style>
+  #circleM
+  {
+  border-radius:50% 50% 50% 50%;
+  width:200px;
+  height:200px;
+  }
+</style>
+
+  
 Currently teaching:
-+ Estadística Inferencial, Matemáticas
-+ Electiva I, Matemáticas
++ Estadística General, Matemáticas
++ Profundización II, Matemáticas
 + Seminario I, [Maestría en Química](http://www.uptc.edu.co/facultades/f_ciencias/maestria/quimica/inf_general/index.html)
+
+
+Research Groups | 
+:---: | :---:
+<img src ="https://matematicas.netlify.app/project/tenga/featured.png" id="circleM">](https://matematicas.netlify.app/project/tenga/) | <img src ="https://matematicas.netlify.app/project/tenga/featured.png" id="circleM">](https://matematicas.netlify.app/project/tenga/)
+
 
