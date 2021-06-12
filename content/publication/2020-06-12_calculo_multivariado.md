@@ -6,7 +6,7 @@ publication_types = ["5"]
 publication = "Inea Fundacion Universidad Autonoma De Colombia"
 publication_short = "Inea Fundacion Universidad Autonoma De Colombia"
 selected = false
-tags = []
+tags = ["Education"]
 math = true
 highlight = true
 [header]
