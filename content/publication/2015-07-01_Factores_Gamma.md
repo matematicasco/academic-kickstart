@@ -16,7 +16,7 @@ selected = false
 #   Associate this publication with one or more of your projects.
 #   Simply enter the filename (excluding '.md') of your project file in `content/project/`.
 projects = ["tenga"]
-
+tags = ["GTNyGA"]
 # Links (optional).
 url_pdf = "https://revistas.unal.edu.co/index.php/bolma/article/download/54973/54357"
 doi = ""
