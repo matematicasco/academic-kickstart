@@ -9,6 +9,7 @@ abstract = "Este articulo propone y resuelve un modelo matemático para predecir
 abstract_short = ""
 selected = false
 projects = ["giaa"]
+tags = ["GIAA"]
 url_pdf = "https://revistas.uptc.edu.co/index.php/ciencia_en_desarrollo/article/view/3792/3337"
 doi = "10.19053/01217488.3792"
 math = true
