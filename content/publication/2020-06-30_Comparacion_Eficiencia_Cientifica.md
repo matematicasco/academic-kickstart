@@ -19,6 +19,7 @@ selected = false
 #   Associate this publication with one or more of your projects.
 #   Simply enter the filename (excluding '.md') of your project file in `content/project/`.
 projects = ["gamma"]
+tags = ["GAMMA","Bibliometry"]
 
 # Links (optional).
 url_pdf = "http://redc.revistas.csic.es/index.php/redc/article/view/1197/1897"
