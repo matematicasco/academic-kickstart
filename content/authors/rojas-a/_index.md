@@ -58,9 +58,16 @@ user_groups: ["Escuela","tenga"]
   }
 </style>
 
-
-|Currently teaching: | Research Group|
-|:---:|:---:|
-|<ul><li>Estadística General, Matemáticas</li><li>Profundización II, Matemáticas</li><li>Seminario I, Maestría en Química</li></ul> | <img src ="https://matematicas.netlify.app/project/tenga/featured.png" id="circleM"> |
-
+<table>
+  <tbody>
+    <tr>
+      <th>Currently teaching:</th>
+      <th align="center">Research Group</th>
+    </tr>
+    <tr>
+      <td><ul><li>Estadística General, Matemáticas</li><li>Profundización II, Matemáticas</li><li>Seminario I, Maestría en Química</li></ul></td>
+      <td align="center"> <img src ="https://matematicas.netlify.app/project/tenga/featured.png" id="circleM"> </td>
+    </tr>
+  </tbody>
+</table>
 
