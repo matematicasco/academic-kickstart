@@ -7,7 +7,7 @@ publication = "Ciencia en Desarrollo, (6), 2, pp. 205-213"
 publication_short = "Ciencia en Desarrollo, (6), 2, pp. 205-213"
 selected = false
 projects = ["giaa"]
-tags = []
+tags = ["GIAA","PBW Extensions","Algebra"]
 math = true
 highlight = true
 [header]
