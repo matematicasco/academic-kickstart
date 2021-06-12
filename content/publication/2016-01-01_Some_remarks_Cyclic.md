@@ -10,16 +10,7 @@ abstract_short = ""
 image_preview = ""
 selected = false
 projects = ["giaa"]
-tags = []
-url_pdf = ""
-url_preprint = ""
-url_code = ""
-url_dataset = ""
-url_project = ""
-url_slides = ""
-url_video = ""
-url_poster = ""
-url_source = ""
+tags = ["GIAA","PBW Extensions","Algebra"]
 math = true
 highlight = true
 [header]
