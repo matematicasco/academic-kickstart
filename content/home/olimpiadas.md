@@ -96,7 +96,7 @@ Los documentos deben ser envíados al correo electrónico: [olimpiadas.matematic
 ### Fechas importantes
 
 1. **Inscripción:** abril 1 a abril 30 de 2021.
-2. **Fase Clasificatoria:** mayo 18 al 20 de 2021, por medio de la plataforma Moodle.
+2. **Fase Clasificatoria:** mayo 18 al 20 de 2021, por medio de la plataforma Moodle. [Resultados](https://matematicas.netlify.app/post/2021-06-11_resultados_fase_clasificatoria_2021/)
 3. **Fase Selectiva:** julio 27 al 29, por medio de la plataforma Moodle.
 4. **Fase Final:** septiembre 21 al 23, por medio de la plataforma Moodle.
  
@@ -117,10 +117,4 @@ Nivel | Fase clasificatoria: |  Fase selectiva: | Fase selectiva:
 Correo electrónico: [olimpiadas.matematicas@uptc.edu.co](mailto:olimpiadas.matematicas@uptc.edu.co) <br>
 **Teléfono:** (8) 7405626 Ext.: 2441 – 2442, **WhatsApp:** 3164162933 <br>
 https://matematicas.netlify.app/tags/olimpiadas/ 
-
-
-
-
-
-
 
