@@ -9,6 +9,7 @@ abstract = "Esta investigación tuvo como objeto evaluar la influencia de las te
 abstract_short = ""
 selected = false
 projects = ["giaa"]
+tags = ["GIAA","Education"]
 url_pdf = "https://revistas.uptc.edu.co/index.php/investigacion_duitama/article/view/3137/3149"
 doi = "10.19053/20278306.3137"
 math = true
