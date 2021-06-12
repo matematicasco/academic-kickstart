@@ -6,8 +6,8 @@ publication_types = ["2"]
 publication = "Ciencia en Desarrollo 5(1), 31--37"
 publication_short = "Ciencia en Desarrollo 5(1),  31--37"
 selected = false
-projects = []
-tags = []
+projects = ["giaa"]
+tags = ["GIAA","Algebra"]
 math = true
 highlight = true
 [header]
