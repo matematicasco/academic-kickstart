@@ -9,6 +9,7 @@ abstract = "We study the Lagrangian structure for weak solutions of two dimensio
 abstract_short = ""
 selected = false
 projects = ["giaa"]
+tags = ["GIAA","Partial Differential Equations"]
 url_pdf = "https://www.sciencedirect.com/science/article/abs/pii/S0022247X1930023X"
 doi = "10.1016/j.jmaa.2018.12.081"
 math = true
