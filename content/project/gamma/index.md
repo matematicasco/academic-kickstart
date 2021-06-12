@@ -45,7 +45,6 @@ image:
 &nbsp;| [Luis A. Salcedo](https://matematicas.netlify.app/authors/salcedo-l/) | &nbsp;
 
 
- (https://matematicas.netlify.app/authors/gomez-n/)
 ### Líneas de investigación
 
 + Análisis cienciométrico
