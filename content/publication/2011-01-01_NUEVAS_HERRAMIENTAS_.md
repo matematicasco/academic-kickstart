@@ -3,11 +3,11 @@ title = "Nuevas herramientas para solucionar problemas de optimización"
 date = "2011-01-01"
 authors = ["gonzalez-n"]
 publication_types = ["1"]
-publication = "NA"
-publication_short = "NA"
+publication = ""
+publication_short = ""
 selected = false
 projects = ["giaa"]
-tags = ["Algebra"]
+tags = ["Algebra","GIAA"]
 math = true
 highlight = true
 [header]
