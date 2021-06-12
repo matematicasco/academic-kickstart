@@ -4,12 +4,14 @@ authors:
 - rojas-a
 superuser: false
 role: Associate Professor
+
 organizations:
 - name: Universidad Pedagógica y Tecnológica de Colombia
   url: "http://www.uptc.edu.co"
+- name: 
+
 
 bio:
-
 interests:
 - Andean forest
 
@@ -53,12 +55,12 @@ user_groups: ["Escuela","tenga"]
   #circleM
   {
   border-radius:50% 50% 50% 50%;
-  width:200px;
-  height:200px;
+  width:150px;
+  height:150px;
   }
 </style>
 
-<table  border=0, width=100%>
+<table  width="80%" cellspacing="0" cellpadding="5" border=0>
   <tbody>
     <tr border=0>
       <th>Currently teaching:</th>
