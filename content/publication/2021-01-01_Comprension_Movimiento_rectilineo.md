@@ -1,9 +1,9 @@
 +++
 title = "La comprensión del movimiento rectilíneo a través de las representaciones semióticas"
 date = "2021-01-01"
-authors = ["Gómez Rodríguez, N. J.", "Sánchez Monroy, D. H.""sepulveda-o"]
+authors = ["Gómez Rodríguez, N. J.", "Sánchez Monroy, D. H.","sepulveda-o"]
 publication_types = ["2"]
-publication = "Boletín Redipe 10(1):195-204"
+publication = "Revista Boletín Redipe 10(1):195-204"
 publication_short = ""
 abstract = ""
 abstract_short = ""
