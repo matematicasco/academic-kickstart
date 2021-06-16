@@ -13,7 +13,6 @@ projects = ["giaa"]
 tags = ["GIAA", "History"]
 math = true
 highlight = true
-isbn = "9789586604956"
 [header]
 image = ""
 caption = ""
