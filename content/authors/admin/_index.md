@@ -63,6 +63,11 @@ email: "matematicasyestadistica@uptc.edu.co"
 user_groups: []
 ---
 
+Página oficial del programa de Matemáticas <br>
+
+http://www.uptc.edu.co/facultades/f_ciencias/pregrado/matematicas/inf_general/
+
+
 ### COMITÉ CURRICULAR:  
 
 #### Director Escuela:
