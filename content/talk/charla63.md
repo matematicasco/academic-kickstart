@@ -1,7 +1,7 @@
 +++
 date      = "2021-06-23"
 draft     = false
-tags      = ["Nuestro Encuentro"]
+tags      = ["Nuestro Encuentro", "History"]
 title     = "Charla 63: Un paso por la historia de los números y un poco de geometría"
 math      = true
 +++
