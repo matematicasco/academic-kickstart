@@ -1,5 +1,5 @@
 +++
-date      = "2021-06-22"
+date      = "2021-07-05"
 draft     = false
 tags      = ["Nuestro Encuentro", "History"]
 title     = "Charla 64: Origen de nuestros símbolos numerales y ecuaciones"
