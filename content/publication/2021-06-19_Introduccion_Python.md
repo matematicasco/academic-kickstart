@@ -1,6 +1,6 @@
 +++
 title = "Introducción a Python para Estudiantes de Ciencias"
-date = "2021-06-19"
+date = "2021-07-07"
 authors = ["lopez-a","rojas-a"]
 publication_types = ["5"]
 publication = "Editorial UPTC. ISBN: 978-958-660-530-4"
