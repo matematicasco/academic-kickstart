@@ -6,7 +6,7 @@ title     = "Charla 66: Álgebras de Conglomerado y Categorías de Caminos de Dy
 math      = true
 +++
 
-**Conferencista:**  Gabriel Bravo Rios[^1]
+**Conferencista:**  Gabriel Bravo Rios[^1], Universidad Nacional de Ciolombia. TERENUFIA
 
 **Fecha:** Martes 06 de agosto de 2021, 4:00 p.m.
 
@@ -19,9 +19,9 @@ En esta charla, se introducirán las categorías de camino de Dyck como una real
 
 **Referencias**
 
-[1]. P. Caldero, F. Chapoton, and R. Schiffler, *Quivers with relations arising from clusters ($\mathbb{A}_n$ case)*, Trans. Am. Math. Soc. **358** (2006), no. 3, 1347-1364.
+[1] P. Caldero, F. Chapoton, and R. Schiffler, *Quivers with relations arising from clusters ($\mathbb{A}_n$ case)*, Trans. Am. Math. Soc. **358** (2006), no. 3, 1347-1364.
 
-[2]. I. Canakci and R. Schiffler, *Snake graph calculus and cluster algebras from surfaces*, J. Algebra **382** (2013), 240-281.
+[2] I. Canakci and R. Schiffler, *Snake graph calculus and cluster algebras from surfaces*, J. Algebra **382** (2013), 240-281.
 
 [3] _______, *Cluster algebras and continued fractions*, Compositio Mathematica **154** (2018), no. 3, 565-593.
 
