@@ -17,11 +17,11 @@ math      = true
 En esta charla, se introducirán las categorías de camino de Dyck como una realización combinatoria de la categoría de representaciones de carcajes de tipo Dynkin $\mathbb{A}_n$. Se presentará una correspondencia biyectiva entre una familia de caminos de Dyck y los emparejamientos perfectos asociados a dichas álgebras, se dará una fórmula explícita de las variables de conglomerado de álgebras de conglomerado de tipo $\mathbb{A}_n$ en términos de los caminos de Dyck [4].
 
 
-** Referencias**
+**Referencias**
 
-[1] P. Caldero, F. Chapoton, and R. Schiffler, *Quivers with relations arising from clusters ($\mathbb{A}_n$ case)*, Trans. Am. Math. Soc. **358** (2006), no. 3, 1347-1364.
+[1]. P. Caldero, F. Chapoton, and R. Schiffler, *Quivers with relations arising from clusters ($\mathbb{A}_n$ case)*, Trans. Am. Math. Soc. **358** (2006), no. 3, 1347-1364.
 
-[2] I. Canakci and R. Schiffler, *Snake graph calculus and cluster algebras from surfaces*, J. Algebra **382** (2013), 240-281.
+[2]. I. Canakci and R. Schiffler, *Snake graph calculus and cluster algebras from surfaces*, J. Algebra **382** (2013), 240-281.
 
 [3] _______, *Cluster algebras and continued fractions*, Compositio Mathematica **154** (2018), no. 3, 565-593.
 
