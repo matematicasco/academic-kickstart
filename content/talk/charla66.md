@@ -16,8 +16,6 @@ math      = true
 
 En esta charla, se introducirán las categorías de camino de Dyck como una realización combinatoria de la categoría de representaciones de carcajes de tipo Dynkin $\mathbb{A}_n$. Se presentará una correspondencia biyectiva entre una familia de caminos de Dyck y los emparejamientos perfectos asociados a dichas álgebras, se dará una fórmula explícita de las variables de conglomerado de álgebras de conglomerado de tipo $\mathbb{A}_n$ en términos de los caminos de Dyck [4].
 
-[^1]: Este trabajo es en conjunto con Agustín Moreno Cañadas
-
 
 ** Referencias**
 
@@ -35,3 +33,6 @@ En esta charla, se introducirán las categorías de camino de Dyck como una real
 
 [7] G. Musiker, R. Schiffler, and L. Williams, *Positivity for cluster algebras from surfaces*. Adv. Math. **227** (2011), 2241-2308.
 
+
+
+[^1]: Este trabajo es en conjunto con Agustín Moreno Cañadas
