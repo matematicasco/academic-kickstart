@@ -1,7 +1,4 @@
 +++
-# A Recent Publications section created with the Pages widget.
-# This section displays recent blog posts from `content/publication/`.
-
 widget = "pages"  # See https://sourcethemes.com/academic/docs/page-builder/
 headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
@@ -102,9 +99,9 @@ Los documentos deben ser envíados al correo electrónico: [olimpiadas.matematic
  
 Nivel | Fase clasificatoria: |  Fase selectiva: | Fase selectiva:
 :---:|:---|:---|:---
-1 |18 de mayo | 27 de junio | 21 de septiembre
-2 | 19 de mayo | 28 de junio | 22 de septiembre
-3 | 20 de mayo |  29 de junio | 23 de septiembre
+1 |18 de mayo | 27 de julio | 21 de septiembre
+2 | 19 de mayo | 28 de julio | 22 de septiembre
+3 | 20 de mayo |  29 de julio | 23 de septiembre
 
 + El nivel 1 presentará la prueba de 8:00 am a 9:30 am el respectivo día.
 + El nivel 2 presentará la prueba de 9:30 am a 11:00 am el respectivo día.
