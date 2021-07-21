@@ -6,7 +6,7 @@ title     = "Charla 66: Álgebras de Conglomerado y Categorías de Caminos de Dy
 math      = true
 +++
 
-**Conferencista:**  Gabriel Bravo Rios[^1], Universidad Nacional de Ciolombia. TERENUFIA
+**Conferencista:**  Gabriel Bravo Rios[^1], Universidad Nacional de Colombia. TERENUFIA
 
 **Fecha:** Martes 06 de agosto de 2021, 4:00 p.m.
 
