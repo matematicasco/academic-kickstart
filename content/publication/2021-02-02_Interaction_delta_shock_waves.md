@@ -9,9 +9,10 @@ abstract = "In this work, the mechanism for the formation of the delta shock wav
 abstract_short = ""
 selected = false
 projects = ["gedmys"]
-tags = ["Partial Differential Equations","GEDMYS"]
+tags = ["Partial Differential Equations","GEDMYS","Delta Shock Wave"]
 url_pdf = "https://link.springer.com/article/10.1007/s00605-021-01524-w"
 doi = "10.1007/s00605-021-01524-w"
 math = true
 highlight = true
 +++
+
