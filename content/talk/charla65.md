@@ -1,5 +1,5 @@
 +++
-date      = "2021-07-21"
+date      = "2021-07-27"
 draft     = false
 tags      = ["Nuestro Encuentro", "History"]
 title     = "Charla 65:  Desarrollo histórico de las geometrías no euclidianas"
