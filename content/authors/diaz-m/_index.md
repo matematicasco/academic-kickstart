@@ -11,9 +11,3 @@ organizations:
 user_groups:
 - "Escuela"
 ---
-
-Currently Teaching:
-+ Fundamentos de Matemáticas
-+ Ecuaciones Diferenciales
-+ Didáctica y Prácticas
-+ Práctica General
