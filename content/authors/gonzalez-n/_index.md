@@ -48,9 +48,3 @@ user_groups:
 - "Escuela"
 - "giaa"
 ---
-
-Currently Teaching:
-+ Electiva III
-+ Teoría de Grupos
-+ Tendencias y Enfoques en la Educación Matemática Saber Pedagógico II
-+ SD1 Reformas Universitarias
