@@ -13,6 +13,8 @@ selected = false
 url_pdf = "https://revistas.unal.edu.co/index.php/estad/article/download/10173/10700"
 math = true
 highlight = true
+projects = ["tenga"]
+tags = ["Statistics"]
 [header]
 image = ""
 caption = ""
