@@ -44,8 +44,3 @@ user_groups:
 - "gedmys"
 ---
 
-Currently Teaching
-+ Profundización I
-+ Profundización IV
-+ Geometría Analítica Bidimensional
-
