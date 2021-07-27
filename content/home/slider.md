@@ -31,7 +31,7 @@ height = "350px"
   align = "right"
 
   overlay_color = ""  # An HTML color value.
-  overlay_img = "headers/NuestroEncuentro.jpg"  # Image path relative to your `static/img/` folder.
+  overlay_img = "headers/NuestroEncuentro.png"  # Image path relative to your `static/img/` folder.
   overlay_filter = 0  # Darken the image. Value in range 0-1.
   
   # Call to action button (optional).
