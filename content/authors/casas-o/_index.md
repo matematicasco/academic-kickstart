@@ -47,8 +47,4 @@ user_groups:
 - "tenga"
 ---
 
-Currently Teaching:
-+ Electiva V
-+ Profundización I
-
 
