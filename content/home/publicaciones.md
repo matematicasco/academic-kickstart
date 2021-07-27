@@ -66,3 +66,4 @@ subtitle = ""
  css_class = ""
 +++
 
+<center><img src="https://matematicas.netlify.com/img/logoPub.png" alt="Logo" width="300"/></center>
