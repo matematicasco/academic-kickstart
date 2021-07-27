@@ -35,12 +35,3 @@ user_groups:
 - "Escuela"
 ---
 
-Currently teaching:
-+ Cálculo I
-+ Cálculo Diferencial
-+ Análisis Vectorial
-+ Teoría Intuitiva de Conjuntos
-+ Geometría Euclideana
-+ Nuevos Enfoques en la Educación Matemática
-
-
