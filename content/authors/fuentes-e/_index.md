@@ -50,9 +50,3 @@ email: ""
 user_groups:
 - "Escuela"
 ---
-
-Currently teaching:
-+ Física Matemática
-+ Cálculo II
-+ Cálculo Integral
-+ Estructuras Algebráicas
