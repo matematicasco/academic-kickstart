@@ -44,4 +44,3 @@ user_groups:
 - "gama"
 ---
 
-Currently teaching:
