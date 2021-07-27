@@ -1,5 +1,5 @@
 +++
-title = "Una prueba basada en rachas para simetría al rededor de una mediana específica"
+title = "Una prueba basada en rachas para simetría alrededor de una mediana específica"
 date = "1999-05-18"
 authors = ["Corzo Salamanca J. A.", "rojas-a"]
 publication_types = ["2"]
