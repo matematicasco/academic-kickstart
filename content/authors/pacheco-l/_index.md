@@ -22,6 +22,9 @@ bio:
 
 education:
   courses:
+  - course: Data Science and Big Data Analytics
+    institution: MIT Xpro
+    year: 2021
   - course: Databases especialist
     institution: Universidad Pedagógica y Tecnológica de Colombia
     year: 2021
