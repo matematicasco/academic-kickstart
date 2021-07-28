@@ -37,8 +37,4 @@ user_groups:
 - "Escuela"
 - "giaa"
 ---
-Currently Teaching:
-+ Topología, Maestría eb Ciencias Matemáticas
-+ Topología General II
-+ Ecuaciones Diferenciales
 
