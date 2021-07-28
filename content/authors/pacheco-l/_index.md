@@ -4,7 +4,7 @@ name: Leonardo Pacheco Tobo
 
 # Username (this should match the folder name)
 authors:
-- pachecho-l
+- pacheco-l
 
 # Is this the primary user of the site?
 superuser: false
