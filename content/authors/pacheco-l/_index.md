@@ -1,10 +1,10 @@
 ---
 # Display name
-name: Xiomara Rojas Lora
+name: Leonardo Pachecho Tobo
 
 # Username (this should match the folder name)
 authors:
-- rojas-x
+- pacheco-l
 
 # Is this the primary user of the site?
 superuser: false
