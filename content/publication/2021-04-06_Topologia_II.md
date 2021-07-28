@@ -10,7 +10,7 @@ projects = ["giaa"]
 tags = ["Topology", "Education", "GIAA"]
 math = true
 highlight = true
-url_custom = [{name = "Página", url = "http://editorial.uptc.edu.co/topologia-cty4r.html"}]
+url_custom = [{name = "Website", url = "http://editorial.uptc.edu.co/topologia-cty4r.html"}]
 [header]
 image = ""
 caption = ""
