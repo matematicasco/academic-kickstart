@@ -35,8 +35,3 @@ user_groups:
 - "gamma"
 ---
 
-Currently Teaching:
-+ Geometría Elemental
-+ Electiva II
-+ Cálculo III
-+ Cálculo Multivariable
