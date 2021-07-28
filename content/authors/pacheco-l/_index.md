@@ -22,6 +22,9 @@ bio:
 
 education:
   courses:
+  - course: Databases especialist
+    institution: Universidad Pedagógica y Tecnológica de Colombia
+    year: 2021
   - course: MSc in Mathematics
     institution: Universidad de los Andes
     year: 2014
