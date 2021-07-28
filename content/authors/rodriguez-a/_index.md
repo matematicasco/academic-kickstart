@@ -38,9 +38,3 @@ email: ""
 user_groups:
 - "Escuela"
 ---
-
-Currently teaching:
-+ Inferencia Estadística
-+ Geometría Analítica y Vectorial
-+ Métodos Numéricos
-+ Álgebra Lineal
