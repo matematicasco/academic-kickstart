@@ -42,8 +42,3 @@ email: ""
 user_groups:
 - "Escuela"
 ---
-
-Currently teaching:
-+ Cálculo I
-+ Cálculo II
-+ Teoría de Anillos y Cuerpos
