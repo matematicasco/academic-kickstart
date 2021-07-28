@@ -23,11 +23,11 @@ bio:
 education:
   courses:
   - course: MSc in Mathematics
-    institution: Universidad Nacional de Colombia
+    institution: Universidad de los Andes
+    year: 2014
+  - course: BSc in Matemáticas
+    institution: Universidad de los Andes
     year: 2012
-  - course: Licenciatura en Matemáticas
-    institution: Universidad Industrial de Santander
-    year: 2003
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
@@ -43,9 +43,9 @@ social:
 # - icon: orcid
 #   icon_pack: ai
 #   link: https://orcid.org/0000-0003-4478-5201
- - icon: cv
-   icon_pack: ai
-   link: https://scienti.minciencias.gov.co/cvlac/visualizador/generarCurriculoCv.do?cod_rh=0001208977
+# - icon: cv
+#   icon_pack: ai
+#   link: https://scienti.minciencias.gov.co/cvlac/visualizador/generarCurriculoCv.do?cod_rh=0001208977
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: ""
 
