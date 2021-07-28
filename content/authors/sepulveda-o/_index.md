@@ -43,9 +43,3 @@ user_groups:
 - "giaa"
 ---
 
-Currently Teaching:
-+ Tendencias y Nuevos Enfoques en la Educación Matemática Saber Pedagógico II
-+ Álgebra Lineal
-+ Álgebra Lineal Avanzada
-+ Cálculo IV
-+ Electiva Disciplinar
