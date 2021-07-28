@@ -18,7 +18,6 @@ organizations:
   url: "http://www.uptc.edu.co"
 
 # Short bio (displayed in user profile at end of posts)
-bio: 
 education:
   courses:
   - course: Data Science and Big Data Analytics: Making data-driven decisions
@@ -52,6 +51,7 @@ email: ""
 
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
-user_groups: ["Escuela"]
+user_groups: 
+- "Escuela"
 ---
 
