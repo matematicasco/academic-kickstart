@@ -1,12 +1,7 @@
 ---
-# Display name
 name: Leonardo Pacheco Tobo
-
-# Username (this should match the folder name)
 authors:
 - pacheco-l
-
-# Is this the primary user of the site?
 superuser: false
 
 # Role/position
@@ -39,7 +34,7 @@ education:
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
 #   form "mailto:your-email@example.com" or "#contact" for contact widget.
-#social:
+social:
 #- icon: envelope
 #  icon_pack: fas
 #  link: '#contact'  # For a direct email link, use "mailto:matematicasyestadistica@uptc.edu.co".
