@@ -38,7 +38,3 @@ user_groups:
 - "gici"
 ---
 
-Currently Teaching:
-+ Bioestadística
-+ Estadística Inferencial
-+ Pensamiento Matemático, Maestría en Didáctica de la Matemática
