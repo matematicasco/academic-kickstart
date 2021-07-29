@@ -5,7 +5,6 @@ draft     = false
 tags      = ["Olimpiadas"]
 title     = "Invitación a las primeras olimpiadas matemáticas UPTC"
 math      = true
-authors   =["fuentes-e"]
 +++
 
 La Universidad Pedagógica y Tecnológica de Colombia junto con la Escuela de Matemáticas y Estadística,
