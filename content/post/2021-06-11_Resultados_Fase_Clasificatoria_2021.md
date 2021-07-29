@@ -5,6 +5,7 @@ draft     = false
 tags      = ["Olimpiadas"]
 title     = "Resultados fase clasificatoria Olimpiadas Matemáticas UPTC 2021"
 math      = true
+authors   = ["admin"]
 +++
 
 El Comité Organizador de las Olimpiadas Matemáticas UPTC 2021 agradece la participación, de los 753 estudiantes, sus familias, las instituciones educativas y especialmente, a los profesores de cada I.E. que lideran el proceso para la participación de los estudiantes; del mismo modo, se exalta a los estudiantes que continúan en el certamen, cuyos nombres se listan a continuación.
