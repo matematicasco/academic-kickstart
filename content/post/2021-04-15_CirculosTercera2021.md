@@ -3,12 +3,12 @@ date      = 2021-04-15
 lastmod   = 2021-04-15
 draft     = false
 tags      = ["Círculos"]
-title     = "Geobra en el universo finito"
+title     = "Geogebra en el universo finito"
 math      = true
 authors   = ["lopez-a"]
 +++
 
-Están cordialmente invitad@s a la tercera sesión de los Círculos Matemáticos Colombia este viernes 16 de abril a las 5 p.m. Diana Bueno y Alexander Arévalo nos presentarán Geobra en el universo finito. Esta actividad está dirigida para estudiantes de sexto en adelante. También pueden participar profesores, padres de familia y demás interesados.
+Están cordialmente invitad@s a la tercera sesión de los Círculos Matemáticos Colombia este viernes 16 de abril a las 5 p.m. Diana Bueno y Alexander Arévalo nos presentarán Geogebra en el universo finito. Esta actividad está dirigida para estudiantes de sexto en adelante. También pueden participar profesores, padres de familia y demás interesados.
 
 La sesión será transmitida en vivo simultáneamente en YouTube y Facebook el viernes 16 de abril a las 5 p.m. 
 
