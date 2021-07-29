@@ -24,11 +24,18 @@ image:
 ---
 
 
+## 2020
+
+
+## 2019
+
+
 Estudiante | Título | Director 
 :----------| :---------- | :----------
+SARA VERÓNICA PÁEZ CASTELLANOS| INTRODUCCIÓN A LAS TRASFORMACIÓNES DE MÖBIUS | Alvaro Calvache
 LILIAN PAOLA ROMERO |SEMIGRUPOS DE OPERADORES LINEALES Y APLICACIONES | [Juan Carlos Juajibioy](https://matematicas.netlify.app/authors/juajibioy-j/)
 MANUEL FERNANDO REYES PALMA | SOBRE EL TEOREMA ERGÓDICO DE BIRKHOFF Y APLIACIONES | [Rafael Álvarez](https://matematicas.netlify.app/authors/alvarez-r/)
-SERGIO MAURICIO VARGAS CARVAJAL| TOPOLOGÍA GENERALIZADA Y ESTRUCTURAS DÉBIL, DÉBIL GENERALIZADA Y MINIMAL| [Héctor J. Suárez](https://matematicas.netlify.app/authors/suarez-h/)
+
 
 ## 2018
 
@@ -37,6 +44,7 @@ Estudiante | Título | Director
 JONATAN ANDRÉS GÓMEZ |PARADA EL AUTOMORFISMO DE NAKAYAMA Y ALGUNAS PROPIEDADES DEL PLANO DE JORDÁN| [Héctor J. Suárez](https://matematicas.netlify.app/authors/suarez-h/)
 DEISY MILDRET FORERO BENAVIDES |ESTUDIO INTRODUCTORIO DE SISTEMAS DINÁMICOS Y MODELOS DE APLICACIÓN| [Zagalo E. Suárez](https://matematicas.netlify.app/authors/sanchez-z/)
 FREDY ALEXIS GONZÁLEZ FONSECA |UNA INTRODUCCIÓN A LA TEORÍA ANALÍTICA DE LOS POLINOMIOS ORTOGONALES EN UNA VARIABLE REAL|[Edinson Fuentes](https://matematicas.netlify.app/authors/fuentes-e/)
+SERGIO MAURICIO VARGAS CARVAJAL| TOPOLOGÍA GENERALIZADA Y ESTRUCTURAS DÉBIL, DÉBIL GENERALIZADA Y MINIMAL| [Héctor J. Suárez](https://matematicas.netlify.app/authors/suarez-h/)
 
 
 ## 2017
