@@ -23,8 +23,25 @@ image:
 #url_video: ""
 ---
 
+## 2021
+
+Estudiante | Título | Director 
+:----------| :---------- | :----------
+ZULY LISLEY GONZALEZ NIÑO | UN ESTUDIO DE LA EXISTENCIA DE SOLUCIONES DÉBILES A LAS ECUACIONES DE NAVIER-STOKES HOMOGÉNEAS PARA FLUIDOS INCOMPRESIBLES EN R3| [Julio A. Montero](https://matematicas.netlify.app/authors/montero-j/)
+MARTHA CECILIA BARRERA BUITRAGO | UNA APROXIMACIÓN A LA VISIÓN COMPUTACIONAL USANDO HERRAMIENTAS ALGEBRAICAS| [Julio A. Montero](https://matematicas.netlify.app/authors/montero-j/)
+
 
 ## 2020
+
+Estudiante | Título | Director 
+:----------| :---------- | :----------
+JUAN SEBASTIAN PAIPA PÉREZ | SOBRE UNA CONJETURA ABC Y ALGUNAS DE SUS APLICACIONES | [Oscar Casas](https://matematicas.netlify.app/authors/casas-o/)
+ANGIE TATIANA FUENTES HERNANDEZ| INTRODUCCIÓN A LAS SUCESIONES Y SERIES DE FUNCIONES | Alvaro Calvache
+ANGIE DAYANNA MURILLO ACUÑA | TEOREMA DEL RANGO CONSTANTE EN VARIEDADES | [Juan Carlos Juajibioy](https://matematicas.netlify.app/authors/juajibioy-j/)
+ANDREA LILIANA RODRIGUEZ GUAUQUE| TEOREMA DE GELFAND – NAIMARK: C*- ALGEBRAS CONMUTATIVAS | [Julio A. Montero](https://matematicas.netlify.app/authors/montero-j/)
+JULIAN FELIPE LIZARAZO GOMEZ| BIFURCACIÓN Y CAOS SOBRE EL MAPEO LOGÍSTICO | [Rafael Álvarez](https://matematicas.netlify.app/authors/alvarez-r/)
+PEDRO JOSÉ ALBARRACÍN VARGAS | EXTENSIONES PBW TORICDAS SOBRE ANILLOS ZIP DEBILES | [Héctor J. Suárez](https://matematicas.netlify.app/authors/suarez-h/)
+JESSICA MIREYA CUCAITA CASTRO | POLINOMIOS TORCIDOS Y TEORÍA DE CÓDIGOS | [Nelcy R González](https://matematicas.netlify.app/authors/gonzalez-n/)
 
 
 ## 2019
@@ -35,7 +52,9 @@ Estudiante | Título | Director
 SARA VERÓNICA PÁEZ CASTELLANOS| INTRODUCCIÓN A LAS TRASFORMACIÓNES DE MÖBIUS | Alvaro Calvache
 LILIAN PAOLA ROMERO |SEMIGRUPOS DE OPERADORES LINEALES Y APLICACIONES | [Juan Carlos Juajibioy](https://matematicas.netlify.app/authors/juajibioy-j/)
 MANUEL FERNANDO REYES PALMA | SOBRE EL TEOREMA ERGÓDICO DE BIRKHOFF Y APLIACIONES | [Rafael Álvarez](https://matematicas.netlify.app/authors/alvarez-r/)
-
+LUIS ALEJANDRO CIFUENTES ESPITIA|UNA INTRODUCCION A LA FUNCIÓN ζ DE REIMAN| [Juan Carlos Juajibioy](https://matematicas.netlify.app/authors/juajibioy-j/)
+RICHARD EDUARDO SÁNCHEZ MÉNDEZ|ALGUNAS CARACTERIZACIONES DE ESPACIOS DE BANACH DE SCHAUDER REFLEXIVOS| [Juan Carlos Juajibioy](https://matematicas.netlify.app/authors/juajibioy-j/)
+DIDIER GERARDO RISCANEVO MONGUI| UNA INTRODUCCIÓN A LA TEORÍA DE REPRESENTACIONES DE QUIVERS ACOTADOS| Verónica Cifuentes, [Omaida Sepulveda](https://matematicas.netlify.app/authors/sepulveda-o/)
 
 ## 2018
 
