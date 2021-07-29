@@ -61,8 +61,7 @@ slides: example
 + Lógica
 + Métodos Numéricos
 
-El grupo de Álgebra y Análisis surge de la necesidad de integrar saberes en el campo de la matemática y  como consecuencia de la formación continua de los investigadores que lo conforman. El grupo busca incorporar jóvenes y semilleros de investigación, pertenecientes a los programas de pregrado y postgrado de la UPTC; esto contribuye a fomentar la cultura investigativa en la Institución y en particular en la Escuela de Matemáticas y Estadística para participar activamente en los procesos de investigación a nivel nacional e internacional.
-
+Debido al carácter de la matemática como ciencia básica, fundamental en las disciplinas del entorno académico, el grupo Álgebra y Análisis UPTC busca fortalecer la investigación en la línea de Álgebra y Análisis, en Educación Matemática en sus lineas de Epistemología e Historia de la Matemática, para visibilizar la Escuela de Matemáticas y Estadística de la Universidad Pedagógica y Tecnológica de Colombia  en el ámbito regional, nacional e internacional fortaleciendo la investigación en el componente del conocimiento matemático y en su desarrollo y evolución en la historia de las Matemáticas.
 
 
 
