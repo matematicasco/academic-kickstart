@@ -5,6 +5,7 @@ draft     = false
 tags      = ["Nuestro Encuentro"]
 title     = "Cambio de fecha charla 47 de Nuestro Encuentro"
 math      = true
+authors   = ["admin"]
 +++
 
 La fecha para la charla 47 de **Nuestro Encuentro** ha sido modificada para el 4 de agosto de 2020. Para más detalles visite 
