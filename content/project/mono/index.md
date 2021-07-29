@@ -51,6 +51,11 @@ CRISTIHAN CAMILO CASTIBLANCO GÓMEZ| BREVE INTRODUCCIÓN A LA TEORÍA DE CATEGOR
 MAYERLIN CASTRO ÁVILA | INTRODUCCIÓN A LA REGRESIÓN GEOGRÁFICAMENTE PONDERADA (GWR) Y UNA APLICACIÓN AL CRUCE DE PRUEBAS SABER 11 (2005-2006) Y SABER PRO (2009-2010) EN EL DEPARTAMENTO DE ANTIOQUIA | Jorge V. Ruíz
 [J. David Arévalo](https://matematicas.netlify.app/authors/arevalo-d/) | UNA INTRODUCCIÓN A LA TEORÍA DE DISTRIBUCIONES| [Richard A. De la Cruz](https://matematicas.netlify.app/authors/delacruz-r/)
 JULIETH PAOLA SAAVEDRA RAMÍREZ| EL MÉTODO DE LAX-FRIEDRICHS|  [Richard A. De la Cruz](https://matematicas.netlify.app/authors/delacruz-r/)
+
+## 2013
+
+Estudiante | Título | Director 
+:----------| :---------- | :----------
 ADRIANA LEGUIZAMÓN MORA | DINÁMICA Y POSIBLE COMPORTAMIENTO DE LA CLIMATOLOGÍA DE TUNJA | Miguel Patarroyo
 DIANA MILENA OTÁLORA MUÑOZ| UNAS PROPIEDADES DE LOS SUBMODULOS MULTIPLICACIÓN REDUCCIÓN Y LA TOPOLOGÍA SOBRE SU ESPACIO PRIMO | [Héctor J. Suárez](https://matematicas.netlify.app/authors/suarez-h/)
 ANA MARÍA PRIETO ALGUNOS | CONCEPTOS TOPOLOGICOS APLICADOS A LAS PREFERENCIAS DEL CONSUMIDOR | [Julían Serna](https://matematicas.netlify.app/authors/serna-j/)
@@ -59,6 +64,11 @@ JAIRO ENRIQUE ALBA TALERO | REVISIÓN DE ALGUNOS CONCEPTOS UTILIZADOS EN PROCESO
 ASTRID YESENIA MESA JUYA | INTRODUCCIÓN AL ESTUDIO DE PROPIEDADES TOPOLÓGICAS DEL ESPECTRO PRIMO DE UN ANILLO | Misael O. González
 JOSÉ NICOLÁS NAJAR SALINAS| UN ANÁLISIS A LOS TEOREMAS INCOMPLETITUD DE KURT GOEL | [Nelsy R GONZÁLEZ](https://matematicas.netlify.app/authors/gonzalez-n/)
 LUZ ANDREA SORA ARCOS| CARACTERIZANDO EL TORO DESDE LA GEOMETRÍA DIFERENCIAL | Luis C. Canaria
+
+## 2012
+
+Estudiante | Título | Director 
+:----------| :---------- | :----------
 ÁNGELA ROCÍO FÚQUEN |SOBRE EL TEOREMA DE CAUCHY PARA INTEGRALES DE VARIABLE COMPLEJA | [Richard A. De la Cruz](https://matematicas.netlify.app/authors/delacruz-r/)
 LEIDY JOHANA SUÁREZ GÓMEZ | EL ESPACIO DE ROKHOROV | [Richard A. De la Cruz](https://matematicas.netlify.app/authors/delacruz-r/)
 SANDRA JOHANA CASCANTE CARREÑO | OPTIMIZACIÓN DE FUNCIONES APLICANDO LA METODOLOGÍA DE SUPERFICIES DE RESPUESTA | Sara C. Guerrero, [Zagalo E. Suárez](https://matematicas.netlify.app/authors/sanchez-z/)
