@@ -1,5 +1,5 @@
 +++
-title = "Calabi-Yau property  for  graded skew PBW extensions"
+title = "Calabi-Yau property for graded skew PBW extensions"
 date = "2017-01-01"
 authors = ["suarez-h", "Lezama, O.", "Reyes, A."]
 publication_types = ["2"]
