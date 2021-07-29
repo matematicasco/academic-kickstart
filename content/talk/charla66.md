@@ -1,5 +1,5 @@
 +++
-date      = "2021-07-27"
+date      = "2021-07-29"
 draft     = false
 tags      = ["Nuestro Encuentro"]
 title     = "Charla 66: Álgebras de Conglomerado y Categorías de Caminos de Dyck"
