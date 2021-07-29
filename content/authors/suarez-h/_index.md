@@ -11,7 +11,8 @@ organizations:
 # Short bio (displayed in user profile at end of posts)
 bio: 
 interests:
-- Algebra
+- Noncommutative algebra
+- General topology
 education:
   courses:
   - course: PhD in Mathematical Sciences
