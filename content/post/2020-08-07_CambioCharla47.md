@@ -5,6 +5,7 @@ draft     = false
 tags      = ["Nuestro Encuentro"]
 title     = "Cambio de fecha charla 48 de Nuestro Encuentro"
 math      = true
+authors   = ["admin"]
 +++
 
 La fecha para la charla 48 de **Nuestro Encuentro** ha sido modificada para el 18 de agosto de 2020 a las 5:00pm. Para más detalles visite 
