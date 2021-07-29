@@ -4,6 +4,7 @@ date = "2015-01-01"
 authors = ["suarez-h", "O. Lezama", "A. Reyes"]
 publication_types = ["2"]
 publication = "*Ciencia en Desarrollo* **6**(2), 205-213"
+abstract = "Some authors have studied relations between Artin-Schelter regular algebras, N-Koszul algebras and Calabi- Yau algebras (resp. skew Calabi-Yau) of dimension d. In this paper we want to show through examples and counterexamples some relations between these classes of algebras with skew PBW extensions. In addition, we also exhibit some examples of the preservation of these properties by Ore extensions."
 selected = false
 projects = ["giaa"]
 tags = ["GIAA","PBW Extensions","Algebra"]
