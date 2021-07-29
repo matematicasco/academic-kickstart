@@ -10,8 +10,7 @@ abstract = "El libro trata inicialmente, de forma intuitiva algunos elementos co
 selected = false
 projects = ["gici"]
 tags = ["Statistics", "Education", "GICI"]
-url_code = ""
-url_dataset = ""
+url_pdf = "https://uptc.metalibros.org/index.php/editorial-uptc/catalog/view/43/76/2777"
 math = true
 highlight = true
 [header]
