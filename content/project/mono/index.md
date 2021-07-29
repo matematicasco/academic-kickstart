@@ -29,22 +29,49 @@ Estudiante | Título | Director
 LILIAN PAOLA ROMERO |SEMIGRUPOS DE OPERADORES LINEALES Y APLICACIONES | [Juan Carlos Juajibioy](https://matematicas.netlify.app/authors/juajibioy-j/)
 MANUEL FERNANDO REYES PALMA | SOBRE EL TEOREMA ERGÓDICO DE BIRKHOFF Y APLIACIONES | [Rafael Álvarez](https://matematicas.netlify.app/authors/alvarez-r/)
 SERGIO MAURICIO VARGAS CARVAJAL| TOPOLOGÍA GENERALIZADA Y ESTRUCTURAS DÉBIL, DÉBIL GENERALIZADA Y MINIMAL| [Héctor J. Suárez](https://matematicas.netlify.app/authors/suarez-h/)
+
+## 2018
+
+Estudiante | Título | Director 
+:----------| :---------- | :----------
 JONATAN ANDRÉS GÓMEZ |PARADA EL AUTOMORFISMO DE NAKAYAMA Y ALGUNAS PROPIEDADES DEL PLANO DE JORDÁN| [Héctor J. Suárez](https://matematicas.netlify.app/authors/suarez-h/)
 DEISY MILDRET FORERO BENAVIDES |ESTUDIO INTRODUCTORIO DE SISTEMAS DINÁMICOS Y MODELOS DE APLICACIÓN| [Zagalo E. Suárez](https://matematicas.netlify.app/authors/sanchez-z/)
 FREDY ALEXIS GONZÁLEZ FONSECA |UNA INTRODUCCIÓN A LA TEORÍA ANALÍTICA DE LOS POLINOMIOS ORTOGONALES EN UNA VARIABLE REAL|[Edinson Fuentes](https://matematicas.netlify.app/authors/fuentes-e/)
+
+
+## 2017
+
+Estudiante | Título | Director 
+:----------| :---------- | :----------
 LISANDRO PAIPA PAIPA | UNA INTRODUCCIÓN AL MUESTREO BALANCEADO: EL MÉTODO DEL CUBO | [Luis A. Salcedo](https://matematicas.netlify.app/authors/salcedo-l/)
 MARTHA AURORA PARRA PULIDO | FÓRMULA DE ABEL Y EL WRONSKIANO PARA ECUACIONES DIFERENCIALES FRACCIONALES CONFORMABLES| [Pedro N Maluendas](https://matematicas.netlify.app/authors/maluendas-p/)
 CLAUDIA VIVIANA ORDÚZ SIABATO | UNA INTRODUCCIÓN AL ESPACIO DE FUNCIONES TEST | [Richard A. De la Cruz](https://matematicas.netlify.app/authors/delacruz-r/)
 ÉDISON IVÁN ZAMBRANO MATEUS | INTRODUCCIÓN AL ESTUDIO DE INVARIANTES DE GRUPOS FINITOS| [Omaida Sepúlveda](https://matematicas.netlify.app/authors/sepulveda-o/)
 ÁNGELA PAOLA PÁEZ PÉREZ |PROPIEDADES BÁSICAS DE GRUPOS TOPOLÓGICOS| Misael O. González
 JOSÉ CRISTÓBAL MOLINA SUAREZ | ACERCA DE ALGUNAS CONDICIONES PARA LA FACTORIZACIÓN DE IDEALES| [James Y. Gómez](https://matematicas.netlify.app/authors/gomez-j/)
+
+## 2016
+
+Estudiante | Título | Director 
+:----------| :---------- | :----------
 WILFREDO BOHÓRQUEZ CASTILLO | EL PROBLEMA DE LA EXISTENCIA Y UNICIDAD DE UNA ECUACIÓN DIFERENCIAL DE PRIMER ORDEN| [Pedro N Maluendas](https://matematicas.netlify.app/authors/maluendas-p/)
 JESÚS ALBERTO PEÑA | PROPIEDADES Y RELACIONES ENTRE MÓDULOS LIBRES, ESTABLEMENTE LIBRES Y PROYECTIVOS| [Héctor J. Suárez](https://matematicas.netlify.app/authors/suarez-h/)
 LEIDY ALEJANDRA SALAMANCA RUSSI| UNA INTRODUCCIÓN A LA TEORÍA DE INTERPOLACIÓN DE OPERADORES| [Pedro N Maluendas](https://matematicas.netlify.app/authors/maluendas-p/)
+
+
+## 2015
+
+Estudiante | Título | Director 
+:----------| :---------- | :----------
 FABIÁN HERNANDO ANAYA | SOBRE UN CRITERIO DE ISOMORFISMO PARA ANILLOS SEMIMAXIMALES| [Julían Serna](https://matematicas.netlify.app/authors/serna-j/)
 LIZETH ALEXANDRA ESTEVEZ JOYA |ANÁLISIS DEL TEOREMA DE STOKES EN VARIEDADES |Luis C. Canaria 
 ADRIANA MARCELA SALINAS TORRES|INTRODUCCIÓN MATEMÁTICA DE LOS ALGORITMOS GENÉTICOS| [Margoth Valdivieso](https://matematicas.netlify.app/authors/valdivieso-m/)
 CESAR ALEJANDRO GARZÓN ROBELTO| ANILLOS Y MÓDULOS SEMISIMPLES | [Héctor J. Suárez](https://matematicas.netlify.app/authors/suarez-h/)
+
+## 2014
+
+Estudiante | Título | Director 
+:----------| :---------- | :----------
 JULIETH KATHERINE RODRÍGUEZ| APLICACIÓN DE TÉCNICAS ESTADÍSTICAS MULTIVARIADAS EN EL ANÁLISIS CIENCIOMETRICO DE LA PRODUCCIÓN BIBLIOGRÁFICA COLOMBIANA EN EL ÁREA DE MATEMÁTICAS (WOK 2001-2012)| [Nubia Y. Gómez](https://matematicas.netlify.app/authors/gomez-n/)
 ERIKA ALEJANDRA SUAREZ | USO DE INDICADORES CIENCIMOETRICOS EN EL ESTUDIO DE LA PRODUCCIÓN CIENTÍFICA COLOMBIANA EN EL ÁREA DE MATEMÁTICAS| [Ana E Jiménez](https://matematicas.netlify.app/authors/jimenez-a/)
 CRISTIHAN CAMILO CASTIBLANCO GÓMEZ| BREVE INTRODUCCIÓN A LA TEORÍA DE CATEGORÍAS| [Julían Serna](https://matematicas.netlify.app/authors/serna-j/)
