@@ -5,6 +5,7 @@ draft     = false
 tags      = ["Olimpiadas"]
 title     = "Aplazamiento Olimpiadas Matemáticas UPTC 2020"
 math      = true
+authors = ["admin"]
 +++
 
 La **Escuela de Matemáticas y Estadística** en atención a las medidas adoptadas por el Ministerio de Salud frente a la pandemia de COVID-19 y con el objetivo de proteger la comunidad estudiantil que participaría en las "Olimpiadas Matemáticas  2020" se permite informar que dicho evento será pospuesto para el año 2021.
