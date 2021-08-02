@@ -1,7 +1,7 @@
 +++
 title = "Hölder Regularity and Exponential Decay of Correlations for a class of Piecewise Partially Hyperbolic Maps"
 date = "2020-07-22"
-authors = ["alvarez-r","Ricardo Bioni", "Rafael Lucena"]
+authors = ["alvarez-r","Bioni, R.", "Lucena, R."]
 publication_types = ["5"]
 publication = "*Nonlinearity* **33**(12), 6790"
 publication_short = ""
