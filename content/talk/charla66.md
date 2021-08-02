@@ -1,5 +1,5 @@
 +++
-date      = "2021-07-29"
+date      = "2021-08-02"
 draft     = false
 tags      = ["Nuestro Encuentro"]
 title     = "Charla 66: Álgebras de Conglomerado y Categorías de Caminos de Dyck"
@@ -8,7 +8,7 @@ math      = true
 
 **Conferencista:**  Gabriel Bravo Rios[^1], Universidad Nacional de Colombia. TERENUFIA
 
-**Fecha:** Martes 06 de agosto de 2021, 4:00 p.m.
+**Fecha:** Martes 03 de agosto de 2021, 4:00 p.m.
 
 **Lugar:** [Videollamada](https://meet.google.com/izy-pzig-pbf)  ([Presione el enlace para ingresar](https://meet.google.com/izy-pzig-pbf))
 
