@@ -2,7 +2,7 @@
 date      = 2021-03-08
 lastmod   = 2021-03-08
 draft     = false
-tags      = ["Circulos"]
+tags      = ["Nuestro Encuentro"]
 title     = "Recordatorio Charlas 53 y 54"
 math      = true
 authors   = ["lopez-a"]
