@@ -9,7 +9,6 @@ selected = false
 projects = ["gici"]
 tags = ["GICI","Cat. B"]
 url_pdf = "https://revistavirtual.ucn.edu.co/index.php/RevistaUCN/article/download/776/1302"
-doi = "10.35575/rvucn.n60a6"
 math = false
 highlight = true
 [header]
