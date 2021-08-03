@@ -8,7 +8,6 @@ abstract = "En este trabajo se presentan distintas formas de simularvalores de v
 selected = false
 projects = ["giaa"]
 tags = ["GIAA","Cat. C"]
-doi = "10.19053/01217488.v9.n2.2018.8140"
 url_pdf = "https://revistas.uptc.edu.co/index.php/ciencia_en_desarrollo/article/view/8140/7259"
 math = true
 highlight = true
