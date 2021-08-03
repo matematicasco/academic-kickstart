@@ -1,6 +1,6 @@
 +++
 title = "Riemann problems and delta-shock solutions for a Keyfitz-Kranzer system with a forcing term"
-date = "2021-07-27"
+date = "2021-08-03"
 authors = ["Abreu, E.","delacruz-r","Lambert, W."]
 publication_types = ["2"]
 publication = "*Journal of Mathematical Analysis and Applications* **502**(2), 125267"
