@@ -18,7 +18,7 @@ education:
     institution: Universidad Pedagógica Nacional de Colombia
     year: 1996
   - course: Esp en Matemática Avanzada
-    institution: Universidad Pedagógica Nacional de Colombia
+    institution: Universidad Nacional de Colombia
     year: 1989
   - course: Licenciatura en Matemáticas y Física
     institution: Universidad Pedagógica y Tecnológica de Colombia
