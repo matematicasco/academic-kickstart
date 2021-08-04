@@ -1,5 +1,5 @@
 +++
-title = "La arqueología matemática. Estudios históricos, epistemólogicos y fenomenológicos"
+title = "La arqueología matemática: Estudios históricos, epistemólogicos y fenomenológicos"
 date = "2021-06-13"
 authors = ["sepulveda-o","gonzalez-n","Gonzalez Sanchez, D. F.","Riscanevo Espitia, L.","Niño Castillo, Y. C.","Garzón Robelto, C. A."]
 publication_types = ["5"]
