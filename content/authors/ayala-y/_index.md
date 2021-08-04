@@ -9,6 +9,22 @@ organizations:
   url: "http://www.uptc.edu.co"
 
 
+bio: 
+interests:
+- Bibliometry
+
+education:
+  courses:
+  - course: MSc in Statistics
+    institution: Universidad Nacional de Colombia
+    year: 2006
+  - course: Esp en Matemáticas y Estadística Aplicadas
+    institution: Universidad Pedagógica y Tecnológica de Colombia
+    year: 2002
+  - course: Licenciatura en Matemáticas y Física
+    institution: Universidad Pedagógica y Tecnológica de Colombia
+    year: 1998
+
 social:
 - icon: researchgate
   icon_pack: ai
@@ -24,4 +40,3 @@ user_groups:
 - "Escuela"
 - "gama"
 ---
-
