@@ -6,7 +6,7 @@ title     = "Charla 67: Química Matemática: de lo Continuo a lo Discreto"
 math      = true
 +++
 
-**Conferencista:**  [Juan A. Montoya]() Universidad Nacional de Colombia
+**Conferencista:**  [Juan A. Montoya](https://www.researchgate.net/profile/Juan-Montoya-23) Universidad Nacional de Colombia
 
 **Fecha:** Martes 10 de agosto de 2021, 4:00 p.m.
 
