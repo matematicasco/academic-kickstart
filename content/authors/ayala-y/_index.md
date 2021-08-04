@@ -7,6 +7,8 @@ role: Instructor
 organizations:
 - name: Universidad Pedagógica y Tecnológica de Colombia
   url: "http://www.uptc.edu.co"
+
+
 social:
 - icon: researchgate
   icon_pack: ai
@@ -14,6 +16,9 @@ social:
 - icon: orcid
   icon_pack: ai
   link: https://orcid.org/0000-0003-1002-1887
+- icon: cv
+  icon_pack: ai
+  link: https://scienti.minciencias.gov.co/cvlac/visualizador/generarCurriculoCv.do?cod_rh=0001391399
 
 user_groups:
 - "Escuela"
