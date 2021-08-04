@@ -8,10 +8,23 @@ organizations:
 - name: Universidad Pedagógica y Tecnológica de Colombia
   url: "http://www.uptc.edu.co"
 
+bio: 
+education:
+  courses:
+  - course: PhD in Educational Sciences
+    institution: Universidad Pedagógica y Tecnológica de Colombia
+    year: 2018
+  - course: MSc in Education
+    institution: Universidad Pedagógica Nacional de Colombia
+    year: 1996
+  - course: Esp en Matemática Avanzada
+    institution: Universidad Pedagógica Nacional de Colombia
+    year: 1989
+  - course: Licenciatura en Matemáticas y Física
+    institution: Universidad Pedagógica y Tecnológica de Colombia
+    year: 1984
+
 social:
-- icon: researchgate
-  icon_pack: ai
-  link: https://www.researchgate.net/profile/Yolima-Sanchez
 - icon: cv
   icon_pack: ai
   link: https://scienti.minciencias.gov.co/cvlac/visualizador/generarCurriculoCv.do?cod_rh=0000378380
