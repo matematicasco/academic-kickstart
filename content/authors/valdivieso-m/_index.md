@@ -1,5 +1,5 @@
 ---
-name: Margoth Valdivieso Miranda
+name: Margoth Valdivieso
 authors:
 - valdivieso-m
 superuser: false
