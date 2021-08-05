@@ -1,5 +1,5 @@
 +++
-title = "Historia Y MEMORIA casi 10 años consolidando comunidad historiográfica. Una mirada desde la Bibliometría"
+title = "Historia Y MEMORIA casi 10 años consolidando comunidad historiográfica Una mirada desde la Bibliometría"
 date = "2020-01-01"
 authors = ["gomez-n", "Rodríguez, O.A.", "Bautista, A. F."]
 publication_types = ["2"]
