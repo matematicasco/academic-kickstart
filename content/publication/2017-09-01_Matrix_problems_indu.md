@@ -8,7 +8,7 @@ abstract = "In this paper, k-linear representations of posets are used to define
 doi = "10.17654/MS102061223"
 selected = false
 projects = ['giaa']
-tags = ["GIAA"]
+tags = ["GIAA","Cat. B"]
 math = true
 highlight = true
 [header]
