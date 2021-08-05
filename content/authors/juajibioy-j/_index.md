@@ -1,5 +1,5 @@
 ---
-name: Juan Carlos Juajibioy
+name: Juan C. Juajibioy
 authors:
 - juajibioy-j
 superuser: false
