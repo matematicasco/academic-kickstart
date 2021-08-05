@@ -3,10 +3,8 @@ title = "χ Property in graded skew PBW extensions"
 date = "2021-01-08"
 authors = ["suarez-h", "Anaya, F.", "Reyes, A."]
 publication_types = ["2"]
-publication = "*Ciencia en Desarrollo* **12**(1), 147-168"
+publication = "*Ciencia en Desarrollo*, **12**(1), 147-168"
 abstract = "En este artículo estudiamos la propiedad χ de álgebras que son extensiones PBW torcidas graduadas. Demostramos que si R = ⊕p≥0Rp es un álgebra noetheriana N-graduada y A = σ(R)⟨x1,...,xn⟩ es una extensión PBW torcida cuasi-conmutativa graduada de R, entonces A satisface χ si y solo si R satisface χ. También damos condiciones suficientes para que una extensión PBW torcida graduada de R satisfaga χ."
-abstract_short = ""
-image_preview = ""
 selected = false
 projects = ["giaa"]
 doi = "10.19053/01217488.v12.n1.2021.11937"
