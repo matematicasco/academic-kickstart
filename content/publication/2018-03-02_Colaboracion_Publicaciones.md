@@ -1,5 +1,5 @@
 +++
-title = "Estudio de la colaboración en publicaciones científicas. Facultad de Ciencias-UPTC, 2002-2014"
+title = "Estudio de la colaboración en publicaciones científicas. Facultad de Ciencias-UPTC 2002-2014"
 date = "2018-03-02"
 authors = ["jimenez-a","gomez-n","ayala-y","Guerrero, S. C"]
 publication_types = ["2"]
