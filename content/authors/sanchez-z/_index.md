@@ -1,5 +1,5 @@
 ---
-name: Zagalo Suárez Aguilar
+name: Zagalo Suárez
 authors:
 - sanchez-z
 superuser: false
