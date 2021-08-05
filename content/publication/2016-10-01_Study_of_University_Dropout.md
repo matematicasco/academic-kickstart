@@ -1,4 +1,4 @@
-**+++
++++
 title = "Study of University Dropout Reason Based on Survival Model"
 date = "2016-10-01"
 authors = ["juajibioy-j"]
@@ -15,4 +15,3 @@ highlight = true
 image = ""
 caption = ""
 +++
-**
