@@ -1,5 +1,5 @@
 +++
-title = "Técnicas bibliométricas en dinámicas de producción científica en grupos de investigación. Caso de estudio: Biología-UPTC"
+title = "Técnicas bibliométricas en dinámicas de producción científica en grupos de investigación Caso de estudio: Biología-UPTC"
 date = "2017-11-09"
 authors = ["rodriguez-j","gomez-n","Herrera Martínez, J."]
 publication_types = ["2"]
