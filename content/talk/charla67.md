@@ -1,5 +1,5 @@
 +++
-date      = "2021-08-04"
+date      = "2021-08-05"
 draft     = false
 tags      = ["Nuestro Encuentro"]
 title     = "Charla 67: Química Matemática: de lo Continuo a lo Discreto"
