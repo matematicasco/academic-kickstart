@@ -1,5 +1,5 @@
 ---
-name: Sergio Andrés Pérez León
+name: Sergio A. Pérez
 authors:
 - perez-s
 superuser: false
