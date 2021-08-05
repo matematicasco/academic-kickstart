@@ -3,7 +3,7 @@ title = "Nakayama automorphism of some skew PBW extensions"
 date = "2019-05-31"
 authors = ["suarez-h", "A. Reyes"]
 publication_types = ["2"]
-publication = "*Ingeniería y  Ciencia* **15**(29), 157-177"
+publication = "*Ingeniería y Ciencia*, **15**(29), 157-177"
 abstract = "Let R be an Artin-Schelter regular algebra and A = σ(R)⟨x1,...,xn⟩ a graded quasi-commutative skew PBW extension over R. In this paper we describe the Nakayama automorphism of A using the Nakayama automor- phism of the ring of coefficients R. We calculate explicitly the Nakayama automorphism of some skew PBW extensions."
 selected = false
 projects = ["giaa"]
