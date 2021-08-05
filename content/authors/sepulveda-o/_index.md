@@ -1,5 +1,5 @@
 ---
-name: Omaida Sepúlveda Delgado
+name: Omaida Sepúlveda
 authors:
 - sepulveda-o
 superuser: false
