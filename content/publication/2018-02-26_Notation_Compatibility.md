@@ -3,36 +3,16 @@ title = "A notion of compatibility for Armendariz and Baer properties over skew 
 date = "2018-02-26"
 authors = ["Reyes, A.", "Suarez, H."]
 publication_types = ["2"]
-publication = "Revista Unión Matemática Argentina, Volumen 59(1), 157-178"
-publication_short = ""
-
-abstract = "In this paper we are interested in studying the properties of Ar- mendariz, Baer, quasi-Baer, p.p. and p.q.-Baer over skew PBW extensions. Using a notion of compatibility, we generalize several propositions established for Ore extensions and present new results for several noncommutative rings which can not be expressed as Ore extensions (universal enveloping algebras, diffusion algebras, and others)."
-abstract_short = ""
-
-# Featured image thumbnail (optional)
-image_preview = ""
-
-# Is this a selected publication? (true/false)
+publication = "*Revista Unión Matemática Argentina*, **59**(1), 157-178"
+abstract = "In this paper we are interested in studying the properties of Armendariz, Baer, quasi-Baer, p.p. and p.q.-Baer over skew PBW extensions. Using a notion of compatibility, we generalize several propositions established for Ore extensions and present new results for several noncommutative rings which can not be expressed as Ore extensions (universal enveloping algebras, diffusion algebras, and others)."
 selected = false
-
-# Projects (optional).
-#   Associate this publication with one or more of your projects.
-#   Simply enter the filename (excluding '.md') of your project file in `content/project/`.
 projects = ["giaa"]
-tags = ["Algebra"]
-# Links (optional).
+tags = ["Algebra", "Cat. B", "PBW Extensions"]
 url_pdf = "http://inmabb.criba.edu.ar/revuma/pdf/v59n1/v59n1a08.pdf"
-
-# Does the content use math formatting?
+doi = "10.33044/revuma.v59n1a08"
 math = false
-
-# Does the content use source code highlighting?
 highlight = true
-
-# Featured image
-# Place your image in the `static/img/` folder and reference its filename below, e.g. `image = "example.jpg"`.
 [header]
 image = ""
 caption = ""
-
 +++
