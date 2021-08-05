@@ -1,6 +1,6 @@
 ---
 # Display name
-name: Rafael José Álvarez Bilbao
+name: Rafael J. Álvarez
 
 # Username (this should match the folder name)
 authors:
