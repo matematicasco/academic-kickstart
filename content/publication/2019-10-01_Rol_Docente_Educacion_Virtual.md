@@ -1,5 +1,5 @@
 +++
-title = "El Rol del Docente de Matemáticas en Educación Virtual Universitaria. Un Estudio en la Universidad Pedagógica y Tecnológica de Colombia"
+title = "El Rol del Docente de Matemáticas en Educación Virtual Universitaria: Un Estudio en la Universidad Pedagógica y Tecnológica de Colombia"
 date = "2019-10-01"
 authors = ["Mendoza, H. H.", "burbano-v","valdivieso-m"]
 publication_types = ["2"]
