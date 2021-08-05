@@ -1,5 +1,5 @@
 ---
-name: Miguel Ángel Díaz
+name: Miguel A. Díaz
 authors:
 - diaz-m
 superuser: false
