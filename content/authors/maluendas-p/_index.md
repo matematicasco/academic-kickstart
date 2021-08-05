@@ -1,5 +1,5 @@
 ---
-name: Pedro Nel Maluendas
+name: Pedro N. Maluendas
 authors:
 - maluendas-p
 superuser: false
