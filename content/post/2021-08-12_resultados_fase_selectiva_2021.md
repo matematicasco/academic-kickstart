@@ -57,7 +57,8 @@ El Comité Organizador de las Olimpiadas Matemáticas UPTC 2021 agradece la part
 |     3|Torrado Forero        |Jorge Eduardo          |Andino de Tunja                  |
 
 
-La Fase Final (Tercera Fase) se realizará el martes 21 de septiembre a las 8:00 de la mañana, a través de la plataforma [Moodle] (http://moodle.uptc.edu.co/econtinuada/), se invita a los estudiantes a ingresar con antelación a la plataforma y a la dirección del correo electrónico para estar al tanto de las instrucciones de la prueba prueba.
+La Fase Final (Tercera Fase) se realizará el martes 21 de septiembre a las 8:00 de la mañana, a través de la plataforma 
+[Moodle](http://moodle.uptc.edu.co/econtinuada/), se invita a los estudiantes a ingresar con antelación a la plataforma y a la dirección del correo electrónico para estar al tanto de las instrucciones de la prueba prueba.
 
 
 ## Detalles Fase Selectiva
