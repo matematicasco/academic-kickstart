@@ -61,6 +61,13 @@ La Fase Final (Tercera Fase) se realizará el martes 21 de septiembre a las 8:00
 [Moodle](http://moodle.uptc.edu.co/econtinuada/), se invita a los estudiantes a ingresar con antelación a la plataforma y a la dirección del correo electrónico para estar al tanto de las instrucciones de la prueba prueba.
 
 
+## Clausura OM21
+
+Dentro de la programación del XVI Encuentro Facultad de Ciencias UPTC y IV Encuentro Internacional (Retos de la ciencia en la postpandemia) el jueves 23 de septiembre en horas de tarde se realizará de forma virtual la clausura de las OM21. En este espacio, se darán a conocer el nombre de los estudiantes ganadores en los diferentes niveles y las Instituciones Educativas a la cual pertenecen.
+
+Se invita a los profesores, estudiantes y a toda la comunidad académica que de una u otra forma participaron en las primeras OM21, a asistir a la ceremonia de clausura. Con anterioridad se le enviará al correo de los profesores que lideran las OM21 en cada Institución Educativa y al correo de todos los estudiantes que participaron en las MO21 el enlace para asistir a la ceremonia de clausura.
+
+
 ## Detalles Fase Selectiva
 
 Para un análisis más detallado, consulte este enlace 
