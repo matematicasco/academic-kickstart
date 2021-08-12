@@ -1,6 +1,6 @@
 +++
-date      = 2021-08-02
-lastmod   = 2021-08-02
+date      = 2021-08-11
+lastmod   = 2021-08-11
 draft     = false
 tags      = ["Círculos"]
 title     = "Visualizando Sumas"
