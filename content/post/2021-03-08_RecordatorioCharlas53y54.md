@@ -5,7 +5,7 @@ draft     = false
 tags      = ["Nuestro Encuentro"]
 title     = "Recordatorio Charlas 53 y 54"
 math      = true
-authors   = ["lopez-a"]
+authors   = ["admin"]
 +++
 
 
