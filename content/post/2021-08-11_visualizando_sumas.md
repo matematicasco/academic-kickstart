@@ -5,7 +5,7 @@ draft     = false
 tags      = ["Círculos"]
 title     = "Visualizando Sumas"
 math      = true
-authors   = ["admin"]
+authors   = ["lopez-a"]
 +++
 
 TBC
