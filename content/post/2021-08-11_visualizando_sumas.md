@@ -8,4 +8,5 @@ math      = true
 authors   = ["lopez-a"]
 +++
 
-TBC
+[Diapositivas presentación](https://matematicas.netlify.app/files/VisualizandoSumas.pdf)
+
