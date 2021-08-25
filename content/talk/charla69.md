@@ -1,5 +1,5 @@
 +++
-date      = "2021-08-23"
+date      = "2021-08-24"
 draft     = false
 tags      = ["Nuestro Encuentro"]
 title     = "Charla 69: Teoremas de generación en teoría de semigrupos de operadores lineales y aplicaciones"
