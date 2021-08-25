@@ -6,7 +6,7 @@ title     = "Charla 70: Soluciones débiles para el sistema unidimensional de di
 math      = true
 +++
 
-**Conferencista:**  (Richard de la Cruz)[https://matematicas.netlify.app/authors/delacruz-r/], Universidad Pedagógica y Tecnológica de Colombia
+**Conferencista:**  [Richard de la Cruz](https://matematicas.netlify.app/authors/delacruz-r/), Universidad Pedagógica y Tecnológica de Colombia
 
 **Fecha:** Martes 31 de agosto de 2021, 4:00 p.m.
 
