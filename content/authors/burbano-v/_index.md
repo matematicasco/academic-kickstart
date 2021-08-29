@@ -39,7 +39,7 @@ social:
 #  link: https://scholar.google.com/citations?user=2khjkqEAAAAJ&hl=es
 - icon: cv
   icon_pack: ai
-  link: http://scienti.colciencias.gov.co:8081/cvlac/visualizador/generarCurriculoCv.do?cod_rh=0001241265
+  link: https://scienti.minciencias.gov.co/cvlac/visualizador/generarCurriculoCv.do?cod_rh=0001241265
 user_groups:
 - "Escuela"
 - "gici"
