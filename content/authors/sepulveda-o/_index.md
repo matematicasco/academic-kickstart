@@ -33,7 +33,7 @@ social:
   link: https://scholar.google.com/citations?user=2khjkqEAAAAJ&hl=es
 - icon: cv
   icon_pack: ai
-  link: http://scienti.colciencias.gov.co:8081/cvlac/visualizador/generarCurriculoCv.do?cod_rh=0000320056
+  link: https://scienti.minciencias.gov.co/cvlac/visualizador/generarCurriculoCv.do?cod_rh=0000320056
 - icon: researchgate
   icon_pack: ai
   link: https://www.researchgate.net/profile/Omaida_Sepulveda
