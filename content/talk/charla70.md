@@ -1,5 +1,5 @@
 +++
-date      = "2021-08-29"
+date      = "2021-08-31"
 draft     = false
 tags      = ["Nuestro Encuentro"]
 title     = "Charla 70: Algunas propiedades del conjunto de Cantor"
