@@ -1,5 +1,5 @@
 +++
-date      = "2021-08-28"
+date      = "2021-09-01"
 draft     = false
 tags      = ["Nuestro Encuentro"]
 title     = "Charla 71: Soluciones débiles para el sistema unidimensional de dinámica de gases sin presión con amortiguación lineal"
