@@ -7,7 +7,7 @@ publication = "Editorial UPTC. ISBN: 978-958-660-299-0"
 abstract = "La investigación involucra componentes de carácter cualitativo y cuantitativo, enfocados en la interpretación de documentos, que permiten generar una trazabilidad en los periodos socio históricos abordados; así como en el análisis de indicadores bibliométricos y uso de técnicas estadísticas que brinda una mirada complementaria al objeto de estudio.  La investigación genera aportes en el enfoque metodológico utilizado, el marco historiográfico asociad a Ciencia y Tecnología y los resultados que podrán servir de referencia a otras investigaciones."
 selected = false
 projects = ["gamma"]
-tags = ["GAMMA", "Bibliometry"]
+tags = ["GAMMA", "Bibliometry","Books"]
 math = true
 highlight = true
 [header]
