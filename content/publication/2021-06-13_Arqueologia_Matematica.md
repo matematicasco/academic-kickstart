@@ -10,7 +10,7 @@ abstract_short = ""
 image_preview = ""
 selected = false
 projects = ["giaa"]
-tags = ["GIAA", "History"]
+tags = ["GIAA", "History","Books"]
 math = true
 highlight = true
 [header]
