@@ -7,7 +7,7 @@ publication = "Editorial UPTC. ISBN: 978-958-660-510-6"
 publication_short = "Editorial UPTC. ISBN: 978-958-660-510-6"
 selected = false
 projects = ["giaa"]
-tags = ["Topology", "Education", "GIAA"]
+tags = ["Topology", "Education", "GIAA","Books"]
 math = true
 highlight = true
 [header]
