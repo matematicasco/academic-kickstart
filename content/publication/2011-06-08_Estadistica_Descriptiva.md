@@ -8,7 +8,7 @@ publication = "Editorial UPTC. ISBN: 978-958-660-176-4"
 abstract = ""
 selected = false
 projects = ["gici"]
-tags = ["Statistics", "Education", "GICI"]
+tags = ["Statistics", "Education", "GICI","Books"]
 math = true
 highlight = true
 [header]
