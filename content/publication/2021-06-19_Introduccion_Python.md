@@ -17,3 +17,5 @@ abstract = "El objetivo principal de este libro es dar las herramientas de progr
 image = ""
 caption = ""
 +++
+
+Página del libro: https://alexrojas.netlify.app/publication/prog/
