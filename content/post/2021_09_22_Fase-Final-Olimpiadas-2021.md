@@ -22,7 +22,6 @@ Después de una rigurosa revisión de las pruebas de la Fase Final, el comité o
 
 | Puesto|Apellido(s)           |Nombre(s)              |Institución Educativa            |
 |-----:|:---------------------|:----------------------|:--------------------------------|
-
 |     1|Dueñas Guerrero       |Samuel Tobias          |American School Saint Frances    |
 |     2|Bohorquez Palacios    |Samuel Felipe          |Los Ángeles                      |
 |     3|Sánchez Castillo      |Sergio Manuel          |Los Ángeles                      |
