@@ -13,3 +13,7 @@ url_dataset = ""
 math = true
 highlight = true
 +++
+
+<img src="https://simehbucket.s3.amazonaws.com/images/a43a8974b98583f5163181f5fd8d9678-medium.jpg" width=200>
+
+[Más información](https://editorial.uptc.edu.co/gpd-un-acercamiento-a-la-didactica-de-la-probabilidad-desde-el-pck-9789586602488.html)
