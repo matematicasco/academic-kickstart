@@ -12,3 +12,7 @@ url_pdf = "https://uptc.metalibros.org/index.php/editorial-uptc/catalog/view/116
 math = true
 highlight = true
 +++
+
+
+<img src="https://uptc.metalibros.org/public/presses/1/submission_116_89_coverImage_es_ES_t.jpg" width=200>
+[Mayor información](https://uptc.metalibros.org/index.php/editorial-uptc/catalog/book/116)
