@@ -14,3 +14,7 @@ highlight = true
 image = ""
 caption = ""
 +++
+
+<img src="https://simehbucket.s3.amazonaws.com/images/ecbf39cc05c48884b1f7d533b17beba6-medium.jpg" width=200>
+
+[Más información](https://editorial.uptc.edu.co/gpd-confiabilidad-9789586603683.html)
