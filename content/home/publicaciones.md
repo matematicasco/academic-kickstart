@@ -66,7 +66,7 @@ subtitle = ""
  css_class = ""
 +++
 
-### Número de artículos de la escuela por año.
+### Número de artículos por profesores de la escuela por año.
 
 <center>
 <img alt="Número de artículos de la escuela por año" src="https://matematicas.netlify.app/img/BarPlotPapers.png" width="500">
