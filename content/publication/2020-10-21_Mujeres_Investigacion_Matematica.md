@@ -17,3 +17,7 @@ highlight = true
 image = ""
 caption = ""
 +++
+
+<img src="https://simehbucket.s3.amazonaws.com/images/ecbf39cc05c48884b1f7d533b116b9dc-medium.jpg" width=200>
+
+[Más información](https://editorial.uptc.edu.co/gpd-mujeres-en-la-investigacion-matematica-escenarios-de-visibilizacion-9789586603850.html)
