@@ -14,3 +14,7 @@ highlight = true
 image = ""
 caption = ""
 +++
+
+<img src="https://simehbucket.s3.amazonaws.com/images/a43a8974b98583f5163181f5fd64e0c3-medium.jpg" width=200>
+
+[Más información](https://editorial.uptc.edu.co/gpd-aplicaciones-de-la-teoria-de-colas-y-linea-de-espera-en-contextos-especificos-de-investigacion-9789586602969.html)
