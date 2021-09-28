@@ -14,3 +14,8 @@ highlight = true
 image = ""
 caption = ""
 +++
+
+<img src="https://simehbucket.s3.amazonaws.com/images/98b57847595e03aa1146031f8e175771-medium.jpg" width=200>
+<center>
+https://editorial.uptc.edu.co/gpd-topologia-un-curso-introductorio-9789586604710.html
+</center>
