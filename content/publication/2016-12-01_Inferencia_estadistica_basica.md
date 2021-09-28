@@ -16,3 +16,7 @@ highlight = true
 image = ""
 caption = ""
 +++
+
+<img src="https://simehbucket.s3.amazonaws.com/images/a43a8974b98583f5163181f5fd22179a-medium.jpg" width=200>
+
+[Más información](https://editorial.uptc.edu.co/gpd-inferencia-estadistica-basica-9789586602042.html)
