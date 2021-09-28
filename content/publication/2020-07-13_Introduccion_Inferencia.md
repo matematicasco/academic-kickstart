@@ -18,4 +18,8 @@ image = ""
 caption = ""
 +++
 
+<img src="https://simehbucket.s3.amazonaws.com/images/ecbf39cc05c48884b1f7d533b115ef50-medium.jpg" width = 200>
+
 Página del libro: https://alexrojas.netlify.app/publication/ie/
+
+[Más información](https://editorial.uptc.edu.co/gpd-una-introduccion-concisa-a-la-inferencia-estadistica-9789586604147.html)
