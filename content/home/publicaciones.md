@@ -66,5 +66,7 @@ subtitle = ""
  css_class = ""
 +++
 
-CHECK
+### Número de artículos de la escuela por año.
+
+<img alt="Resultados fase clasificatoria" src="https://matematicas.netlify.app/img/BarPlotPapers.png" width="400">
 
