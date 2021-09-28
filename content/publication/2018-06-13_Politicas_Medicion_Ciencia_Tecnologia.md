@@ -14,3 +14,7 @@ highlight = true
 image = ""
 caption = ""
 +++
+
+<img src="https://simehbucket.s3.amazonaws.com/images/ecbf39cc05c48884b1f7d533b11185f8-medium.jpg" width = 200>
+
+[Más información](https://editorial.uptc.edu.co/gpd-politicas-y-medicion-en-ciencia-y-tecnologia-en-la-universidad-colombiana-1992-2014-9789586602990.html)
