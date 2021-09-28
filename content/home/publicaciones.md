@@ -71,5 +71,5 @@ subtitle = ""
 <center>
 <img alt="Número de artículos de la escuela por año" src="https://matematicas.netlify.app/img/BarPlotPapers.png" width="500">
 </center>
-<p> </p>
+
 
