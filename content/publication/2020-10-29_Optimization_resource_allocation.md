@@ -9,6 +9,7 @@ selected = false
 projects = ["gamma"]
 tags = ["GAMMA","Cat. B"]
 url_pdf = "https://es.revistaespacios.com/a20v41n41/a20v41n41p19.pdf"
+doi = "10.48082/espacios-a20v41n41p19"
 math = false
 highlight = true
 [header]
