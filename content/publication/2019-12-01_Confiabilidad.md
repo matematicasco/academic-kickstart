@@ -1,7 +1,7 @@
 +++
 title = "Confiabilidad: un enfoque paramétrico en la práctica investigativa"
 date = "2019-12-01"
-authors = ["burbano-v","valdivieso-m","Angela S. Burbano Valdivieso"]
+authors = ["burbano-v","valdivieso-m","Burbano-Valdivieso, A.S."]
 publication_types = ["5"]
 publication = "Editorial UPTC. ISBN: 978-958-660-368-3"
 selected = false
