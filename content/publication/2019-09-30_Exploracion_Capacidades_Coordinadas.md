@@ -9,6 +9,7 @@ selected = false
 projects = ["gici"]
 tags = ["GICI", "Education","Cat. B"]
 url_pdf = "http://revistaespacios.com/a19v40n33/a19v40n33p05.pdf"
+doi = "10.48082/espacios-a19v40n33p05"
 math = false
 highlight = true
 [header]
