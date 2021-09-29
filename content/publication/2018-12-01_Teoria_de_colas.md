@@ -1,7 +1,7 @@
 +++
 title = "Aplicaciones de la Teoría de Colas y Líneas de Espera en Contextos Específicos de Investigación"
 date = "2018-12-01"
-authors = ["burbano-v","valdivieso-m","Angela S. Burbano Valdivieso"]
+authors = ["burbano-v","valdivieso-m","Burbano-Valdivieso, A.S."]
 publication_types = ["5"]
 publication = "Editorial UPTC. ISBN: 978-958-660-296-9"
 selected = false
