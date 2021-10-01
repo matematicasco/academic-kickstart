@@ -5,7 +5,6 @@ draft     = false
 tags      = ["Círculos"]
 title     = "Visualizando Sumas"
 math      = true
-authors   = ["lopez-a"]
 +++
 
 Las [diapositivas](https://matematicas.netlify.app/files/VisualizandoSumas.pdf) de la presentación están disponibles en el siguiente enlace: https://matematicas.netlify.app/files/VisualizandoSumas.pdf . 
