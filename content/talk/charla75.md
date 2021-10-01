@@ -8,7 +8,7 @@ math      = true
 
 **Conferencista:**  Walter Castañeda. Estudiante de matemáticas, Universidad Pedagógica y Tecnológica de Colombia
 
-**Fecha:** Martes 5 de octubre de 2021, 5:00 p.m.
+**Fecha:** Martes 12 de octubre de 2021, 4:00 p.m.
 
 **Lugar:** [Videollamada](https://meet.google.com/izy-pzig-pbf)  ([Presione el enlace para ingresar](https://meet.google.com/izy-pzig-pbf))
 
