@@ -8,7 +8,8 @@ abstract = "Proper health management is essential for productivity in duck farmi
 selected = false
 projects = ["tenga"]
 tags = ["Poultry","GTNyGA","Cat. A2"]
-doi = ""
+url_pdf= "https://link.springer.com/content/pdf/10.1007/s11250-021-02944-4.pdf"
+doi = "10.1007/s11250-021-02944-4"
 math = false
 highlight = true
 [header]
