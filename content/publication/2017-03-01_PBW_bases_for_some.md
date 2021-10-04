@@ -8,7 +8,7 @@ abstract = "The aim of this paper is to establish necessary and sufficient algor
 doi = "10.17654/MS101061207"
 selected = false
 projects = ["giaa"]
-tags = ["GIAA","PBW Extensions","Algebra", "Cat. B"]
+tags = ["GIAA","PBW Extensions","Noncommutative Algebra", "Cat. B"]
 math = true
 highlight = true
 [header]
