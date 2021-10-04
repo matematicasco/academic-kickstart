@@ -8,7 +8,7 @@ abstract = "Koszul and homogeneous Koszul algebras were defined by Priddy in [18
 doi = "10.17654/NT039020181"
 selected = false
 projects = ["giaa"]
-tags = ["GIAA","PBW Extensions","Algebra","Cat. C"]
+tags = ["GIAA","Noncommutative Algebra","Cat. C"]
 math = true
 highlight = true
 [header]
