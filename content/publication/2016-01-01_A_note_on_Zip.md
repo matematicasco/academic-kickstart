@@ -8,7 +8,7 @@ abstract = "In this note we establish necessary and sufficient conditions to gua
 selected = false
 projects = ["giaa"]
 url_pdf = "https://revistas.unal.edu.co/index.php/bolma/article/view/60051"
-tags = ["GIAA","PBW Extensions","Algebra","Cat. B"]
+tags = ["GIAA","Noncommutative Algebra","Cat. B"]
 math = true
 highlight = true
 [header]
