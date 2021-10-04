@@ -9,7 +9,7 @@ selected = false
 projects = ["giaa"]
 doi = "10.18273/revint.v39n1-2021007"
 url_pdf = "https://revistas.uis.edu.co/index.php/revistaintegracion/article/view/12179/11353"
-tags = ["GIAA","Algebra","PBW Extensions","Cat. C"]
+tags = ["GIAA","Noncommutative Algebra","Cat. C"]
 math = true
 highlight = true
 [header]
