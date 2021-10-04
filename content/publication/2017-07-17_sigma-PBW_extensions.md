@@ -8,7 +8,7 @@ abstract = "The aim of this paper is to investigate a general notion of 𝜎-PBW
 doi = "10.1007/s00006-017-0800-4"
 selected = false
 projects = ["giaa"]
-tags = ["GIAA","PBW Extensions","Cat. B"]
+tags = ["GIAA","Noncommutative Algebra","Cat. B"]
 math = true
 highlight = true
 [header]
