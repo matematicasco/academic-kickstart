@@ -9,7 +9,7 @@ doi = "10.15446/recolma.v51n2.70902"
 url_pdf = "http://scm.org.co/archivos/revista/Articulos/1231.pdf"
 selected = false
 projects = ["giaa"]
-tags = ["GIAA","Algebra","PBW Extensions", "Cat. C"]
+tags = ["GIAA", "Noncommutative Algebra", "Cat. C"]
 math = true
 highlight = true
 [header]
