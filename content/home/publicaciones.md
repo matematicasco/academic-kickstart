@@ -66,10 +66,4 @@ subtitle = ""
  css_class = ""
 +++
 
-### Number of papers written by the School's Faculty per year:
-
-<center>
-<img alt="Número de artículos de la escuela por año" src="https://matematicas.netlify.app/img/BarPlotPapers.png" width="500">
-</center>
-
 
