@@ -34,6 +34,10 @@ social:
 - icon: researchgate
   icon_pack: ai
   link: https://www.researchgate.net/profile/Zagalo_Enrique_Aguilar
+- icon: google-scholar
+  icon_pack: ai
+  link: https://scholar.google.com/citations?user=YqHe8RMAAAAJ&hl=es&oi=sra
+
 
 user_groups:
 - "Escuela"
