@@ -7,7 +7,9 @@ role: Professor
 organizations:
 - name: Universidad Pedagógica y Tecnológica de Colombia
   url: "http://www.uptc.edu.co"
-bio: 
+bio:
+interests:
+- Mathematical Education
 education:
   courses:
   - course: PhD in Educational Sciences
