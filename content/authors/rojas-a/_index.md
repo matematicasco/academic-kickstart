@@ -44,7 +44,7 @@ social:
  - icon: cv
    icon_pack: ai
    link: https://scienti.minciencias.gov.co/cvlac/visualizador/generarCurriculoCv.do?cod_rh=0000100943
- - icon: research-gate
+ - icon: researchgate
    icon_pack: ai
    link: https://www.researchgate.net/profile/Alex-Rojas-7
 
