@@ -8,7 +8,7 @@ abstract = "Reviewing some classical results on the algebraic dependence of comm
 doi = "10.17654/MS106010237"
 selected = false
 projects = ["giaa"]
-tags = ["GIAA","Noncummutative Algebra","Cat. B"]
+tags = ["GIAA","Noncommutative Algebra","Cat. B"]
 math = true
 highlight = true
 [header]
