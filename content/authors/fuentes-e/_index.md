@@ -7,6 +7,9 @@ role: Instructor
 organizations:
 - name: Universidad Pedagógica y Tecnológica de Colombia
   url: "http://www.uptc.edu.co"
+- name: Personal website
+  url: "https://sites.google.com/site/edinsonfuentesu"
+
 
 # Short bio (displayed in user profile at end of posts)
 bio: 
@@ -23,7 +26,7 @@ education:
     year: 2019
   - course: MSc in Mathematical Sciences
     institution: Universidad Nacional de Colombia
-    year: 2014
+    year: 2015
   - course: Licenciatura en Matemáticas
     institution: Universidad Pedagógica y Tecnológica de Colombia
     year: 2009
