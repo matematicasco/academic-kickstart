@@ -1,6 +1,6 @@
 +++
 title = "Herramientas para el análisis estadístico de datos biológicos en `R`"
-date = "2021-11-30"
+date = "2021-12-30"
 authors = ["lopez-a","Rojas Peña, M. L.","rojas-a"]
 publication_types = ["5"]
 publication = "Editorial UPTC. ISBN: 978-958-660-XXX-X"
