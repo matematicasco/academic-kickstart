@@ -1,5 +1,5 @@
 +++
-date      = "2021-11-10"
+date      = "2021-11-12"
 draft     = false
 tags      = ["Nuestro Encuentro"]
 title     = "Charla 76:  Principios de reflexión y cardinales compactos"
