@@ -1,5 +1,5 @@
 +++
-date      = "2021-11-17"
+date      = "2021-11-22"
 draft     = false
 tags      = ["Nuestro Encuentro"]
 title     = "Charla 77: Lenguaje y medición: Estructuras algebraicas homomórficas y teoría representacional de la medición"
