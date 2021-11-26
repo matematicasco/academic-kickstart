@@ -3,7 +3,7 @@ name: Aida N. Pacheco
 authors:
 - pacheco-a
 superuser: false
-role: Adjunct Professor
+role: Instructor
 
 organizations:
 - name: Universidad Pedagógica y Tecnológica de Colombia
@@ -35,6 +35,6 @@ email: ""
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- "Adjunct Professors"
+- "Escuela"
 ---
 
