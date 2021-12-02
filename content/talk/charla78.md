@@ -1,5 +1,5 @@
 +++
-date      = "2021-11-26"
+date      = "2021-12-02"
 draft     = false
 tags      = ["Nuestro Encuentro"]
 title     = "Charla 78: Using Deep Learning for Image-Based Plant Disease Detection"
