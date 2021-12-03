@@ -1,4 +1,5 @@
 +++
+math = true
 title = "Copies of $c_0(\Gamma)$ in the space of bounded linear operators"
 date = "2019-03-04"
 authors = ["perez-s", "Rincón-Villamizar, M. A."]
@@ -10,7 +11,6 @@ projects = ["gedmys"]
 tags = ["GEDMyS","Cat. A2"]
 url_pdf = "https://link.springer.com/article/10.1007/s00013-018-01296-0"
 doi = "10.1007/s00013-018-01296-0"
-math = true
 highlight = true
 [header]
 image = ""
