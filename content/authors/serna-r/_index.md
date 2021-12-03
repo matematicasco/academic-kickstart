@@ -30,15 +30,18 @@ education:
 
 # Social/Academic Networking
 social:
- - icon: researchgate
-   icon_pack: ai
-   link: https://www.researchgate.net/profile/Robinson_Julian_Serna 
- - icon: google-scholar
-   icon_pack: ai
-   link: https://scholar.google.com/citations?user=82OUyC8AAAAJ&hl=es
  - icon: cv
    icon_pack: ai
    link: https://scienti.minciencias.gov.co/cvlac/visualizador/generarCurriculoCv.do?cod_rh=0000859702
+ - icon: google-scholar
+   icon_pack: ai
+   link: https://scholar.google.com/citations?user=82OUyC8AAAAJ&hl=es
+ - icon: orcid
+   icon_pack: ai
+   link: https://orcid.org/0000-0001-5858-5011
+ - icon: researchgate
+   icon_pack: ai
+   link: https://www.researchgate.net/profile/Robinson_Julian_Serna 
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: ""
