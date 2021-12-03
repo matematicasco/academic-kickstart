@@ -28,15 +28,19 @@ education:
 
 # Social/Academic Networking
 social:
-- icon: orcid
-  icon_pack: ai
-  link: https://orcid.org/0000-0002-5710-6063
-- icon: google-scholar
-  icon_pack: ai
-  link: https://scholar.google.com/citations?user=-o286msAAAAJ&hl=es
 - icon: cv
   icon_pack: ai
   link: https://scienti.minciencias.gov.co/cvlac/visualizador/generarCurriculoCv.do?cod_rh=0000394556
+- icon: google-scholar
+  icon_pack: ai
+  link: https://scholar.google.com/citations?user=-o286msAAAAJ&hl=es
+- icon: orcid
+  icon_pack: ai
+  link: https://orcid.org/0000-0002-5710-6063
+- icon: research-gate
+  icon_pack: ai
+  link: https://www.researchgate.net/profile/Nelsy-Gonzalez
+
 
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
