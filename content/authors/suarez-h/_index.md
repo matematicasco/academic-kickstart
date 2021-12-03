@@ -29,18 +29,19 @@ education:
     year: 1998
 
 social:
- - icon: researchgate
-   icon_pack: ai
-   link: https://www.researchgate.net/profile/Hector_Suarez9
- - icon: orcid
-   icon_pack: ai
-   link: https://orcid.org/0000-0003-4618-0599
- - icon: google-scholar
-   icon_pack: ai
-   link: https://scholar.google.com/citations?user=gal35dAAAAAJ&hl=en
  - icon: cv
    icon_pack: ai
    link: https://scienti.minciencias.gov.co/cvlac/visualizador/generarCurriculoCv.do?cod_rh=0000749737
+ - icon: google-scholar
+   icon_pack: ai
+   link: https://scholar.google.com/citations?user=gal35dAAAAAJ&hl=en
+ - icon: orcid
+   icon_pack: ai
+   link: https://orcid.org/0000-0003-4618-0599   
+ - icon: researchgate
+   icon_pack: ai
+   link: https://www.researchgate.net/profile/Hector_Suarez9
+
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: ""
