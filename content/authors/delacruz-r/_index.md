@@ -25,15 +25,15 @@ education:
     year: 2004
 
 social:
- - icon: orcid
-   icon_pack: ai
-   link: https://orcid.org/0000-0003-1342-7946
- - icon: google-scholar
-   icon_pack: ai
-   link: https://scholar.google.com/citations?user=xazwGWgAAAAJ&hl=en
  - icon: cv
    icon_pack: ai
    link: https://scienti.minciencias.gov.co/cvlac/visualizador/generarCurriculoCv.do?cod_rh=0000506486
+ - icon: google-scholar
+   icon_pack: ai
+   link: https://scholar.google.com/citations?user=xazwGWgAAAAJ&hl=en   
+ - icon: orcid
+   icon_pack: ai
+   link: https://orcid.org/0000-0003-1342-7946
  - icon: researchgate
    icon_pack: ai
    link: https://www.researchgate.net/profile/Richard_De_la_cruz_Guerrero
