@@ -34,12 +34,15 @@ social:
 - icon: cv
   icon_pack: ai
   link: https://scienti.minciencias.gov.co/cvlac/visualizador/generarCurriculoCv.do?cod_rh=0000321419
-- icon: researchgate
-  icon_pack: ai
-  link: https://www.researchgate.net/profile/Zagalo_Enrique_Aguilar
 - icon: google-scholar
   icon_pack: ai
   link: https://scholar.google.com/citations?user=YqHe8RMAAAAJ&hl=es&oi=sra
+- icon: orcid
+  icon_pack: ai
+  link: https://orcid.org/0000-0002-1692-2240
+- icon: researchgate
+  icon_pack: ai
+  link: https://www.researchgate.net/profile/Zagalo_Enrique_Aguilar
 
 
 user_groups:
