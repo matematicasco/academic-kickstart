@@ -1,4 +1,5 @@
 +++
+math = true
 title = "$p$-adic Markov process and the problem of the first return over balls"
 date = "2021-07-20"
 authors = ["casas-o","Galeano-Peñaloza, J.","Rodríguez-Vega, J. J."]
@@ -9,7 +10,6 @@ selected = false
 projects = ["tenga"]
 tags = ["GTNyGA","p-adics","Cat. A2"]
 doi = "10.37863/umzh.v73i7.464"
-math = true
 highlight = true
 [header]
 image = ""
