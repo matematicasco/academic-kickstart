@@ -1,7 +1,7 @@
 +++
 title = "Operadores no locales sobre los números p-ádicos"
 date = "2021-12-30"
-authors = ["casas-o","Galeano","L."]
+authors = ["casas-o","Galeano, L."]
 publication_types = ["5"]
 publication = "Editorial UPTC. ISBN: 978-958-660-XXX-X"
 publication_short = ""
