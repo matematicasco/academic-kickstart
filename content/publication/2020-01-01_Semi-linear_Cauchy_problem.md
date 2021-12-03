@@ -9,7 +9,7 @@ selected = false
 projects = ["tenga"]
 tags = ["GTNyGA","p-adics","Cat. A2"]
 doi = "10.1007/s11868-020-00334-2"
-math = false
+math = true
 highlight = true
 [header]
 image = ""
