@@ -1,5 +1,5 @@
 +++
-date      = "2021-12-03"
+date      = "2021-12-04"
 draft     = false
 tags      = ["Nuestro Encuentro"]
 title     = "Charla 79: Una introducción a las extensiones PBW torcidas y su clasificación"
