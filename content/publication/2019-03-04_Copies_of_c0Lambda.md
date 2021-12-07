@@ -1,6 +1,6 @@
 +++
 math = true
-title = "Copies of c_0(\Gamma) in the space of bounded linear operators"
+title = "Copies of c_0(Γ) in the space of bounded linear operators"
 date = "2019-03-04"
 authors = ["perez-s", "Rincón-Villamizar, M. A."]
 publication_types = ["2"]
