@@ -33,6 +33,9 @@ social:
  - icon: cv
    icon_pack: ai
    link: https://scienti.minciencias.gov.co/cvlac/visualizador/generarCurriculoCv.do?cod_rh=0001352252
+ - icon: researchgate
+   icon_pack: ai
+   link: https://www.researchgate.net/profile/Juan-Juajibioy
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: ""
