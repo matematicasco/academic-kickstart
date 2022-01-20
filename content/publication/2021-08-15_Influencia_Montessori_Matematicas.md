@@ -1,6 +1,6 @@
 +++
 title = "Influencia del método Montessori en el aprendizaje de la matemática escolar"
-date = "2017-02-15"
+date = "2021-08-15"
 authors = ["burbano-v","Munévar-Sáenz, A.","valdivieso-m"]
 publication_types = ["2"]
 publication = "*Revista De Investigación, Desarrollo E Innovación*, **11**(3), 555–568. doi:10.19053/20278306.v11.n3.2021.13354"
