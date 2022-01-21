@@ -32,6 +32,9 @@ education:
   - course: Licenciatura en matemáticas y Física
     institution: Universidad del Atlántico
     year: 2007
+h:
+- 5
+
 
 social:
 # - icon: orcid
