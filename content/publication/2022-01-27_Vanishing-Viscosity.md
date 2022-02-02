@@ -1,9 +1,9 @@
 +++
 title = "Vanishing viscosity limit for Riemann solutions to a 2×2 hyperbolic system with linear damping"
-date = "2021-03-22"
+date = "2022-01-27"
 authors = ["delacruz-r","juajibioy-j"]
 publication_types = ["2"]
-publication = "*Asymptotic Analysis*, **125**(1), 1-22. doi:10.3233/ASY-211690"
+publication = "*Asymptotic Analysis*, **127**(3), 275-296. doi:10.3233/ASY-211690"
 abstract = "In this paper, we propose a time-dependent viscous system and by using the vanishing viscosity method we show the existence of solutions for the Riemann problem to a particular 2x2 system of conservation laws with linear damping."
 selected = false
 projects = ["gedmys"]
