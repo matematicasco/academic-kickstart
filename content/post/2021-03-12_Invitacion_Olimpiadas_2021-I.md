@@ -17,7 +17,7 @@ participar de este proyecto académico
 
 Mayores informes:
 
-Página web: https://matematicas.netlify.app/#olimpiadas
+Página web: https://matematicas.netlify.app/post/2021-olimpiadas/
 
 Correo electrócnico: [olimpiadas.matematicas@gmail.com](mailto:olimpiadas.matematicas@gmail.com)
 
