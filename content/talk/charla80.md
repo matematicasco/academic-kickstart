@@ -1,8 +1,8 @@
 +++
-date      = "2022-02-16"
+date      = "2022-02-18"
 draft     = false
 tags      = ["Nuestro Encuentro"]
-title     = "Charla 80: TBA"
+title     = "Charla 80: Condiciones topológicas sobre extensiones algebráicas no conmutativas de tipo polinomial"
 math      = true
 +++
 
