@@ -9,8 +9,8 @@ abstract = ""
 abstract_short = ""
 image_preview = ""
 selected = false
-projects = [""]
-tags = ["GIAA", "p-adics","Books"]
+projects = ["GTNyGA"]
+tags = ["GTNyGA", "p-adics","Books"]
 math = true
 highlight = true
 [header]
