@@ -31,7 +31,7 @@ http://www.uptc.edu.co/facultades/f_ciencias/pregrado/matematicas/inf_general/
 
 #### Director Escuela:
 
-[Vacante](https://matematicas.netlify.app/)
+[Omaida Sepúlveda](https://matematicas.netlify.app/authors/sepulveda-o/)
 
 #### Representantes Profesorales
 
