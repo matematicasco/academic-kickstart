@@ -29,7 +29,7 @@ http://www.uptc.edu.co/facultades/f_ciencias/pregrado/matematicas/inf_general/
 
 ### COMITÉ CURRICULAR:  
 
-#### Director Escuela:
+#### Directora de Escuela:
 
 [Omaida Sepúlveda](https://matematicas.netlify.app/authors/sepulveda-o/)
 
