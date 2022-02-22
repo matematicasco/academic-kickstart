@@ -2,7 +2,7 @@
 date      = "2022-02-21"
 draft     = false
 tags      = ["Nuestro Encuentro"]
-title     = "Charla 81: TBA"
+title     = "Charla 81:"
 math      = true
 +++
 
