@@ -1,6 +1,6 @@
 +++
 date      = "2022-02-21"
-draft     = true
+draft     = false
 tags      = ["Nuestro Encuentro"]
 title     = "Charla 81: Polinomios no-negativos"
 math      = true
