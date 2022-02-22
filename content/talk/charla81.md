@@ -1,15 +1,15 @@
 +++
-date      = "2022-03-04"
-draft     = true
+date      = "2022-02-21"
+draft     = false
 tags      = ["Nuestro Encuentro"]
 title     = "Charla 81: TBA"
 math      = true
 +++
 
-**Conferencista:** TBA
+**Conferencista:** [Arturo Sanjuán](https://comunidad.udistrital.edu.co/arturosanjuan/)
 
 **Fecha:** Viernes 04 de marzo de 2022, 3:00 p.m.
 
-**Lugar:** [Videollamada](https://meet.google.com/izy-pzig-pbf)  ([Presione el enlace para ingresar](https://meet.google.com/izy-pzig-pbf))
+**Lugar:** C 119
 
 **Resumen**: TBA             
