@@ -1,5 +1,5 @@
 +++
-date      = "2022-02-21"
+date      = "2022-02-27"
 draft     = false
 tags      = ["Nuestro Encuentro"]
 title     = "Charla 82: Polinomios no-negativos"
