@@ -10,9 +10,9 @@ authors = ["admin"]
 
 Estudiante | Título | Director 
 :----------| :---------- | :----------
-SARA VERÓNICA PÁEZ CASTELLANOS| INTRODUCCIÓN A LAS TRASFORMACIÓNES DE MÖBIUS | Alvaro Calvache
-LILIAN PAOLA ROMERO |SEMIGRUPOS DE OPERADORES LINEALES Y APLICACIONES | [Juan Carlos Juajibioy](https://matematicas.netlify.app/authors/juajibioy-j/)
-MANUEL FERNANDO REYES PALMA | SOBRE EL TEOREMA ERGÓDICO DE BIRKHOFF Y APLIACIONES | [Rafael Álvarez](https://matematicas.netlify.app/authors/alvarez-r/)
-LUIS ALEJANDRO CIFUENTES ESPITIA|UNA INTRODUCCION A LA FUNCIÓN ζ DE REIMAN| [Juan Carlos Juajibioy](https://matematicas.netlify.app/authors/juajibioy-j/)
-RICHARD EDUARDO SÁNCHEZ MÉNDEZ|ALGUNAS CARACTERIZACIONES DE ESPACIOS DE BANACH DE SCHAUDER REFLEXIVOS| [Juan Carlos Juajibioy](https://matematicas.netlify.app/authors/juajibioy-j/)
-DIDIER GERARDO RISCANEVO MONGUI| UNA INTRODUCCIÓN A LA TEORÍA DE REPRESENTACIONES DE QUIVERS ACOTADOS| Verónica Cifuentes, [Omaida Sepulveda](https://matematicas.netlify.app/authors/sepulveda-o/)
+Sara Verónica Páez Castellanos | Introducción a las trasformaciónes de Möbius | Alvaro Calvache
+Lilian Paola Romero | Semigrupos de operadores lineales y aplicaciones | [Juan Carlos Juajibioy](https://matematicas.netlify.app/authors/juajibioy-j/)
+Manuel Fernando Reyes Palma | Sobre el teorema ergódico de Birkhoff y apliaciones | [Rafael Álvarez](https://matematicas.netlify.app/authors/alvarez-r/)
+luis alejandro cifuentes espitia | Una introduccion a la función ζ de reimann| [Juan Carlos Juajibioy](https://matematicas.netlify.app/authors/juajibioy-j/)
+Richard Eduardo Sánchez Méndez | Algunas caracterizaciones de espacios de Banach de Cchauder reflexivos | [Juan Carlos Juajibioy](https://matematicas.netlify.app/authors/juajibioy-j/)
+Didier Gerardo Riscanevo Mongui | Una introducción a la teoría de representaciones de *quivers* acotados | Verónica Cifuentes, [Omaida Sepulveda](https://matematicas.netlify.app/authors/sepulveda-o/)
