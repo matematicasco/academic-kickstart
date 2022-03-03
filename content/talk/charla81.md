@@ -1,12 +1,12 @@
 +++
-date      = "2022-02-28"
+date      = "2022-03-02"
 draft     = false
 tags      = ["Nuestro Encuentro"]
 title     = "Charla 81: Una aplicación del teorema del paso de montaña a un problema elíptico semilineal"
 math      = true
 +++
 
-**Conferencista:** [Arturo Sanjuán](https://comunidad.udistrital.edu.co/arturosanjuan/) Profesor Titular, Matemáticas, Universidad Distrital, Bogotá
+**Conferencista:** [Arturo Sanjuán](https://comunidad.udistrital.edu.co/arturosanjuan/) Profesor Titular, Matemáticas, Universidad Distrital Francisco José de Caldas, Bogotá
 
 **Fecha:** Viernes 04 de marzo de 2022, 3:00 p.m.
 
