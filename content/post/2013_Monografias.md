@@ -2,7 +2,7 @@
 date      = 2013-12-31
 lastmod   = 2013-12-31
 draft     = false
-tags      = ["Mono"]
+tags      = ["Monografías"]
 title     = "Monografías 2013"
 math      = true
 authors = ["admin"]
