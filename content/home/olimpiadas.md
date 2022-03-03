@@ -115,3 +115,5 @@ Correo electrónico: [olimpiadas.matematicas@uptc.edu.co](mailto:olimpiadas.mate
 **Teléfono:** (8) 7405626 Ext.: 2441 – 2442, **WhatsApp:** 3164162933 <br>
 https://matematicas.netlify.app/tags/olimpiadas/ 
 
+
+<p></p>
