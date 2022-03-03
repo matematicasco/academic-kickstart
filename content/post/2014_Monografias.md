@@ -1,3 +1,13 @@
++++
+date      = 2014-12-31
+lastmod   = 2014-12-31
+draft     = false
+tags      = ["Mono"]
+title     = "Monografías 2014"
+math      = true
+authors = ["admin"]
++++
+
 
 
 Estudiante | Título | Director 
