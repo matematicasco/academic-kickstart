@@ -10,7 +10,7 @@ authors = ["admin"]
 
 Estudiante | Título | Director 
 :----------| :---------- | :----------
-JONATAN ANDRÉS GÓMEZ |PARADA EL AUTOMORFISMO DE NAKAYAMA Y ALGUNAS PROPIEDADES DEL PLANO DE JORDÁN| [Héctor J. Suárez](https://matematicas.netlify.app/authors/suarez-h/)
-DEISY MILDRET FORERO BENAVIDES |ESTUDIO INTRODUCTORIO DE SISTEMAS DINÁMICOS Y MODELOS DE APLICACIÓN| [Zagalo E. Suárez](https://matematicas.netlify.app/authors/sanchez-z/)
-FREDY ALEXIS GONZÁLEZ FONSECA |UNA INTRODUCCIÓN A LA TEORÍA ANALÍTICA DE LOS POLINOMIOS ORTOGONALES EN UNA VARIABLE REAL|[Edinson Fuentes](https://matematicas.netlify.app/authors/fuentes-e/)
-SERGIO MAURICIO VARGAS CARVAJAL| TOPOLOGÍA GENERALIZADA Y ESTRUCTURAS DÉBIL, DÉBIL GENERALIZADA Y MINIMAL| [Héctor J. Suárez](https://matematicas.netlify.app/authors/suarez-h/)
+Jonatan Andrés Gómez | Parada el automorfismo de nakayama y algunas propiedades del plano de Jordán | [Héctor J. Suárez](https://matematicas.netlify.app/authors/suarez-h/)
+Deisy Mildret Forero Benavides | Estudio introductorio de sistemas dinámicos y modelos de aplicación | [Zagalo E. Suárez](https://matematicas.netlify.app/authors/sanchez-z/)
+Fredy Alexis González Fonseca | Una introducción a la teoría analítica de los polinomios ortogonales en una variable real |[Edinson Fuentes](https://matematicas.netlify.app/authors/fuentes-e/)
+Sergio Mauricio Vargas Carvajal | Topología generalizada y estructuras débil, débil generalizada y minimal | [Héctor J. Suárez](https://matematicas.netlify.app/authors/suarez-h/)
