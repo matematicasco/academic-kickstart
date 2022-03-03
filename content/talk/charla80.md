@@ -17,3 +17,4 @@ math      = true
 + Condiciones necesarias o suficientes para garantizar que las extensiones PBW torcidas sean anillos NI o NJ.
 + Bajo ciertas condiciones de compatibilidad, se presentará la transferencia de la propiedad reflexiva nilpotente (RNP) $\Sigma$-torcida de un anillo de coeficientes $R$ a una extensión PBW torcida sobre este anillo, donde $\Sigma$ es una familia finita de endomorfismos de anillo de $R$.
 + Propiedades topológicas de la topología de Zariski del espectro primo de extensiones PBW torcidas $A$ y propiedades algebraicas de $A$ que se pueden deducir de propiedades topológicas del espectro primo de $A$.
+
