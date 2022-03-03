@@ -8,7 +8,7 @@ title = "Monografías"
 subtitle = ""
 
 [content]
-  page_type = "post"
+  page_type = "talk"
   
   # Choose how much pages you would like to display (0 = all pages)
   count = 3
