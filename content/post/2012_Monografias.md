@@ -3,11 +3,10 @@ date      = 2012-12-31
 lastmod   = 2012-12-31
 draft     = false
 tags      = ["Mono"]
-title     = "Monogragias 2012"
+title     = "Monografías 2012"
 math      = true
 authors = ["admin"]
 +++
-
 
 Estudiante | Título | Director 
 :----------| :---------- | :----------
