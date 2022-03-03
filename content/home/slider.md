@@ -32,7 +32,7 @@ height = "350px"
 
   overlay_color = ""  # An HTML color value.
   overlay_img = "headers/NuestroEncuentro.png"  # Image path relative to your `static/img/` folder.
-  overlay_filter = 0  # Darken the image. Value in range 0-1.
+  overlay_filter = 0.1  # Darken the image. Value in range 0-1.
   
   # Call to action button (optional).
   #   Activate the button by specifying a URL and button label below.
@@ -51,7 +51,7 @@ height = "350px"
   #   Deactivate an option by commenting out the line, prefixing it with `#`.
   overlay_color = ""  # An HTML color value.
   overlay_img = "headers/Olimpiadas.png"  # Image path relative to your `static/img/` folder.
-  overlay_filter = 0  # Darken the image. Value in range 0-1.
+  overlay_filter = 0.1  # Darken the image. Value in range 0-1.
 
   # Call to action button (optional).
   #   Activate the button by specifying a URL and button label below.
@@ -68,7 +68,7 @@ height = "350px"
 
   overlay_color = "#3D1911"  # An HTML color value.
   overlay_img = "headers/circulos.png"  # Image path relative to your `static/img/` folder.
-  overlay_filter = 0  # Darken the image. Value in range 0-1.
+  overlay_filter = 0.1  # Darken the image. Value in range 0-1.
 
   # Call to action button (optional).
   #   Activate the button by specifying a URL and button label below.
