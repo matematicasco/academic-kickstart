@@ -1,5 +1,5 @@
 +++
-title = "Semi-linear Cauchy problem and Markov process associated with a p-adic non-local ultradiffusion operator"
+title = "Semi-linear Cauchy problem and Markov process associated with a $p$-adic non-local ultradiffusion operator"
 date = "2020-03-11"
 authors = ["casas-o","Chacón-Cortés, L. F.","Galeano-Penaloza, J."]
 publication_types = ["2"]
