@@ -25,3 +25,4 @@ Libro dirigido a estudiantes de últimos semestres de la carrera de matemáticas
 
 [Más información](https://editorial.uptc.edu.co/gpd-la-arqueologia-matematica-9789586604956.html)
 -->
+
