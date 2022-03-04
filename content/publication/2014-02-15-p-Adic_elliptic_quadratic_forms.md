@@ -1,5 +1,5 @@
 +++
-title = "p-Adic elliptic quadratic forms, parabolic-type pseudodifferential equations with variable coefficients and Markov processes"
+title = "$p$-Adic elliptic quadratic forms, parabolic-type pseudodifferential equations with variable coefficients and Markov processes"
 date = "2014-02-15"
 authors = ["casas-o","Zuniga-Galindo, W. A."]
 publication_types = ["2"]
