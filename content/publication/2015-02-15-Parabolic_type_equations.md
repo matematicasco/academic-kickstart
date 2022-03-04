@@ -1,5 +1,5 @@
 +++
-title = "Parabolic type equations on p-adic balls"
+title = "Parabolic type equations on $p$-adic balls"
 date = "2015-02-15"
 authors = ["casas-o","Rodriguez-Vega J. J."]
 publication_types = ["2"]
