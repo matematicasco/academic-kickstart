@@ -1,5 +1,5 @@
 +++
-title = "Parabolic-type pseudodifferential equations with elliptic symbols in dimension 3 over p-adics"
+title = "Parabolic-type pseudodifferential equations with elliptic symbols in dimension 3 over $p$-adics"
 date = "2015-02-03"
 authors = ["casas-o","Galeano-Peñaloza, J.", "Rodriguez-Vega, J.J."]
 publication_types = ["2"]
