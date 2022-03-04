@@ -1,5 +1,5 @@
 +++
-title = "Riesz Kernels and Pseudodifferential Operators Attached to Quadratic Forms over p-Adic Fields"
+title = "Riesz Kernels and Pseudodifferential Operators Attached to Quadratic Forms over $p$-Adic Fields"
 date = "2013-08-08"
 authors = ["casas-o","Zuniga-Galindo, W. A."]
 publication_types = ["2"]
