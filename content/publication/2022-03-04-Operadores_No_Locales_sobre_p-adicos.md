@@ -1,5 +1,5 @@
 +++
-title = "Operadores no locales sobre los números p-ádicos"
+title = "Operadores no locales sobre los números $p$-ádicos"
 date = "2022-03-04"
 authors = ["casas-o","Chacón Cortés, L. F.","Galeano-Peñaloza , J.","Rodríguez Vega, J.J."]
 publication_types = ["5"]
