@@ -1,5 +1,5 @@
 +++
-date      = "2022-03-02"
+date      = "2022-03-04"
 draft     = false
 tags      = ["Nuestro Encuentro"]
 title     = "Charla 81: Una aplicación del teorema del paso de montaña a un problema elíptico semilineal"
