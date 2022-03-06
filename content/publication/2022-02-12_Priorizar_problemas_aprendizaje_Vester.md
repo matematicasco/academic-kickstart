@@ -1,6 +1,6 @@
 +++
 title = "Priorizar problemas en el aprendizaje de las matemáticas usando la matriz de Vester"
-date = "2022-01-12"
+date = "2022-02-12"
 authors = ["gonzalez-n","Rodríguez Pérez, Y.B."]
 publication_types = ["2"]
 publication = "*Revista Boletín Redipe*, **11**(2), 447-460. doi:10.36260/rbr.v11i2.1695"
