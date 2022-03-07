@@ -18,6 +18,8 @@ image = ""
 caption = ""
 +++
 
+<!--
 <img src="https://simehbucket.s3.amazonaws.com/images/7a665c7977e7b9df2eee119f35ce433c-medium.jpg" width= 200>
 
 [Más información](https://editorial.uptc.edu.co/gpd-la-arqueologia-matematica-9789586604956.html)
+-->
