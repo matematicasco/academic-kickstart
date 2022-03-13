@@ -18,4 +18,8 @@ image = ""
 caption = ""
 +++
 
-https://www.redbooks.com.co/wp-content/uploads/2021/05/UPTC_128.jpg
+<img src="https://www.redbooks.com.co/wp-content/uploads/2021/05/UPTC_128.jpg" width=200>
+
+[Más información](https://www.redbooks.com.co/product/una-mirada-historica-medidas-de-probabilidad-reales-desde-la-investigacion-documental/)
+
+
