@@ -1,5 +1,5 @@
 +++
-title = "Caracterización de las inteligencias múltiples de estudiantes de lógica y programación y la pertinencia de *pair programming*"
+title = "Caracterización de las inteligencias múltiples de estudiantes de lógica y programación y la pertinencia de pair programming"
 date = "2021-09-14"
 authors = ["Serna, D.", "fuentes-e","serna-r"]
 publication_types = ["2"]
