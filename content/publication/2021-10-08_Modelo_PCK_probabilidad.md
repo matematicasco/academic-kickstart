@@ -1,5 +1,5 @@
 +++
-title = "Modelo del *pedagogical content knowledge* aplicado en probabilidad para la educacion media"
+title = "Modelo del pedagogical content knowledge aplicado en probabilidad para la educacion media"
 date = "2021-10-08"
 authors = ["burbano-v","valdivieso-m"]
 publication_types = ["2"]
