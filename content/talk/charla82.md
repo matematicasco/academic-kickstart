@@ -1,5 +1,5 @@
 +++
-date  = "2022-03-14"
+date  = "2022-03-18"
 draft = false
 tags  = ["Nuestro Encuentro"]
 title = "Charla 82: Polinomios no-negativos"
@@ -11,4 +11,4 @@ math  = true
 
 **Lugar:** C-119 y [Videollamada](https://meet.google.com/izy-pzig-pbf)  ([Presione el enlace para ingresar](https://meet.google.com/izy-pzig-pbf))
 
-**Resumen**: Demostrar que un polinomio dado es no negativo es una pregunta central en matemáticas, tanto puras como aplicadas. En esta charla se hablará de la solución de este problema basada en las sumas de cuadrados de polinomios, de sus aplicaciones en optimización, y de nuevos métodos propuestos para resolverlo. 
+**Resumen**: Demostrar que un polinomio dado es no negativo es una pregunta central en matemáticas, tanto puras como aplicadas. En esta charla se hablará de la solución de este problema basada en las sumas de cuadrados de polinomios, de sus aplicaciones en optimización, y de nuevos métodos propuestos para resolverlo.
