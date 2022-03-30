@@ -1,5 +1,5 @@
 +++
-title = "El Problema de Riemann para Leyes de Conservación"
+title = "El problema de Riemann para leyes de conservación"
 date = "2022-03-30"
 authors = ["delacruz-r","juajibioy-j","Rendón, L."]
 publication_types = ["5"]
