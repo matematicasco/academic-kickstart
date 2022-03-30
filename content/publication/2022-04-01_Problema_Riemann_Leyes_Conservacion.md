@@ -1,7 +1,7 @@
 +++
 title = "El Problema de Riemann para Leyes de Conservación"
 date = "2022-04-01"
-authors = ["delacruz-r","juajibioy-j"]
+authors = ["delacruz-r","juajibioy-j","Rendón, L."]
 publication_types = ["5"]
 publication = "Editorial UPTC. ISBN: 978-958-660-XXX-X"
 publication_short = ""
@@ -17,6 +17,11 @@ highlight = true
 image = ""
 caption = ""
 +++
+
+
+<img src="https://matematicas.netlify.com/img/Riemann.png"  width="200"/>
+
+[Más información](https://editorial.uptc.edu.co/)
 
 <!--
 <img src="https://simehbucket.s3.amazonaws.com/images/7a665c7977e7b9df2eee119f35ce433c-medium.jpg" width= 200>
