@@ -1,6 +1,6 @@
 +++
 title = "Herramientas para el análisis estadístico de datos biológicos en R"
-date = "2022-04-20"
+date = "2022-03-30"
 authors = ["López A.", "Rojas-Peña, M. L.", "rojas-a"]
 publication_types = ["5"]
 publication = "Editorial UPTC. ISBN: 978-958-660-XXX-X"
@@ -18,11 +18,22 @@ image = ""
 caption = ""
 +++
 
-<img src="https://simehbucket.s3.amazonaws.com/images/7a665c7977e7b9df2eee119f35d5bef9-medium.jpg" width=200>
+
+<img src="https://matematicas.netlify.com/img/HADB.png"  width="200"/>
 
 Página del libro: https://alexrojas.netlify.app/publication/hbio/
 
 [Más información](https://editorial.uptc.edu.co/)
+
+<!--
+<img src="https://simehbucket.s3.amazonaws.com/images/7a665c7977e7b9df2eee119f35d5bef9-medium.jpg" width=200>
+
+<img src="https://simehbucket.s3.amazonaws.com/images/7a665c7977e7b9df2eee119f35ce433c-medium.jpg" width= 200>
+
+[Más información](https://editorial.uptc.edu.co/gpd-la-arqueologia-matematica-9789586604956.html)
+-->
+
+
 
 
 
