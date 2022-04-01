@@ -3,7 +3,7 @@ name: Magaly Corredor de Porras
 authors:
 - corredor-m
 superuser: false
-role: Associate Professor
+role: Professor
 
 organizations:
 - name: Universidad Pedagógica y Tecnológica de Colombia
