@@ -1,7 +1,7 @@
 ---
 name: Maria Teresa Guerrero de Morales
 authors:
-- guerrero-m
+- guerrero_m
 superuser: false
 role: Associate Professor
 
