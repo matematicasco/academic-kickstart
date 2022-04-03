@@ -1,5 +1,5 @@
 +++
-title = "Una Introducción Concisa a la Inferencia Estadística"
+title = "Una introducción concisa a la inferencia estadística"
 date = "2020-07-13"
 authors = ["lopez-a","rojas-a"]
 publication_types = ["5"]
