@@ -1,5 +1,5 @@
 +++
-title = "Introducción a Python para Estudiantes de Ciencias"
+title = "Introducción a Python para estudiantes de ciencias"
 date = "2021-07-07"
 authors = ["lopez-a","rojas-a"]
 publication_types = ["5"]
