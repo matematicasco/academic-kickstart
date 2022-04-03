@@ -37,6 +37,9 @@ social:
  - icon: cv
    icon_pack: ai
    link: https://scienti.minciencias.gov.co/cvlac/visualizador/generarCurriculoCv.do?cod_rh=0001171054
+- icon: orcid
+  icon_pack: ai
+  link: https://orcid.org/0000-0001-8223-9434
 
 
 email: ""
