@@ -15,4 +15,3 @@ Jonhatan Castillo Barajas | Una introducción a los espacios $l_p$ y $L_p([0,1])
 Martha Cecilia Barrera Buitrago | Una approximación a la visión computacional usando herramientas algebraicas | [Julio A. Montero](https://matematicas.netlify.app/authors/montero-j/)
 Lizzeth Paola Bañez Rojas | Principio local-global y teorema de Hasse-Minkowski | [Oscar F. Casas](https://matematicas.netlify.app/authors/casas-o/)
 Karol Stefany Herrera Cano | Bases de Gröbner y teoría de códigos | [Nelsy R. González](https://matematicas.netlify.app/authors/gonzalez-n/)
-
