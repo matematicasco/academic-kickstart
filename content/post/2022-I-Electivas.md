@@ -16,13 +16,14 @@ Profundización I | Teoría de ecuaciones diferenciales | Algebra Lineal <br> C�
 Profundización II | Teoría de categorías | Teoría de conjuntos <br> Teoría de Grupos <br> Topología I <br> Teoría de Anillos
 Profundización III | Ecuaciones diferenciales parciales | Cálculo en varias variables <br> Ecuaciones diferenciales ordinarias
 Profundización IV | Teoría de la medida | Análisis I <br> Análisis II
-Electiva I | Programación de computadores | Cálculo I.
+Electiva I | Programación de computadores | Cálculo I
 Electiva II | Teoría de grafos | Teoría intuitiva de conjuntos <br> Álgebra lineal
-Electiva III | Historia de las matemáticas | Haber cursado y aprobado todas las asignaturas del plan de estudios hasta el quinto semestre (Incluido)
+Electiva III | Historia de las matemáticas | Quinto semestre [^3]
 Electiva IV | Grupos topológicos | Topología General <br> Teoría de Grupos <br> Teoría de Anillos
 Electiva V | Teoría del caos | Análisis I <br> Análisis II
-Electiva VI | Análisis de datos | Estadística inferencial <br> Álgebra lineal  <br> Cálculo II
+Electiva VI | Análisis de datos |  Álgebra lineal  <br> Cálculo II <br> Estadística inferencial 
 
 
-[^1]: cálculo vectorial 
-[^2]: cálculo de ecuaciones diferenciales ordinarias)
+[^1]: Cálculo vectorial 
+[^2]: Cálculo de ecuaciones diferenciales ordinarias
+[^3]: Haber cursado y aprobado todas las asignaturas del plan de estudios hasta el quinto semestre (Incluido)
