@@ -12,7 +12,7 @@ A continuación se relacionan las electivas y profundizaciones para el primer se
 
 Curso | Nombre | Requisitos 
 :----------| :---------- | :----------
-Profundización I | Teoría de ecuaciones diferenciales | Algebra Lineal <br> Cálculo III[^1] y Cálculo IV[^2] <br> Análisis II.
+Profundización I | Teoría de ecuaciones diferenciales | Álgebra Lineal <br> Cálculo III[^1] y Cálculo IV[^2] <br> Análisis II.
 Profundización II | Teoría de categorías | Teoría de conjuntos <br> Teoría de Grupos <br> Topología I <br> Teoría de Anillos
 Profundización III | Ecuaciones diferenciales parciales | Cálculo en varias variables <br> Ecuaciones diferenciales ordinarias
 Profundización IV | Teoría de la medida | Análisis I <br> Análisis II
