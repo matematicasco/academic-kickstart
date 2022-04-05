@@ -8,6 +8,8 @@ math      = true
 authors = ["admin"]
 +++
 
+A continuación se relacionan las electivas y profundizaciones para el primer semestre de 2022 y los pre requisitos.
+
 Curso | Nombre | Requisitos 
 :----------| :---------- | :----------
 Profundización I | Teoría de ecuaciones diferenciales | Algebra Lineal <br> Cálculo III[^1] y Cálculo IV[^2] <br> Análisis II.
