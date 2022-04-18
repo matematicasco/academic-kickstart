@@ -14,10 +14,15 @@ Extendemos la invitación a participar en los Círculos Matemáticos en el semes
 
 
 El primero se titula Recortando bandas de Möbius. 
+
 *¿Cuándo?* Miércoles 20 de abril
+
 *¿A qué hora?* 5:00 p.m. - 6:00 p.m.  
+
 *¿Quién lo presenta?* [Mauricio Frieri Bustos](https://web.facebook.com/mauro.mejia.5661?_rdc=1&_rdr), Pontificia Universidad Javeriana- Cali
+
 *¿Qué debo tener listo?* Tijeras, papel y pegante
+
 *¿Dónde?* Facebook Live de la Sociedad Colombiana de Matemáticas
 
 Así que cordialmente invitad@s a conectarse este miércoles 20 de abril a las 5:00 p.m. en el canal Facebook Live de la Sociedad Colombiana de Matemáticas: https://web.facebook.com/SocColMat
