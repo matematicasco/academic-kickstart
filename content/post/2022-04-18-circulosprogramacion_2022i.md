@@ -23,6 +23,6 @@ El primero se titula Recortando bandas de Möbius.
 
 *¿Qué debo tener listo?* Tijeras, papel y pegante
 
-*¿Dónde?* Facebook Live de la Sociedad Colombiana de Matemáticas
+*¿Dónde?* [Facebook Live de la Sociedad Colombiana de Matemáticas](https://web.facebook.com/SocColMat)
 
 Así que cordialmente invitad@s a conectarse este miércoles 20 de abril a las 5:00 p.m. en el canal Facebook Live de la Sociedad Colombiana de Matemáticas: https://web.facebook.com/SocColMat
