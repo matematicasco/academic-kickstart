@@ -1,6 +1,6 @@
 +++
 title = "El problema de Riemann para leyes de conservación"
-date = "2022-04-17"
+date = "2022-04-26"
 authors = ["delacruz-r","juajibioy-j","Rendón, L."]
 publication_types = ["5"]
 publication = "Editorial UPTC. ISBN: 978-958-660-XXX-X"
