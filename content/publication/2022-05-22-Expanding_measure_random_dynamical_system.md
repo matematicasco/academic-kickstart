@@ -1,6 +1,6 @@
 +++
 title = "Expanding measure has nonuniform specification property on random dynamical system"
-date = "2022-04-18"
+date = "2022-04-27"
 authors = ["alvarez-r"]
 publication_types = ["2"]
 publication = "*Chaos, Solitons and Fractals*, **158**, Art. 112009. doi:10.1016/j.chaos.2022.112009"
