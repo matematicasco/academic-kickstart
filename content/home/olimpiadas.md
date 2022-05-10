@@ -55,13 +55,13 @@ La Escuela de Matemáticas y Estadística de la Universidad Pedagógica y Tecnol
 
 ### Fechas importantes
 
-1. Inscripción: abril 25 a mayo 14 de 2022. 
+1. **Inscripción:** abril 25 a mayo 14 de 2022. 
 2. **Fase Clasificatoria:** mayo 30 a junio 3 de 2022, por medio de la plataforma Moodle.  
 3. **Fase Selectiva:** agosto 22 al 26 de 2022, por medio de la plataforma Moodle. 
 4. **Fase Final:** octubre 3 al 7 de 2022, en las instalaciones de la UPTC. 
 
 
-Las fechas de las pruebas en las diferentes Fases puede variar. En tal sentido, se informará con  antelación algún tipo de modificación, por lo que agradecemos su comprensión y flexibilidad al  respecto. 
+Las fechas de las pruebas en las diferentes fases puede variar. En tal sentido, se informará con  antelación algún tipo de modificación, por lo que agradecemos su comprensión y flexibilidad al  respecto. 
 
 
 ### Metodología
@@ -121,16 +121,6 @@ Las instrucciones para la inscripción de los estudiantes son las siguientes:
 El periodo de inscripción inicia el 25 de abril y se cierra el 14 de mayo de 2022, después de esta  fecha límite no se harán inclusiones ni cambios en los datos de registro.  
 
 No se aceptan inscripciones individuales, el docente encargado de la institución es quien inscribe  los estudiantes y realiza el pago.
-
-
-
-La inscripción la llevará acabo cada institución educativa que desee participar llenando el formulario de inscripción que se encuentra en el siguiente enlace:
-[https://matematicas.netlify.com/files/FormatoInscripcion2021.xlsm](https://matematicas.netlify.com/files/FormatoInscripcion2021.xlsm).
-
-Los estudiantes menores de edad que quieran participar en el evento deben diligenciar autorización disponible en el siguiente enlace: [https://matematicas.netlify.com/files/AutorizacionMenores.docx](https://matematicas.netlify.com/files/AutorizacionMenores.docx)  
-
-Los documentos deben ser envíados al correo electrónico: [olimpiadas.matematicas@uptc.edu.co](mailto:olimpiadas.matematicas@uptc.edu.co)
-
 
 
 ### Información
