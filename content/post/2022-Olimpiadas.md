@@ -74,7 +74,7 @@ El valor de inscripción por estudiante es diferente según la fecha de inscripc
 Con el fin de coordinar el buen desarrollo de la participación de la Institución Educativa en las  OM22, en cada institución deberá existir un docente encargado (preferiblemente un profesor de  matemáticas, al cual se le agradece de antemano la colaboración), el cual liderará todo el proceso  de inscripción y participación de los estudiantes. 
 
 Las instrucciones para la inscripción de los estudiantes son las siguientes: 
-1. Descargar y diligenciar completamente el formulario de inscripción (ver archivo Excel adjunto).  
+1. Descargar y diligenciar completamente el formulario de inscripción en el este enlace [https://matematicas.netlify.com/files/FormatoInscripcion2022.xls](https://matematicas.netlify.com/files/FormatoInscripcion2022.xls).  
 2. Es indispensable que a cada estudiante se le registre un correo electrónico diferente. A  este correo se enviará la información correspondiente a la metodología de las pruebas,  fechas e instrucciones del certamen, por lo que es importante escribirlo correctamente. 
 3. Tenga en cuenta que el número de identidad del estudiante será el usuario y contraseña  para ingresar a la plataforma donde se realizarán las pruebas, por lo que es indispensable  escribirlo correctamente, sin puntos, ni comas, ni espacios. 
 4. Al finalizar de diligenciar el formulario de inscripción, adjúntelo en formato Excel (no  en PDF, no fotografías, u otros tipo de archivos) con todos los datos de los estudiantes  inscritos al correo [olimpiadas.matematicas@uptc.edu.co](mailto:olimpiadas.matematicas@uptc.edu.co) junto con el respectivo recibo de pago teniendo en cuenta la cantidad de estudiantes y la fecha de inscripción. 
