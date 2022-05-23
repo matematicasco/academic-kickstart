@@ -13,7 +13,7 @@ math      = true
 Las instituciones inscritas para las Olimpiadas matemáticas UPTC, 2022 son:
 
 | Institución | Número de participantes|
-|--------------|-----------|
+|--------------|-----------:|
 |American School Saint Frances	| 24 |
 |Colegio Andino	| 15|
 |Colegio Los Ángeles |	77|
