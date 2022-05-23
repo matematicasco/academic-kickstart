@@ -20,7 +20,7 @@ Las instituciones inscritas para las Olimpiadas matemáticas UPTC, 2022 son:
 |[Colegio Nuestra Señora del Rosario - Tunja](https://colrosariotunja.edu.co/Portal/)|	74|
 |[Colegio Nuestra Señora Del Rosario -Sogamoso](https://colrosario.controlacademico.com/index.php) |	39|
 |[Colegio Nueva Granada](https://colegionuevagranada.edu.co/)	| 6|
-|Colegio Sagrado Corazón de Jesús	| 63|
+|[Colegio Sagrado Corazón de Jesús](https://colsagradosamaca.edu.co/)	| 63|
 |[Country Bilingual School](https://countrybilingualschool.edu.co/)	| 48|
 |[Escuela Normal Superior Leonor Alvarez Pinzón](https://enslap.edu.co/enslapt/)| 47|
 |[Gimnasio Agustiniano de Tunja](https://gimnasioagustinianotunja.edu.co/)	| 11|
