@@ -12,33 +12,34 @@ math      = true
 
 Las instituciones inscritas para las Olimpiadas matemáticas UPTC, 2022 son:
 
-Institución | Número de participantes
-: ----------| ----------:
-American School Saint Frances	| 24 
-Andino	| 15
-Colegio Los Ángeles |	77
-Colegio Nuestra Señora del Rosario |	74
-Colegio Nuestra Señora Del Rosario |	39
-Colegio Nueva Granada	| 6
-Colegio Sagrado Corazón de Jesús	| 63
-Country Bilingual School	| 48
-ESCUELA NORMAL SUPERIOR LEONOR ALVAREZ PINZON	| 47
-Gimnasio Agustiniano de Tunja	| 11
-Gimnasio Campestre del Norte	| 65
-I. E. Ginmasio Gran Colombiano	| 6
-I. E. Tecnica Agricola de Paipa	| 23
-I. E. Técnica José Cayetano Vazquez	| 12
-I. E. Técnica José Gabriel Carvajal García	| 38
-I. E. Técnica Pijaos	| 35
-I. E. Técnico Comercial Sagrado Corazon de Jesus	|48
-INEM	| 13
-Intituto Técnico Gonzalo Suárez Rendón	|25
-Libertador Simón Bolivar |	42
-Nomal Masculina	| 30
-Oxford Bilingual School |	12
-Salesiano Maldonado	| 81
-San Viator	| 16
-Suazapawa	| 12
+Institución | Número de participantes |
+: ----------| ----------:|
+American School Saint Frances	| 24 |
+Colegio Andino	| 15|
+Colegio Los Ángeles |	77|
+Colegio Nuestra Señora del Rosario |	74|
+Colegio Nuestra Señora Del Rosario |	39|
+Colegio Nueva Granada	| 6|
+Colegio Sagrado Corazón de Jesús	| 63|
+Country Bilingual School	| 48|
+EscuelaNormal Superior Leonor Alvarez Pinzón| 47|
+Gimnasio Agustiniano de Tunja	| 11|
+Gimnasio Campestre del Norte	| 65|
+I. E. Ginmasio Gran Colombiano	| 6|
+I. E. Tecnica Agricola de Paipa	| 23|
+I. E. Técnica José Cayetano Vazquez	| 12|
+I. E. Técnica José Gabriel Carvajal García	| 38|
+I. E. Técnica Pijaos	| 35|
+I. E. Técnico Comercial Sagrado Corazon de Jesus	|48|
+INEM	| 13|
+Intituto Técnico Gonzalo Suárez Rendón	|25|
+Libertador Simón Bolivar |	42|
+Nomal Masculina	| 30|
+Oxford Bilingual School |	12|
+Salesiano Maldonado	| 81|
+San Viator	| 16|
+Suazapawa	| 12|
+
 
 
 ### Información
