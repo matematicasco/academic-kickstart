@@ -14,15 +14,15 @@ Las instituciones inscritas para las Olimpiadas matemáticas UPTC, 2022 son:
 
 | Institución | Número de participantes|
 |:--------------|-----------:|
-|American School Saint Frances	| 24 |
-|Colegio Andino	| 15|
-|Colegio Los Ángeles |	77|
-|Colegio Nuestra Señora del Rosario |	74|
-|Colegio Nuestra Señora Del Rosario |	39|
-|Colegio Nueva Granada	| 6|
+|[American School Saint Frances](http://americanschooltunja.com/)	| 24 |
+|[Colegio Andino](https://colegioandinotunja.edu.co/)	| 15|
+|[Colegio Los Ángeles](http://colegiolosangelestunja.com/) |	77|
+|[Colegio Nuestra Señora del Rosario - Tunja](https://colrosariotunja.edu.co/Portal/)|	74|
+|[Colegio Nuestra Señora Del Rosario -Sogamoso](https://colrosario.controlacademico.com/index.php) |	39|
+|[Colegio Nueva Granada](https://colegionuevagranada.edu.co/)	| 6|
 |Colegio Sagrado Corazón de Jesús	| 63|
-|Country Bilingual School	| 48|
-|EscuelaNormal Superior Leonor Alvarez Pinzón| 47|
+|[Country Bilingual School](https://countrybilingualschool.edu.co/)	| 48|
+|Escuela Normal Superior Leonor Alvarez Pinzón| 47|
 |Gimnasio Agustiniano de Tunja	| 11|
 |Gimnasio Campestre del Norte	| 65|
 |I. E. Ginmasio Gran Colombiano	| 6|
