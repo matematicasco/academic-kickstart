@@ -2,7 +2,7 @@
 title = "Hacia la transformación de la clase de matemáticas"
 subtitle = "Algunas perspectivas"
 date = "2022-05-24"
-authors = ["Jiménez Espinosa, A.", "Font Moll, V.", sanchez-z, diaz-m, "Leguizamón Romero, J.F.", "Álvarez Cipamocha, A.F.", "Calle Palomeque, E.", "Sánchez Brualla, A.","Breda, A.","Morales Maure, L."]
+authors = ["Jiménez Espinosa, A.", "Font Moll, V.", "sanchez-z", "diaz-m", "Leguizamón Romero, J.F.", "Álvarez Cipamocha, A.F.", "Calle Palomeque, E.", "Sánchez Brualla, A.","Breda, A.","Morales Maure, L."]
 publication_types = ["5"]
 publication = "Editorial UPTC. ISBN: 978-958-660-660-8"
 publication_short = "Editorial UPTC. ISBN: 978-958-660-661-5"
