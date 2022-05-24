@@ -1,7 +1,7 @@
 +++
 math = true
 title = "Entropy, Feller Processes and $p$-Adic Analogues of the Scattering Equation"
-date = "2022-05-08"
+date = "2022-05-23"
 authors = ["Galeano-Peñaloza, J.", "casas-o", "Chacón-Cortés, L. F."]
 publication_types = ["2"]
 publication = "*p-Adic Numbers, Ultrametric Analysis and Applications*, **14**(2), 103-115. doi:10.1134/s2070046622020029"
