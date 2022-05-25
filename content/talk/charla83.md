@@ -1,5 +1,5 @@
 +++
-date  = "2022-05-23"
+date  = "2022-05-24"
 draft = false
 tags  = ["Nuestro Encuentro"]
 title = "Charla 83: Tipos de elementos en extensiones de Ore sobre anillos duo derechos (σ, δ)-compatibles "
@@ -7,7 +7,7 @@ math  = true
 +++
 **Conferencista:** Juan Sebastián Sora Albornoz. Estudiante de Maestría en Matemáticas Uptc
 
-**Fecha:** Viernes 25 de mayo de 2022, 3:00 p.m.
+**Fecha:** Miércoles 25 de mayo de 2022, 3:00 p.m.
 
 **Lugar:** C-119 
 
