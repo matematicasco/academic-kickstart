@@ -28,7 +28,7 @@ education:
     institution: Carnegie Mellon University
     year: 2002
   - course: MSc in Mathematics
-    institution: University of Puerto Rico, Mayaguez Campus.
+    institution: University of Puerto Rico, Mayagüez Campus.
     year: 2001
   - course: BS in Statistics
     institution: Universidad Nacional de Colombia
