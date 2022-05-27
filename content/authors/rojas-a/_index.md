@@ -44,9 +44,15 @@ social:
  - icon: orcid
    icon_pack: ai
    link: https://orcid.org/0000-0002-9460-8695
+ - icon: publons
+   icon_pack: ai
+   link: https://publons.com/researcher/4840497/alex-rojas/publications/
  - icon: researchgate
    icon_pack: ai
    link: https://www.researchgate.net/profile/Alex-Rojas-7
+ - icon: scopus
+   icon_pack: ai
+   link: https://www.scopus.com/authid/detail.uri?authorId=56564119500
 
 email: ""
 
