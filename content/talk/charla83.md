@@ -1,5 +1,5 @@
 +++
-date  = "2022-05-24"
+date  = "2022-05-25"
 draft = false
 tags  = ["Nuestro Encuentro"]
 title = "Charla 83: Tipos de elementos en extensiones de Ore sobre anillos duo derechos (σ, δ)-compatibles "
