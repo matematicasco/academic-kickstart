@@ -5,7 +5,7 @@ tags  = ["Nuestro Encuentro"]
 title = "Charla 84: Homological Ideals as Integer Specializations of Some Brauer Configuration Algebras"
 math  = true
 +++
-**Conferencista:** Pedro Fernando Fernández Espinosa, Profesor, Ingeniería Electrónica, Uptc Sogamoso
+**Conferencista:** [Pedro Fernando Fernández Espinosa](https://www.researchgate.net/profile/Pedro-Fernandez-Espinosa), Profesor, Ingeniería Electrónica, Uptc Sogamoso
 
 **Fecha:** Viernes 24 de junio de 2022, 3:00 p.m.
 
