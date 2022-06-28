@@ -8,18 +8,15 @@ math      = true
 authors   = ["admin"]
 +++
 
-El Comité Organizador de las Olimpiadas Matemáticas UPTC 2022 agradece la participación de 791 estudiantes, sus familias, las instituciones educativas y especialmente, a los profesores de cada institución  que lideran el proceso para la participación de los estudiantes.
+El Comité Organizador de las Olimpiadas Matemáticas UPTC 2022 agradece la participación de los 862 estudiantes, sus familias, las instituciones educativas y especialmente, a los profesores de cada institución que lideran el proceso para la participación de los estudiantes.
 
 En la Fase Clasificatoria se inscribieron 862 estudiantes pertenecientes a alguna de las Instituciones Educativas o colegios listadas en la siguiente tabla:
 
-
-
-Los participantes presentaron la prueba por medio de la plataforma Moodle de la UPTC (http://moodle.uptc.edu.co/econtinuada/). La prueba constó de diez (10) situaciones problemas de selección múltiple con única respuesta. La prueba tuvo una duración de (1:30) una hora y treinta minutos. Aunque no presentaron la prueba el total de estudiantes inscritos, el porcentaje de participantes fue bastante alta (91.76%). 
-
+Los participantes presentaron la prueba por medio de la plataforma Moodle de la UPTC (http://moodle.uptc.edu.co/econtinuada/). Esta prueba constó de diez (10) situaciones problemas de selección múltiple con única respuesta y tuvo una duración de una hora y treinta minutos. Aunque no presentaron la prueba el total de estudiantes inscritos, el porcentaje de participantes fue bastante alta (91.76%).  En la siguiente figura, podemos observar la distribución de la valoración obtenida en la prueba por nivel. 
 
 <img alt="Resultados fase clasificatoria" src="https://matematicas.netlify.app/img/OlimpiadasF1Resultados2022.png" width="500">
 
-del mismo modo, se exalta a los estudiantes que continúan en el certamen, cuyos nombres se listan a continuación.
+Se exalta a los estudiantes que continúan en el certamen, cuyos nombres se listan a continuación:
 
 
 ## Nivel 1. (Estudiantes Grado 6 y 7)
@@ -431,10 +428,16 @@ del mismo modo, se exalta a los estudiantes que continúan en el certamen, cuyos
 |3     |Vitolo Sosa           |Eliana Valeria       |Los Ángeles                             |Tunja        |
 
 
-La Fase Selectiva (segunda Fase) se realizará entre del X al Xde agosto de 8:00 a.m. a 9:45 a.m, a través de la misma  plataforma (http://moodle.uptc.edu.co/econtinuada/), se invita a los estudiantes a ingresar con antelación a la plataforma y a la dirección del correo electrónico para estar al tanto de las instrucciones de la próxima prueba.
+La Fase Selectiva (segunda Fase) se realizará entre del 23 al 25 de agosto de 8:00 a.m. a 10:00 a.m por niveles así:
 
 
- 
+|Nivel | Fecha |
+|:---------|:---------|
+1 (Grado 6 y 7) | Martes 23 de agosto
+2 (Grado 8 y 9) | Miércoles 24 de agosto
+3 (Grado 10 y 11) | Jueves 25 de agosto
+
+La prueba será a través de la misma  plataforma (http://moodle.uptc.edu.co/econtinuada/). Se invita a los estudiantes a ingresar con antelación a la plataforma y a su correo electrónico para estar al tanto de las instrucciones de la próxima prueba. 
      
 Mayores informes:
 
