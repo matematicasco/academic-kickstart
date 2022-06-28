@@ -1,5 +1,5 @@
 +++
-date  = "2022-06-16"
+date  = "2022-06-24"
 draft = false
 tags  = ["Nuestro Encuentro"]
 title = "Charla 84: Homological Ideals as Integer Specializations of Some Brauer Configuration Algebras"
