@@ -466,7 +466,7 @@ La Fase Selectiva (segunda Fase) se realizará entre del 23 al 25 de agosto de 8
 2 (Grado 8 y 9) | Miércoles 24 de agosto
 3 (Grado 10 y 11) | Jueves 25 de agosto
 
-La prueba será a través de la misma  plataforma (http://moodle.uptc.edu.co/econtinuada/). Se invita a los estudiantes a ingresar con antelación a la plataforma y a su correo electrónico para estar al tanto de las instrucciones de la próxima prueba. 
+La prueba será a través de la misma  plataforma: http://moodle.uptc.edu.co/econtinuada/. Se invita a los estudiantes a ingresar con antelación a la plataforma y a su correo electrónico para estar al tanto de las instrucciones de la próxima prueba. 
      
 Mayores informes:
 
