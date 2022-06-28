@@ -12,6 +12,35 @@ El Comité Organizador de las Olimpiadas Matemáticas UPTC 2022 agradece la part
 
 En la Fase Clasificatoria se inscribieron 862 estudiantes pertenecientes a alguna de las Instituciones Educativas o colegios listadas en la siguiente tabla:
 
+| Institución | Número de participantes|
+|:--------------|-----------:|
+|[American School Saint Frances](http://americanschooltunja.com/)	| 24 |
+|[Colegio Andino](https://colegioandinotunja.edu.co/)	| 15|
+|[Colegio Los Ángeles](http://colegiolosangelestunja.com/) |	77|
+|[Colegio Nuestra Señora del Rosario - Tunja](https://colrosariotunja.edu.co/Portal/)|	74|
+|[Colegio Nuestra Señora Del Rosario - Sogamoso](https://colrosario.controlacademico.com/index.php) |	39|
+|[Colegio Nueva Granada](https://colegionuevagranada.edu.co/)	| 6|
+|[Colegio Sagrado Corazón de Jesús](https://colsagradosamaca.edu.co/)	| 63|
+|[Country Bilingual School](https://countrybilingualschool.edu.co/)	| 48|
+|[Escuela Normal Superior Leonor Álvarez Pinzón](https://enslap.edu.co/enslapt/)| 47|
+|[Gimnasio Agustiniano de Tunja](https://gimnasioagustinianotunja.edu.co/)	| 11|
+|[Gimnasio Campestre del Norte](https://gcn.edu.co/)	| 65|
+|[Ginmasio Gran Colombiano](https://www.gimnasiograncolombiano.edu.co/)	| 6|
+|I. E. Técnica Agricola de Paipa	| 23|
+|I. E. Técnica José Cayetano Vazquez	| 12|
+|I. E. Técnica José Gabriel Carvajal García	| 38|
+|I. E. Técnica Pijaos	| 35|
+|I. E. Técnico Comercial Sagrado Corazón de Jesús	|48|
+|[INEM Carlos Arturo Torres](https://www.inemtunja.edu.co/)	| 13|
+|Intituto Técnico Gonzalo Suárez Rendón	|25|
+|Libertador Simón Bolivar |	42|
+|Nomal Masculina	| 30|
+|Oxford Bilingual School |	12|
+|Salesiano Maldonado	| 81|
+|[San Viator](https://www.sanviatortunja.edu.co/)	| 16|
+|[Suazapawa](https://suazapawa.edu.co/)	| 12|
+
+
 Los participantes presentaron la prueba por medio de la plataforma Moodle de la UPTC (http://moodle.uptc.edu.co/econtinuada/). Esta prueba constó de diez (10) situaciones problemas de selección múltiple con única respuesta y tuvo una duración de una hora y treinta minutos. Aunque no presentaron la prueba el total de estudiantes inscritos, el porcentaje de participantes fue bastante alta (91.76%).  En la siguiente figura, podemos observar la distribución de la valoración obtenida en la prueba por nivel. 
 
 <img alt="Resultados fase clasificatoria" src="https://matematicas.netlify.app/img/OlimpiadasF1Resultados2022.png" width="500">
