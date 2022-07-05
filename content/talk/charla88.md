@@ -7,7 +7,7 @@ math  = true
 +++
 **Conferencista:**  Julieth Alejandra Turga Cárdenas, Estudiante de Matemáticas, Uptc
 
-**Fecha:** Miércoles 8 de julio de 2022, 3:00 p.m.
+**Fecha:** Viernes 8 de julio de 2022, 3:00 p.m.
 
 **Lugar:** C-119 
 
