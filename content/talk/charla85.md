@@ -1,5 +1,5 @@
 +++
-date  = "2022-06-28"
+date  = "2022-06-29"
 draft = false
 tags  = ["Nuestro Encuentro"]
 title = "Charla 85: Mathematics for Big Data"
