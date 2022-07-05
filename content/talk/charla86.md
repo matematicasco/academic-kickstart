@@ -1,5 +1,5 @@
 +++
-date  = "2022-06-28"
+date  = "2022-07-01"
 draft = false
 tags  = ["Nuestro Encuentro"]
 title = "Charla 86: Abstracting the Rubik’s Cube"
