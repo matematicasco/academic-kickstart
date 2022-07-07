@@ -1,5 +1,5 @@
 +++
-date  = "2022-07-05"
+date  = "2022-07-06"
 draft = false
 tags  = ["Nuestro Encuentro"]
 title = "Charla 87: Semigroup applications everywhere"
