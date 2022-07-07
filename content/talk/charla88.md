@@ -1,5 +1,5 @@
 +++
-date  = "2022-07-05"
+date  = "2022-07-07"
 draft = false
 tags  = ["Nuestro Encuentro"]
 title = "Charla 88: The On-Line Encyclopedia of Integer Sequences"
