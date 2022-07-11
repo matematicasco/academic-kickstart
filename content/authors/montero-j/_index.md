@@ -5,7 +5,7 @@ authors:
 - montero-j
 
 superuser: false
-role: Assistant Professor
+role: Associate Professor
 
 organizations:
 - name: Universidad Pedagógica y Tecnológica de Colombia
