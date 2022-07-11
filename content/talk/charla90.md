@@ -1,6 +1,6 @@
 +++
 date  = "2022-07-11"
-draft = true
+draft = false
 tags  = ["Nuestro Encuentro"]
 title = "Charla 90: The sleeping beauty controversy"
 math  = true
