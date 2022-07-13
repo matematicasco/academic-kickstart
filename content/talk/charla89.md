@@ -1,5 +1,5 @@
 +++
-date  = "2022-07-11"
+date  = "2022-07-12"
 draft = false
 tags  = ["Nuestro Encuentro"]
 title = "Charla 89: A p-Adic Model of DNA Sequence and Genetic Code"
