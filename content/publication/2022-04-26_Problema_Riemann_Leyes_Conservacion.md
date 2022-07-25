@@ -24,5 +24,5 @@ Las leyes de conservación son generalmente usadas en modelos que involucran pri
 
 <img src="https://simehbucket.s3.amazonaws.com/images/8c5810c736a643c7fff63847eb317f76-medium.jpg"  width="200">
 
-[Más información](https://editorial.uptc.edu.co/](https://editorial.uptc.edu.co/gpd-el-problema-de-riemann-para-leyes-de-conservacion-9789586606486-62cedcb829413.html)
+[Más información](https://editorial.uptc.edu.co/gpd-el-problema-de-riemann-para-leyes-de-conservacion-9789586606486-62cedcb829413.html)
 
