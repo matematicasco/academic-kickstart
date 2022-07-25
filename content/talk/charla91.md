@@ -1,5 +1,5 @@
 +++
-date  = "2022-07-19"
+date  = "2022-07-22"
 draft = false
 tags  = ["Nuestro Encuentro"]
 title = "Charla 91: The Science of Brute Force"
