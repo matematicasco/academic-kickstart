@@ -1,5 +1,5 @@
 +++
-date  = "2022-07-18"
+date  = "2022-07-25"
 draft = false
 tags  = ["Nuestro Encuentro"]
 title = "Charla 92: Mathematicians Explore Mirror Link Between Two Geometric Worlds"
