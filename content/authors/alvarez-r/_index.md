@@ -31,7 +31,7 @@ education:
     year: 2008
   - course: Licenciatura en matemáticas y Física
     institution: Universidad del Atlántico
-    year: 2007
+    year: 2004
 
 social:
  - icon: cv
