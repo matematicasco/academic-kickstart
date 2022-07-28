@@ -5,6 +5,7 @@ tags  = ["Nuestro Encuentro"]
 title = "Charla 82: Polinomios no-negativos"
 math  = true
 +++
+
 **Conferencista:** [Juan Vera Lizcano](https://www.tilburguniversity.edu/staff/j-c-veralizcano), Associate Professor, Department of Econometrics and Operations Research, Tilburg University, Netherlands
 
 **Fecha:** Viernes 18 de marzo de 2022, 3:00 p.m.
