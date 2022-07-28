@@ -9,7 +9,6 @@ selected = false
 projects = ["gedmys"]
 tags = ["GEDMyS","Dynamical systems","Cat. A1"]
 doi = "10.1016/j.chaos.2022.112009"
-url = "https://www.sciencedirect.com/science/article/pii/S0960077922002193"
 url_pdf ="https://www.sciencedirect.com/science/article/pii/S0960077922002193/pdfft?isDTMRedir=true&download=true"
 math = true
 highlight = true
