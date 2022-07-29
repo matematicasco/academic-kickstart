@@ -1,5 +1,5 @@
 +++
-date  = "2022-07-24"
+date  = "2022-07-29"
 draft = true
 tags  = ["Nuestro Encuentro"]
 title = "Charla 94: Prof. Engel’s Marvelously Improbable Machines"
