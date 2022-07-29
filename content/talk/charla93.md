@@ -1,5 +1,5 @@
 +++
-date  = "2022-07-28"
+date  = "2022-07-29"
 draft = false
 tags  = ["Nuestro Encuentro"]
 title = "Charla 93: Slicing Sandwiches, States and Solar Systems: Can mathematical tools help determine what divisions are provably fair?"
