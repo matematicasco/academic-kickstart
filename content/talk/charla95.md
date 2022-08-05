@@ -1,5 +1,5 @@
 +++
-date  = "2022-08-03"
+date  = "2022-08-05"
 draft = false
 tags  = ["Nuestro Encuentro"]
 title = "Charla 95: Introduction to random matrices and its innovative applications"
