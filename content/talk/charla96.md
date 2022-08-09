@@ -1,5 +1,5 @@
 +++
-date  = "2022-08-05"
+date  = "2022-08-09"
 draft = false
 tags  = ["Nuestro Encuentro"]
 title = "Charla 96: Topology-disturbing objects: a new class of 3D optical illusion"
