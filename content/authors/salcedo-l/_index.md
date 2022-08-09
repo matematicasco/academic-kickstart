@@ -12,7 +12,6 @@ organizations:
 bio: 
 interests:
   - Sampling
-  - 
 education:
   courses:
   - course: MSc in Mathematics
