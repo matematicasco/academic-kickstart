@@ -11,7 +11,9 @@ organizations:
 - name: Universidad Pedagógica y Tecnológica de Colombia
   url: "http://www.uptc.edu.co"
 
-bio: 
+bio:
+interests:
+- Partial Differential Equations
 education:
   courses:
   - course: PhD in Mathematics
