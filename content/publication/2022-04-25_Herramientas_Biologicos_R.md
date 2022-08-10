@@ -20,7 +20,7 @@ caption = ""
 +++
 
 
-<img src="https://matematicas.netlify.com/img/HADB.png"  width="200"/>
+<img src="https://simehbucket.s3.amazonaws.com/images/eb99f18bd6fd3173a377c82e120882d6-medium.jpg"  width="200"/>
 
 Página del libro: https://alexrojas.netlify.app/publication/hbio/
 
