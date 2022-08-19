@@ -20,8 +20,8 @@ image = ""
 caption = ""
 +++
 
-<!--
-<img src="https://simehbucket.s3.amazonaws.com/images/43150080ba262e4ec25b05d90e897853-medium.jpg" width= 200>
 
-[Más información](https://editorial.uptc.edu.co/gpd-el-pensamiento-aleatorio-y-los-sistemas-de-datos-en-los-libros-de-texto-9789586605984-624f53341379a.html)
--->
+<img src="https://simehbucket.s3.amazonaws.com/images/eb99f18bd6fd3173a377c82e1225024a-medium.jpg" width= 200>
+
+[Más información](https://editorial.uptc.edu.co/gpd-hacia-la-transformacion-de-la-clase-de-matematicas-9789586606608-62fba1b70e423.html)
+
