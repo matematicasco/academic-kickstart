@@ -9,6 +9,7 @@ doi = "10.3390/computation10070124"
 selected = false
 projects = ['giaa']
 tags = ["GIAA","Cat. A2"]
+url_pdf = "https://www.mdpi.com/2079-3197/10/7/124/pdf?version=1658304646"
 math = true
 highlight = true
 [header]
