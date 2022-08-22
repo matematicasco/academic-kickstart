@@ -9,6 +9,7 @@ doi = "10.3934/era.2022175"
 selected = false
 projects = ['giaa']
 tags = ["GIAA","Cat. A1"]
+url_pdf = "https://www.aimspress.com/data/article/preview/pdf/62d92a4eba35de346154f60c.pdf"
 math = true
 highlight = true
 [header]
