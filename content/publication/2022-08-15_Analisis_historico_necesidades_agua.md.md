@@ -1,7 +1,7 @@
 +++
 title = "Análisis histórico de las necesidades de agua del cultivo de la papa en la región central de Boyacá"
 date = "2022-08-15"
-authors = ["sanchez-z", "sepulveda-o","Patarroyo Mesa, M.","Canar´â Camargo, L.C.","gonzalez-n"]
+authors = ["sanchez-z", "sepulveda-o","Patarroyo Mesa, M.","Canaría Camargo, L.C.","gonzalez-n"]
 publication_types = ["5"]
 publication = "Editorial UPTC. ISBN: 978-958-660-666-0"
 publication_short = ""
