@@ -1,5 +1,5 @@
 +++
-date  = "2022-08-10"
+date  = "2022-08-12"
 draft = false
 tags  = ["Nuestro Encuentro"]
 title = "Charla 97: Randomly forced vibrations of a string"
