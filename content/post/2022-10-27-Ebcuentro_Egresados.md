@@ -9,4 +9,4 @@ authors = ["admin"]
 +++
 
 
-![](EncuentroEgresados2022.jpg)
+![](https://matematicas.netlify.com/img/EncuentroEgresados2022.jpg)
