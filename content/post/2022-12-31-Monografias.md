@@ -1,6 +1,6 @@
 +++
-date      = 2022-09-02
-lastmod   = 2022-09-02
+date      = 2022-08-02
+lastmod   = 2022-08-02
 draft     = false
 tags      = ["Monografías"]
 title     = "Monografías 2022"
