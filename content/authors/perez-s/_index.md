@@ -5,8 +5,8 @@ authors:
 superuser: false
 role: Instructor
 organizations:
-- name: Universidad Pedagógica y Tecnológica de Colombia
-  url: "http://www.uptc.edu.co"
+- name: Universidad Industrial de Santander
+  url: "https://uis.edu.co/"
 
 bio: 
 
