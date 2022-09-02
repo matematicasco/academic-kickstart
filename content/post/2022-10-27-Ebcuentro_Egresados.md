@@ -8,6 +8,7 @@ math      = true
 authors = ["admin"]
 +++
 
+![](https://matematicas.netlify.com/img/EncuentroEgresados2022.jpg)
 
 Estimados egresados, reciban un fraternal saludo en nombre del Programa de Matemáticas de la Universidad Pedagógica y Tecnológica de Colombia.
 
@@ -20,4 +21,4 @@ Recuerden siempre que:
 ### ¡Apreciamos a nuestros egresados, son la visibilidad y fortaleza de nuestro Programa!
 
 
-![](https://matematicas.netlify.com/img/EncuentroEgresados2022.jpg)
+
