@@ -3,7 +3,7 @@ date      = 2022-09-02
 lastmod   = 2022-09-02
 draft     = false
 tags      = ["Concurso"]
-title     = "Concurso de Integrales, Uptc"
+title     = "Concurso de Integrales Uptc, 2022"
 math      = true
 authors = ["admin"]
 +++
@@ -22,4 +22,4 @@ Se invita a todos los estudiantes de la UPTC a participar en el concuros de inte
 
 **Mayor información:** contactar al profesor Rafael Álvarez, rafael.alvarez@uptc.edu.co
 
-![](https://scm.org.co/wp-content/uploads/2022/06/concursointegrales2022.png)
+![](https://matematicas.netlify.com/img/concursointegrales2022.png)
