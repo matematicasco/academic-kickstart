@@ -10,4 +10,4 @@ authors = ["admin"]
 
 Estudiante | Título | Director 
 :--------- | :---------- | :----------
-Jerminson | | 
+ | | [Juan Carlos Juajibioy](https://matematicas.netlify.app/authors/juajibioy-j/)
