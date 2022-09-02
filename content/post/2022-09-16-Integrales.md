@@ -1,6 +1,6 @@
 +++
-date      = 2022-09-02
-lastmod   = 2022-09-02
+date      = 2022-09-01
+lastmod   = 2022-09-01
 draft     = false
 tags      = ["Concurso"]
 title     = "Concurso de Integrales Uptc, 2022"
