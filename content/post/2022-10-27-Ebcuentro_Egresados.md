@@ -14,8 +14,8 @@ Estimados egresados, reciban un fraternal saludo en nombre del Programa de Matem
 
 Queremos invitarlos al **II Encuentro de Egresados del Programa de Matemáticas**, con el fin de interactuar con ustedes, que nos cuenten sus vivencias, sus logros o dificultades en el campo laboral, académico y su accionar como profesional en las bellas áreas de la Matemática.
 
-<!--Es muy importante su presencia; por ello, les solicitamos muy amablemente confirmen su asistencia al Encuentro, por este medio o por el grupo de WhatsApp Egresados_Matemáticas_UPTC. -->
-
+Su presencia es muy importante; por ello, les solicitamos muy amablemente confirmen su asistencia al Encuentro al correo de la escuela matematicas.estadistica@uptc.edu.co o de la profesora Margoth Valdivieso margoth.valdivieso@uptc.edu.co, o por el grupo de WhatsApp Egresados_Matemáticas_UPTC.
+ 
 Recuerden siempre que:
 
 ### ¡Apreciamos a nuestros egresados, son la visibilidad y fortaleza de nuestro Programa!
