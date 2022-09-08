@@ -1,5 +1,5 @@
 +++
-date  = "2022-09-08"
+date  = "2022-09-07"
 draft = false
 tags  = ["Nuestro Encuentro"]
 title = "Charla 98: Una breve introducción a la historia de la topología"
