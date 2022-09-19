@@ -1,5 +1,5 @@
 +++
-date  = "2022-09-11"
+date  = "2022-09-19"
 draft = false
 tags  = ["Nuestro Encuentro"]
 title = "Charla 99: Una introducción a los cimientos de la matemática moderna"
