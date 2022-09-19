@@ -46,7 +46,7 @@ social:
    link: https://orcid.org/0000-0002-9460-8695
  - icon: publons
    icon_pack: ai
-   link: https://publons.com/researcher/4840497/alex-rojas/publications/
+   link: https://www.webofscience.com/wos/author/rid/ABF-5235-2021
  - icon: researchgate
    icon_pack: ai
    link: https://www.researchgate.net/profile/Alex-Rojas-7
