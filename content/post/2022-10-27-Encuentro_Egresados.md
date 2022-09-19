@@ -1,6 +1,6 @@
 +++
 date      = 2022-09-02
-lastmod   = 2022-09-02
+lastmod   = 2022-09-19
 draft     = false
 tags      = ["Alumni"]
 title     = "Segundo Encuentro de Egresados"
@@ -8,7 +8,7 @@ math      = true
 authors = ["admin"]
 +++
 
-![](https://matematicas.netlify.com/img/EncuentroEgresados2022.jpg)
+![](https://matematicas.netlify.com/img/EncuentroEgresados2022.jpeg)
 
 Estimados egresados, reciban un fraternal saludo en nombre del Programa de Matemáticas de la Universidad Pedagógica y Tecnológica de Colombia.
 
