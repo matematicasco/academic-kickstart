@@ -8,6 +8,8 @@ math      = true
 authors   = ["admin"]
 +++
 
+<img src="https://matematicas.netlify.app/img/2022-09-16-Circulos2.jpeg"  width="500"/>
+
 El pasado 16 de septiembre realizamos la primera sesión de Círculos Matemáticos - Uptc. Este semestre están participando 38 estudiantes de la ciudad de Tunja. 
 
 
@@ -15,7 +17,3 @@ En el siguiente enlace puede accesar el comunicado oficial dado por la Direcció
 
 
 <img src="https://matematicas.netlify.app/img/2022-09-16-Circulos.jpeg"  width="500"/>
-
-
-
-
