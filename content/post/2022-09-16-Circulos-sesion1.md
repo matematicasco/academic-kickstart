@@ -14,7 +14,7 @@ El pasado 16 de septiembre realizamos la primera sesión de Círculos Matemátic
 En el siguiente enlace puede accesar el comunicado oficial dado por la Dirección de Comunicaciones UPTC: [Comunicado 188](https://www.uptc.edu.co/sitio/portal/cal_not_eve/noticias/det/Escuela-de-Matematicas-y-Estadistica-de-la-UPTC-inicio-Circulos-Matematicos-del-semestre/).
 
 
-<img src=""  width="500"/>
+<img src="https://matematicas.netlify.app/img/2022-09-16-Circulos.jpeg"  width="500"/>
 
 
 
