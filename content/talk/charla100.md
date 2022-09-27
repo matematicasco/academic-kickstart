@@ -6,7 +6,8 @@ title = "Charla 100: Aristóteles, ¿matemático?"
 math  = true
 +++
 
-[#AgendaUPTC](https://twitter.com/universidaduptc/status/1574800732334825472?s=20&t=7bJAPMS7bEi3TmQaMrkOhw)
+Anuncio en [Twitter](https://twitter.com/universidaduptc/status/1574800732334825472?s=20&t=7bJAPMS7bEi3TmQaMrkOhw)
+Anuncio en [Facebook](https://www.facebook.com/universidaduptc/photos/a.1052944234722003/6233763389973369/)
 
 **Conferencista:** Álvaro Calvache, PhD. Gestor de Nuestro Encuentro.
 
