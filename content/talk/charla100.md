@@ -1,5 +1,5 @@
 +++
-date  = "2022-09-22"
+date  = "2022-09-27"
 draft = false
 tags  = ["Nuestro Encuentro"]
 title = "Charla 100: Aristóteles, ¿matemático?"
