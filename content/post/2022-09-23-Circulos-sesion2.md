@@ -1,6 +1,6 @@
 +++
 date      = 2022-09-23
-lastmod   = 2022-09-23
+lastmod   = 2022-09-27
 draft     = false
 tags      = ["Círculos"]
 title     = "Segunda sesión Círculos Matemáticos Colombia 2022 - Uptc"
