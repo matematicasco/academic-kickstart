@@ -38,13 +38,13 @@ En la Fase Selectiva o segunda fase de las OM22, permanecían 388 estudiantes. D
 
 ## Fecha y lugar de la Prueba Final
 
-La prueba correspondiente a la Fase Final, se realizará el miércoles 19 de octubre de 8:00 a 11:59 de la mañana en el Paraninfo de la UPTC sede central, con anterioridad se le enviará al correo de los profesores que lideran las OM22 en cada Institución Educativa o Colegio y al correo de los estudiantes clasificados a la Final, las instrucciones para presentar la prueba.
+La prueba correspondiente a la Fase Final, se realizará el **miércoles 19 de octubre de 8:00 a 11:59 de la mañana en el Paraninfo de la UPTC sede central**, con anterioridad se le enviará al correo de los profesores que lideran las OM22 en cada Institución Educativa o Colegio y al correo de los estudiantes clasificados a la Final, las instrucciones para presentar la prueba.
 
 La prueba debe presentarse en el lugar y fecha ya indicada de forma presencial, de lo contrario el estudiante será descalificado. No existe ninguna excepción para presentar la prueba en otro horario o lugar.
 
 ## Premiación y Clausura OM22
 
-Dentro de la programación de la semana de la investigación y XXII encuentro de la facultad de ciencias, el viernes 28 de octubre a las 4:00 de la tarde, se realizará la premiación y clausura de las OM22, esta se llevará a cabo en la UPTC sede central, salón C-119. En este espacio, se entregarán los premios a los estudiantes ganadores y se exaltará la labor de las Instituciones Educativas o Colegios ganadores.
+Dentro de la programación de la semana de la investigación y XXII encuentro de la facultad de ciencias, el **viernes 28 de octubre a las 4:00 de la tarde**, se realizará la premiación y clausura de las OM22, esta se llevará a cabo en **la UPTC sede central, salón C-119**. En este espacio, se entregarán los premios a los estudiantes ganadores y se exaltará la labor de las Instituciones Educativas o Colegios ganadores.
 
 
 Mayores informes:
