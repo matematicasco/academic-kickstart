@@ -9,7 +9,7 @@ math  = true
 
 **Conferencista:** Natalia Sánchez Sandoval Estudiante de Matemáticas, Uptc.
 
-**Fecha:** Miércoles 5 de octubre de 2022, 3:00 p.m.
+**Fecha:** Miércoles 12 de octubre de 2022, 3:00 p.m.
 
 **Lugar:** C-119
 
