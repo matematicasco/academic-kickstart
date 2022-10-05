@@ -35,17 +35,19 @@ http://www.uptc.edu.co/facultades/f_ciencias/pregrado/matematicas/inf_general/
 
 #### Representantes Profesorales
 
-* Área de Profundización: [Juan Carlos Juajibioy Otero](https://matematicas.netlify.app/authors/juajibioy-j/)
+* Área Interdisciplinar: [Julio Andrés Montero Rosero](https://matematicas.netlify.app/authors/montero-j/)
 
-* Área Disciplinar: [Julio Andrés Montero Rosero](https://matematicas.netlify.app/authors/montero-j/)
+* Área Disciplinar y Profundización: [Juan Carlos Juajibioy Otero](https://matematicas.netlify.app/authors/juajibioy-j/)
+
 
 #### Representante egresados
 
-* [David Arévalo](https://matematicas.netlify.app/authors/arevalo-d/)
+[David Arévalo](https://matematicas.netlify.app/authors/arevalo-d/)
+
 
 #### Representantes estudiantiles
 
-* Michael Esteban 
+* Michael Esteban Medina
 
 * Manuel Novoa
 
