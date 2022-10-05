@@ -39,11 +39,15 @@ http://www.uptc.edu.co/facultades/f_ciencias/pregrado/matematicas/inf_general/
 
 * Área Disciplinar: [Julio Andrés Montero Rosero](https://matematicas.netlify.app/authors/montero-j/)
 
+#### Representante egresados
+
+* [David Arévalo](https://matematicas.netlify.app/authors/arevalo-d/)
+
 #### Representantes estudiantiles
 
-* Jerminson Andrés Beltran Monroy
-
 * Michael Esteban 
+
+* Manuel Novoa
 
 #### Secretaria 
 
