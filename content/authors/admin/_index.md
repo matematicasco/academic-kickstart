@@ -53,5 +53,5 @@ http://www.uptc.edu.co/facultades/f_ciencias/pregrado/matematicas/inf_general/
 
 #### Secretaria 
 
-* Martha Isabel Medina García
+Martha Isabel Medina García
 
