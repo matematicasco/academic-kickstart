@@ -1,5 +1,5 @@
 +++
-date  = "2022-10-05"
+date  = "2022-10-12"
 draft = false
 tags  = ["Nuestro Encuentro"]
 title = "Charla 101: Más allá de Euclides, las otras geometrías"
