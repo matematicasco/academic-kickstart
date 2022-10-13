@@ -1,5 +1,5 @@
 +++
-date  = "2022-10-12"
+date  = "2022-10-13"
 draft = false
 tags  = ["Nuestro Encuentro"]
 title = "Charla 102: Historia de la formalización del cálculo"
