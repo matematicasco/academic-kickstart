@@ -9,7 +9,7 @@ authors   = ["admin"]
 +++
 
 
-<img source="https://matematicas.netlify.app/img/2022-10-19-FFOlimp22.jpeg"  width="500">
+<img scr="https://matematicas.netlify.app/img/2022-10-19-FFOlimp22.jpeg"  width="500">
 
 ![](https://matematicas.netlify.app/img/2022-10-19-FFOlimp22.jpeg)
 
