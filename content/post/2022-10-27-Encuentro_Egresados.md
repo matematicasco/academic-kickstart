@@ -1,6 +1,6 @@
 +++
 date      = 2022-09-02
-lastmod   = 2022-09-19
+lastmod   = 2022-10-19
 draft     = false
 tags      = ["Alumni"]
 title     = "Segundo Encuentro de Egresados"
