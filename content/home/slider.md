@@ -17,7 +17,7 @@ height = "350px"
 # Duplicate an `[[item]]` block to add more slides.
 
 [[item]]
-  title = "Programa de Matemáticas, Uptc"
+  title = "Matemáticas, Uptc"
   content = ""
   align = "right"
 
