@@ -24,5 +24,5 @@ El pasado 28 de octubre realizamos la sexta sesión de Círculos Matemáticos - 
   </tr>
 </table>
 
-<img src="https://matematicas.netlify.app/img/2022-10-28-Circulos5.jpeg"  width="300">
+<center><img src="https://matematicas.netlify.app/img/2022-10-28-Circulos5.jpeg"  width="300"></center>
 
