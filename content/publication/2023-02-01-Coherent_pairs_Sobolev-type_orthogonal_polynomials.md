@@ -4,7 +4,7 @@ date = "2022-11-01"
 authors = ["fuentes-e","Garza, L. E."]
 publication_types = ["2"]
 publication = "*Journal of Mathematical Analysis and Applications*, **518**(1), 341-358. doi:10.1016/j.jmaa.2022.126674"
-abstract = "In this contribution, we extend the concept of coherent pair for two quasi-definite matrix linear functionals $\\mathbf{u}_{0}$  and $\\mathbf{u}_{1}$. Necessary and sufficient conditions for these functionals to constitute a coherent pair are determined, when one of them satisfies a matrix Pearson-type equation. Moreover, we deduce algebraic properties of the matrix orthogonal polynomials associated with the Sobolev-type inner product $<p,q>_{s} = <p,q>_{\\mathbf{u}_0} +  <p'\\mathbf{M}_1,q'\\mathbf{M}_2>_{\\mathbf{u}_1},$ where $\\mathbf{M}_1$ and $\\mathbf{M}_2$ are non-singular matrices  $p$ and $q$ are matrix polynomials."
+abstract = "In this contribution, we extend the concept of coherent pair for two quasi-definite matrix linear functionals $u_{0}$  and $u_{1}$. Necessary and sufficient conditions for these functionals to constitute a coherent pair are determined, when one of them satisfies a matrix Pearson-type equation. Moreover, we deduce algebraic properties of the matrix orthogonal polynomials associated with the Sobolev-type inner product $<p,q>_{s} = <p,q>_{\\mathbf{u}_0} +  <p'\\mathbf{M}_1,q'\\mathbf{M}_2>_{\\mathbf{u}_1},$ where $\\mathbf{M}_1$ and $\\mathbf{M}_2$ are non-singular matrices  $p$ and $q$ are matrix polynomials."
 selected = false
 projects = ["giaa"]
 tags = ["Orthogonal Polynomials", "GIAA", "Cat. A1"]
