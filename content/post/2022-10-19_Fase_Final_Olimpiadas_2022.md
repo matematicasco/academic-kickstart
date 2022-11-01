@@ -9,7 +9,7 @@ authors   = ["admin"]
 +++
 
 
-<img src=""  width="500">
+<img src="https://matematicas.netlify.app/img/2022-10-19-FFOlimp22.jpeg"  width="500">
 
 
 El día de hoy se está realizando la fase final de las Olimpiadas Matemáticas UPTC 2022.  Este es el siguiente enlace se puede encontrar el cubrimiento dado en [facebook](https://www.facebook.com/universidaduptc/photos/pcb.6304933522856355/6304897842859923/).
