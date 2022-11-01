@@ -22,9 +22,7 @@ El pasado 28 de octubre realizamos la sexta sesión de Círculos Matemáticos - 
     <td><img src="https://matematicas.netlify.app/img/2022-10-28-Circulos3.jpeg"  width="300"></td>
     <td><img src="https://matematicas.netlify.app/img/2022-10-28-Circulos4.jpeg"  width="300"></td>
   </tr>
-  <tr>
-    <td><img src="https://matematicas.netlify.app/img/2022-10-28-Circulos5.jpeg"  width="300"></td>
-    <td><img src="https://matematicas.netlify.app/img/2022-10-28-Circulos6.jpeg"  width="300"></td>
-  </tr>  
 </table>
+
+<img src="https://matematicas.netlify.app/img/2022-10-28-Circulos5.jpeg"  width="300">
 
