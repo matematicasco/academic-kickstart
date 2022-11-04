@@ -1,17 +1,17 @@
 +++
-date  = "2022-10-19"
-draft = true
+date  = "2022-11-04"
+draft = false
 tags  = ["Nuestro Encuentro"]
-title = "Charla 103: "
+title = "Charla 103: Aplicaciones de cálculo de variaciones"
 math  = true
 +++
 
 
-**Conferencista:**  . Estudiante de Matemáticas, Uptc.
+**Conferencista:**  Gilvar Bautista Diaz. Estudiante de Matemáticas, Uptc.
 
-**Fecha:** Miércoles 26 de octubre de 2022, 3:00 p.m.
+**Fecha:** Miércoles 09 de noviembre de 2022, 3:00 p.m.
 
 **Lugar:** C-119
 
-**Resumen**: 
+**Resumen**: Leonhard Euler fue el primer matemático en desarrollar la rama de las matemáticas hoy conocida como cálculo de variaciones, el cual estudia los métodos de optimización de funcionales. En esta charla se presentarán algunos ejemplos de problemas abordados en el cálculo de variaciones como el problema de la braquistócrona (o curva del descenso más rápido). Este problema motivó la investigación y desarrollo de esta rama de las matemáticas.
 
