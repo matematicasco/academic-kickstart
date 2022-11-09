@@ -1,5 +1,5 @@
 +++
-date  = "2022-11-08"
+date  = "2022-11-09"
 draft = false
 tags  = ["Nuestro Encuentro"]
 title = "Charla 103: Aplicaciones de cálculo de variaciones"
