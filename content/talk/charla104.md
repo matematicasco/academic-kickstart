@@ -7,7 +7,7 @@ math  = true
 +++
 
 
-**Conferencista:**  José Nicolás Nájar Salinas. 
+**Conferencista:**  José Nicolás Nájar Salinas. Universidad de América. Egresado Uptc.
 
 **Fecha:** Miércoles 16 de noviembre de 2022, 3:00 p.m.
 
