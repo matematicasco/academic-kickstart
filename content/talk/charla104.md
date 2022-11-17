@@ -1,5 +1,5 @@
 +++
-date  = "2022-11-17"
+date  = "2022-11-16"
 draft = false
 tags  = ["Nuestro Encuentro"]
 title = "Charla 104: De lo concreto a lo abstracto"
