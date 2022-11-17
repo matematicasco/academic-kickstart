@@ -6,7 +6,7 @@ title = "Charla 105: Estudio de las correlaciones de Coulomb en moléculas artif
 math  = true
 +++
 
-**Conferencista:**  Carlos Bohorquez. Estudiante de Física, Uptc.
+**Conferencista:**  Carlos Bohórquez. Estudiante de Física, Uptc.
 
 **Fecha:** Miércoles 23 de noviembre de 2022, 3:00 p.m.
 
