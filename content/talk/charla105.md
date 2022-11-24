@@ -1,5 +1,5 @@
 +++
-date  = "2022-11-17"
+date  = "2022-11-23"
 draft = false
 tags  = ["Nuestro Encuentro"]
 title = "Charla 105: Estudio de las correlaciones de Coulomb en moléculas artificiales"
