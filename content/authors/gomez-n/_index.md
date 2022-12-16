@@ -27,17 +27,19 @@ education:
 
 # Social/Academic Networking
 social:
-- icon: researchgate
-  icon_pack: ai
-  link: https://www.researchgate.net/profile/Nubia_Gomez_Velasco
-- icon: google-scholar
-  icon_pack: ai
-  link: https://scholar.google.co.uk/citations?hl=es&user=TMDFEQYAAAAJ
 - icon: cv
   icon_pack: ai
   link: https://scienti.minciencias.gov.co/cvlac/visualizador/generarCurriculoCv.do?cod_rh=0000479519
-
-
+- icon: google-scholar
+  icon_pack: ai
+  link: https://scholar.google.co.uk/citations?hl=es&user=TMDFEQYAAAAJ  
+- icon: orcid
+  icon_pack: ai
+  link: https://orcid.org/0000-0001-7745-1721
+- icon: researchgate
+  icon_pack: ai
+  link: https://www.researchgate.net/profile/Nubia_Gomez_Velasco
+ 
 user_groups:
 - "Escuela"
 - "gama"
