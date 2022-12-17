@@ -21,18 +21,18 @@ education:
     year: 2014
 
 social:
- - icon: orcid
-   icon_pack: ai
-   link: https://orcid.org/0000-0001-9845-039X
- - icon: google-scholar
-   icon_pack: ai
-   link: https://scholar.google.co.uk/citations?user=wqLrmw0AAAAJ&hl=es
- - icon: researchgate
-   icon_pack: ai
-   link: https://www.researchgate.net/profile/Julieth-Katherine-Rodriguez-Gutierrez
  - icon: cv
    icon_pack: ai
    link: https://scienti.minciencias.gov.co/cvlac/visualizador/generarCurriculoCv.do?cod_rh=0001490978
+ - icon: google-scholar
+   icon_pack: ai
+   link: https://scholar.google.co.uk/citations?user=wqLrmw0AAAAJ&hl=es
+ - icon: orcid
+   icon_pack: ai
+   link: https://orcid.org/0000-0001-9845-039X
+ - icon: researchgate
+   icon_pack: ai
+   link: https://www.researchgate.net/profile/Julieth-Katherine-Rodriguez-Gutierrez
 
 user_groups:
 - "Escuela"
