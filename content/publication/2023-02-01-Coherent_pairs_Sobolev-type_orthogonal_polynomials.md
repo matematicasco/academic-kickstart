@@ -1,6 +1,6 @@
 +++
 title = "Coherent pairs and Sobolev-type orthogonal polynomials on the real line: An extension to the matrix case"
-date = "2022-12-08"
+date = "2022-12-15"
 authors = ["fuentes-e","Garza, L. E."]
 publication_types = ["2"]
 publication = "*Journal of Mathematical Analysis and Applications*, **518**(1), 341-358. doi:10.1016/j.jmaa.2022.126674"
