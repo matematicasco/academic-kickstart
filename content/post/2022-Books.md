@@ -27,7 +27,13 @@ math      = true
     <td><img src="https://www.redbooks.com.co/wp-content/uploads/2021/05/UPTC_128.jpg"  width="200"></td>
   </tr>
   <tr>
-    <td><img src=""  width="200"></td>
+    <td><img src="https://simehbucket.s3.amazonaws.com/images/ecbf39cc05c48884b1f7d533b116b9dc-medium.jpg"  width="200"></td>
+    <td><img src="https://simehbucket.s3.amazonaws.com/images/ecbf39cc05c48884b1f7d533b115ef50-medium.jpg"  width="200"></td>
+    <td><img src="https://simehbucket.s3.amazonaws.com/images/523c1d5ee7c38c0eb8aac7b18cbbb072-medium.jpg"  width="200"></td>
+    <td><img src="https://media.springernature.com/w184/springer-static/cover/book/978-3-030-53378-6.jpg?as=webp"  width="200"></td>
+  </tr>
+  <tr>
+    <td><img src="https://simehbucket.s3.amazonaws.com/images/ecbf39cc05c48884b1f7d533b17beba6-medium.jpg"  width="200"></td>
     <td><img src=""  width="200"></td>
     <td><img src=""  width="200"></td>
     <td><img src=""  width="200"></td>
@@ -39,5 +45,6 @@ math      = true
     <td><img src=""  width="200"></td>
   </tr>
 
+  
 </table>
 
