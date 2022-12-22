@@ -8,6 +8,11 @@ math      = true
 +++
 
 <table>
+    <tr>
+    <td><img src=""  width="200"></td>
+    <td><img src=""  width="200"></td>
+    <td><img src=""  width="200"></td>
+  </tr>
   <tr>
     <td><img src="https://simehbucket.s3.amazonaws.com/images/eb99f18bd6fd3173a377c82e1225924c-medium.jpg"  width="200"></td>
     <td><img src="https://simehbucket.s3.amazonaws.com/images/eb99f18bd6fd3173a377c82e1225024a-medium.jpg"  width="200"></td>
@@ -36,21 +41,16 @@ math      = true
   <tr>
     <td><img src="https://media.springernature.com/w184/springer-static/cover/book/978-3-030-53378-6.jpg?as=webp"  width="200"></td>
     <td><img src="https://simehbucket.s3.amazonaws.com/images/ecbf39cc05c48884b1f7d533b17beba6-medium.jpg"  width="200"></td>
-    <td><img src=""  width="200"></td>
+    <td><img src="https://simehbucket.s3.amazonaws.com/images/a43a8974b98583f5163181f5fd64e0c3-medium.jpg"  width="200"></td>
   </tr>
   <tr>
-    <td><img src=""  width="200"></td>
-    <td><img src=""  width="200"></td>
-    <td><img src=""  width="200"></td>
+    <td><img src="https://uptc.metalibros.org/public/presses/1/submission_116_89_coverImage_es_ES_t.jpg"  width="200"></td>
+    <td><img src="https://simehbucket.s3.amazonaws.com/images/ecbf39cc05c48884b1f7d533b11185f8-medium.jpg"  width="200"></td>
+    <td><img src="https://simehbucket.s3.amazonaws.com/images/a43a8974b98583f5163181f5fd8d9678-medium.jpg"  width="200"></td>
   </tr>
   <tr>
-    <td><img src=""  width="200"></td>
-    <td><img src=""  width="200"></td>
-    <td><img src=""  width="200"></td>
-  </tr>
-  <tr>
-    <td><img src=""  width="200"></td>
-    <td><img src=""  width="200"></td>
+    <td><img src="https://simehbucket.s3.amazonaws.com/images/a43a8974b98583f5163181f5fd22179a-medium.jpg"  width="200"></td>
+    <td><img src="https://uptc.metalibros.org/public/presses/1/submission_40_24_coverImage_es_ES_t.jpg"  width="200"></td>
     <td><img src=""  width="200"></td>
   </tr>
 </table>
