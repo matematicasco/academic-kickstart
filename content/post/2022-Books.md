@@ -51,9 +51,9 @@ math      = true
     <td><a href="https://matematicas.netlify.app/publication/2015-07-21_elementos_probabilidad/"><img src="https://uptc.metalibros.org/public/presses/1/submission_40_24_coverImage_es_ES_t.jpg"  width="200"></a></td>
   </tr>
     <tr>
-    <td><img src=""  width="200"></td>    
-    <td><img src=""  width="200"></td>
-    <td><img src=""  width="200"></td>
+    <td><a href=""><img src=""  width="200"></a></td>    
+    <td><a href=""><img src=""  width="200"></a></td>
+    <td><a href=""><img src=""  width="200"></a></td>
   </tr>
   
 </table>
