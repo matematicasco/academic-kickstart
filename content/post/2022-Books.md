@@ -11,7 +11,7 @@ Some of the books written by our faculty members:
 
 <table>
   <tr>
-    <td><a href=""><img src="https://librosaccesoabierto.uptc.edu.co/public/presses/1/submission_202_187_coverImage_es_ES_t.jpg"  width="200"></a></td>    
+    <td><a href="https://matematicas.netlify.app/publication/2022-12-14-reflexiones-ensenanza-ciencias-economicas/"><img src="https://librosaccesoabierto.uptc.edu.co/public/presses/1/submission_202_187_coverImage_es_ES_t.jpg"  width="200"></a></td>    
     <td><a href="https://matematicas.netlify.app/publication/2022-08-15_analisis_historico_necesidades_agua.md/"><img src="https://simehbucket.s3.amazonaws.com/images/eb99f18bd6fd3173a377c82e1225924c-medium.jpg"  width="200"></a></td>
     <td><a href="https://matematicas.netlify.app/publication/2022-08-10_hacia_transformacion_clase_matematicas/"><img src="https://simehbucket.s3.amazonaws.com/images/eb99f18bd6fd3173a377c82e1225024a-medium.jpg"  width="200"></a></td>    
   </tr>
