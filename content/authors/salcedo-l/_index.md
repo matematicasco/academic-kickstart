@@ -22,12 +22,16 @@ education:
     year: 2004
 
 social:
- - icon: google-scholar
-   icon_pack: ai
-   link: https://scholar.google.es/citations?user=lC3dApEAAAAJ&hl=en
  - icon: cv
    icon_pack: ai
    link: https://scienti.minciencias.gov.co/cvlac/visualizador/generarCurriculoCv.do?cod_rh=0000263400
+ - icon: google-scholar
+   icon_pack: ai
+   link: https://scholar.google.es/citations?user=lC3dApEAAAAJ&hl=en
+ - icon: orcid
+   icon_pack: ai
+   link: https://orcid.org/0000-0001-6246-014X
+
 
 user_groups:
 - "Escuela"
