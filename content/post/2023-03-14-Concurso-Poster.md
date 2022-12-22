@@ -1,6 +1,6 @@
 +++
-date      = 2022-12-15
-lastmod   = 2022-12-15
+date      = 2022-12-22
+lastmod   = 2022-12-22
 draft     = false
 tags      = ["Concurso"]
 title     = "Concurso de posters"
