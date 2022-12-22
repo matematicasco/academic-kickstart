@@ -1,6 +1,6 @@
 +++
-date      = 2022-12-22
-lastmod   = 2022-12-22
+date      = 2022-12-21
+lastmod   = 2022-12-21
 draft     = false
 tags      = ["Books"]
 title     = "Books written by faculty members"
