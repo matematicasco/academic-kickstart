@@ -46,9 +46,9 @@ math      = true
     <td><a href="https://matematicas.netlify.app/publication/2018-06-13_politicas_medicion_ciencia_tecnologia/"><img src="https://simehbucket.s3.amazonaws.com/images/ecbf39cc05c48884b1f7d533b11185f8-medium.jpg"  width="200"></a></td>
   </tr>
   <tr>
-    <td><a href=""><img src="https://simehbucket.s3.amazonaws.com/images/a43a8974b98583f5163181f5fd8d9678-medium.jpg"  width="200"></a></td>
-    <td><a href=""><img src="https://simehbucket.s3.amazonaws.com/images/a43a8974b98583f5163181f5fd22179a-medium.jpg"  width="200"></a></td>
-    <td><a href=""><img src="https://uptc.metalibros.org/public/presses/1/submission_40_24_coverImage_es_ES_t.jpg"  width="200"></a></td>
+    <td><a href="https://matematicas.netlify.app/publication/2017-08-01_acercamiento_didactica/"><img src="https://simehbucket.s3.amazonaws.com/images/a43a8974b98583f5163181f5fd8d9678-medium.jpg"  width="200"></a></td>
+    <td><a href="https://matematicas.netlify.app/publication/2016-12-01_inferencia_estadistica_basica/"><img src="https://simehbucket.s3.amazonaws.com/images/a43a8974b98583f5163181f5fd22179a-medium.jpg"  width="200"></a></td>
+    <td><a href="https://matematicas.netlify.app/publication/2015-07-21_elementos_probabilidad/"><img src="https://uptc.metalibros.org/public/presses/1/submission_40_24_coverImage_es_ES_t.jpg"  width="200"></a></td>
   </tr>
     <tr>
     <td><img src=""  width="200"></td>    
