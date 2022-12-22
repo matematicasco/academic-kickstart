@@ -7,7 +7,7 @@ title     = "Books written by faculty members"
 math      = true
 +++
 
-Some of the books written by our faculty members:
+Some of the books written by our faculty members until 2022:
 
 <table>
   <tr>
