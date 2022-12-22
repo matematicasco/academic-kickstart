@@ -1,7 +1,7 @@
 +++
 title = "Reflexiones en torno a la enseñanza de las ciencias económicas"
 date = "2022-12-14"
-authors = ["","salcedo-l",""]
+authors = ["López Sánchez, L.M.","salcedo-l","Delgado Ruiz, S. T.","Jerez Gil, F.L.","Murcia Pardo, S.M.", "Manrique Joya, G.M.","Chaparro Cardozo, A.Z.","Villamil Pachón, J.S.", "Saavedra Najar, R.","López Sánchez, M.L.","Leguizamón Romero, J.F.","Orlando Caro, E."]
 publication_types = ["5"]
 publication = "Editorial UPTC. ISBN: 978-958-660-691-2"
 selected = false
@@ -17,20 +17,9 @@ caption = ""
 +++
 
 
-
-
-
 <img src="https://librosaccesoabierto.uptc.edu.co/public/presses/1/submission_202_187_coverImage_es_ES_t.jpg"  width="200"/>
 
 [Más información](https://librosaccesoabierto.uptc.edu.co/index.php/editorial-uptc/catalog/book/202)
-
-<!--
-<img src="https://simehbucket.s3.amazonaws.com/images/7a665c7977e7b9df2eee119f35d5bef9-medium.jpg" width=200>
-
-<img src="https://simehbucket.s3.amazonaws.com/images/7a665c7977e7b9df2eee119f35ce433c-medium.jpg" width= 200>
-
-[Más información](https://editorial.uptc.edu.co/gpd-la-arqueologia-matematica-9789586604956.html)
--->
 
 
 
