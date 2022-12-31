@@ -12,7 +12,7 @@ organizations:
 bio: 
 
 interests:
-- Algebra
+- Noncommutative algebra
 
 education:
   courses:
