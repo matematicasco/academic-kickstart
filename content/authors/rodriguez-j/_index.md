@@ -35,7 +35,6 @@ social:
    link: https://www.researchgate.net/profile/Julieth-Katherine-Rodriguez-Gutierrez
 
 user_groups:
-- "Escuela"
 - "gamma"
 ---
 
