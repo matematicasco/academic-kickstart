@@ -28,8 +28,6 @@ education:
     institution: Universidad Pedagógica y Tecnológica de Colombia
     year: 1998
 
-![]("https://matematicas.netlify.com/img/gs/suarez-h.png")
-
 social:
  - icon: cv
    icon_pack: ai
@@ -53,5 +51,6 @@ email: ""
 user_groups:
 - "Escuela"
 ---
+
 
 <img src="https://matematicas.netlify.com/img/gs/suarez-h.png"  width="350">
