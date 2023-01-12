@@ -27,7 +27,6 @@ education:
   - course: Licenciatura en Matemáticas y Física
     institution: Universidad Pedagógica y Tecnológica de Colombia
     year: 1998
-other:
 ![](https://matematicas.netlify.com/img/gs/suarez-h.png)
 social:
  - icon: cv
