@@ -52,4 +52,4 @@ user_groups:
 - "Escuela"
 ---
 
-<img src="https://matematicas.netlify.com/img/gs/suarez-h.png"  width="250"></a>
+<img src="https://matematicas.netlify.com/img/gs/suarez-h.png"  width="350">
