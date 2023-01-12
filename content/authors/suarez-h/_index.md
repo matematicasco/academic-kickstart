@@ -53,5 +53,4 @@ user_groups:
 ---
 
 
-![](https://matematicas.netlify.com/img/gs/suarez-h.png)
-
+<center><img src="https://matematicas.netlify.com/img/gs/suarez-h.png"  width="200"></a></center>
