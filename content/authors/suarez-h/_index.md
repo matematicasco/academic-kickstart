@@ -10,7 +10,6 @@ organizations:
 
 # Short bio (displayed in user profile at end of posts)
 bio: 
-<center><img src="https://matematicas.netlify.com/img/gs/suarez-h.png"  width="200"></a></center>
 interests:
 - Noncommutative algebra
 - General topology
@@ -53,3 +52,4 @@ user_groups:
 - "Escuela"
 ---
 
+<img src="https://matematicas.netlify.com/img/gs/suarez-h.png"  width="250"></a>
