@@ -13,7 +13,7 @@ bio:
 interests:
 - Noncommutative algebra
 - General topology
-- ![](https://matematicas.netlify.com/img/gs/suarez-h.png)
+- ![](https://matematicas.netlify.com/img/gs/suarez-h.png){width=300}
 education:
   courses:
   - course: PhD in Mathematical Sciences
