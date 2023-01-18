@@ -53,3 +53,4 @@ user_groups:
 ---
 
 
+<center><img src="https://matematicas.netlify.com/img/gs/serna-j.png"  width="350"></center>
