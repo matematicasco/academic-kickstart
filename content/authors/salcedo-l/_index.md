@@ -38,3 +38,4 @@ user_groups:
 - "gamma"
 ---
 
+<center><img src="https://matematicas.netlify.com/img/gs/salcedo-l.png"  width="350"></center>
