@@ -58,3 +58,5 @@ email: ""
 
 user_groups: ["Escuela","tenga"]
 ---
+
+<center><img src="https://matematicas.netlify.com/img/gs/rojas-a.png"  width="350"></center>
