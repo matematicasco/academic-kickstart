@@ -51,3 +51,4 @@ user_groups:
 ---
 
 
+<center><img src="https://matematicas.netlify.com/img/gs/suarez-z.png"  width="350"></center>
