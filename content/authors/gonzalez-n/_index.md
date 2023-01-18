@@ -52,3 +52,6 @@ user_groups:
 - "Escuela"
 - "giaa"
 ---
+
+
+<center><img src="https://matematicas.netlify.com/img/gs/gonzalez-n.png"  width="350"></center>
