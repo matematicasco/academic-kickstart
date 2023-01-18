@@ -38,3 +38,4 @@ user_groups:
 - "gici"
 ---
 
+<center><img src="https://matematicas.netlify.com/img/gs/valdivieso-m.png"  width="350"></center>
