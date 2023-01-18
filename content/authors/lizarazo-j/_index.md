@@ -45,3 +45,5 @@ email: ""
 user_groups:
 - "Escuela"
 ---
+
+<center><img src="https://matematicas.netlify.com/img/gs/lizarazo-j.png"  width="350"></center>
