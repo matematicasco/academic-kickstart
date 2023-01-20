@@ -29,6 +29,9 @@ social:
 - icon: cv
   icon_pack: ai
   link: https://scienti.minciencias.gov.co/cvlac/visualizador/generarCurriculoCv.do?cod_rh=0001391399
+- icon: google-scholar
+  icon_pack: ai
+  link: https://scholar.google.co.uk/citations?user=5ZtE5KIAAAAJ&hl 
 - icon: orcid
   icon_pack: ai
   link: https://orcid.org/0000-0003-1002-1887
