@@ -24,7 +24,7 @@ caption = ""
 
 Página del libro: https://alexrojas.netlify.app/publication/hbio/
 
-[Más información](https://editorial.uptc.edu.co/)
+[Más información](https://editorial.uptc.edu.co/gpd-herramientas-para-el-analisis-estadistico-de-datos-biologicos-en-r-9789586606462-62f2be2f3ddd8.html)
 
 <!--
 <img src="https://simehbucket.s3.amazonaws.com/images/7a665c7977e7b9df2eee119f35d5bef9-medium.jpg" width=200>
