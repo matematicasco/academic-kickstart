@@ -26,15 +26,15 @@ education:
     year: 1998
 
 social:
-- icon: researchgate
-  icon_pack: ai
-  link: https://www.researchgate.net/profile/Yolima-Sanchez
-- icon: orcid
-  icon_pack: ai
-  link: https://orcid.org/0000-0003-1002-1887
 - icon: cv
   icon_pack: ai
   link: https://scienti.minciencias.gov.co/cvlac/visualizador/generarCurriculoCv.do?cod_rh=0001391399
+- icon: orcid
+  icon_pack: ai
+  link: https://orcid.org/0000-0003-1002-1887
+- icon: researchgate
+  icon_pack: ai
+  link: https://www.researchgate.net/profile/Yolima-Sanchez
 
 user_groups:
 - "Escuela"
