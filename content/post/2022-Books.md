@@ -11,15 +11,15 @@ Some of the books written by our faculty members until 2022:
 
 <table>
   <tr>
-    <td><a href="https://matematicas.netlify.app/publication/2022-12-14-reflexiones-ensenanza-ciencias-economicas/"><img src="https://librosaccesoabierto.uptc.edu.co/public/presses/1/submission_202_187_coverImage_es_ES_t.jpg"  width="200"></a></td>    
+    <td><a href="https://matematicas.netlify.app/publication/2022-12-14-reflexiones-ensenanza-ciencias-economicas/"><img src="https://librosaccesoabierto.uptc.edu.co/public/presses/1/submission_202_187_coverImage_es_ES_t.jpg"  width="200"></a></td>
+     <td><a href="https://matematicas.netlify.app/publication/2022-05-28_desercion-universitaria/"><img src="https://www.uniboyaca.edu.co/sites/default/files/2022-10/Web_Desercion.png"  width="200"></a></td>
+  </tr>
+  <tr>
+    <td><a href="https://matematicas.netlify.app/publication/2022-08-10_hacia_transformacion_clase_matematicas/"><img src="https://simehbucket.s3.amazonaws.com/images/eb99f18bd6fd3173a377c82e1225024a-medium.jpg"  width="200"></a></td>
     <td><a href="https://matematicas.netlify.app/publication/2022-08-15_analisis_historico_necesidades_agua.md/"><img src="https://simehbucket.s3.amazonaws.com/images/eb99f18bd6fd3173a377c82e1225924c-medium.jpg"  width="200"></a></td>
-  </tr>
+    </tr>
   <tr>
-    <td><a href="https://matematicas.netlify.app/publication/2022-08-10_hacia_transformacion_clase_matematicas/"><img src="https://simehbucket.s3.amazonaws.com/images/eb99f18bd6fd3173a377c82e1225024a-medium.jpg"  width="200"></a></td>    
-    <td><a href="https://matematicas.netlify.app/publication/2022-03-04-operadores_no_locales_sobre_p-adicos/"><img src="https://simehbucket.s3.amazonaws.com/images/43150080ba262e4ec25b05d90e7ff11c-medium.jpg"  width="200"></a></td>
-  </tr>
-  <tr>
-       <td><a href="https://matematicas.netlify.app/publication/2022-05-28_desercion-universitaria/"><img src="https://www.uniboyaca.edu.co/sites/default/files/2022-10/Web_Desercion.png"  width="200"></a></td>
+    <td><a href="https://matematicas.netlify.app/publication/2022-03-04-operadores_no_locales_sobre_p-adicos/"><img src="https://simehbucket.s3.amazonaws.com/images/43150080ba262e4ec25b05d90e7ff11c-medium.jpg"  width="200"></a></td>    
     <td><a href="https://matematicas.netlify.app/publication/2022-04-26_problema_riemann_leyes_conservacion/"><img src="https://simehbucket.s3.amazonaws.com/images/8c5810c736a643c7fff63847eb317f76-medium.jpg"  width="200"></a></td>     
   </tr>
   <tr>
