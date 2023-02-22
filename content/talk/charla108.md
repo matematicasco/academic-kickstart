@@ -8,7 +8,7 @@ math  = true
 
 **Conferencista:**  Julieth Andrea Soler Marin, Estudiante de Matemáticas, Uptc.
 
-**Fecha:** Viernes 24 de diciembre de 2023, 3:00 p.m.
+**Fecha:** Viernes 24 de febrero de 2023, 3:00 p.m.
 
 **Lugar:** C-119
 
