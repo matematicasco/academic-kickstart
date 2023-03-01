@@ -2,7 +2,7 @@
 date  = "2023-03-01"
 draft = false
 tags  = ["Nuestro Encuentro"]
-title = "Charla 110: Breve historia de los números"
+title = "Charla 109: Breve historia de los números"
 math  = true
 +++
 
