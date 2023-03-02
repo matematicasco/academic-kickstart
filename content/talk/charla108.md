@@ -1,5 +1,5 @@
 +++
-date  = "2023-02-22"
+date  = "2023-02-24"
 draft = false
 tags  = ["Nuestro Encuentro"]
 title = "Charla 108: Teorema de cambio de variable para integrales de Lebesgue"
