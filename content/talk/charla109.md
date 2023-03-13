@@ -1,5 +1,5 @@
 +++
-date  = "2023-03-01"
+date  = "2023-03-08"
 draft = false
 tags  = ["Nuestro Encuentro"]
 title = "Charla 109: Breve historia de los números"
