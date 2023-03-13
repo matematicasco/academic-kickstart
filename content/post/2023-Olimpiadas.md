@@ -67,8 +67,8 @@ Se premiarán a los 3 mejores estudiantes de cada nivel que participaron en la f
 
 El valor de inscripción por estudiante es diferente según la fecha de inscripción, los valores se especifican a continuación.
 
-1. Cuatro mil pesos ($4000) por estudiante para quienes se inscriban antes del 10 de abril.
-2. Cinco mil pesos ($5000) por estudiante para quienes se inscriban entre el 11 y 17 de abril.
+1. **Cuatro mil pesos** ($4000) por estudiante para quienes se inscriban antes del 10 de abril.
+2. **Cinco mil pesos** ($5000) por estudiante para quienes se inscriban entre el 11 y 17 de abril.
 
 Con el fin de coordinar el buen desarrollo de la participación de la Institución Educativa en las OM23, en cada institución deberá existir un docente encargado (preferiblemente un profesor de matemáticas, al cual se le agradece de antemano la colaboración), el cual liderará todo el proceso de inscripción y participación de los estudiantes.
 Las instrucciones para la inscripción de los estudiantes son las siguientes:
