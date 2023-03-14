@@ -1,5 +1,5 @@
 +++
-date  = "2023-03-12"
+date  = "2023-03-13"
 draft = false
 tags  = ["Nuestro Encuentro"]
 title = "Charla 111: Triángulos eternos: trigonometría y logaritmos"
