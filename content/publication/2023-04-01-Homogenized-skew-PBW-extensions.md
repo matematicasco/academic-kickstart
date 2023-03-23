@@ -1,6 +1,6 @@
 +++
 title = "Homogenized skew PBW extensions"
-date = "2022-12-09"
+date = "2023-03-23"
 authors = ["suarez-h", "Reyes, A.","suarez-y"]
 publication_types = ["2"]
 publication = "*Arabian Journal of Mathematics*, **12**, 247-263. doi:10.1007/s40065-022-00410-z"
