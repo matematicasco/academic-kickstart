@@ -1,5 +1,5 @@
 +++
-date  = "2023-03-14"
+date  = "2023-03-15"
 draft = false
 tags  = ["Nuestro Encuentro"]
 title = "Charla 110: Geometría de la lámina elástica"
