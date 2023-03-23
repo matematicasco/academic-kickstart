@@ -1,5 +1,5 @@
 +++
-date  = "2023-03-12"
+date  = "2023-03-22"
 draft = false
 tags  = ["Nuestro Encuentro"]
 title = "Charla 112: Curvas y coordenadas"
