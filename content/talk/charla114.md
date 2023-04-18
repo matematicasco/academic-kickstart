@@ -1,5 +1,5 @@
 +++
-date  = "2023-04-15"
+date  = "2023-04-17"
 draft = false
 tags  = ["Nuestro Encuentro"]
 title = "Charla 114: Is inequality inevitable?"
