@@ -1,5 +1,5 @@
 +++
-date  = "2023-04-18"
+date  = "2023-04-19"
 draft = false
 tags  = ["Nuestro Encuentro"]
 title = "Charla 113: Libertad de formalismo, algunos ejemplos"
