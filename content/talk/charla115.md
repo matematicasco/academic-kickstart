@@ -1,5 +1,5 @@
 +++
-date  = "2023-04-20"
+date  = "2023-04-24"
 draft = false
 tags  = ["Nuestro Encuentro"]
 title = "Charla 115: The Local Limit Theorem: A Historical Perspective"
