@@ -1,6 +1,6 @@
 +++
 date  = "2023-04-27"
-draft = true
+draft = false
 tags  = ["Nuestro Encuentro"]
 title = "Charla 118: Hausdorff Measures and Isodiametric inequality"
 math  = true
