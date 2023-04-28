@@ -1,5 +1,5 @@
 +++
-date  = "2023-04-27"
+date  = "2023-04-28"
 draft = false
 tags  = ["Nuestro Encuentro"]
 title = "Charla 116: The Van Kampen’s Theorem"
