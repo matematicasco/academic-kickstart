@@ -2,7 +2,7 @@
 date  = "2023-04-15"
 draft = true
 tags  = ["Nuestro Encuentro"]
-title = "Charla 120: "
+title = "Charla 120: Operadores"
 math  = true
 +++
 
