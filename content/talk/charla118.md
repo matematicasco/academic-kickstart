@@ -1,5 +1,5 @@
 +++
-date  = "2023-04-27"
+date  = "2023-05-02"
 draft = false
 tags  = ["Nuestro Encuentro"]
 title = "Charla 118: Hausdorff Measures and Isodiametric inequality"
