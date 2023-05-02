@@ -28,5 +28,5 @@ conocida como la fórmula explícita de Weil.
 En 1990 Haran \cite{Haran_1990}, utilizando el grupo de adeles de los números racionales y potenciales de Riesz, encuentra una nueva interpretación de $W_p(f)$. Él muestra que todas las contribuciones locales a la fórmula explícita pueden ser expresadas en términos del generador infinitesimal de los núcleos de Riesz asociados al correspondiente cuerpo local.
 
 
-En esta charla mostraré que es posible extender los resultados de  Haran a el caso de una extensión cuadrática imaginaria de $\mathbb{Q}$. Para esto, definiré la función zeta de Dedekind asociada a la extensión, el núcleo de Riesz para el cuerpo de los números complejos $\CC$  y para las correspondientes extensiones cuadráticas de los cuerpos locales  $\mathbb{Q}_p$, las cuales incluyen las extensiones cuadráticas no ramificadas y las totalmente ramificadas. 
+En esta charla mostraré que es posible extender los resultados de  Haran a el caso de una extensión cuadrática imaginaria de $\mathbb{Q}$. Para esto, definiré la función zeta de Dedekind asociada a la extensión, el núcleo de Riesz para el cuerpo de los números complejos $\mathbb{C}$  y para las correspondientes extensiones cuadráticas de los cuerpos locales  $\mathbb{Q}_p$, las cuales incluyen las extensiones cuadráticas no ramificadas y las totalmente ramificadas. 
 
