@@ -16,14 +16,17 @@ math  = true
 **Resumen**: En esta charla se mostrarán los principales resultados obtenidos durante la Comisión de Investigación en la que se desarrolló el proyecto titulado: Operadores seudo-diferenciales adélicos asociados a formas cuadráticas.
 
 Sea $\zeta(s)=\prod_{p\leq \infty}\zeta_p(s)$ la clásica función  zeta de Riemann.
-Dada una función suave con soporte compacto $f:\mathbb{R}^+\rightarrow\mathbb{R}$, denotamos por  $\hat{f}(s)$ su transformada de Mellin. Weil \cite{Weil_1952}, \cite{weil_1972}, utilizando la ecuación funcional $\zeta(s)=\zeta(1-s)$, obtiene la fórmula explícita:\begin{align*}
-	\hat{f}(0)&+\hat{f}(1)-\sum_{\zeta(s)=0} \hat{f}(s)=-\frac{1}{2 \pi i} \oint \hat{f}(s) d \log \zeta(s)\\
+Dada una función suave con soporte compacto $f:\mathbb{R}^+\rightarrow\mathbb{R}$, denotamos por  $\hat{f}(s)$ su transformada de Mellin. Weil \cite{Weil_1952}, \cite{weil_1972}, utilizando la ecuación funcional $\zeta(s)=\zeta(1-s)$, obtiene la fórmula explícita:
+
+\begin{align*}
+	\hat{f}(0)&+\hat{f}(1)-\sum_{\zeta(s)=0} \hat{f}(s)=-\frac{1}{2 \pi i} \oint \hat{f}(s) d \log \zeta(s) \\
 	&= \sum_{p \leq \infty} \frac{1}{2 \pi i} \int_{\frac{1}{2}-i \infty}^{\frac{1}{2}+i \infty} \hat{f}(s) d \log \frac{\zeta_p(1-s)}{\zeta_p(s)} \stackrel{\text { def }}{=} \sum_{p \leq \infty} W_p(f)
 \end{align*}
+
 conocida como la fórmula explícita de Weil.
 
 En 1990 Haran \cite{Haran_1990}, utilizando el grupo de adeles de los números racionales y potenciales de Riesz, encuentra una nueva interpretación de $W_p(f)$. Él muestra que todas las contribuciones locales a la fórmula explícita pueden ser expresadas en términos del generador infinitesimal de los núcleos de Riesz asociados al correspondiente cuerpo local.
 
 
-En esta charla mostraré que es posible extender los resultados de  Haran a el caso de una extensión cuadrática imaginaria de $\Q$. Para esto, definiré la función zeta de Dedekind asociada a la extensión, el núcleo de Riesz para el cuerpo de los números complejos $\CC$  y para las correspondientes extensiones cuadráticas de los cuerpos locales  $\Q_p$, las cuales incluyen las extensiones cuadráticas no ramificadas y las totalmente ramificadas. 
+En esta charla mostraré que es posible extender los resultados de  Haran a el caso de una extensión cuadrática imaginaria de $\mathbb{Q}$. Para esto, definiré la función zeta de Dedekind asociada a la extensión, el núcleo de Riesz para el cuerpo de los números complejos $\CC$  y para las correspondientes extensiones cuadráticas de los cuerpos locales  $\mathbb{Q}_p$, las cuales incluyen las extensiones cuadráticas no ramificadas y las totalmente ramificadas. 
 
