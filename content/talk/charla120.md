@@ -16,7 +16,7 @@ math  = true
 **Resumen**: En esta charla se mostrarán los principales resultados obtenidos durante la Comisión de Investigación en la que se desarrolló el proyecto titulado: Operadores seudo-diferenciales adélicos asociados a formas cuadráticas.
 
 Sea $\zeta(s)=\prod_{p\leq \infty}\zeta_p(s)$ la clásica función  zeta de Riemann.
-Dada una función suave con soporte compacto $f:\R^+\rightarrow\R$, denotamos por  $\hat{f}(s)$ su transformada de Mellin. Weil \cite{Weil_1952}, \cite{weil_1972}, utilizando la ecuación funcional $\zeta(s)=\zeta(1-s)$, obtiene la fórmula explícita:\begin{align*}
+Dada una función suave con soporte compacto $f:\mathbb{R}^+\rightarrow\mathbb{R}$, denotamos por  $\hat{f}(s)$ su transformada de Mellin. Weil \cite{Weil_1952}, \cite{weil_1972}, utilizando la ecuación funcional $\zeta(s)=\zeta(1-s)$, obtiene la fórmula explícita:\begin{align*}
 	\hat{f}(0)&+\hat{f}(1)-\sum_{\zeta(s)=0} \hat{f}(s)=-\frac{1}{2 \pi i} \oint \hat{f}(s) d \log \zeta(s)\\
 	&= \sum_{p \leq \infty} \frac{1}{2 \pi i} \int_{\frac{1}{2}-i \infty}^{\frac{1}{2}+i \infty} \hat{f}(s) d \log \frac{\zeta_p(1-s)}{\zeta_p(s)} \stackrel{\text { def }}{=} \sum_{p \leq \infty} W_p(f)
 \end{align*}
