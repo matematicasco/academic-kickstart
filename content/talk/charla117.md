@@ -1,5 +1,5 @@
 +++
-date  = "2023-05-02"
+date  = "2023-05-03"
 draft = false
 tags  = ["Nuestro Encuentro"]
 title = "Charla 117: Una introducción al método de las características"
