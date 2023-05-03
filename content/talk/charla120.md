@@ -29,7 +29,8 @@ En 1990 Haran [1], utilizando el grupo de adeles de los números racionales y po
 
 En esta charla mostraré que es posible extender los resultados de  Haran a el caso de una extensión cuadrática imaginaria de $\mathbb{Q}$. Para esto, definiré la función zeta de Dedekind asociada a la extensión, el núcleo de Riesz para el cuerpo de los números complejos $\mathbb{C}$  y para las correspondientes extensiones cuadráticas de los cuerpos locales  $\mathbb{Q}_p$, las cuales incluyen las extensiones cuadráticas no ramificadas y las totalmente ramificadas. 
 
-Referencias
+**Referencias**
+
 [1] S. Haran. Riesz potentials and explicit sums in arithmetic. *Invent. Math.*, 101(3):697--703, 1990.
 
 [2] A. Weil. Sur les \formules explicites" de la th eorie des nombres premiers. *Comm. S em. Math. Univ. Lund [Medd. Lunds Univ. Mat. Sem.]*, 1952(Tome Suppl ementaire):252--265, 1952.
