@@ -20,7 +20,7 @@ Dada una función suave con soporte compacto $f:\mathbb{R}^+\rightarrow\mathbb{R
 
 
 $$\hat{f}(0)+\hat{f}(1)-\sum_{\zeta(s)=0} \hat{f}(s)=-\frac{1}{2 \pi i} \oint \hat{f}(s) d \log \zeta(s)$$
-$$\qquad\qquad=\sum_{p \leq \infty} \frac{1}{2 \pi i} \int_{\frac{1}{2}-i \infty}^{\frac{1}{2}+i \infty} \hat{f}(s) d \log \frac{\zeta_p(1-s)}{\zeta_p(s)} \stackrel{\text { def }}{=} \sum_{p \leq \infty} W_p(f)$$
+$$\qquad\qquad\qquad=\sum_{p \leq \infty} \frac{1}{2 \pi i} \int_{\frac{1}{2}-i \infty}^{\frac{1}{2}+i \infty} \hat{f}(s) d \log \frac{\zeta_p(1-s)}{\zeta_p(s)} \stackrel{\text { def }}{=} \sum_{p \leq \infty} W_p(f)$$
 
 conocida como la fórmula explícita de Weil.
 
