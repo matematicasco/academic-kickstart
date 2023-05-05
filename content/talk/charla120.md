@@ -1,5 +1,5 @@
 +++
-date  = "2023-05-04"
+date  = "2023-05-05"
 draft = false
 tags  = ["Nuestro Encuentro"]
 title = "Charla 120: Operadores seudo-diferenciales adélicos asociados a formas cuadráticas"
