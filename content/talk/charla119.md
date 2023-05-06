@@ -1,5 +1,5 @@
 +++
-date  = "2023-05-05"
+date  = "2023-05-06"
 draft = false
 tags  = ["Nuestro Encuentro"]
 title = "Charla 119: Representations of Thompson’s Group $F$"
