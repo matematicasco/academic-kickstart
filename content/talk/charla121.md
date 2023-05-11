@@ -1,6 +1,6 @@
 +++
 date  = "2023-05-11"
-draft = true
+draft = false
 tags  = ["Nuestro Encuentro"]
 title = "Charla 121: The Cauchy-Lipschitz-Picard Theorem"
 math  = true
