@@ -33,6 +33,6 @@ En esta charla mostraré que es posible extender los resultados de  Haran a el c
 
 [1] S. Haran. Riesz potentials and explicit sums in arithmetic. *Invent. Math.*, 101(3):697--703, 1990.
 
-[2] A. Weil. Sur les \formules explicites" de la th eorie des nombres premiers. *Comm. S em. Math. Univ. Lund [Medd. Lunds Univ. Mat. Sem.]*, 1952(Tome Suppl ementaire):252--265, 1952.
+[2] A. Weil. Sur les formules explicites de la theorie des nombres premiers. *Comm. S em. Math. Univ. Lund [Medd. Lunds Univ. Mat. Sem.]*, 1952(Tome Suppl ementaire):252--265, 1952.
 
-[3] A. Weil. Sur les formules explicites de la th eorie des nombres. *Izv. Akad. Nauk SSSR, Ser. Mat.*, 36:3--18, 1972.
+[3] A. Weil. Sur les formules explicites de la theorie des nombres. *Izv. Akad. Nauk SSSR, Ser. Mat.*, 36:3--18, 1972.
