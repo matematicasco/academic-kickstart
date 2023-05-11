@@ -8,7 +8,7 @@ math  = true
 
 **Conferencista:** Juan Sebastian Bernal González. Estudiante de Matemáticas, Uptc.
 
-**Fecha:** Miércoles 17 de mayo de 2023, 2:00 p.m.
+**Fecha:** Miércoles 17 de mayo de 2023, 3:00 p.m.
 
 **Lugar:** C-119
 
