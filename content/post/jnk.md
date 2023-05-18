@@ -24,3 +24,15 @@ sum(coded(enamine$x1)*enamine$y)/2
 sum(coded(enamine$x2)*enamine$y)/2
 sum(coded(enamine$x1)*coded(enamine$x2)*enamine$y)/2
 ```
+
+
+```{r}
+plot(c(-1,1), enamine$y[1:2],type="b",ylim=c(70,95),xlim=c(-1.5,2.1), pch=16,
+     xlab="Amount of Formic acid",xaxt="n",
+     ylab="Yield of bornylmorpholine %",main="Gráfico de Interacción")
+axis(1,at=c(-1,1),labels=c("1 mol/mol","1.5 mol/mol"))
+lines(c(-1,1),enamine$y[3:4],lty=2); points(c(-1,1),enamine$y[3:4],pch=16)
+legend(x = 1.1, y = 85, legend = c("-","+"), lty=1:2, title="Temperature")
+
+```
+
