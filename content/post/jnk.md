@@ -37,3 +37,20 @@ legend(x = 1.1, y = 85, legend = c("-","+"), lty=1:2, title="Temperature")
 
 ```
 
+
+
+
+
+```{r}
+conversion <- data.frame(A=gl(2,3,12,c("-","+")),
+                         B=gl(2,6,12,c("-","+")),
+                         Yield=c(28,25,27,36,32,32,18,19,23,31,30,29) )
+n <- 3
+sum(coded(conversion$A)*conversion$Yield)/(2*n)
+```
+
+
+```{r}
+
+```
+
