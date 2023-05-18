@@ -1,6 +1,6 @@
 +++
 date      = 2023-05-18
-draft     = false
+draft     = true
 tags      = ["Borrar"]
 title     = "Borrar"
 math      = true
