@@ -2,6 +2,7 @@
 date      = 2023-05-18
 draft     = false
 tags      = ["Borrar"]
+title     = "Borrar"
 math      = true
 authors = ["admin"]
 +++
