@@ -8,7 +8,7 @@ math  = true
 
 **Conferencista:** Adrian Camilo Cepeda Cepeda. Estudiante de Matemáticas, Uptc.
 
-**Fecha:** Miércoles 24 de mayo de 2023, 3:00 p.m.
+**Fecha:** Viernes 26 de mayo de 2023, 2:00 p.m.
 
 **Lugar:** C-119
 
