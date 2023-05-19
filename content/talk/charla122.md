@@ -1,5 +1,5 @@
 +++
-date  = "2023-05-17"
+date  = "2023-05-19"
 draft = false
 tags  = ["Nuestro Encuentro"]
 title = "Charla 122: Sur les maxima des formes bilinéaires et sur les fonctionnelles linéaires"
