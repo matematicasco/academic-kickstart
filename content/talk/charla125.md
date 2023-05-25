@@ -1,5 +1,5 @@
 +++
-date  = "2023-05-24"
+date  = "2023-05-25"
 draft = false
 tags  = ["Nuestro Encuentro"]
 title = "Charla 125: Calculus in Banach Spaces"
