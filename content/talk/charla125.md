@@ -1,5 +1,5 @@
 +++
-date  = "2023-05-25"
+date  = "2023-05-31"
 draft = false
 tags  = ["Nuestro Encuentro"]
 title = "Charla 125: Calculus in Banach Spaces"
@@ -8,7 +8,7 @@ math  = true
 
 **Conferencista:** Leonardo Enrique Joya Parra. Estudiante de Matemáticas, Uptc.
 
-**Fecha:** Miércoles 31 de mayo de 2023, 2:00 p.m.
+**Fecha:** Viernes 2 de junio de 2023, 2:00 p.m.
 
 **Lugar:** C-119
 
