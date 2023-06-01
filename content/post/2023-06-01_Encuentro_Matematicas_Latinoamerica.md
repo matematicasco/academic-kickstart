@@ -12,5 +12,5 @@ El III Encuentro de mujeres matemáticas en Latinoamérica se llevará acabo en 
 
 Formulario de inscripción https://forms.gle/YiCDB6cz9QSrb8g87
 
+![](https://uptc.edu.co/sitio/export/sites/default/portal/.content/event/img_ev/2023/06_junio/afi_enc_mujmat_1.jpg_1336408252.jpg)
 
-https://uptc.edu.co/sitio/export/sites/default/portal/.content/event/img_ev/2023/06_junio/afi_enc_mujmat_1.jpg_1336408252.jpg
