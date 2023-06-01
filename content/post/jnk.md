@@ -1,56 +1,32 @@
 +++
-date      = 2023-05-18
+date      = 2023-06-01
 draft     = true
 tags      = ["Borrar"]
-title     = "Borrar"
+title     = "Datos"
 math      = true
 authors = ["admin"]
 +++
 
 
-```{r}
-enamine <- data.frame(x1=gl(2,1,4,labels=c("-","+")),
-                      x2=gl(2,2,4,labels=c("-","+")),
-                      y=c(80.4,72.4, 94.4, 90.6))
-
-coded <- function(x,v="+"){
-  if(missing(v))
-    out= x==x[1]
-  else
-    out= x==v
-  return(2*out-1)
-}
-
-sum(coded(enamine$x1)*enamine$y)/2
-sum(coded(enamine$x2)*enamine$y)/2
-sum(coded(enamine$x1)*coded(enamine$x2)*enamine$y)/2
-```
+150           77.4
+250           88.9
+150           76.7
+250           89.2
+150           78.2
+250           89.7
+200           84.1
+300           94.8
+200           84.5
+300           94.7
+200           83.7
+300           95.9
 
 
-```{r}
-plot(c(-1,1), enamine$y[1:2],type="b",ylim=c(70,95),xlim=c(-1.5,2.1), pch=16,
-     xlab="Amount of Formic acid",xaxt="n",
-     ylab="Yield of bornylmorpholine %",main="Gráfico de Interacción")
-axis(1,at=c(-1,1),labels=c("1 mol/mol","1.5 mol/mol"))
-lines(c(-1,1),enamine$y[3:4],lty=2); points(c(-1,1),enamine$y[3:4],pch=16)
-legend(x = 1.1, y = 85, legend = c("-","+"), lty=1:2, title="Temperature")
+979.18 483.93 416.01 227.53 254.70 196.69 168.67 764.10 1132.00 1188.60 1075.40 594.30
+1075.40 792.40 481.10 181.12 226.40 396.20 141.50 141.78 164.71 232.06 127.07 294.32 
+1047.10 820.70
 
-```
-
-
-
-
-
-```{r}
-conversion <- data.frame(A=gl(2,3,12,c("-","+")),
-                         B=gl(2,6,12,c("-","+")),
-                         Yield=c(28,25,27,36,32,32,18,19,23,31,30,29) )
-n <- 3
-sum(coded(conversion$A)*conversion$Yield)/(2*n)
-```
-
-
-```{r}
-
-```
+3.4  3.6  3.6  3.6  3.6  3.7  3.8  3.8  3.9  4.0  4.1  4.2  4.8  4.9  5.0  5.1
+5.1  5.2  5.2  5.2  5.4  5.5  5.6  5.7  6.2  6.6  7.0  7.6  7.8  8.2  8.5  8.9
+9.3  9.3  9.9 10.7 10.7 11.5 12.1 12.6 13.1 13.4 13.8 14.2 15.2 17.1 20.6 25.5
 
