@@ -1,6 +1,6 @@
 +++
-date      = 2023-06-01
-draft     = true
+date      = 2022-01-01
+draft     = false
 tags      = ["Borrar"]
 title     = "Datos"
 math      = true
