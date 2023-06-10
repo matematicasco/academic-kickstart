@@ -3,7 +3,7 @@ name: Pedro N. Maluendas
 authors:
 - maluendas-p
 superuser: false
-role:  Assistant Professor
+role:  Associate Professor
 organizations:
 - name: Universidad Pedagógica y Tecnológica de Colombia
   url: "http://www.uptc.edu.co"
