@@ -35,7 +35,6 @@ social:
 - icon: researchgate
    icon_pack: ai
    link: https://www.researchgate.net/profile/William-Fajardo-5
- 
 
 email: ""
 
