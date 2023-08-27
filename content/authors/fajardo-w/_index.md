@@ -38,5 +38,5 @@ social:
 
 email: ""
 
-user_groups: ["giaa"]
+user_groups: ["Escuela","giaa"]
 ---
