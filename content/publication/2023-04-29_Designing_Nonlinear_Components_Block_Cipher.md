@@ -9,7 +9,7 @@ doi = "10.32604/cmc.2023.035347"
 selected = false
 projects = ['giaa']
 tags = ["GIAA","Cat. A2"]
-url_pdf = "https://www.mdpi.com/2079-3197/10/12/219/pdf?version=1671027273"
+url_pdf = "https://www.techscience.com/cmc/v75n3/52566/pdf"
 math = true
 highlight = true
 [header]
