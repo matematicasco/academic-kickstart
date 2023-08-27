@@ -6,7 +6,7 @@ title = "Charla 126: Some remarks on the SAGBI bases of skew Poincaré-Birkoff-W
 math  = true
 +++
 
-**Conferencista: Yesica Paola Suárez Gómez, Profesora Escuela de Matemáticas y Estadística, Uptc** 
+**Conferencista: [Yesica P. Suárez](https://matematicas.netlify.app/authors/suarez-y/). Profesora Escuela de Matemáticas y Estadística, Uptc** 
 
 **Fecha:** Viernes 16 de agosto de 2023, 2:00 p.m.
 
