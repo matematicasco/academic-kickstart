@@ -39,5 +39,5 @@ social:
 
 email: ""
 
-user_groups: ["Escuela","tenga"]
+user_groups: ["tenga"]
 ---
