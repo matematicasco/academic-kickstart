@@ -29,7 +29,7 @@ social:
 - icon: cv
    icon_pack: ai
    link: https://scienti.minciencias.gov.co/cvlac/visualizador/generarCurriculoCv.do?cod_rh=0001354165
- - icon: orcid
+- icon: orcid
    icon_pack: ai
    link: https://orcid.org/0000-0002-5227-6792
 - icon: researchgate
