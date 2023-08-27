@@ -12,6 +12,9 @@ organizations:
 bio: 
 interests:
 - Noncommutative algebra
+- Computational algebra
+- Analysis
+- Topology
 education:
   courses:
   - course: PhD in Mathematical Sciences
