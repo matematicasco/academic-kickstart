@@ -1,6 +1,6 @@
 +++
 title = "Designing Pair of Nonlinear Components of a Block Cipher over Gaussian Integers"
-date = "2023-12-14"
+date = "2023-04-29"
 authors = ["Sajjad, M.","Shah, T.", "serna-r"]
 publication_types = ["2"]
 publication = "*Computers, Materials and Continua*, **75**(3), 5287--5305. doi:10.32604/cmc.2023.035347"
