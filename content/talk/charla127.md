@@ -8,7 +8,7 @@ math  = true
 
 **Conferencista: [William Alfredo Fajardo Cárdenas](https://matematicas.netlify.app/authors/fajardo-w/), Profesor Escuela de Matemáticas y Estadística, Uptc** 
 
-**Fecha:** Viernes 23 de agosto de 2023, 2:00 p.m.
+**Fecha:** Miércoles 23 de agosto de 2023, 2:00 p.m.
 
 **Lugar:** C-119
 
