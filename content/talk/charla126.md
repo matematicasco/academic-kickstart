@@ -8,7 +8,7 @@ math  = true
 
 **Conferencista: [Yesica P. Suárez](https://matematicas.netlify.app/authors/suarez-y/). Profesora Escuela de Matemáticas y Estadística, Uptc** 
 
-**Fecha:** Viernes 16 de agosto de 2023, 2:00 p.m.
+**Fecha:** Miércoles 16 de agosto de 2023, 2:00 p.m.
 
 **Lugar:** C-119
 
