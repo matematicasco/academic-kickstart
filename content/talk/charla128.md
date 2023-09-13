@@ -1,5 +1,5 @@
 +++
-date  = "2023-08-28"
+date  = "2023-08-30"
 draft = false
 tags  = ["Nuestro Encuentro"]
 title = "Charla 128: Data Transmission: Codes over the Eisenstein Field"
