@@ -6,7 +6,7 @@ title = "Charla 128: Data Transmission: Codes over the Eisenstein Field"
 math  = true
 +++
 
-**Conferencista: [Muhammad Sajjad](https://www.researchgate.net/profile/Muhammad-Sajjad-44), Department of Mathematics Quaid-I-Azam University, Islamabad, Pakistan** 
+**Conferencista:** [Muhammad Sajjad](https://www.researchgate.net/profile/Muhammad-Sajjad-44), Department of Mathematics Quaid-I-Azam University, Islamabad, Pakistan
 
 **Fecha:** Miércoles 30 de agosto de 2023, 2:00 p.m.
 
