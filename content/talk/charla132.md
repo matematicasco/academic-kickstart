@@ -1,5 +1,5 @@
 +++
-date  = "2023-10-03"
+date  = "2023-10-04"
 draft = false
 tags  = ["Nuestro Encuentro"]
 title = "Charla 132: Dinámica sobre skew-product"
