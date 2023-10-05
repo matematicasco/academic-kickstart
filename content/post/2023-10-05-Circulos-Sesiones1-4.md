@@ -10,7 +10,7 @@ authors   = ["admin"]
 
 <img src="https://matematicas.netlify.app/img/circulos/2023-10-05-Circulos-1.jpeg"  width="500">
 
-El pasado 29 de octubre realizamos la cuarta sesión de Círculos Matemáticos - Uptc. Este semestre están participando 20 estudiantes de la ciudad de Tunja. 
+El pasado 29 de septiembre realizamos la cuarta sesión de Círculos Matemáticos - Uptc. Este semestre están participando 20 estudiantes de la ciudad de Tunja. 
 
 Las próximas sesiones tomarán lugar como se presenta a continuación:
 
