@@ -8,7 +8,7 @@ math  = true
 
 **Conferencista:** [Gabriel J. Montoya Vega](https://scholar.google.com/citations?user=P96utsIAAAAJ), Postdoctoral Fellow de la Fundación Nacional de Ciencias, City University of New York (CUNY).
 
-**Fecha:** Miércoles 18 de octubre de 2023, 2:00 p.m.
+**Fecha:** Miércoles 11 de octubre de 2023, 2:00 p.m.
 
 **Lugar:** C-119 (Video llamada)
 
