@@ -12,4 +12,4 @@ math  = true
 
 **Lugar:** C-119 (Video llamada)
 
-**Resumen**: La teoría matemática de nudos estudia la forma en que las curvas cerradas simples viven en $\mathcal{R}^3$. Es un campo de investigación bastante desarrollado y que tiene conexiones con otras áreas como teoría de grafos, mecánica estadística, química, entre otras. En esta charla discutiremos los orígenes históricos de la teoría y exploraremos la noción de invariantes de nudos. Finalmente, veremos como a partir de los diagramas de nudos se puede construir una teoría de homología.
+**Resumen**: La teoría matemática de nudos estudia la forma en que las curvas cerradas simples viven en $\mathbb{R}^3$. Es un campo de investigación bastante desarrollado y que tiene conexiones con otras áreas como teoría de grafos, mecánica estadística, química, entre otras. En esta charla discutiremos los orígenes históricos de la teoría y exploraremos la noción de invariantes de nudos. Finalmente, veremos como a partir de los diagramas de nudos se puede construir una teoría de homología.
