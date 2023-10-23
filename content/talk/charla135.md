@@ -6,7 +6,7 @@ title = "Charla 135: Sobolev encuentra a Riesz: una caracterización alternativa
 math  = true
 +++
 
-**Conferencista:** Oscar Mauricio Guzmán Fonseca, Fundación Universidad de América .
+**Conferencista:** [Oscar Mauricio Guzmán Fonseca](https://www.researchgate.net/profile/Oscar-Guzman-Fonseca), Fundación Universidad de América.
 
 **Fecha:** Miércoles 25 de octubre de 2023, 2:00 p.m.
 
