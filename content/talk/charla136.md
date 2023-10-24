@@ -8,7 +8,7 @@ math  = true
 
 **Conferencista:** .
 
-**Fecha:** Miércoles 25 de octubre de 2023, 2:00 p.m.
+**Fecha:** Miércoles 1 de noviembre de 2023, 2:00 p.m.
 
 **Lugar:** C-119
 
