@@ -1,5 +1,5 @@
 +++
-date  = "2023-10-24"
+date  = "2023-10-25"
 draft = false
 tags  = ["Nuestro Encuentro"]
 title = "Charla 135: Sobolev encuentra a Riesz: una caracterización alternativa de los espacios de Sobolev con pesos vía espacios de variación acotada en el sentido de Riesz"
