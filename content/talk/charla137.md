@@ -1,14 +1,14 @@
 +++
-date  = "2023-10-25"
+date  = "2023-11-08"
 draft = true
 tags  = ["Nuestro Encuentro"]
-title = "Charla 135: "
+title = "Charla 137: "
 math  = true
 +++
 
 **Conferencista:** .
 
-**Fecha:** Miércoles 25 de octubre de 2023, 2:00 p.m.
+**Fecha:** Miércoles 8 de noviembre de 2023, 2:00 p.m.
 
 **Lugar:** C-119
 
