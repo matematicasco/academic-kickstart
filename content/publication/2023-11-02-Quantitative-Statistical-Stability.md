@@ -9,7 +9,7 @@ selected = false
 projects = ["gedmys"]
 tags = ["GEDMyS","Cat. A1"]
 doi = "10.3934/dcds.2023129"
-url_pdf = ""
+url_pdf = "https://www.aimsciences.org/data/article/export-pdf?id=653f7cb53fa1637769c4f962"
 math = true
 highlight = true
 [header]
