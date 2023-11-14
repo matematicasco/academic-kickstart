@@ -6,7 +6,7 @@ title = "Charla 138: Pirámide Tricolor"
 math  = true
 +++
 
-**Conferencista:** Karen Viviana Varela Cubides. Estudiante Carrera de Matemáticas.
+**Conferencista:** Karen Viviana Varela Cubides. Estudiante Carrera de Matemáticas, UPTC
 
 **Fecha:** Miércoles 15 de noviembre de 2023, 2:00 p.m.
 
