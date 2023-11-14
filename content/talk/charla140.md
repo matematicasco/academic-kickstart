@@ -1,15 +1,15 @@
 +++
-date  = "2023-10-25"
+date  = "2023-11-22"
 draft = true
 tags  = ["Nuestro Encuentro"]
-title = "Charla 135: "
+title = "Charla 140: "
 math  = true
 +++
 
-**Conferencista:** .
+**Conferencista:** . Estudiante Carrera de Matemáticas, UPTC
 
-**Fecha:** Miércoles 25 de octubre de 2023, 2:00 p.m.
+**Fecha:** Miércoles 22 de noviembre de 2023, 2:00 p.m.
 
 **Lugar:** C-119
 
-**Resumen**:
+**Resumen**: 
