@@ -2,7 +2,7 @@
 date  = "2023-11-14"
 draft = false
 tags  = ["Nuestro Encuentro"]
-title = "Charla 138: La historia de Ada Byron a través del teatro"
+title = "Charla 139: La historia de Ada Byron a través del teatro"
 math  = true
 +++
 
