@@ -1,5 +1,5 @@
 +++
-date  = "2023-11-19"
+date  = "2023-11-20"
 draft = false
 tags  = ["Nuestro Encuentro"]
 title = "Charla 140: Perspectiva topológica, una exploración de puntos de convergencia en obras de arte"
