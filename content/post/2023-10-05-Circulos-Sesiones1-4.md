@@ -3,7 +3,7 @@ date      = 2023-10-05
 lastmod   = 2023-10-05
 draft     = false
 tags      = ["Círculos"]
-title     = "Primeras cuartro sesiones Círculos Matemáticos Colombia 2023 - Uptc"
+title     = "Primeras cuatro sesiones Círculos Matemáticos Colombia 2023 - Uptc"
 math      = true
 authors   = ["admin"]
 +++
