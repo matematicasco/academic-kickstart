@@ -1,5 +1,5 @@
 +++
-date      = 2023-11-19
+date      = 2023-11-20
 lastmod   = 2023-11-19
 draft     = false
 tags      = ["Alumni"]
