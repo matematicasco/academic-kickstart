@@ -8,7 +8,7 @@ math  = true
 
 **Conferencista:** Jonatan Andrés Gómez Parada. PhD Candidate. Universidade Estadual de Campinas.
 
-**Fecha:** Miércoles 22 de noviembre de 2023, 2:00 p.m.
+**Fecha:** Miércoles 23 de noviembre de 2023, 2:00 p.m.
 
 **Lugar:** C-119
 
