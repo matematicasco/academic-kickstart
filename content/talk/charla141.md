@@ -1,5 +1,5 @@
 +++
-date  = "2023-11-20"
+date  = "2023-11-23"
 draft = false
 tags  = ["Nuestro Encuentro"]
 title = "Charla 141: Una breve introducción a PI-álgebras y el problema de la inclusión para álgebras con involución"
