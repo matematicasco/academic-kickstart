@@ -13,7 +13,7 @@ authors   = ["admin"]
 <iframe width="560" height="315" src="https://www.youtube.com/embed/xZPxfiTrr3s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 <img src="https://matematicas.netlify.app/img/circulos/2023-12-12-Circulos-1.png"  width="400">
-**Comunicado oficial:** https://www.uptc.edu.co/sitio/portal/cal_not_eve/noticias/det/Concluyeron-los-Circulos-Matematicos-Colombia-2023-adelantados-por-el-programa-de-Matematicas-de-la-UPTC/)
+**Comunicado oficial:** https://www.uptc.edu.co/sitio/portal/cal_not_eve/noticias/det/Concluyeron-los-Circulos-Matematicos-Colombia-2023-adelantados-por-el-programa-de-Matematicas-de-la-UPTC/
 
 
 
