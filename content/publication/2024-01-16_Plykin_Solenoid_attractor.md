@@ -9,7 +9,7 @@ selected = false
 projects = ["gedmys"]
 tags = ["GEDMyS","Cat. C"]
 doi = "10.15446/recolma.v57nSupl.112450"
-url_pdf = "https://www.aimsciences.org/data/article/export-pdf?id=653f7cb53fa1637769c4f962"
+url_pdf = "https://revistas.unal.edu.co/index.php/recolma/article/view/112450/90717"
 math = true
 highlight = true
 [header]
