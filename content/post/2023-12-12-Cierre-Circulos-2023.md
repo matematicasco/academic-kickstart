@@ -14,6 +14,6 @@ authors   = ["admin"]
 
 <img src="https://matematicas.netlify.app/img/circulos/2023-12-12-Circulos-1.png"  width="400">
 
-<iframe width="560" height="315" src="https://youtu.be/xZPxfiTrr3s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xZPxfiTrr3s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 
