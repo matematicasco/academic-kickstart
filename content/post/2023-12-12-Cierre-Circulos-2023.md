@@ -14,8 +14,10 @@ El pasado 12 de diciembre de 2022 se entregaron los certificados de participaci√
 
 <table>
   <tr>
-    <td><img src="https://matematicas.netlify.app/img/circulos/2022-11-16-Circulos-1.jpeg"  width="300"></td>
+    <td><img src="https://matematicas.netlify.app/img/circulos/2023-12-12-Circulos-1.png"  width="300"></td>
   </tr>
 </table>
+
+<iframe width="560" height="315" src="https://youtu.be/xZPxfiTrr3s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 
