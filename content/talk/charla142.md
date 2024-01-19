@@ -1,5 +1,5 @@
 +++
-date  = "2024-01-15"
+date  = "2024-01-16"
 draft = false
 tags  = ["Nuestro Encuentro"]
 title = "Charla 142: Dispersion of Casson Fluid through a Slightly Curved Tube"
