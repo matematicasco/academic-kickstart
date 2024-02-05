@@ -8,7 +8,7 @@ math      = true
 authors   = ["admin"]
 +++
 
-<img src="img/circulos/2024-02-05 Circulos 2024.jpeg"  width="600"/>
+<img src="https://matematicas.netlify.app/img/circulos/2024-02-05_Circulos_2024.jpeg"  width="600"/>
 
 La Sociedad Colombiana de Matemáticas (SCM), en asocio con algunas universidades del país, creó este espacio, Círculos Matemáticos Colombia, para ofrecer un aspecto divertido y profundo del quehacer matemático, a estudiantes que están a punto de tomar su decisión vocacional, como una forma de orientar su futuro profesional.
 
