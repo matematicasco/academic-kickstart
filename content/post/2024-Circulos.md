@@ -9,6 +9,7 @@ authors   = ["admin"]
 +++
 
 
+
 La Sociedad Colombiana de Matemáticas (SCM), en asocio con algunas universidades del país, creó este espacio, Círculos Matemáticos Colombia, para ofrecer un aspecto divertido y profundo del quehacer matemático, a estudiantes que están a punto de tomar su decisión vocacional, como una forma de orientar su futuro profesional.
 
 Los Círculos Matemáticos constan de 8 sesiones que se realizarán durante semanas consecutivas, exceptuando la semana de receso de cada colegio y universidad.
