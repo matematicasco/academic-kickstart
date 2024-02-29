@@ -9,7 +9,7 @@ abstract = "In [4], Haran, using Riesz potentials, presents a version of the cla
 $\\mathbb{Q}$. To this end, we define Riesz kernels for both the totally ramified and complex cases. Although Haran implicitly addressed the unramified extension, we also include this case for the sake of completeness. Following Haran’s approach with the Riemann zeta function, we demonstrate that these Riesz kernels naturally arise in connection with the contributions of the totally ramified and complex places to the Dedekind zeta function of the imaginary quadratic extension."
 selected = false
 projects = ["tenga"]
-tags = ["GTNyGA","p-adics"]
+tags = ["GTNyGA","p-adics","Number theory"]
 doi = ""
 url = "https://arxiv.org/html/2401.09634v1"
 highlight = true
