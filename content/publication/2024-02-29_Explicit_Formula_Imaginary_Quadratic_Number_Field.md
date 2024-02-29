@@ -1,7 +1,7 @@
 +++
 math = true
 title = "Explicit formula in a imaginary quadratic number field"
-date = "2022-05-23"
+date = "2024-02-29"
 authors = ["Rodríguez-Vega, J.J.", "casas-o"]
 publication_types = ["2"]
 publication = "*arXiv:2401.09634, 2024*"
