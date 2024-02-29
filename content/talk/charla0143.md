@@ -6,7 +6,7 @@ title = "Charla 143: Uso de las Ecuaciones Diferenciales Ordinarias para analiza
 math  = true
 +++
 
-**Conferencista:** [Miguel Patarroyo Mesa](https://www.researchgate.net/profile/Miguel-Patarroyo-Mesa). Department of Mathematics. The University of The West Indies at Mona, Jamaica
+**Conferencista:** [Miguel Patarroyo Mesa](https://www.researchgate.net/profile/Miguel-Patarroyo-Mesa). Licenciatura en Matemáticas, UPTC
 
 **Fecha:** Martes 14 de Febrero de 2024, 2:00 p.m.
 
