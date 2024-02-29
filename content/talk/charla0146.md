@@ -6,7 +6,7 @@ title = "Charla 146: El duelo matemático más famoso de la historia"
 math  = true
 +++
 
-**Conferencista:** Perdro Nel Maluendas Pardo. Profesor Escuela de Matemáticas, UPTC
+**Conferencista:** [Perdro Nel Maluendas Pardo](https://matematicas.netlify.app/authors/maluendas-p/). Profesor Escuela de Matemáticas, UPTC
 
 **Fecha:** Miércoles 6 de Marzo de 2024, 2:00 p.m.
 
