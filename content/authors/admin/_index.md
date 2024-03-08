@@ -34,21 +34,20 @@ https://www.uptc.edu.co/sitio/portal/sitios/universidad/vic_aca/facultades/fac_c
 
 #### Representantes Profesorales
 
-* Área Interdisciplinar: [Julio Andrés Montero Rosero](https://matematicas.netlify.app/authors/montero-j/)
+* Área Disciplinar y de Profundización: [Nelsy R. González Gutiérrez](https://matematicas.netlify.app/authors/gonzalez-n/)
 
-* Área Disciplinar y de Profundización: [Juan Carlos Juajibioy Otero](https://matematicas.netlify.app/authors/juajibioy-j/)
-
+* Área Interdisciplinar: 
 
 #### Representante de los graduados
 
-[J. David Arévalo](https://matematicas.netlify.app/authors/arevalo-d/)
+[J. David Arevalo Buitrago](https://matematicas.netlify.app/authors/arevalo-d/)
 
 
 #### Representantes estudiantiles
 
-* Michael Esteban Medina
+* Manuel Andrés Novoa
 
-* Manuel Novoa
+* Laura Daniela Rincón 
 
 #### Secretaria 
 
