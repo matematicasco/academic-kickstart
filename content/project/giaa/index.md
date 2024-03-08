@@ -50,7 +50,7 @@ slides: example
 [<img src ="https://matematicas.netlify.app/authors/gonzalez-n/avatar_hu0ac10d3afdeb3b5e33db97f51f614cf4_72349_270x270_fill_lanczos_center_2.png" id="circleM">](https://matematicas.netlify.app/authors/gonzalez-n/) |  [<img src ="https://matematicas.netlify.app/authors/serna-r/avatar_hu0a6fbd488de4651afe5722c5cfe71339_628863_270x270_fill_q90_lanczos_center.jpg"  id="circleM">](https://matematicas.netlify.app/authors/serna-r/)|[<img src ="https://matematicas.netlify.app/authors/fuentes-e/avatar_hub9b23f3c28359c7dd103ffaa7248293e_114432_270x270_fill_q90_lanczos_center.jpg"  id="circleM">](https://matematicas.netlify.app/authors/fuentes-e/)
 [Nelsy González](https://matematicas.netlify.app/authors/gonzalez-n/) |[Julian Serna](https://matematicas.netlify.app/authors/serna-r/)|[Edison Fuentes](https://matematicas.netlify.app/authors/fuentes-e/)
 &nbsp;|[<img src ="https://matematicas.netlify.app/authors/suarez-y/avatar_hud3f7d25c0704560242bd0a0f253d4e91_68425_270x270_fill_lanczos_center_2.png" id="circleM">](https://matematicas.netlify.app/authors/suarez-y/) | &nbsp;
-&nbsp;| [Omaida Sepúlveda](https://matematicas.netlify.app/authors/suarez-y/) | &nbsp;
+&nbsp;| [Yésica Suárez](https://matematicas.netlify.app/authors/suarez-y/) | &nbsp;
 
 
 
