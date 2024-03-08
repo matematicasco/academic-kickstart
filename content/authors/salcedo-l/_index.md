@@ -3,7 +3,7 @@ name: Luis A Salcedo
 authors:
 - salcedo-l
 superuser: false
-role: Instructor 
+role: Assistant Professor 
 organizations:
 - name: Universidad Pedagógica y Tecnológica de Colombia
   url: "http://www.uptc.edu.co"
