@@ -24,8 +24,7 @@ user_groups: []
 
 Página oficial del programa de Matemáticas <br>
 
-http://www.uptc.edu.co/facultades/f_ciencias/pregrado/matematicas/inf_general/
-
+https://www.uptc.edu.co/sitio/portal/sitios/universidad/vic_aca/facultades/fac_ciencias/preg/cie_52322_t/01_index.html
 
 ### COMITÉ CURRICULAR:  
 
