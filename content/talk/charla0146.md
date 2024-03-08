@@ -1,5 +1,5 @@
 +++
-date  = "2024-02-29"
+date  = "2024-03-06"
 draft = false
 tags  = ["Nuestro Encuentro"]
 title = "Charla 146: El duelo matemático más famoso de la historia"
