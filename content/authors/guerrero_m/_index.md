@@ -3,7 +3,7 @@ name: Maria Teresa Guerrero de Morales
 authors:
 - guerrero_m
 superuser: false
-role: Professor
+role: Associate Professor
 
 organizations:
 - name: Universidad Pedagógica y Tecnológica de Colombia
