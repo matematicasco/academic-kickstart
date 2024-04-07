@@ -1,17 +1,16 @@
 +++
-date  = "2024-03-06"
+date  = "2024-03-13"
 draft = false
 tags  = ["Nuestro Encuentro"]
-title = "Charla 146: El duelo matemático más famoso de la historia"
+title = "Charla 147: Una descomposición espectral para conjuntos singulares hiperbólicos"
 math  = true
 +++
 
-**Conferencista:** [Perdro Nel Maluendas Pardo](https://matematicas.netlify.app/authors/maluendas-p/). Profesor Escuela de Matemáticas, UPTC
+**Conferencista:** Wilfredo Bohorquez C. Graduado Escuela de Matemáticas, UPTC
 
-**Fecha:** Miércoles 6 de Marzo de 2024, 2:00 p.m.
+**Fecha:** Miércoles 13 de Marzo de 2024, 2:00 p.m.
 
 **Lugar:** C-119
 
-**Resumen**: Muchas veces es necesario preguntarse ¿cómo y por qué los conceptos matemáticos que nos son presentados son de esa manera? Entender esto requiere de un esfuerzo por rastrear su origen y evolución, y exige un dominio matemático adecuado del concepto. En esta presentación se mostrará de forma poco rigurosa un suceso histórico que dió origen a varios de los conceptos básicos que conocemos hoy en día desde la secundaria, desde la simbolización del álgebra elemental hasta el nacimiento mismo de los números enteros y los números complejos, y la influencia del pensamiento geométrico en estos procesos.
-
+**Resumen**: El estudio de los conjuntos hiperbólicos surge en los años 60, principalmente, a raíz de los trabajos de Smale, junto con sus colaboradores y estudiantes (Anosov, Arnold, Sinai) quienes estudiaron conjuntos compactos invariantes (entre estos los conjuntos hiperbólicos) como herramienta para analizar propiedades dinámicas de algunos tipos de flujos. En 1987 Mañé da una prueba de la conjetura de $C^1$−estabilidad y, en 1998 Morales, Pacífico y Pujals mostraron una generalización de estos conjuntos, denominándola *conjuntos singulares hiperbólicos*. Por ende, es natural preguntarse si las propiedades que se tienen en los conjuntos hiperbólicos son válidas en esta clase más general. En esta charla se resumirán los resultados obtenidos por C. Morales, y M. Pacífico en esta dirección.
 
