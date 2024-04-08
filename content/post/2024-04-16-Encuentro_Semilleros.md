@@ -9,5 +9,5 @@ authors = ["admin"]
 +++
 
 
-<img src="https://matematicas.netlify.com/img/semilleros2024.jpg"  width="500">
+<img src="https://matematicas.netlify.com/img/semilleros2024.jpeg"  width="500">
 
