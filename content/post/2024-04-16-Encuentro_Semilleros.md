@@ -17,7 +17,7 @@ https://docs.google.com/forms/d/1ISz77C4uO7U3XSp5NLDQq0xavUlII8uDSzf5haw9ldI/vie
 
 Lugar | Hora | Actividad
 :------|:-----:|:--------------------------------
-Audirorio<br>Laboratorios<br>nuevos|08:00am - 09:30aa  | **Feria:** <br> Exposición de materiales y juegos matemáticos. <br> Rally para reconocimiento de grupos de investigación.
+Audirorio<br>Laboratorios<br>nuevos|08:00am - 09:30am  | **Feria:** <br> Exposición de materiales y juegos matemáticos. <br> Rally para reconocimiento de grupos de investigación.
 &nbsp; | 09:30am – 09:45am | Break.
 &nbsp; | 09:45am – 10:00am | Acto inaugural.
 &nbsp; |10:00am – 11:00am | **Conferencia Central** <br> *Inteligencia Artificial : Desde el presente hacia el futuro.* <br> **Conferencistas:** <br> Andrés Felipe Flórez Olivera <br> Nicolás Castillo Ojeda
