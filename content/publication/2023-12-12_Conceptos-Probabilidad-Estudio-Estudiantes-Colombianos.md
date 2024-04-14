@@ -1,7 +1,7 @@
 +++
 title = "Conceptos de Probabilidad: un Estudio con Estudiantes Colombianos Universitarios"
 date = "2023-12-12"
-authors = ["burbano-v", "valdivieso-m","Kanobel, M.C."]
+authors = ["valdivieso-m","burbano-v","Kanobel, M.C."]
 publication_types = ["2"]
 publication = "*Ciencia En Desarrollo*, **14**(E), 14-18. doi:10.19053/uptc.01217488.v14.n3.2023.17423"
 publication_short = ""
