@@ -11,10 +11,9 @@ authors = ["admin"]
 
 <img src="https://matematicas.netlify.com/img/semilleros2024.jpeg"  width="500">
 
-Inscríbase en el siguiente enlace:
+**Inscríbase en el siguiente enlace:**
 
-https://docs.google.com/forms/d/1ISz77C4uO7U3XSp5NLDQq0xavUlII8uDSzf5haw9ldI/viewform?edit_re
-quested=true
+https://docs.google.com/forms/d/1ISz77C4uO7U3XSp5NLDQq0xavUlII8uDSzf5haw9ldI/viewform?edit_requested=true
 
 Lugar | Hora | Actividad
 :------|:-----:|:--------------------------------
