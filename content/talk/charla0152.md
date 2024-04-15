@@ -1,5 +1,5 @@
 +++
-date  = "2024-04-14"
+date  = "2024-04-15"
 draft = false
 tags  = ["Nuestro Encuentro"]
 title = "Charla 152: Weak Asymptotic Analysis for scalar conservation laws with nonlocal flux- Analytical aspects, and numerical approximation"
