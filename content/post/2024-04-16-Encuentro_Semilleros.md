@@ -1,6 +1,6 @@
 +++
 date      = 2024-04-07
-lastmod   = 2024-04-07
+lastmod   = 2024-04-15
 draft     = false
 tags      = ["Estudiantes"]
 title     = "Segundo encuentro de semilleros de investigación y formación matemática"
