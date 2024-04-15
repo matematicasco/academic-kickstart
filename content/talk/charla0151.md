@@ -1,5 +1,5 @@
 +++
-date  = "2024-04-14"
+date  = "2024-04-15"
 draft = false
 tags  = ["Nuestro Encuentro"]
 title = "Charla 151: Ley de reciprocidad cuadrática: un fascinante viaje matemático"
