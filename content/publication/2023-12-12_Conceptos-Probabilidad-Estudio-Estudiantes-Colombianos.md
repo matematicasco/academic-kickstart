@@ -10,7 +10,7 @@ doi = "10.19053/uptc.01217488.v14.n3.2023.17423"
 selected = false
 projects = ['gici']
 tags = ["GICCI","Cat. B"]
-url_pdf = "https://revistas.uptc.edu.co/index.php/ciencia_en_desarrollo/article/view/17422/13968"
+url_pdf = "https://revistas.uptc.edu.co/index.php/ciencia_en_desarrollo/article/view/17423/13968"
 math = true
 highlight = true
 [header]
