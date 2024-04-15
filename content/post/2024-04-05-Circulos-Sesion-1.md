@@ -29,5 +29,3 @@ Han iniciado kos Círculos Matemáticos 2024 con pa participación de 21 estudia
 
 En el siguiente enlace puede accesar el comunicado oficial dado por la Dirección de Comunicaciones UPTC: [Comunicado 069](https://www.uptc.edu.co/sitio/portal/cal_not_eve/noticias/det/UPTC-dio-inicio-a-su-participacion-en-los-Circulos-Matematicos-Colombia-2024/).
 
-
-<img src="https://matematicas.netlify.app/img/2022-09-16-Circulos.jpeg"  width="500"/>
