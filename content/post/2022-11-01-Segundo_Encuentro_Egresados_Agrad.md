@@ -2,7 +2,7 @@
 date      = 2022-11-01
 lastmod   = 2022-11-01
 draft     = false
-tags      = ["Alumni"]
+tags      = ["Alumni","Eventos"]
 title     = "Segundo Encuentro de Egresados"
 math      = true
 authors = ["admin"]
