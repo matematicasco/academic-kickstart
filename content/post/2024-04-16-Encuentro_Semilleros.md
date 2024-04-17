@@ -2,7 +2,7 @@
 date      = 2024-04-07
 lastmod   = 2024-04-15
 draft     = false
-tags      = ["Estudiantes"]
+tags      = ["Estudiantes","Eventos"]
 title     = "Segundo encuentro de semilleros de investigación y formación matemática"
 math      = true
 authors = ["admin"]
