@@ -2,7 +2,7 @@
 date      = 2022-09-01
 lastmod   = 2022-09-01
 draft     = false
-tags      = ["Concurso"]
+tags      = ["Concurso","Eventos"]
 title     = "Concurso de Integrales Uptc, 2022"
 math      = true
 authors = ["admin"]
