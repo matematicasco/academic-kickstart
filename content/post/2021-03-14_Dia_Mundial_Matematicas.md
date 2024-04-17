@@ -2,7 +2,7 @@
 date      = 2021-03-08
 lastmod   = 2021-03-08
 draft     = false
-tags      = ["SCM"]
+tags      = ["SCM","Eventos"]
 title     = "Día Internacional de las Matemáticas, 2021"
 math      = true
 authors   = ["admin"]
