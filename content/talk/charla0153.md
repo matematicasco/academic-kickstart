@@ -1,5 +1,5 @@
 +++
-date  = "2024-04-15"
+date  = "2024-04-24"
 draft = true
 tags  = ["Nuestro Encuentro"]
 title = "Charla 153: "
