@@ -18,7 +18,7 @@ image = ""
 caption = ""
 +++
 
-<img src=""  width="200">
+<img src="https://matematicas.netlify.app/img/delete.png"  width="200">
 
 [Más información](https://editorial.uptc.edu.co/catalogo.html?products_year_edition=35)
 
