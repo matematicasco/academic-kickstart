@@ -48,4 +48,4 @@ user_groups:
 ---
 
 
-<center><img src="https://matematicas.netlify.com/img/gs/juajibioy-j.png"  width="350"></center>
+<center><img src="https://matematicas.netlify.app/img/gs/juajibioy-j.png"  width="350"></center>
