@@ -14,4 +14,4 @@ https://www.facebook.com/SocColMat/
 
 https://www.youtube.com/channel/UCKf8053DsTqHRP76oybiBZw
 
-<img src="https://matematicas.netlify.com/img/2021IDM.jpg"  width="500"/>
+<img src="https://matematicas.netlify.app/img/2021IDM.jpg"  width="500"/>
