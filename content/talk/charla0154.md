@@ -1,5 +1,5 @@
 +++
-date  = "2024-04-19"
+date  = "2024-04-24"
 draft = false
 tags  = ["Nuestro Encuentro"]
 title = "Charla 154: Relación entre producto interno, norma y espacios métricos"
