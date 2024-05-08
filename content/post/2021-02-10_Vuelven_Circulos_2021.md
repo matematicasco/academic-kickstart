@@ -12,9 +12,9 @@ Para recibir más información y recordatorios de los Círculos Matemáticos Col
 
 El siguiente es el calendario para el primer semestre de 2021:
 
-<img src="https://matematicas.netlify.com/img/calendarioCirculos2021.jpg"  width="500"/>
+<img src="https://matematicas.netlify.app/img/calendarioCirculos2021.jpg"  width="500"/>
 
 Y esta es la información del primer círculo para el año 2021:
 
-<img src="https://matematicas.netlify.com/img/vuelvecirculo2021.jpg"  width="500"/>
+<img src="https://matematicas.netlify.app/img/vuelvecirculo2021.jpg"  width="500"/>
 
