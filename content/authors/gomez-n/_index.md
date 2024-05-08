@@ -46,6 +46,6 @@ user_groups:
 ---
 
 
-<center><img src="https://matematicas.netlify.com/img/gs/gomez-n.png"  width="350"></center>
+<center><img src="https://matematicas.netlify.app/img/gs/gomez-n.png"  width="350"></center>
 
 
