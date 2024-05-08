@@ -1,5 +1,5 @@
 +++
-date  = "2024-04-30"
+date  = "2024-05-02"
 draft = false
 tags  = ["Nuestro Encuentro"]
 title = "Charla 155: Pares Coherentes Matriciales: Algoritmos y Aplicacción"
