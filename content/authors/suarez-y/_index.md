@@ -47,4 +47,4 @@ user_groups:
 - "Escuela"
 ---
 
-<center><img src="https://matematicas.netlify.com/img/gs/suarez-y.png"  width="350"></center>
+<center><img src="https://matematicas.netlify.app/img/gs/suarez-y.png"  width="350"></center>
