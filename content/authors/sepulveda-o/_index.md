@@ -48,4 +48,4 @@ user_groups:
 - "giaa"
 ---
 
-<center><img src="https://matematicas.netlify.com/img/gs/sepulveda-o.png"  width="350"></center>
+<center><img src="https://matematicas.netlify.app/img/gs/sepulveda-o.png"  width="350"></center>
