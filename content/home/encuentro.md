@@ -69,4 +69,4 @@ math  = true
  css_class = ""
 +++
 
-<center><img src="https://matematicas.netlify.com/img/logoNE.png" alt="Logo" width="300"/></center>
+<center><img src="https://matematicas.netlify.app/img/logoNE.png" alt="Logo" width="300"/></center>
