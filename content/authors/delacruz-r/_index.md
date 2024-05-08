@@ -49,4 +49,4 @@ user_groups:
 - "gedmys"
 ---
 
-<center><img src="https://matematicas.netlify.com/img/gs/delacruz-r.png"  width="350"></center>
+<center><img src="https://matematicas.netlify.app/img/gs/delacruz-r.png"  width="350"></center>
