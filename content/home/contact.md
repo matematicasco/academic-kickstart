@@ -18,4 +18,4 @@ autolink = true
 email_form = 0
 +++
 
-<center><img src="https://matematicas.netlify.com/img/logoPub.png" alt="Logo" width="350"/></center>
+<center><img src="https://matematicas.netlify.app/img/logoPub.png" alt="Logo" width="350"/></center>
