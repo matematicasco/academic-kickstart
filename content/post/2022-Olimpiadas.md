@@ -7,12 +7,12 @@ title     = "Olimpiadas matemáticas UPTC, 2022"
 math      = true
 +++
 
-<center><img src="https://matematicas.netlify.com/img/Olimpiadas.png" alt="Olimpiadas" width="400"/></center>
+<center><img src="https://matematicas.netlify.app/img/Olimpiadas.png" alt="Olimpiadas" width="400"/></center>
 
 La Escuela de Matemáticas y Estadística de la Universidad Pedagógica y Tecnológica de Colombia (UPTC) sede Tunja, por medio del proyecto de extensión **Olimpiadas Matemáticas UPTC 2022 (OM22)**, espera generar un espacio en el cual se puedan estimular el estudio de las  matemáticas y promover el fortalecimiento de un pensamiento crítico y un espíritu científico en  los jóvenes, así como al desarrollo de habilidades y destrezas que les permitirá seguir mejorando  su desempeño en los ámbitos social, académico y familiar; además, afianzar una relación entre  la UPTC y la comunidad estudiantil de las Instituciones Educativas (I.E.) y colegios de Tunja y  sus alrededores.
 
 
-[Afiche](https://matematicas.netlify.com/files/AficheOlimpiadas2022.pdf)
+[Afiche](https://matematicas.netlify.app/files/AficheOlimpiadas2022.pdf)
 
 
 ### Fechas importantes
