@@ -8,4 +8,4 @@ math      = true
 authors   = ["admin"]
 +++
 
-<img src="https://matematicas.netlify.com/img/cancelacionCirculos.jpg"  width="500"/>
+<img src="https://matematicas.netlify.app/img/cancelacionCirculos.jpg"  width="500"/>
