@@ -1,15 +1,15 @@
 +++
-date  = "2024-04-30"
-draft = true
+date  = "2024-05-08"
+draft = false
 tags  = ["Nuestro Encuentro"]
-title = "Charla 155: Pares Coherentes Matriciales: Algoritmos y Aplicacción"
+title = "Charla 156: Algunas técnicas de control para el péndulo invertido"
 math  = true
 +++
 
-**Conferencista:** [Edinson Fuentes](https://sites.google.com/site/edinsonfuentesu). Departamento de Matemáticas y Física. Universidad de los Llanos
+**Conferencista:** Paula López. Estudante Matemáticas. Uptc
 
-**Fecha:** Miércoles 2 de mayo de 2024, 2:00 p.m.
+**Fecha:** Miércoles 8 de mayo de 2024, 2:00 p.m.
 
 **Lugar:** C-119
 
-**Resumen**: Un par de funcionales regulares matriciales $\{\\mathbf{u}\_0,\\mathbf{u}\_1\}$ es llamado un par coherente si sus correspondientes sucesiones de polinomios ortogonales matriciales $\{P\_n\}\_{\\geq 0}$ y $\{T\_n\}\_{\geq 0}$ satisfacen la relación de estructura: $T_n(x) = \\frac{1}{n_1}P'_{n+1}(x)+\\frac{1}{n}\\sigma_nP'_n(x)$, $n\\geq 1$, donde $\\sigma_n$ es una matriz compleja para cada número natural $n$. En esta charla se presentarán algunas propiedades tanto algebraicas como analíticas de las sucesiones ortogonales asociadas a un par coherente. Además, se mostrarán algunos algoritmos para calcular pares coherentes matriciales y se utilizan para aproximar funciones matriciales.
+**Resumen**: La teoría de control desempeña un papel fundamental en el diseño y análisis de sistemas dinámicos. Uno de los problemas clásicos en este campo es el control de un péndulo invertido, donde se busca regular la posición de una articulación mediante un motor conectado a la estructura. El objetivo principal del estudio consiste en desarrollar un controlador efectivo para mantener estable el péndulo invertido en diversas situaciones. Para lograr esto, se examinarán diferentes métodos de control, como el control proporcional derivativo, control digital.
