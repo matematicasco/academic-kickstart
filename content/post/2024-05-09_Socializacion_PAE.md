@@ -3,7 +3,7 @@ date      = 2024-05-08
 lastmod   = 2024-05-08
 draft     = false
 tags      = ["Estudiantes","Eventos"]
-title     = ""
+title     = "Socialización PAE"
 math      = true
 authors = ["admin"]
 +++
