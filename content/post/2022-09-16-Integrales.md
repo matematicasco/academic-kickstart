@@ -22,4 +22,4 @@ Se invita a todos los estudiantes de la UPTC a participar en el concuros de inte
 
 **Mayor información:** contactar al profesor Rafael Álvarez, rafael.alvarez@uptc.edu.co
 
-![](https://matematicas.netlify.com/img/concursointegrales2022.png)
+![](https://matematicas.netlify.app/img/concursointegrales2022.png)
