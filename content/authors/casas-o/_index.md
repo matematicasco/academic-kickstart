@@ -52,5 +52,5 @@ user_groups:
 ---
 
 
-<center><img src="img/gs/casas-o.png"  width="350"></center>
+<center><img src="https://matematicas.netlify.app/img/gs/casas-o.png"  width="350"></center>
 
