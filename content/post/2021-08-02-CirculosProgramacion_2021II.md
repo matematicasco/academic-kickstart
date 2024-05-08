@@ -11,5 +11,5 @@ authors   = ["admin"]
 
 El siguiente es el calendario para el segundo semestre de 2021:
 
-<img src="https://matematicas.netlify.com/img/calendarioCirculos2021II.jpg"  width="500"/>
+<img src="https://matematicas.netlify.app/img/calendarioCirculos2021II.jpg"  width="500"/>
 
