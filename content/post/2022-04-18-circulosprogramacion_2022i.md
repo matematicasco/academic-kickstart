@@ -10,7 +10,7 @@ authors   = ["admin"]
 
 Extendemos la invitación a participar en los Círculos Matemáticos en el semestre 2022-1, en edición virtual, a través del canal Facebook Live de la Sociedad Colombiana de Matemáticas. Este semestre tendremos dos círculos matemáticos virtuales: 
 
-<img src="https://matematicas.netlify.com/img/calendarioCirculos2022I.jpg"  width="500"/>
+<img src="https://matematicas.netlify.app/img/calendarioCirculos2022I.jpg"  width="500"/>
 
 
 El primero se titula Recortando bandas de Möbius. 
