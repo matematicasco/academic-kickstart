@@ -1,5 +1,5 @@
 +++
-title = "Teoría de Probabilidad. Notas de clase"
+title = "Teoría de la Medida. Notas de clase"
 date = "2024-05-14"
 authors = ["alvarez-r","Esmeral, K.","juajibioy-j"]
 publication_types = ["5"]
