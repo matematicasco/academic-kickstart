@@ -17,6 +17,6 @@ image = ""
 caption = ""
 +++
 
-<img src="https://uptc.metalibros.org/public/presses/1/submission_40_24_coverImage_es_ES_t.jpg" width=200>
+<img src="https://librosaccesoabierto.uptc.edu.co/public/presses/1/submission_40_24_coverImage_es_ES_t.jpg" width=200>
 
-[Más información](https://uptc.metalibros.org/index.php/editorial-uptc/catalog/book/40)
+[Más información](https://librosaccesoabierto.uptc.edu.co/index.php/editorial-uptc/catalog/book/40)
