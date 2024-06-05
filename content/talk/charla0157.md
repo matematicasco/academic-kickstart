@@ -6,7 +6,7 @@ title = "Charla 157: Bifurcaciones, ejemplos clásicos"
 math  = true
 +++
 
-**Conferencista:** Wilson Andrés Buitrago. Estudante Matemáticas. Uptc
+**Conferencista:** Wilson Andrés Buitrago. Estudiante Matemáticas. Uptc
 
 **Fecha:** Miércoles 22 de mayo de 2024, 2:00 p.m.
 
