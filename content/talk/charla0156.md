@@ -6,7 +6,7 @@ title = "Charla 156: Algunas técnicas de control para el péndulo invertido"
 math  = true
 +++
 
-**Conferencista:** Paula López. Estudante Matemáticas. Uptc
+**Conferencista:** Paula López. Estudiante Matemáticas. Uptc
 
 **Fecha:** Miércoles 8 de mayo de 2024, 2:00 p.m.
 
