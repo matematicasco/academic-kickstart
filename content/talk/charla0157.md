@@ -1,5 +1,5 @@
 +++
-date  = "2024-05-15"
+date  = "2024-05-22"
 draft = false
 tags  = ["Nuestro Encuentro"]
 title = "Charla 157: Bifurcaciones, ejemplos clásicos"
