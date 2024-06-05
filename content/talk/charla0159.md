@@ -6,7 +6,7 @@ title = "Charla 159: Métodos de Monte Carlo, una breve introducción"
 math  = true
 +++
 
-**Conferencista:** Gustavo Alejandro Reyes Higuera. Estudante Matemáticas. Uptc
+**Conferencista:** Gustavo Alejandro Reyes Higuera. Estudiante Matemáticas. Uptc
 
 **Fecha:** Miércoles 29 de mayo de 2024, 2:45 p.m.
 
