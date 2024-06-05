@@ -1,6 +1,6 @@
 +++
 date  = "2024-05-29"
-draft = true
+draft = false
 tags  = ["Nuestro Encuentro"]
 title = "Charla 158: La propiedad de ser Hausdorff en la definición de variedad topológica"
 math  = true
