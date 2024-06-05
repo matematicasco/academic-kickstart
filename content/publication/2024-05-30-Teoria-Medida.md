@@ -1,6 +1,6 @@
 +++
 title = "Teoría de la Medida. Notas de clase"
-date = "2024-05-14"
+date = "2024-05-30"
 authors = ["alvarez-r","Esmeral, K.","juajibioy-j"]
 publication_types = ["5"]
 publication = "Editorial UPTC. ISBN: 978-958-660-843-5"
@@ -9,6 +9,7 @@ abstract = "A través de estas notas de clase, se pretende que el aprendizaje se
 abstract_short = ""
 image_preview = ""
 selected = false
+doi = "10.19053/uptc.9789586608435"
 projects = ["gedmys"]
 tags = ["gedmys", "Books"]
 math = true
@@ -18,7 +19,7 @@ image = ""
 caption = ""
 +++
 
-<img src="https://matematicas.netlify.app/img/delete.png"  width="200">
+<img src="https://simehbucket.s3.amazonaws.com/images/4c51e2b50090e6016ded5ed1ad045b70-medium.jpg"  width="200">
 
-[Más información](https://editorial.uptc.edu.co/catalogo.html?products_year_edition=35)
+[Más información](https://editorial.uptc.edu.co/gpd-notas-de-clase-9789586608435-664d06a5e6af2.html)
 
