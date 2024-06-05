@@ -42,7 +42,7 @@ slides: example
 
 &nbsp;| Lider | &nbsp;
 :---: | :---:| :---:
-&nbsp;|[<img src ="https://matematicas.netlify.app/authors/juajibioy-j/avatar_hu5df1c8819173624070355066ceef533e_191430_270x270_fill_q90_lanczos_center.jpg" id="circleM">](https://matematicas.netlify.app/authors/juajibioy-j/) | &nbsp;
+&nbsp;|[<img src ="https://matematicas.netlify.app/authors/juajibioy-j/avatar_hu4a3270082817f630a98bdf2cf7b3b5de_635101_270x270_fill_q90_lanczos_center.jpeg" id="circleM">](https://matematicas.netlify.app/authors/juajibioy-j/) | &nbsp;
 &nbsp;| [Juan C. Juajibioy](https://matematicas.netlify.app/authors/juajibioy-j/) | &nbsp;
 [<img src ="https://matematicas.netlify.app/authors/alvarez-r/avatar_hu358bd53a4da504809f653deb012f7fb8_79960_270x270_fill_q90_lanczos_center.jpg"  id="circleM">](https://matematicas.netlify.app/authors/alvarez-r/) |[<img src ="https://matematicas.netlify.app/authors/delacruz-r/avatar_hude5ca833c48592c845ff7cb66706361b_62206_270x270_fill_lanczos_center_2.png"  id="circleM">](https://matematicas.netlify.app/authors/delacruz-r/) | [<img src ="https://matematicas.netlify.app/authors/montero-j/avatar_hud28306c1ec572ccf164637a610c2e7da_57320_270x270_fill_lanczos_center_2.png"  id="circleM">](https://matematicas.netlify.app/authors/montero-j/)|
 [Rafael J. Álvarez](https://matematicas.netlify.app/authors/alvarez-r/)|[Richard A. De la Cruz](https://matematicas.netlify.app/authors/delacruz-r/)| [Julio A Montero](https://matematicas.netlify.app/authors/montero-j/)
