@@ -6,7 +6,7 @@ title = "Charla 158: La propiedad de ser Hausdorff en la definición de variedad
 math  = true
 +++
 
-**Conferencista:** Mariana Cely Garzón. Estudante Matemáticas. Uptc
+**Conferencista:** Mariana Cely Garzón. Estudiante Matemáticas. Uptc
 
 **Fecha:** Miércoles 29 de mayo de 2024, 2:00 p.m.
 
