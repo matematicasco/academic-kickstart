@@ -1,6 +1,6 @@
 +++
 title = "Teoría de la Medida. Notas de clase"
-date = "2024-05-30"
+date = "2024-04-30"
 authors = ["alvarez-r","Esmeral, K.","juajibioy-j"]
 publication_types = ["5"]
 publication = "Editorial UPTC. ISBN: 978-958-660-843-5"
