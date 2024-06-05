@@ -44,4 +44,4 @@ user_groups:
 - "gama"
 ---
 
-<center><img src="https://matematicas.netlify.com/img/gs/jimenez-a.png"  width="350"></center>
+<center><img src="https://matematicas.netlify.app/img/gs/jimenez-a.png"  width="350"></center>
