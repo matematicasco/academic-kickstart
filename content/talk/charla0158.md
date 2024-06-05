@@ -1,15 +1,15 @@
 +++
-date  = "2024-05-15"
+date  = "2024-05-29"
 draft = true
 tags  = ["Nuestro Encuentro"]
-title = "Charla 157: Bifurcaciones, ejemplos clásicos"
+title = "Charla 158: La propiedad de ser Hausdorff en la definición de variedad topológica"
 math  = true
 +++
 
-**Conferencista:** Wilson Andrés Buitrago. Estudante Matemáticas. Uptc
+**Conferencista:** Mariana Cely Garzón. Estudante Matemáticas. Uptc
 
-**Fecha:** Miércoles 22 de mayo de 2024, 2:00 p.m.
+**Fecha:** Miércoles 29 de mayo de 2024, 2:00 p.m.
 
 **Lugar:** C-119
 
-**Resumen**: Es común que al estudiar sistemas dinámicos nos encontremos con que estos dependen, no solamente de las variables a resolver, sino también de parámetros externos que producen cambios en el desarrollo del sistema, al igual que en su solucion. Es posible evidenciar los cambios que se producen en un sistema en base a la variación de sus parámetros, a través de la teoría de bifurcaciones, está rama de las matemáticas estudia los cambios en la estructura cualitativa o topologica del comportamiento de un sistema. La teoría de bifurcaciones estudia el comportamiento de las familias de soluciones de un sistema; una bifurcacion se da, cuando una pequeña modificación en los parametros del sistema causan un cambio brusco en su estructura. Por tanto está charla se enfocará en mostrar algunos ejemplos clasicos de la teoría de bifurcaciones en los cuales, se evidencia el tema a tratar, haciendo esto de manera gráfica y analítica.
+**Resumen**: Una variedad topológica es un espacio topológico que localmente se parece a un espacio euclidiano de dimensión $n$. Formalmente, un espacio topológico $M$ es una $n$-variedad si cada punto p ∈ M tiene un entorno abierto U ⊆ M tal que existe un homeomorfismo φ : U → Rn. <br> En esta charla nos adentraremos en el estudio de variedades topológicas, centrándonos especialmente en las variedades no Hausdorff. Comenzaremos con una explicación de qué son las variedades y cómo funciona su dimensionalidad. También, examinaremos algunos ejemplos clásicos de variedades, como la construcción del toro y la recta con dos orígenes.
