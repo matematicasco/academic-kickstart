@@ -10,6 +10,7 @@ selected = false
 projects = ["tenga"]
 tags = ["GTNyGA","p-adics","Cat. A2"]
 doi = "10.1007/s11868-024-00614-1"
+url_pdf = "https://link.springer.com/content/pdf/10.1007/s11868-024-00614-1.pdf"
 highlight = true
 [header]
 image = ""
