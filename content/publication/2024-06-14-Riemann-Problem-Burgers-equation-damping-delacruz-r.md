@@ -1,6 +1,6 @@
 +++
 title = "Riemann problem for a general variable coefficient Burgers equation with time-dependent damping"
-date = "2024-06-05"
+date = "2024-06-06"
 authors = ["delacruz-r","Wang, X.","Lu, Y."]
 publication_types = ["2"]
 publication = "*International Journal of Non-Linear Mechanics*, **162**, 104703. doi:10.1016/j.ijnonlinmec.2024.104703"
