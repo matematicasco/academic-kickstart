@@ -9,7 +9,7 @@ abstract = "La probabilidad tuvo su génesis en los juegos de azar y suerte, los
 selected = false
 projects = ["gici"]
 tags = ["Probability", "Education", "GICI","Books"]
-url_pdf = "https://uptc.metalibros.org/index.php/editorial-uptc/catalog/view/40/73/2837"
+url_pdf = "https://librosaccesoabierto.uptc.edu.co/index.php/editorial-uptc/catalog/view/40/73/2837"
 math = true
 highlight = true
 [header]
