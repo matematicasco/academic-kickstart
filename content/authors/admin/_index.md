@@ -24,7 +24,7 @@ user_groups: []
 
 Página oficial del programa de Matemáticas <br>
 
-https://www.uptc.edu.co/sitio/portal/sitios/universidad/vic_aca/facultades/fac_ciencias/preg/cie_52322_t/01_index.html
+https://www.uptc.edu.co/sitio/portal/sitios/universidad/vic_aca/facultades/fac_ciencias/preg/cie_52322_t/
 
 ### COMITÉ CURRICULAR:  
 
@@ -36,7 +36,7 @@ https://www.uptc.edu.co/sitio/portal/sitios/universidad/vic_aca/facultades/fac_c
 
 * Área Disciplinar y de Profundización: [Nelsy R. González Gutiérrez](https://matematicas.netlify.app/authors/gonzalez-n/)
 
-* Área Interdisciplinar: 
+* Área Interdisciplinar: [x](https://matematicas.netlify.app/authors/)
 
 #### Representante de los graduados
 
