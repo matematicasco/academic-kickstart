@@ -36,7 +36,7 @@ https://www.uptc.edu.co/sitio/portal/sitios/universidad/vic_aca/facultades/fac_c
 
 * Área Disciplinar y de Profundización: [Nelsy R. González Gutiérrez](https://matematicas.netlify.app/authors/gonzalez-n/)
 
-* Área Interdisciplinar: [x](https://matematicas.netlify.app/authors/)
+* Área Interdisciplinar: [Pedro N. Maluendas](https://matematicas.netlify.app/authors/maluendas-p/)
 
 #### Representante de los graduados
 
