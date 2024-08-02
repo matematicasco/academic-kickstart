@@ -38,7 +38,7 @@ height = "350px"
   #   Activate the button by specifying a URL and button label below.
   #   Deactivate by commenting out parameters, prefixing lines with `#`.
   cta_label = "Nuestro Encuentro"
-  cta_url = "https://matematicas.netlify.com/tags/nuestro-encuentro/"
+  cta_url = "https://matematicas.netlify.app/tags/nuestro-encuentro/"
   cta_icon_pack = "fas"
   cta_icon = "chalkboard-teacher"
 
@@ -57,7 +57,7 @@ height = "350px"
   #   Activate the button by specifying a URL and button label below.
   #   Deactivate by commenting out parameters, prefixing lines with `#`.
   cta_label = "Más información"
-  cta_url = "https://matematicas.netlify.com/tags/olimpiadas/"
+  cta_url = "https://matematicas.netlify.app/tags/olimpiadas/"
   cta_icon_pack = "fas"
   cta_icon = "award"
 
@@ -74,7 +74,7 @@ height = "350px"
   #   Activate the button by specifying a URL and button label below.
   #   Deactivate by commenting out parameters, prefixing lines with `#`.
   cta_label = "Más información"
-  cta_url = "https://matematicas.netlify.com/tags/circulos/"
+  cta_url = "https://matematicas.netlify.app/tags/circulos/"
   cta_icon_pack = "fas"
   cta_icon = "circle"
   
