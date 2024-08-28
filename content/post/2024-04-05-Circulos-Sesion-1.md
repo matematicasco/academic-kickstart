@@ -10,7 +10,7 @@ authors   = ["admin"]
 
 <img src="https://www.uptc.edu.co/sitio/export/sites/default/portal/.content/article/imagenes_noticias/Circulos-Mat700.png_1147934542.png"  width="500"/>
 
-Han iniciado kos Círculos Matemáticos 2024 con pa participación de 21 estudiantes de los siguientes colegios:
+Han iniciado los Círculos Matemáticos 2024 con pa participación de 21 estudiantes de los siguientes colegios:
 
 * Colegio Los Ángeles
 * Colegio de Boyacá
