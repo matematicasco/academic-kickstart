@@ -1,15 +1,15 @@
 +++
-date  = "2024-06-30"
-draft = true
+date  = "2024-08-28"
+draft = false
 tags  = ["Nuestro Encuentro"]
-title = "Charla 160: "
+title = "Charla 160: Fundación TeleGenio: \"Llega a ser quien eres\""
 math  = true
 +++
 
-**Conferencista:** . Estudiante Matemáticas. Uptc
+**Conferencista:** Antonio Rada García. Fundador Fundación TeleGenio, CDMX, México
 
-**Fecha:** Miércoles  de  de 2024, 2:00 p.m.
+**Fecha:** Miércoles 28 de agosto de 2024, 2:00 p.m.
 
 **Lugar:** C-119
 
-**Resumen**: 
+**Resumen**: Usando la criba de Eratóstenes como ejemplo didáctico, trataremos de entender que, si bien, todas las personas son únicas, también hay quienes tienen dones especiales y para ello veremos sus nueve características principales.
