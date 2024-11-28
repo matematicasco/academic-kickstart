@@ -9,7 +9,7 @@ selected = false
 projects = ["gici"]
 tags = ["GICI", "Education","Cat. B"]
 url_pdf = "https://revistas.uptc.edu.co/index.php/investigacion_duitama/article/view/15270/12480"
-doi = "10.36260/10.19053/20278306.v12.n2.2022.15270"
+doi = "10.19053/20278306.v12.n2.2022.15270"
 math = true
 highlight = true
 +++
