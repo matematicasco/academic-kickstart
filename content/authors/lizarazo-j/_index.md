@@ -6,7 +6,7 @@ authors:
 
 superuser: false
 
-role: Instructor
+role: Associate Professor
 
 organizations:
 - name: Universidad Pedagógica y Tecnológica de Colombia
