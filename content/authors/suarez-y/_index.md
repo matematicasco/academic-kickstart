@@ -16,6 +16,9 @@ interests:
 
 education:
   courses:
+  - course: PhD in Mathematical Sciences
+    institution: Universidad Nacional de Colombia
+    year: 2024
   - course: MSc in Mathematical Sciences
     institution: Universidad Nacional de Colombia
     year: 2018
