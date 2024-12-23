@@ -29,7 +29,7 @@ Doctorado en Matemáticas, Universidad Estadual de Campinas, 2021.<br>
  
 https://www.uptc.edu.co/sitio/portal/cal_not_eve/noticias/det/Egresados-upetecistas-recibieron-la-Distincion-Edificando-Futuro/  
 
-### 
+### Reconocimientos y logros
 
 1. El 30 de noviembre de 2023, durante el Tercer Encuentro de Egresados, se otorgaron por parte del programa y la Facultad de Ciencias reconocimientos especiales a nuestros egresados por su destacado compromiso, desempeño académico y contribuciones en el ámbito investigativo. En esta ocasión, fueron homenajeados:
 * Vladimir Octavio Lizarazo Mesa, Magister en Ciencias Matemáticas UPTC, 2019.
