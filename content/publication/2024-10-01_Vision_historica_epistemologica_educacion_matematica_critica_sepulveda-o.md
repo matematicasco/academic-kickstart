@@ -1,7 +1,7 @@
 +++
 title = "Visión histórica y epistemológica de la Educación Matemática Crítica"
 date = "2024-10-01"
-authors = ["sepulveda-o"]
+authors = ["sepulveda-o","Diaz Abahonza, E.H."]
 publication_types = ["6"]
 publication = "In: La investigación en el Doctorado en Ciencias de la Educación - RUDECOLOMBIA: La Investigación Educativa en Colombia. Tendencias y Desafíos. TOMO II. Editorial UPTC. ISBN: 978-958-660-848-0"
 selected = false
