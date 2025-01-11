@@ -1,0 +1,15 @@
++++
+title = "The Influence of Emotional Competencies on the Entrepreneurship Intentions of University Students in Colombia"
+date = "2024-11-14"
+authors = ["López Sánchez, L.M.", "salcedo-l","Rodríguez Ariza, L."]
+publication_types = ["2"]
+publication = "*RSustainability*, **16**(22), 9933. doi:10.3390/su16229933"
+abstract = "The main objective of this article is to analyze the effect of a group of predictors on entrepreneurial intention from the perspective of emotional competencies. To achieve this aim, a sample of 996 students belonging to ten public and seven private universities was selected, with each university having been granted high-quality accreditation by the Colombian Ministry of Education. The theoretical approach was based on Ajzen’s Theory of Planned Behavior (TPB), and the empirical analysis was based on structural equation models. Eight hypotheses were tested, with entrepreneurial intention as the dependent variable and emotional competencies, subjective norms, entrepreneurial self-efficacy, and entrepreneurial attitude as independent variables. The information was obtained by applying a questionnaire with a Likert scale to students of subjects related to entrepreneurship. From the findings of the study, it is concluded that in the two ecosystems analyzed (public and private), emotional competencies (EC) have neither a direct influence on entrepreneurial intention (EI) nor an indirect one since no significant influence is observed between emotional competencies and entrepreneurial attitude; however, a direct and positive effect was recorded between the self-efficacy and entrepreneurial attitude constructs on entrepreneurial intention. In addition, it is observed that subjective norms (SN) do not directly affect EI, but they do influence it indirectly, being mediated by entrepreneurial attitude and self-efficacy. The contribution of this study is focused on obtaining a better understanding of the entrepreneurial intentions of university students in Colombia, which will make it possible to foster strategies for the generation of youth employment and public policies to promote various entrepreneurial initiatives. This could be based on government regulations adopted in the last decade, which are still under development, and the broad participation of university students and research groups of higher education institutions. Furthermore, given the dearth of research examining the impact of emotional competencies on the entrepreneurial intentions of young Colombian university students, this study aims to bridge the existing knowledge gap, thereby contributing to the development of a more robust body of literature that can inform the design and implementation of educational strategies and public policies aimed at fostering entrepreneurship within the university ecosystems of this country."
+selected = false
+projects = ["gamma"]
+tags = ["GAMMA", "Cat. B"]
+url_pdf = "https://www.mdpi.com/2071-1050/16/22/9933/pdf?version=1732176112"
+doi = "10.3390/su16229933"
+math = true
+highlight = true
++++
