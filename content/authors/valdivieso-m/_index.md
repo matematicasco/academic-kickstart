@@ -14,6 +14,9 @@ interests:
 - Applied statistics to the sciences
 education:
   courses:
+  - course: PhD in Education
+    institution: Universidad de Baja California
+    year: 2023
   - course: MSc in Statistics
     institution: Universidad Nacional de Colombia
     year: 2007
