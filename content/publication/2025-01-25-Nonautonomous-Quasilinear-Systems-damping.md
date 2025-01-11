@@ -1,6 +1,6 @@
 +++
 title = "On a class of nonautonomous quasilinear systems with general time-gradually-degenerate damping"
-date = "2024-11-27"
+date = "2025-01-11"
 authors = ["delacruz-r","Neves, W."]
 publication_types = ["2"]
 publication = "*Journal of Differential Equations*, **416**(1) 52-81. doi: 10.1016/j.jde.2024.09.049"
