@@ -39,11 +39,6 @@
   weight = 70
 
 [[main]]
-  name = "Evento"
-  url = "#NoArquimediano"
-  weight = 5
-
-[[main]]
   name = "Contact us"
   url = "#contact"
   weight = 100
