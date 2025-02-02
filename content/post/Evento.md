@@ -13,7 +13,7 @@ authors   = ["admin"]
 
 ## **Conferencistas**
 
-* Wilson  A. Zuñiga Galindo - [University of Texas Rio Grande Valley](https://www.utrgv.edu/) (USA)
+* Wilson  A. Zuñiga Galindo - [University of Texas Rio Grande Valley](https://www.utrgv.edu/) (EE.UU.)
 * 
 
 ## **Comité científico**
