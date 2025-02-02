@@ -20,6 +20,11 @@ authors   = ["admin"]
 * Wilson  A. Zuñiga Galindo - University of Texas Rio Grande Vallery (USA)
 * 
 
+## [Programa](https://matematicas.netlify.app/post/padicos3/programa/)
+
+
+## [Participantes](https://matematicas.netlify.app/post/padicos3/participantes/)
+
 
 ## **Comités**
 
