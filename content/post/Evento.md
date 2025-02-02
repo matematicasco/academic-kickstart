@@ -22,6 +22,6 @@ authors   = ["admin"]
 
 ## **Comité organizador**
 
-* [Oscar Francisco Casas Sánchez](https://matematicas.netlify.app/authors/casas-o/) (UPTC, Tunja).
+* [Oscar Francisco Casas Sánchez](https://matematicas.netlify.app/authors/casas-o/) ([UPTC](https://www.uptc.edu.co/sitio/portal/), Tunja).
 *
 
