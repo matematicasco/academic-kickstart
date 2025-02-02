@@ -16,13 +16,11 @@ authors   = ["admin"]
 * Wilson  A. Zuñiga Galindo - [University of Texas Rio Grande Valley](https://www.utrgv.edu/) (USA)
 * 
 
-## **Comités**
-
-### **Comité científico**
+## **Comité científico**
 
 * A
 
-### **Comité organizador**
+## **Comité organizador**
 
 * [Oscar Francisco Casas Sánchez](https://matematicas.netlify.app/authors/casas-o/) (UPTC, Tunja).
 *
