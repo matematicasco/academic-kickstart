@@ -1,6 +1,6 @@
 +++
 title = "Semi-discrete Lagrangian–Eulerian approach based on the weak asymptotic method for nonlocal conservation laws in several dimensions"
-date = "2025-01-27"
+date = "2025-02-02"
 authors = ["Abreu, E.","delacruz-r","juajibioy-j","Lambert, W"]
 publication_types = ["2"]
 publication = "*Journal of Computational and Applied Mathematics*, **458**, 116325. doi: 10.1016/j.cam.2024.116325"
