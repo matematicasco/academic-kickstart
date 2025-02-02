@@ -11,11 +11,6 @@ authors   = ["admin"]
 
 ## **[Registro](https://docs.google.com/forms/d/1F-isLevdxRscKoi074pfHJcafywxA929zvF-OXGVv_c/edit)** [Programa] &nbsp;&nbsp;(https://matematicas.netlify.app/post/padicos3/programa/) [Participantes] &nbsp;&nbsp;(https://matematicas.netlify.app/post/padicos3/participantes/)
 
-
-## **Fechas:** Marzo 17 al 20 de 2025
-
-## **Lugar:** [Universidad pedagógica y Tecnológica de Colombia](https://www.uptc.edu.co/sitio/portal/), Tunja
-
 ## **Conferencistas**
 
 * Wilson  A. Zuñiga Galindo - [University of Texas Rio Grande Valley](https://www.utrgv.edu/) (USA)
