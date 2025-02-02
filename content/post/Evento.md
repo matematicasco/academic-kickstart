@@ -18,7 +18,7 @@ authors   = ["admin"]
 
 ## **Conferencistas**
 
-* Wilson  A. Zuñiga Galindo - University of Texas Rio Grande Vallery (USA)
+* Wilson  A. Zuñiga Galindo - [University of Texas Rio Grande Valley](https://www.utrgv.edu/) (USA)
 * 
 
 ## [Programa](https://matematicas.netlify.app/post/padicos3/programa/)
