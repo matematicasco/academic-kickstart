@@ -15,14 +15,6 @@ authors   = ["admin"]
 
 ## Lugar: [Universidad pedagógica y Tecnológica de Colombia](https://www.uptc.edu.co/sitio/portal/), Tunja
 
-
-<div class=d-none><input id=map-provider value=2>
-<input id=map-lat value=5.551165>
-<input id=map-lng value=-73.354862>
-<input id=map-dir value="Avenida Central del Norte 39-115, Tunja, BO 15003">
-<input id=map-zoom value=15>
-<input id=map-api-key value></div>
-
 ## Conferencistas
 
 * Wilson  A. Zuñiga Galindo - University of Texas Rio Grande Vallery (USA)
