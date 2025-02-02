@@ -13,4 +13,4 @@ authors   = ["admin"]
 
 * 
 * Oscar Francisco Casas Sánchez -  [UPTC](https://www.uptc.edu.co/sitio/portal/) (Tunja).
-* Wilson A. Zuñiga Galindo - [UTRGV](https://www.utrgv.edu/) (USA)
+* Wilson A. Zuñiga Galindo - [UTRGV](https://www.utrgv.edu/) (EE.UU.)
