@@ -9,7 +9,7 @@ math      = true
 authors   = ["admin"]
 +++
 
-## **[Registro](https://docs.google.com/forms/d/1F-isLevdxRscKoi074pfHJcafywxA929zvF-OXGVv_c/edit)** [Programa](https://matematicas.netlify.app/post/padicos3/programa/) [Participantes](https://matematicas.netlify.app/post/padicos3/participantes/)
+## **[Registro](https://docs.google.com/forms/d/1F-isLevdxRscKoi074pfHJcafywxA929zvF-OXGVv_c/edit)** [Programa] &nbsp;&nbsp;(https://matematicas.netlify.app/post/padicos3/programa/) [Participantes] &nbsp;&nbsp;(https://matematicas.netlify.app/post/padicos3/participantes/)
 
 
 ## **Fechas:** Marzo 17 al 20 de 2025
