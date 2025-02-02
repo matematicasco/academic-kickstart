@@ -11,23 +11,23 @@ authors   = ["admin"]
 [Registro](https://docs.google.com/forms/d/1F-isLevdxRscKoi074pfHJcafywxA929zvF-OXGVv_c/edit)
 
 
-## Fechas: **Marzo 17 al 20 de 2025**
+## **Fechas:** Marzo 17 al 20 de 2025
 
-## Lugar: [Universidad pedagógica y Tecnológica de Colombia](https://www.uptc.edu.co/sitio/portal/), Tunja
+## **Lugar:** [Universidad pedagógica y Tecnológica de Colombia](https://www.uptc.edu.co/sitio/portal/), Tunja
 
-## Conferencistas
+## **Conferencistas**
 
 * Wilson  A. Zuñiga Galindo - University of Texas Rio Grande Vallery (USA)
 * 
 
 
-## Comités
+## **Comités**
 
-### Comité científico
+### **Comité científico**
 
 * A
 
-### Comité organizador
+### **Comité organizador**
 
 * [Oscar Francisco Casas Sánchez](https://matematicas.netlify.app/authors/casas-o/) (UPTC, Tunja).
 *
