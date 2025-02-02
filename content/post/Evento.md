@@ -11,13 +11,9 @@ authors   = ["admin"]
 [Registro](https://docs.google.com/forms/d/1F-isLevdxRscKoi074pfHJcafywxA929zvF-OXGVv_c/edit)
 
 
-## Fechas
+## Fechas: **Marzo 17 al 20 de 2025**
 
-**Marzo 17 al 20 de 2025**
-
-## Lugar
-
-[Universidad pedagógica y Tecnológica de Colombia](https://www.uptc.edu.co/sitio/portal/), Tunja
+## Lugar: [Universidad pedagógica y Tecnológica de Colombia](https://www.uptc.edu.co/sitio/portal/), Tunja
 
 
 <div class=d-none><input id=map-provider value=2>
