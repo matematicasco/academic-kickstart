@@ -36,9 +36,13 @@ social:
  - icon: linkedin
    icon_pack: fab
    link: https://co.linkedin.com/in/robinson-alexander-higuita-diaz-ab540713a
+ - icon: orcid
+   icon_pack: ai
+   link: https://orcid.org/0000-0003-3305-0381
  - icon: researchgate
    icon_pack: ai
    link: https://www.researchgate.net/profile/Robinson-Higuita
+ 
  
  
 email: ""
