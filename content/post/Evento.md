@@ -2,7 +2,7 @@
 date      = 2025-02-02
 lastmod   = 2025-02-02
 draft     = false
-tags      = ["Eventos"]
+tags      = ["Eventos","p-adics"]
 title     = "Tercer Encuentro Nacional de Análisis no Arquimediano, física matemática y aplicaciones"
 subtitle  = "UPTC, Marzo 17 al 20 de 2025"
 math      = true
