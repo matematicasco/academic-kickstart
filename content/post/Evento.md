@@ -20,7 +20,7 @@ authors   = ["admin"]
 
 * [Leonardo Chacón](https://perfilesycapacidades.javeriana.edu.co/en/persons/leonardo.chacon) ([U. Javeriana](https://www.javeriana.edu.co/inicio), Bogotá)
 * [John Rodríguez](http://www.hermes.unal.edu.co/pages/Docentes/Docente.jsf?u=jjrodriguezv) ([UNal](https://unal.edu.co/), Bogotá)
-* Anselmo Torreblanca Badillo ([U. del Norte](https://www.uninorte.edu.co/), Barranquilla)
+* Anselmo Torreblanca Badillo ([U. de Sucre](https://unisucre.edu.co/), Sincelejo)
 * Wilson  A. Zuñiga Galindo ([UTRGV](https://www.utrgv.edu/),EE.UU.)
 
   
