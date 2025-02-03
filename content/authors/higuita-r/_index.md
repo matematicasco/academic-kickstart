@@ -36,6 +36,10 @@ social:
  - icon: linkedin
    icon_pack: fab
    link: https://co.linkedin.com/in/robinson-alexander-higuita-diaz-ab540713a
+ - icon: researchgate
+   icon_pack: ai
+   link: https://www.researchgate.net/profile/Robinson-Higuita
+ 
  
 email: ""
 
