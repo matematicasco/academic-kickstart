@@ -13,13 +13,17 @@ authors   = ["admin"]
 
 ## **Conferencistas**
 
-* Wilson  A. Zuñiga Galindo - [University of Texas Rio Grande Valley](https://www.utrgv.edu/) (EE.UU.)
+* 
 * 
 
 ## **Comité científico**
 
-* A
+* [Leonardo Chacón](https://perfilesycapacidades.javeriana.edu.co/en/persons/leonardo.chacon) ([U. Javeriana](https://www.javeriana.edu.co/inicio), Bogotá)
+* [John Rodríguez](http://www.hermes.unal.edu.co/pages/Docentes/Docente.jsf?u=jjrodriguezv) ([UNal](https://unal.edu.co/), Bogotá)
+* [Anselmo Torreblanca Badillo]() ([U. del Norte](https://www.uninorte.edu.co/), Barranquilla)
+* Wilson  A. Zuñiga Galindo - [UTRGV](https://www.utrgv.edu/) (EE.UU.)
 
+  
 ## **Comité organizador**
 
 * [Alexandra Albarracín](https://profesores.uis.edu.co/adriana-alexandra-albarracin-mantilla-es/) ([UIS](https://uis.edu.co/es/), Bucaramanga).
