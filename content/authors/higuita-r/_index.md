@@ -13,6 +13,10 @@ organizations:
   url: "http://www.uptc.edu.co"
 
 bio: 
+interests:
+- Combinatorics
+- 
+
 education:
   courses:
   - course: PhD in Mathematics
