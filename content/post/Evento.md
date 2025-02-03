@@ -22,6 +22,8 @@ authors   = ["admin"]
 
 ## **Comité organizador**
 
-* [Oscar Francisco Casas Sánchez](https://matematicas.netlify.app/authors/casas-o/) ([UPTC](https://www.uptc.edu.co/sitio/portal/), Tunja).
-*
+* [Alexandra Albarracín](https://profesores.uis.edu.co/adriana-alexandra-albarracin-mantilla-es/) ([UIS](https://uis.edu.co/es/), Bucaramanga).
+* [Oscar F. Casas](https://matematicas.netlify.app/authors/casas-o/) ([UPTC](https://www.uptc.edu.co/sitio/portal/), Tunja).
+* [Jeanneth Galeano](http://www.hermes.unal.edu.co/pages/Docentes/Docente.jsf?u=jgaleanop) ([UNal](https://unal.edu.co/), Bogotá).
+* [Alex L. Rojas](https://matematicas.netlify.app/authors/rojas-a/) ([UPTC](https://www.uptc.edu.co/sitio/portal/), Tunja).
 
