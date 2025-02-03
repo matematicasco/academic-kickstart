@@ -52,5 +52,5 @@ user_groups:
 ---
 
 
-<center><img src="https://matematicas.netlify.app/img/gs/agrejo-j.png"  width="350"></center>
+<center><img src="https://matematicas.netlify.app/img/gs/agredo-j.png"  width="350"></center>
 
