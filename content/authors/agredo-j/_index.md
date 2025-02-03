@@ -34,6 +34,9 @@ social:
  - icon: google-scholar
    icon_pack: ai
    link: https://scholar.google.com/citations?user=86DauYkAAAAJ
+ - icon: orcid
+   icon_pack: ai
+   link: https://orcid.org/0000-0002-4044-7806
  - icon: researchgate
    icon_pack: ai
    link: https://www.researchgate.net/profile/Julian-Agredo
