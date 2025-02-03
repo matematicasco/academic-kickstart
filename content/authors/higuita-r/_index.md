@@ -1,6 +1,6 @@
 ---
 # Display name
-name: Robinson Alexander Higuita Diaz
+name: Robinson A. Higuita
 authors:
 - higuita-r
 
