@@ -32,16 +32,16 @@ authors   = ["admin"]
 
 ## **Comité científico**
 
-* [Leonardo Chacón](https://perfilesycapacidades.javeriana.edu.co/en/persons/leonardo.chacon) ([U. Javeriana](https://www.javeriana.edu.co/inicio), Bogotá)
-* [John Rodríguez](http://www.hermes.unal.edu.co/pages/Docentes/Docente.jsf?u=jjrodriguezv) ([UNal](https://unal.edu.co/), Bogotá)
-* Anselmo Torreblanca Badillo ([U. de Sucre](https://unisucre.edu.co/), Sincelejo)
-* Wilson  A. Zuñiga Galindo ([UTRGV](https://www.utrgv.edu/),EE.UU.)
+* [Leonardo Chacón](https://perfilesycapacidades.javeriana.edu.co/en/persons/leonardo.chacon), [U. Javeriana](https://www.javeriana.edu.co/inicio), Bogotá
+* [John Rodríguez](http://www.hermes.unal.edu.co/pages/Docentes/Docente.jsf?u=jjrodriguezv), [UNal](https://unal.edu.co/), Bogotá
+* Anselmo Torreblanca Badillo. [U. de Sucre](https://unisucre.edu.co/), Sincelejo
+* Wilson  A. Zuñiga Galindo. [UTRGV](https://www.utrgv.edu/), EE.UU.
 
   
 ## **Comité organizador**
 
-* [Alexandra Albarracín](https://profesores.uis.edu.co/adriana-alexandra-albarracin-mantilla-es/) ([UIS](https://uis.edu.co/es/), Bucaramanga).
-* [Oscar F. Casas](https://matematicas.netlify.app/authors/casas-o/) ([UPTC](https://www.uptc.edu.co/sitio/portal/), Tunja).
-* [Jeanneth Galeano](http://www.hermes.unal.edu.co/pages/Docentes/Docente.jsf?u=jgaleanop) ([UNal](https://unal.edu.co/), Bogotá).
-* [Alex L. Rojas](https://matematicas.netlify.app/authors/rojas-a/) ([UPTC](https://www.uptc.edu.co/sitio/portal/), Tunja).
+* [Alexandra Albarracín](https://profesores.uis.edu.co/adriana-alexandra-albarracin-mantilla-es/). [UIS](https://uis.edu.co/es/), Bucaramanga
+* [Oscar F. Casas](https://matematicas.netlify.app/authors/casas-o/). [UPTC](https://www.uptc.edu.co/sitio/portal/), Tunja
+* [Jeanneth Galeano](http://www.hermes.unal.edu.co/pages/Docentes/Docente.jsf?u=jgaleanop). [UNal](https://unal.edu.co/), Bogotá
+* [Alex L. Rojas](https://matematicas.netlify.app/authors/rojas-a/). [UPTC](https://www.uptc.edu.co/sitio/portal/), Tunja
 
