@@ -27,7 +27,7 @@ authors   = ["admin"]
 * [Brian Zambrano](https://sites.google.com/ualberta.ca/ilmee/people/brian-zambrano). [U. Alberta](https://www.ualberta.ca/en/index.html), Canada
 * Wilson  A. Zuñiga Galindo. ([UTRGV](https://www.utrgv.edu/), EE.UU.)
 
-[1]: Virtual
+[^1]: Virtual
 
 
 ## **Comité científico**
