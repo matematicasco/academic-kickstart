@@ -4,7 +4,7 @@ date = "2013-06-01"
 authors = ["agredo-j"]
 publication_types = ["2"]
 publication = "*Open Systems & Information Dynamics*, **20**(2) 1350009. doi:10.1142/S1230161213500091"
-abstract = "In this paper we define a distance $W$ between states in the non-commutative von Neumann algebra $\\mathfrak{B(h)}$ of bounded operators on a separable Hilbert space $\\mathfrak{h}$, in order to measure deviations from equilibrium using a rate $\\mathrm{ep}_W(\cdot)$. The restriction of $W$ to the diagonal subalgebra of $\\mathfrak{B(h)}$ coincides with the Wasserstein distance used in optimal transport. Moreover, if $\\mathcal{\\rho}$ is a normal invariant state of a quantum Markov semigroup $\\mathcal{T} = (\\mathcal{T})_\\{t \\geq 0\\} $, then $\\mathrm{ep}_W(\\mathcal{\\rho}) = 0$ if and only if a detailed balance condition holds."
+abstract = "In this paper we define a distance $W$ between states in the non-commutative von Neumann algebra $\\mathfrak{B(h)}$ of bounded operators on a separable Hilbert space $\\mathfrak{h}$, in order to measure deviations from equilibrium using a rate $\\mathrm{ep}_W(\\cdot)$. The restriction of $W$ to the diagonal subalgebra of $\\mathfrak{B(h)}$ coincides with the Wasserstein distance used in optimal transport. Moreover, if $\\mathcal{\\rho}$ is a normal invariant state of a quantum Markov semigroup $\\mathcal{T} = (\\mathcal{T})_\\{t \\geq 0\\} $, then $\\mathrm{ep}_W(\\mathcal{\\rho}) = 0$ if and only if a detailed balance condition holds."
 selected = false
 tags = ["Cat. A1"]
 url_pdf= ""
