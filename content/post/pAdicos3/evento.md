@@ -16,11 +16,13 @@ authors   = ["admin"]
 * Victor Aguilar. [U. Autónoma de Queretaro](https://www.uaq.mx/), México [^1]
 *  [Oscar F. Casas](https://matematicas.netlify.app/authors/casas-o/). [UPTC](https://www.uptc.edu.co/sitio/portal/), Tunja
 * [Leonardo Chacón](https://perfilesycapacidades.javeriana.edu.co/en/persons/leonardo.chacon). [U. Javeriana](https://www.javeriana.edu.co/inicio), Bogotá
+* [Elio E. Espejo](https://research.nottingham.edu.cn/en/persons/elio-eduardo-espejo-arenas). [U. Nottingham](https://www.nottingham.edu.cn/en/index.aspx), China
 * [Pedro Fernando Fernandez](https://sites.google.com/view/pedrofernandofernandezespinosa/home). [UPTC](https://www.uptc.edu.co/sitio/portal/), Duitama
+* [Jeanneth Galeano](http://www.hermes.unal.edu.co/pages/Docentes/Docente.jsf?u=jgaleanop). [UNal](https://unal.edu.co/), Bogotá
 * [Cesar Neyit Galindo](https://matematicas.uniandes.edu.co/es/profesores/cesar-neyit-galindo-martinez). [Uniandes](https://www.uniandes.edu.co/), Bogotá
 * [Edwin Leon](https://riemann.unizar.es/~eleon/). [U. de La Rioja](https://www.unirioja.es/), España [^1]
 * Carolina Mejía. Colegio José Manuel Restrepo, Bogotá
-* [María Luisa Mendoza](https://research.tec.mx/vivo-tec/display/PID_318191). [Tecnológico de Monterrey](https://tec.mx/es), Camus Querétaro, México [^1]
+* [María Luisa Mendoza](https://research.tec.mx/vivo-tec/display/PID_318191). [Tecnológico de Monterrey](https://tec.mx/es), Campus Querétaro, México [^1]
 * Andrés Montoya. [UNal](https://unal.edu.co/), Bogotá
 * Paula Ximena Rodríguez. [UNal](https://unal.edu.co/), Bogotá
 * [Juan Miguel Velasquez](https://ciencias.univalle.edu.co/departamento-de-matematicas/personal/docentes/docentes-nombrados/juan-miguel-velasquez). [Univalle](https://www.univalle.edu.co/), Cali
