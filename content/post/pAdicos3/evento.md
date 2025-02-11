@@ -28,9 +28,8 @@ Esperamos contar son su valiosa asistencia, para ello solicitamos registrarse a 
   </div>
 </div>
 
-
 <center>
-<h2> <a href="https://matematicas.netlify.app/post/padicos3/programa/">Programa</a> </h2> &emsp;&emsp;&emsp;&emsp;<h2> <a href="https://matematicas.netlify.app/post/padicos3/participantes/">Participantes</a> </h2>
+<h2> <a href="https://matematicas.netlify.app/post/padicos3/programa/">Programa</a> &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; <a href="https://matematicas.netlify.app/post/padicos3/participantes/">Participantes</a> </h2>
 </center>
 
 
