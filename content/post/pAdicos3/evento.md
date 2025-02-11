@@ -21,21 +21,21 @@ Esperamos contar son su valiosa asistencia, para ello solicitamos registrarse a 
 
 <div class="row">
   <div class="column">
-    <img src="[img_snow.jpg](https://www.uptc.edu.co/export/sites/default/facultades/f_derecho/programas/convenios/img/uptc_unal.png)" alt="Snow" style="width:360">
+    <img src="https://www.uptc.edu.co/export/sites/default/facultades/f_derecho/programas/convenios/img/uptc_unal.png" alt="" style="width:60%">
   </div>
   <div class="column">
-    <img src="https://www3.uis.edu.co/wp-content/uploads/2022/09/2560px-Universidad_Industrial_de_Santander_logo.svg_-1.png" alt="Forest" style="width:180">
+    <img src="https://www3.uis.edu.co/wp-content/uploads/2022/09/2560px-Universidad_Industrial_de_Santander_logo.svg_-1.png" alt="" style="width:30%">
   </div>
 </div>
 
 
 
-## &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;  [Programa](https://matematicas.netlify.app/post/padicos3/programa/) &emsp;&emsp;&emsp;&emsp; [Participantes](https://matematicas.netlify.app/post/padicos3/participantes/)
+## &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;  [Programa](https://matematicas.netlify.app/post/padicos3/programa/) &emsp;&emsp;&emsp;&emsp; [Participantes](https://matematicas.netlify.app/post/padicos3/participantes/)
 
 ## Conferencistas
 
 * Victor Aguilar. [U. Autónoma de Queretaro](https://www.uaq.mx/), México [^1]
-*  [Oscar F. Casas](https://matematicas.netlify.app/authors/casas-o/). [UPTC](https://www.uptc.edu.co/sitio/portal/), Tunja
+* [Oscar F. Casas](https://matematicas.netlify.app/authors/casas-o/). [UPTC](https://www.uptc.edu.co/sitio/portal/), Tunja
 * [Leonardo Chacón](https://perfilesycapacidades.javeriana.edu.co/en/persons/leonardo.chacon). [U. Javeriana](https://www.javeriana.edu.co/inicio), Bogotá
 * [Elio E. Espejo](https://research.nottingham.edu.cn/en/persons/elio-eduardo-espejo-arenas). [U. Nottingham](https://www.nottingham.edu.cn/en/index.aspx), China
 * [Pedro Fernando Fernandez](https://sites.google.com/view/pedrofernandofernandezespinosa/home). [UPTC](https://www.uptc.edu.co/sitio/portal/), Duitama
