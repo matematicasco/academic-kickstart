@@ -19,7 +19,7 @@ Esperamos contar son su valiosa asistencia, para ello solicitamos registrarse a 
 </center>
 
 
-<p><img src="https://www.uptc.edu.co/export/sites/default/facultades/f_derecho/programas/convenios/img/uptc_unal.png" alt="" width="360"><img src="https://www3.uis.edu.co/wp-content/uploads/2022/09/2560px-Universidad_Industrial_de_Santander_logo.svg_-1.png" alt="" width="150"><img src="https://seeklogo.com/images/P/pontificia-universidad-javeriana-logo-D073FD2B47-seeklogo.com.png" alt="" width="150">
+<p><img src="https://www.uptc.edu.co/export/sites/default/facultades/f_derecho/programas/convenios/img/uptc_unal.png" alt="" width="360"><img src="https://www3.uis.edu.co/wp-content/uploads/2022/09/2560px-Universidad_Industrial_de_Santander_logo.svg_-1.png" alt="" width="180"><img src="https://seeklogo.com/images/P/pontificia-universidad-javeriana-logo-D073FD2B47-seeklogo.com.png" alt="" width="120">
 </p>
 
 
