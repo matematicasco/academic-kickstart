@@ -14,13 +14,23 @@ authors   = ["admin"]
 
 Esperamos contar son su valiosa asistencia, para ello solicitamos registrarse a través del siguiente enlace:
 
-## &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  **[Registro](https://docs.google.com/forms/d/e/1FAIpQLSdiHf-ROVnc-1_yX0CRUYL0p6ZcLbSZ-N7Az5PEnimViZwyeQ/viewform?usp=header)**  
+<center>
+    <h2> <a href="https://docs.google.com/forms/d/e/1FAIpQLSdiHf-ROVnc-1_yX0CRUYL0p6ZcLbSZ-N7Az5PEnimViZwyeQ/viewform?usp=header">Registro</a> </h2>
+</center>
 
 
-<img src="https://www.uptc.edu.co/export/sites/default/facultades/f_derecho/programas/convenios/img/uptc_unal.png" width="360"><img src="https://www3.uis.edu.co/wp-content/uploads/2022/09/2560px-Universidad_Industrial_de_Santander_logo.svg_-1.png" width="180">
+<div class="row">
+  <div class="column">
+    <img src="[img_snow.jpg](https://www.uptc.edu.co/export/sites/default/facultades/f_derecho/programas/convenios/img/uptc_unal.png)" alt="Snow" style="width:360">
+  </div>
+  <div class="column">
+    <img src="https://www3.uis.edu.co/wp-content/uploads/2022/09/2560px-Universidad_Industrial_de_Santander_logo.svg_-1.png" alt="Forest" style="width:180">
+  </div>
+</div>
 
 
-## &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  [Programa](https://matematicas.netlify.app/post/padicos3/programa/) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [Participantes](https://matematicas.netlify.app/post/padicos3/participantes/)
+
+## &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;  [Programa](https://matematicas.netlify.app/post/padicos3/programa/) &emsp;&emsp;&emsp;&emsp; [Participantes](https://matematicas.netlify.app/post/padicos3/participantes/)
 
 ## Conferencistas
 
