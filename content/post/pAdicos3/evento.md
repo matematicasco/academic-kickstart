@@ -1,6 +1,6 @@
 +++
-date      = 2025-02-02
-lastmod   = 2025-02-02
+date      = 2025-02-11
+lastmod   = 2025-02-11
 draft     = false
 tags      = ["Eventos","p-adics"]
 title     = "Tercer Encuentro Nacional de Análisis no Arquimediano, física matemática y aplicaciones"
@@ -26,10 +26,13 @@ Esperamos contar son su valiosa asistencia, para ello solicitamos registrarse a 
   <div class="column">
     <img src="https://www3.uis.edu.co/wp-content/uploads/2022/09/2560px-Universidad_Industrial_de_Santander_logo.svg_-1.png" alt="" style="width:25%">
   </div>
+  <div class="column">
+    <img src="https://seeklogo.com/images/P/pontificia-universidad-javeriana-logo-D073FD2B47-seeklogo.com.png" alt="" style="width:25%">
+  </div>
 </div>
 
 <center>
-<h2> <a href="https://matematicas.netlify.app/post/padicos3/programa/">Programa</a> &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; <a href="https://matematicas.netlify.app/post/padicos3/participantes/">Participantes</a> </h2>
+<h2> <a href="https://matematicas.netlify.app/post/padicos3/programa/">Programa</a> &emsp;&emsp;&emsp;&emsp;<a href="https://matematicas.netlify.app/post/padicos3/participantes/">Participantes</a> </h2>
 </center>
 
 
