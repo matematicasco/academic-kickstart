@@ -10,7 +10,7 @@ authors   = ["admin"]
 +++
 
 
-"El tercer encuentro nacional de análisis no Arquimediano, física matemáticas y aplicaciones" es un evento organizado anualmente con el objetivo de reunir investigadores nacionales e internacionales expertos en análisis no arquimediano y sus aplicaciones tanto a la física como la matemática, entre otras ciencias. Además, contamos con la participación de invitados internacionales con una trayectoria investigativa importante en los temas de interés del evento. En esta oportunidad, que corresponde a la tercera versión del encuentro, se llevará a cabo en la Universidad Pedagógica y Tecnológica de  Colombia, Tunja del 17 al 20 de marzo. <br>
+El tercer encuentro nacional de análisis no Arquimediano, física matemáticas y aplicaciones es un evento organizado anualmente con el objetivo de reunir investigadores nacionales e internacionales expertos en análisis no arquimediano y sus aplicaciones tanto a la física como la matemática, entre otras ciencias. Además, contamos con la participación de invitados internacionales con una trayectoria investigativa importante en los temas de interés del evento. En esta oportunidad, que corresponde a la tercera versión del encuentro, se llevará a cabo en la Universidad Pedagógica y Tecnológica de  Colombia, Tunja del 17 al 20 de marzo. <br>
 
 Esperamos contar son su valiosa asistencia, para ello solicitamos registrarse a través del siguiente enlace:
 
@@ -21,16 +21,22 @@ Esperamos contar son su valiosa asistencia, para ello solicitamos registrarse a 
 
 <div class="row">
   <div class="column">
-    <img src="https://www.uptc.edu.co/export/sites/default/facultades/f_derecho/programas/convenios/img/uptc_unal.png" alt="" style="width:60%">
+    <img src="https://www.uptc.edu.co/export/sites/default/facultades/f_derecho/programas/convenios/img/uptc_unal.png" alt="" style="width:50%">
   </div>
   <div class="column">
-    <img src="https://www3.uis.edu.co/wp-content/uploads/2022/09/2560px-Universidad_Industrial_de_Santander_logo.svg_-1.png" alt="" style="width:30%">
+    <img src="https://www3.uis.edu.co/wp-content/uploads/2022/09/2560px-Universidad_Industrial_de_Santander_logo.svg_-1.png" alt="" style="width:25%">
   </div>
 </div>
 
 
+<center>
+<h2> <a href="https://matematicas.netlify.app/post/padicos3/programa/">Programa</a> </h2> &emsp;&emsp;&emsp;&emsp;<h2> <a href="https://matematicas.netlify.app/post/padicos3/participantes/">Participantes</a> </h2>
+</center>
 
-## &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;  [Programa](https://matematicas.netlify.app/post/padicos3/programa/) &emsp;&emsp;&emsp;&emsp; [Participantes](https://matematicas.netlify.app/post/padicos3/participantes/)
+
+<!--
+## &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;  [Programa]()  [Participantes]()
+-->
 
 ## Conferencistas
 
