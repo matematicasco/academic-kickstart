@@ -17,11 +17,11 @@ Esperamos contar son su valiosa asistencia, para ello solicitamos registrarse a 
 ## **[Registro](https://docs.google.com/forms/d/e/1FAIpQLSdiHf-ROVnc-1_yX0CRUYL0p6ZcLbSZ-N7Az5PEnimViZwyeQ/viewform?usp=header)**  
 
 
-<img src="https://www.uptc.edu.co/export/sites/default/facultades/f_derecho/programas/convenios/img/uptc_unal.png" width="360">
-<img src="https://www3.uis.edu.co/wp-content/uploads/2022/09/2560px-Universidad_Industrial_de_Santander_logo.svg_-1.png" width="180">
+<img src="https://www.uptc.edu.co/export/sites/default/facultades/f_derecho/programas/convenios/img/uptc_unal.png" width="300">
+<img src="https://www3.uis.edu.co/wp-content/uploads/2022/09/2560px-Universidad_Industrial_de_Santander_logo.svg_-1.png" width="150">
 
 
-##[Programa](https://matematicas.netlify.app/post/padicos3/programa/) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [Participantes](https://matematicas.netlify.app/post/padicos3/participantes/)
+## [Programa](https://matematicas.netlify.app/post/padicos3/programa/) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [Participantes](https://matematicas.netlify.app/post/padicos3/participantes/)
 
 ## Conferencistas
 
