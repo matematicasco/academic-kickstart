@@ -9,7 +9,19 @@ math      = true
 authors   = ["admin"]
 +++
 
-## **[Registro](https://docs.google.com/forms/d/1F-isLevdxRscKoi074pfHJcafywxA929zvF-OXGVv_c/preview)**  &nbsp;&nbsp;&nbsp;&nbsp; [Programa](https://matematicas.netlify.app/post/padicos3/programa/) &nbsp;&nbsp;&nbsp;&nbsp; [Participantes](https://matematicas.netlify.app/post/padicos3/participantes/)
+
+"El tercer encuentro nacional de análisis no Arquimediano, física matemáticas y aplicaciones" es un evento organizado anualmente con el objetivo de reunir investigadores nacionales e internacionales expertos en análisis no arquimediano y sus aplicaciones tanto a la física como la matemática, entre otras ciencias. Además, contamos con la participación de invitados internacionales con una trayectoria investigativa importante en los temas de interés del evento. En esta oportunidad, que corresponde a la tercera versión del encuentro, se llevará a cabo en la Universidad Pedagógica y Tecnológica de  Colombia, Tunja del 17 al 20 de marzo. <br>
+
+Esperamos contar son su valiosa asistencia, para ello solicitamos registrarse a través del siguiente enlace:
+
+## **[Registro](https://docs.google.com/forms/d/e/1FAIpQLSdiHf-ROVnc-1_yX0CRUYL0p6ZcLbSZ-N7Az5PEnimViZwyeQ/viewform?usp=header)**  
+
+
+<img src="https://www.uptc.edu.co/export/sites/default/facultades/f_derecho/programas/convenios/img/uptc_unal.png" width="360">
+<img src="https://www3.uis.edu.co/wp-content/uploads/2022/09/2560px-Universidad_Industrial_de_Santander_logo.svg_-1.png" width="180">
+
+
+##[Programa](https://matematicas.netlify.app/post/padicos3/programa/) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [Participantes](https://matematicas.netlify.app/post/padicos3/participantes/)
 
 ## Conferencistas
 
