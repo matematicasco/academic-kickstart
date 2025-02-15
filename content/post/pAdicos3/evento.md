@@ -36,6 +36,7 @@ Esperamos contar son su valiosa asistencia, para ello solicitamos registrarse a 
 
 * Victor Aguilar. [U. Autónoma de Queretaro](https://www.uaq.mx/), México [^1]
 * [Miriam Bocardo](https://academicos.cucei.udg.mx/academicos/2962419). [U de Guadalajara](https://www.udg.mx/), México [^1]
+* [Javier Camargo](https://profesores.uis.edu.co/javier-enrique-camargo-garcia-es/). [UIS](https://uis.edu.co/es/), Bucaramanga
 * [Oscar F. Casas](https://matematicas.netlify.app/authors/casas-o/). [UPTC](https://www.uptc.edu.co/sitio/portal/), Tunja
 * [Leonardo Chacón](https://perfilesycapacidades.javeriana.edu.co/en/persons/leonardo.chacon). [U. Javeriana](https://www.javeriana.edu.co/inicio), Bogotá
 * [Elio E. Espejo](https://research.nottingham.edu.cn/en/persons/elio-eduardo-espejo-arenas). [U. Nottingham](https://www.nottingham.edu.cn/en/index.aspx), China
