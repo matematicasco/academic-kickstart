@@ -50,7 +50,7 @@ Esperamos contar son su valiosa asistencia, para ello solicitamos registrarse a 
 * Andrés Montoya. [UNal](https://unal.edu.co/), Bogotá
 * [Carlos Wilson Rodríguez](https://profesores.uis.edu.co/en/carlos-wilson-rodriguez-cardenas-en/). [UIS](https://uis.edu.co/es/), Bucaramanga
 * Paula Ximena Rodríguez. [UNal](https://unal.edu.co/), Bogotá
-* [Juan Miguel Velasquez](https://ciencias.univalle.edu.co/departamento-de-matematicas/personal/docentes/docentes-nombrados/juan-miguel-velasquez). [Univalle](https://www.univalle.edu.co/), Cali
+* Juan Pablo Velasquez. [Univalle](https://www.univalle.edu.co/), Cali
 * [Brian Zambrano](https://sites.google.com/ualberta.ca/ilmee/people/brian-zambrano). [U. Alberta](https://www.ualberta.ca/en/index.html), Canada [^1]
 * Wilson  A. Zuñiga Galindo. [UTRGV](https://www.utrgv.edu/), EE.UU.
 
