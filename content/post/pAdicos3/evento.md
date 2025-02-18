@@ -59,7 +59,7 @@ Esperamos contar son su valiosa asistencia, para ello solicitamos registrarse a 
 
 ## **Comité científico**
 
-* [Leonardo Chacón](https://perfilesycapacidades.javeriana.edu.co/en/persons/leonardo.chacon), Grupo Investigación [Física Msatemática](https://perfilesycapacidades.javeriana.edu.co/en/organisations/f%C3%ADsica-matem%C3%A1tica). [U. Javeriana](https://www.javeriana.edu.co/inicio), Bogotá
+* [Leonardo Chacón](https://perfilesycapacidades.javeriana.edu.co/en/persons/leonardo.chacon), Grupo Investigación [Física Matemática](https://perfilesycapacidades.javeriana.edu.co/en/organisations/f%C3%ADsica-matem%C3%A1tica). [U. Javeriana](https://www.javeriana.edu.co/inicio), Bogotá
 * [John Rodríguez](http://www.hermes.unal.edu.co/pages/Docentes/Docente.jsf?u=jjrodriguezv), [UNal](https://unal.edu.co/), Bogotá
 * Anselmo Torreblanca Badillo. [U. de Sucre](https://unisucre.edu.co/), Sincelejo
 * Wilson  A. Zuñiga Galindo. [UTRGV](https://www.utrgv.edu/), EE.UU.
