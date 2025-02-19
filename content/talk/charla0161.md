@@ -1,6 +1,6 @@
 +++
 date  = "2025-02-18"
-draft = true
+draft = false
 tags  = ["Nuestro Encuentro"]
 title = "Charla 161: Estabilidad en categorias zócalo-proyectivas y combinatoria"
 math  = true
