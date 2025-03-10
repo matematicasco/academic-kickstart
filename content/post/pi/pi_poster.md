@@ -3,7 +3,7 @@ date      = 2025-03-10
 lastmod   = 2025-03-10
 draft     = false
 tags      = ["Eventos"]
-title     = "Concurso diseño poster día $\pi$, 2025"
+title     = "Concurso diseño poster día $\\pi$, 2025"
 math      = true
 authors = ["admin"]
 +++
