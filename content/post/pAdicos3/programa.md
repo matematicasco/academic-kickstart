@@ -25,7 +25,7 @@ Hora        |Lunes       | Martes      | Miércoles   | Jueves
 3:00 <br>a<br> 3:50 | Integer sequences in nakayama algebras<br> [Pedro Fernandez](https://sites.google.com/view/pedrofernandofernandezespinosa/home) | On $p$-adic Noncommutative Algebras<br> <font color="#0000cc">Armando Reyes</font> |  <font color="#0000cc">Guillermo Mantilla</font>[^2] | **Cierre**
 4:00 <br>a<br>4:20 | **Descanso**   |**Descanso**   |**Descanso** |
 4:30<br>a<br>5:00 | Métodos números en $Q_p$ <br> [Leonardo Chacón](https://perfilesycapacidades.javeriana.edu.co/en/persons/leonardo.chacon)| Marcos no-arquimedianos<br> <font color="#0000cc">Miriam Bocardo</font>| Ecuaciones parabólicas ultramétricas [Alexandra Albarracín](https://profesores.uis.edu.co/adriana-alexandra-albarracin-mantilla-es/) y <font color="#0000cc">Julián Garnica</font> | 
-5:10<br>a<br>6:00 | ¿Y si nuestro universo es no-arquimediano? <br> <font color="#0000cc">Ángela Fúquen</font> [^1] | <font color="#0000cc">Víctor Aguilar</font> [^1]| La línea proyectiva de Berkovich <br> <font color="#0000cc">Víctor Nopal</font> [^1] | 
+5:10<br>a<br>6:00 | ¿Y si nuestro universo es no-arquimediano? <br> <font color="#0000cc">Ángela Fúquen</font> [^1] |Ondículas en el anillo de adeles finito <font color="#0000cc">Víctor Aguilar</font> [^1]| La línea proyectiva de Berkovich <br> <font color="#0000cc">Víctor Nopal</font> [^1] | 
 
 [^1]: **Virtual**
 [^2]: **Salón C119**
