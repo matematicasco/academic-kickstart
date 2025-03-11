@@ -1,6 +1,6 @@
 +++
 date      = 2025-02-11
-lastmod   = 2025-03-10
+lastmod   = 2025-03-11
 draft     = false
 tags      = ["Eventos","p-adics"]
 title     = "Tercer Encuentro Nacional de Análisis no Arquimediano, física matemática y aplicaciones"
@@ -12,20 +12,20 @@ authors   = ["admin"]
 
 El tercer encuentro nacional de análisis no Arquimediano, física matemáticas y aplicaciones es un evento organizado anualmente con el objetivo de reunir investigadores nacionales e internacionales expertos en análisis no arquimediano y sus aplicaciones tanto a la física como la matemática, entre otras ciencias. Además, contamos con la participación de invitados internacionales con una trayectoria investigativa importante en los temas de interés del evento. En esta oportunidad, que corresponde a la tercera versión del encuentro, se llevará a cabo en la Universidad Pedagógica y Tecnológica de  Colombia, Tunja del 17 al 20 de marzo. <br>
 
+<!--
 Esperamos contar son su valiosa asistencia, para ello solicitamos registrarse a través del siguiente enlace:
 
 <center>
     <h2> <a href="https://docs.google.com/forms/d/e/1FAIpQLSdiHf-ROVnc-1_yX0CRUYL0p6ZcLbSZ-N7Az5PEnimViZwyeQ/viewform?usp=header">Registro</a> </h2>
 </center>
-
-
-<p><img src="https://www.uptc.edu.co/export/sites/default/facultades/f_derecho/programas/convenios/img/uptc_unal.png" alt="" width="360"><img src="https://www3.uis.edu.co/wp-content/uploads/2022/09/2560px-Universidad_Industrial_de_Santander_logo.svg_-1.png" alt="" width="180"><img src="https://seeklogo.com/images/P/pontificia-universidad-javeriana-logo-D073FD2B47-seeklogo.com.png" alt="" width="120">
-</p>
-
+-->
 
 <center>
 <h2> <a href="https://matematicas.netlify.app/post/padicos3/programa/">Programa</a> &emsp;&emsp;&emsp;&emsp;<a href="https://matematicas.netlify.app/post/padicos3/participantes/">Participantes</a> </h2>
 </center>
+
+<p><img src="https://www.uptc.edu.co/export/sites/default/facultades/f_derecho/programas/convenios/img/uptc_unal.png" alt="" width="360"><img src="https://www3.uis.edu.co/wp-content/uploads/2022/09/2560px-Universidad_Industrial_de_Santander_logo.svg_-1.png" alt="" width="180"><img src="https://seeklogo.com/images/P/pontificia-universidad-javeriana-logo-D073FD2B47-seeklogo.com.png" alt="" width="120">
+</p>
 
 
 <!--
