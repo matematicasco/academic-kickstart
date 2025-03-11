@@ -38,7 +38,6 @@ authors   = ["admin"]
 |Johan Andrés López Botero          |Universidad Nacional de Colombia                                         |
 |Paula Ximena Rodriguez Nempeque    |Universidad Nacional de Colombia                                         |
 |Duvan Leonardo Chivata Sierra      |Universidad Pedagógica Y Tecnologica De Colombia                         |
-|Duvan Leonardo Chivata Sierra      |Universidad Pedagógica Y Tecnologica De Colombia                         |
 |Adrian Camilo Cepeda               |Universidad Pedagógica y Tecnológica de Colombia                         |
 |Alexander Calderon                 |Universidad Pedagógica y Tecnológica de Colombia                         |
 |Andrey Stiv Briceño Beltran        |Universidad Pedagógica y Tecnológica de Colombia                         |
@@ -48,7 +47,6 @@ authors   = ["admin"]
 |Brian Andrés Barreto Sánchez       |Universidad Pedagógica y Tecnológica de Colombia                         |
 |Camilo Andrés Fiero Rincón         |Universidad Pedagógica y Tecnológica de Colombia                         |
 |Cesar Augusto Fernández Garcia     |Universidad Pedagógica y Tecnológica de Colombia                         |
-|Charit Lineth Florez Lara          |Universidad Pedagógica y Tecnológica de Colombia                         |
 |Charit Lineth Florez Lara          |Universidad Pedagógica y Tecnológica de Colombia                         |
 |Cristian Fernando León Sierra      |Universidad Pedagógica y Tecnológica de Colombia                         |
 |Daniel Bohorquez                   |Universidad Pedagógica y Tecnológica de Colombia                         |
@@ -61,7 +59,6 @@ authors   = ["admin"]
 |Eddie Gilberto Gamba Segura        |Universidad Pedagógica y Tecnológica de Colombia                         |
 |Edinson Fuentes                    |Universidad Pedagógica y Tecnológica de Colombia                         |
 |Erika Katherinne Patiño Reyes      |Universidad Pedagógica y Tecnológica de Colombia                         |
-|Fabio Andrés Páez Márquez          |Universidad Pedagógica y Tecnológica de Colombia                         |
 |Fabio Andrés Páez Márquez          |Universidad Pedagógica y Tecnológica de Colombia                         |
 |Gabriela Barrera Niño              |Universidad Pedagógica y Tecnológica de Colombia                         |
 |Gilvar Bautista Diaz               |Universidad Pedagógica y Tecnológica de Colombia                         |
@@ -78,7 +75,6 @@ authors   = ["admin"]
 |Mónica Gisella Gaitán Gaitan       |Universidad Pedagógica y Tecnológica de Colombia                         |
 |Nicole Alejandra Sotelo            |Universidad Pedagógica y Tecnológica de Colombia                         |
 |Omaida Sepúlveda Delgado           |Universidad Pedagógica y Tecnológica de Colombia                         |
-|Shara Julieth Molano Cogua         |Universidad Pedagógica y Tecnológica de Colombia                         |
 |Shara Julieth Molano Cogua         |Universidad Pedagógica y Tecnológica de Colombia                         |
 |Yeimi Andrea Tibocha Bautista      |Universidad Pedagógica y Tecnológica de Colombia                         |
 |Sergio Emmanuel Engativá Peralta   |Universitaria Pedagógica Y Tecnología De Colombia                        |
