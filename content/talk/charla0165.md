@@ -1,5 +1,5 @@
 +++
-date  = "2025-03-12"
+date  = "2025-03-13"
 draft = false
 tags  = ["Nuestro Encuentro"]
 title = "Charla 165: Intercambio académico en Brasil: aprendizajes, retos y oportunidades"
