@@ -11,7 +11,7 @@ authors   = ["admin"]
 
 * Todas las charlas, excepto la agendada para el miércoles a las 3:00pm, se realizarán en el Auditorio 1 del Edificio Administrativo.
 * Todas las charlas se trasmitirán por `Youtube`. Se tienen 7 enlaces diferentes, uno por cada jornada. 
-* Todas las sesiones del cursillo serán realizadas en el salón C-119. Edificio Central.
+* Todas las sesiones del cursillo serán realizadas en el salón C-119, Edificio Central.
 
 
 
