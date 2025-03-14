@@ -10,7 +10,9 @@ authors   = ["admin"]
 +++
 
 * Todas las charlas, excepto la agendada para el miércoles a las 3:00pm, se realizarán en el Auditorio 1 del Edificio Administrativo.
+* Todas las charlas se trasmitirán por `Youtube`. Se tienen 7 enlaces diferentes, uno por cada jornada. 
 * Todas las sesiones del cursillo serán realizadas en el salón C-119. Edificio Central.
+
 
 
 Hora        |Lunes       | Martes      | Miércoles   | Jueves
@@ -25,7 +27,7 @@ Transmisión| [YouTube](https://youtube.com/live/3hxfquvUxI0?feature=share)| [Yo
 ||||
 ||||
 2:00 <br>a<br>2:50  | **Cursillo**: ¿Es Logspace diferente de Ptime?: Avances Recientes en Complejidad Computacional[^2] <br> <font color="#0000cc">Andrés Montoya</font>| **Cursillo** : ¿Es Logspace diferente de Ptime?: Avances Recientes en Complejidad Computacional[^2] <br> <font color="#0000cc">Andrés Montoya</font>| **Cursillo**: ¿Es Logspace diferente de Ptime?: Avances Recientes en Complejidad Computacional[^2] <br> <font color="#0000cc">Andrés Montoya</font>  | **Cursillo**: ¿Es Logspace diferente de Ptime?: Avances Recientes en Complejidad Computacional[^2] <br> <font color="#0000cc">Andrés Montoya</font>
-Transmisión| [YouTube](https://youtube.com/live/MH2Sp7IZG0E?feature=share)| [YouTube](https://youtube.com/live/nyqMWN__mHA?feature=share)| [YouTube](https://youtube.com/live/TnLgnXCQoFI?feature=share)| [YouTube](https://youtube.com/live/pZVfDxOmA40?feature=share)
+Transmisión| [YouTube](https://youtube.com/live/MH2Sp7IZG0E?feature=share)| [YouTube](https://youtube.com/live/nyqMWN__mHA?feature=share)| [YouTube](https://youtube.com/live/TnLgnXCQoFI?feature=share)| 
 3:00 <br>a<br> 3:50 | Integer sequences in nakayama algebras<br> [Pedro Fernandez](https://sites.google.com/view/pedrofernandofernandezespinosa/home) | On $p$-adic Noncommutative Algebras<br> <font color="#0000cc">Armando Reyes</font> |  <font color="#0000cc">Guillermo Mantilla</font>[^2] | **Cierre**
 4:00 <br>a<br>4:20 | **Descanso**   |**Descanso**   |**Descanso** |
 4:30<br>a<br>5:00 | Métodos números en $Q_p$ <br> [Leonardo Chacón](https://perfilesycapacidades.javeriana.edu.co/en/persons/leonardo.chacon)| Computación Cuántica Topológica y Categorías Modulares<br> [César Galindo](https://matematicas.uniandes.edu.co/es/profesores/cesar-neyit-galindo-martinez) | Ecuaciones parabólicas ultramétricas [Alexandra Albarracín](https://profesores.uis.edu.co/adriana-alexandra-albarracin-mantilla-es/) y <font color="#0000cc">Julián Garnica</font> | 
