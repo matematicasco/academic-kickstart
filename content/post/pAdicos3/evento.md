@@ -44,7 +44,7 @@ Esperamos contar son su valiosa asistencia, para ello solicitamos registrarse a 
 * [Jeanneth Galeano](http://www.hermes.unal.edu.co/pages/Docentes/Docente.jsf?u=jgaleanop). [UNal](https://unal.edu.co/), Bogotá
 * [Cesar Neyit Galindo](https://matematicas.uniandes.edu.co/es/profesores/cesar-neyit-galindo-martinez). [Uniandes](https://www.uniandes.edu.co/), Bogotá
 * [Edwin Leon](https://riemann.unizar.es/~eleon/). [U. de La Rioja](https://www.unirioja.es/), España [^1]
-* [Guillermo Mantilla](https://sites.google.com/view/guillermo-mantilla-soler/home). [UNal](https://unal.edu.co/), Medellín
+* [Guillermo Mantilla](https://sites.google.com/view/guillermo-mantilla-soler/home). [UNal](https://unal.edu.co/), Medellín y [Aalto University](https://www.aalto.fi/en), Finlandia
 * Carolina Mejía. Colegio José Manuel Restrepo, Bogotá
 * [María Luisa Mendoza](https://research.tec.mx/vivo-tec/display/PID_318191). [Tecnológico de Monterrey](https://tec.mx/es), Campus Querétaro, México [^1]
 * Andrés Montoya. [UNal](https://unal.edu.co/), Bogotá
