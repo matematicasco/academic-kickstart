@@ -2,7 +2,7 @@
 date  = "2025-03-31"
 draft = true
 tags  = ["Nuestro Encuentro"]
-title = "Charla 167: La distancia de Wasserstein cuántica"
+title = "Charla 168: La distancia de Wasserstein cuántica"
 math  = true
 +++
 
