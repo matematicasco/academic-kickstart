@@ -1,8 +1,8 @@
 +++
 date  = "2025-03-26"
-draft = true
+draft = false
 tags  = ["Nuestro Encuentro"]
-title = "Charla 167: La forma de la lógica: asentar firmemente los cimientos de las matemáticas."
+title = "Charla 167: La forma de la lógica: asentar firmemente los cimientos de las matemáticas"
 math  = true
 +++
 
