@@ -1,6 +1,6 @@
 +++
-date      = 2024-05-14
-lastmod   = 2024-05-14
+date      = 2024-05-16
+lastmod   = 2024-05-16
 draft     = false
 tags      = ["Eventos"]
 title     = "Socialización PAE"
