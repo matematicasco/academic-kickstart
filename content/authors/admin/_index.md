@@ -34,9 +34,10 @@ https://www.uptc.edu.co/sitio/portal/sitios/universidad/vic_aca/facultades/fac_c
 
 #### Representantes Profesorales
 
-* Área Disciplinar y de Profundización: [Nelsy R. González Gutiérrez](https://matematicas.netlify.app/authors/gonzalez-n/)
-
 * Área Interdisciplinar: [Pedro N. Maluendas](https://matematicas.netlify.app/authors/maluendas-p/)
+  
+* Área Disciplinar y de Profundización: [TBA](https://matematicas.netlify.app/authors/gonzalez-n/)
+
 
 #### Representante de los graduados
 
@@ -45,9 +46,9 @@ https://www.uptc.edu.co/sitio/portal/sitios/universidad/vic_aca/facultades/fac_c
 
 #### Representantes estudiantiles
 
-* Manuel Andrés Novoa
-
-* Laura Daniela Rincón 
+* Laura Daniela Rincón
+  
+* Cristian Fernando León Sierra
 
 #### Secretaria 
 
