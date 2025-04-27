@@ -13,3 +13,5 @@ math  = true
 **Lugar:** C-119A
 
 **Resumen**: A medida que la estructura de las matemáticas fue creciendo en el siglo XIX, se empezaron a cuestionar la validez de muchos de los fundamentos básicos de la matemática, desde el concepto de número hasta la existencia de los números reales, se encontró la necesidad de establecer estás bases para evitar el colapso de nuevos hallazgos de la matemática debido a contradicciones lógicas y otros problemas subyacentes. Esta charla presenta un recorrido histórico de los hechos allí acontesidos. 
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jYW9Nc1bGZ8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
