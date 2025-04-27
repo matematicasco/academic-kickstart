@@ -13,3 +13,5 @@ math  = true
 **Lugar:** C-119A
 
 **Resumen**: Desde el inicio de su historia, el ser humano se ha caracterizado por solucionar problemas de forma práctica y sencilla, detectar patrones y en consecuencia idear técnicas como los algoritmos: un concepto que a primera vista parece simple, pero esconde un mundo de posibilidades y es inherente a la matemática computacional. En esta charla se mostrarán varias cosas, entre ellas sus características y el proceso creativo que hay detras.
+
+FABlIPWQ2oI
