@@ -14,3 +14,4 @@ math  = true
 
 **Resumen**: En esta charla se presenta la socialización de la experiencia de movilidad académica 2024-1 de la estudiante en la Universidad Autónoma de Sinaloa en el programa de Matemáticas. En esta se comenta a la comunidad de la UPTC aspectos sobre el proceso para obtener la beca de movilidad así como la experiencia académica en sí, incluyendo la participación en escuelas de verano y, por su puesto, las vivencias culturales y gastronómicas.
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kLqlIaNnSnA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
