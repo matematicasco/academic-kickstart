@@ -1,6 +1,6 @@
 +++
 title = "Riemann problem for a nonsymmetric Keyfitz–Kranzer and pressureless gas systems with a time-dependent Coulomb-like friction term"
-date = "2025-04-26"
+date = "2025-04-27"
 authors = ["delacruz-r","Neves, W"]
 publication_types = ["2"]
 publication = "*Nonlinear Analysis: Real World Applications*, **84**, 104301. doi: 10.1016/j.nonrwa.2024.104301"
