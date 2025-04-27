@@ -1,6 +1,6 @@
 +++
-date      = 2025-03-13
-lastmod   = 2025-03-13
+date      = 2025-03-12
+lastmod   = 2025-03-12
 draft     = false
 tags      = ["Eventos"]
 title     = "Tercer Encuentro Nacional de Análisis no Arquimediano, física matemática y aplicaciones"
