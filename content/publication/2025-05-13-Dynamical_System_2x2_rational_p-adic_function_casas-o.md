@@ -15,5 +15,3 @@ highlight = true
 image = ""
 caption = ""
 +++
-
-[4] S. Haran. Riesz potentials and explicit sums in arithmetic. *Invent. Math.*, **101**(3):697–703, 1990.
