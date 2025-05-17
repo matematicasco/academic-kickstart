@@ -14,7 +14,5 @@ math  = true
 
 **Resumen**: La inferencia bayesiana ofrece un enfoque flexible e intuitivo para el análisis estadístico, basado en la incorporación de conocimiento previo (distribución *a priori*) que es actualizado a través de la observación de nuevos datos. A diferencia de la estadística frecuentista, que interpreta la probabilidad como una frecuencia a largo plazo, el paradigma bayesiano la concibe como una medida subjetiva de incertidumbre. En esta charla se darán los conceptos básicos junto con algunos ejemplos que facilitan su comprensión
 
-<!--
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XXXX" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
--->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9AtWHCidPlI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
