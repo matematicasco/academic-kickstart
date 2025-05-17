@@ -36,19 +36,20 @@ https://www.uptc.edu.co/sitio/portal/sitios/universidad/vic_aca/facultades/fac_c
 
 * Área Interdisciplinar: [Pedro N. Maluendas](https://matematicas.netlify.app/authors/maluendas-p/)
   
-* Área Disciplinar y de Profundización: [TBA](https://matematicas.netlify.app/authors/gonzalez-n/)
+* Área Disciplinar y de Profundización: [Julían Serna](https://matematicas.netlify.app/authors/serna-r/)
 
 
 #### Representante de los graduados
 
-[J. David Arevalo Buitrago](https://matematicas.netlify.app/authors/arevalo-d/)
+[TBA](https://matematicas.netlify.app/)
 
 
 #### Representantes estudiantiles
 
-* Laura Daniela Rincón
-  
 * Cristian Fernando León Sierra
+
+* César Fernández
+  
 
 #### Secretaria 
 
