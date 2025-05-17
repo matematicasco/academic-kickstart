@@ -8,7 +8,7 @@ math  = true
 
 **Conferencista:** César Fernandez, Estudiante, Escuela de Matemáticas y Estadística, UPTC, Tunja
 
-**Fecha:** Lunes 19 de mayo de 2025, 11:00 am.
+**Fecha:** Lunes 19 de mayo de 2025, 10:00 am.
 
 **Lugar:** C-119A
 
