@@ -9,6 +9,6 @@ authors = ["admin"]
 +++
 Inscripciones: https://forms.gle/9ahU1P3YbmCcUx5W8
 
-<img src="https://matematicas.netlify.app/img/semilleros2023.jpg"  width="500">
+<img src="https://matematicas.netlify.app/img/semilleros/semilleros2023.jpg"  width="500">
 
 Inscripciones: https://forms.gle/9ahU1P3YbmCcUx5W8
