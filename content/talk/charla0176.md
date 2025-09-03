@@ -2,11 +2,11 @@
 date  = "2025-08-21"
 draft = false
 tags  = ["Nuestro Encuentro"]
-title = "Charla 176: Efectos de los cambios de conducta: entre la precaución y el desorden."
+title = "Charla 176: Efectos de los cambios de conducta: entre la precaución y el desorden"
 math  = true
 +++
 
-**Conferencista:** Laura Victorias Forero
+**Conferencista:** Laura Victoria Forero Vega, Centro de Investigaciones en Matemáticas, CIMAT.
 
 **Fecha:** Jueves 21 de agosto de 2025, 2:00 pm.
 
