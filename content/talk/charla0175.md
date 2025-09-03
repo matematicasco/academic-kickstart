@@ -1,8 +1,8 @@
 +++
-date  = "2025-05-36"
+date  = "2025-05-26"
 draft = true
 tags  = ["Nuestro Encuentro"]
-title = "Charla 175: "
+title = "Charla 175: Primos en progresiones aritméticas: el teorema de Dirichlet."
 math  = true
 +++
 
