@@ -1,6 +1,6 @@
 +++
 date  = "2025-05-26"
-draft = true
+draft = false
 tags  = ["Nuestro Encuentro"]
 title = "Charla 175: Primos en progresiones aritméticas: el teorema de Dirichlet."
 math  = true
