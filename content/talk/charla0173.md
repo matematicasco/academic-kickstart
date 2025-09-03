@@ -2,7 +2,7 @@
 date  = "2025-05-12"
 draft = false
 tags  = ["Nuestro Encuentro"]
-title = "Charla 173: Introducción a las leyyes de conservación"
+title = "Charla 173: Introducción a las leyes de conservación"
 math  = true
 +++
 
