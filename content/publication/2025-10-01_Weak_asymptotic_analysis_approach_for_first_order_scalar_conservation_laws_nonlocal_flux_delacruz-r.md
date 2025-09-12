@@ -1,6 +1,6 @@
 +++
 title = "Weak asymptotic analysis approach for first order scalar conservation laws with nonlocal flux"
-date = "2025-08-01"
+date = "2025-09-12"
 authors = ["Abreu, E.","delacruz-r","juajibioy-j","Lambert, W"]
 publication_types = ["2"]
 publication = "*Nonlinear Analysis: Real World Applications*, **85**, 104378. doi: 10.1016/j.nonrwa.2025.104378"
