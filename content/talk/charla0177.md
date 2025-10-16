@@ -1,5 +1,5 @@
 +++
-date  = "2025-09-03"
+date  = "2025-09-08"
 draft = false
 tags  = ["Nuestro Encuentro"]
 title = "Charla 177: El problema del continuo, las ideas de C.S. Peirce, y su formalización matemática"
