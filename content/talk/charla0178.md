@@ -6,9 +6,9 @@ title = "Charla 178: A second-order invariant-region-preserving scheme for a tra
 math  = true
 +++
 
-**Conferencista:** [Raimund Bürger](https://www.cmm.uchile.cl/?cmm_people=raimund-burger), $\mbox{CI}^2$MA & Departamento de Ingeniería Matemática. Universidad de Concepción, Chile
+**Conferencista:** [Raimund Bürger](https://www.cmm.uchile.cl/?cmm_people=raimund-burger), $\mbox{CI}^2\mbox{MA}$ & Departamento de Ingeniería Matemática. Universidad de Concepción, Chile
 
-**Fecha:** Lunes  de septiembre de 2025, 11:00 am.
+**Fecha:** Lunes  15 de septiembre de 2025, 2:00 am.
 
 **Lugar:** C-119A
 
