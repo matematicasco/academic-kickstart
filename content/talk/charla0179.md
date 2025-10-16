@@ -1,6 +1,6 @@
 +++
 date  = "2025-09-29"
-draft = true
+draft = false
 tags  = ["Nuestro Encuentro"]
 title = "Charla 179: El grupo del cubo de Rubik: estudio del caso $3\times 3$ y extensión al cubo $n\times n$"
 math  = true
