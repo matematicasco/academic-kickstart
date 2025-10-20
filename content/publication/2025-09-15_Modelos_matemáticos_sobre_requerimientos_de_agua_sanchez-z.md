@@ -1,6 +1,6 @@
 +++
 title = "Modelos matemáticos sobre requerimientos de agua para los cultivos de papa, alverja, maíz y cebada"
-date = "2025-10-15"
+date = "2025-09-15"
 authors = ["sanchez-z", "sepulveda-o","gonzalez-n","Riscanevo Espitia, L.D.","Patarroyo Mesa, M.","Canaría Camargo, L.C."]
 publication_types = ["5"]
 publication = "Editorial UPTC. ISBN: 978-958-660-974-6"
