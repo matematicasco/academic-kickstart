@@ -1,5 +1,5 @@
 +++
-date  = "2025-11-06"
+date  = "2025-11-07"
 draft = false
 tags  = ["Nuestro Encuentro"]
 title = "Charla 185: Una exploración numérica de valores propios y funciones propias del problema regular de Sturm-Liouville"
