@@ -9,7 +9,7 @@ math  = true
 
 **Conferencista:** Camilo Andrés Pirachican Junco, Estudiante, Escuela de Matemáticas y Estadística, UPTC, Tunja
 
-**Fecha:** Jueves 6 de noviembre de 2025, 12:00 m.
+**Fecha:** Lunes 27 de octubre de 2025, 12:00 m.
 
 **Lugar:** C-119A
 
