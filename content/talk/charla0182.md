@@ -1,14 +1,15 @@
 +++
-date  = "2025-10-27"
+date  = "2025-11-06"
 draft = false
 tags  = ["Nuestro Encuentro"]
-title = "Charla 181: "
+title = "Charla 182: Convergencia de series"
+subtitle = "Un repaso histórico y preliminar"
 math  = true
 +++
 
-**Conferencista:** , Estudiante, Escuela de Matemáticas y Estadística, UPTC, Tunja
+**Conferencista:** Iván Eduardo Ramírez Gil, Estudiante, Escuela de Matemáticas y Estadística, UPTC, Tunja
 
-**Fecha:** Lunes 27 de octubre de 2025, 12:00 m.
+**Fecha:** Jueves 6 de noviembre de 2025, 12:00 m.
 
 **Lugar:** C-119A
 
