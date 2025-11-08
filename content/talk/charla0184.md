@@ -1,5 +1,5 @@
 +++
-date  = "2025-11-07"
+date  = "2025-11-08"
 draft = false
 tags  = ["Nuestro Encuentro"]
 title = "Charla 184: Cuando Fibonacci se encuentra con Laplace: ortogonalidad y procesos de Markov en los polinomios FiboLaplace"
